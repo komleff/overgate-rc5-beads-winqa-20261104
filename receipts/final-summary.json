@@ -1,0 +1,27 @@
+{
+  "binary": {
+    "absolute_path": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+    "version": "bd version 1.2.2 (6c124203e)",
+    "removed_database_redirect_names": [],
+    "qualification": "Native Windows CLI capability only; no publisher/source/release qualification"
+  },
+  "versions": {
+    "git": "git version 2.51.2.windows.1",
+    "python": "Python 3.14.0"
+  },
+  "source_git_sha": "9f80d8d373f17eb0575998c79b53f6a72a845f4c",
+  "target_git_sha": "e0a50592765c17d366f0548a1501c8c7693d8c8b",
+  "source_store": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-source",
+  "target_store": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-target",
+  "prefix_root": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\big-heroes",
+  "show_field_counts": {
+    "qa-yzw.1": 24,
+    "qa-yzw": 13,
+    "qa-3qo": 13
+  },
+  "commands_failed": false,
+  "source_pr14_tested": false,
+  "publisher_tested": false,
+  "result": "PASS: selected native CLI operations and round-trip"
+}

@@ -1,0 +1,11 @@
+{
+  "command": [
+    "C:\\Python314\\python.exe",
+    "--version"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104",
+  "exit_code": 0,
+  "duration_seconds": 0.008,
+  "stdout": "Python 3.14.0\n",
+  "stderr": ""
+}

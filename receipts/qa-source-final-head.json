@@ -1,0 +1,12 @@
+{
+  "command": [
+    "git",
+    "rev-parse",
+    "HEAD"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-source",
+  "exit_code": 0,
+  "duration_seconds": 0.023,
+  "stdout": "9f80d8d373f17eb0575998c79b53f6a72a845f4c\n",
+  "stderr": ""
+}

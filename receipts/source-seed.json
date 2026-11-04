@@ -1,0 +1,83 @@
+{
+  "source_root": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-source",
+  "parent_id": "qa-yzw",
+  "peer_id": "qa-3qo",
+  "child_id": "qa-yzw.1",
+  "wanted_initial_child": {
+    "title": "Native round-trip child",
+    "description": "Описание synthetic\nSecond line",
+    "design": "Дизайн v1\nNo project source",
+    "acceptance_criteria": "AC5/AC9 synthetic\nRound-trip fields and edges",
+    "notes": "Заметки v1",
+    "labels": [
+      "qa-native",
+      "roundtrip"
+    ],
+    "metadata": {
+      "qa": {
+        "platform": "windows",
+        "unicode": "проверка",
+        "revision": 1
+      },
+      "enabled": true,
+      "count": 3,
+      "items": [
+        "alpha",
+        "beta"
+      ]
+    }
+  },
+  "child_show": [
+    {
+      "id": "qa-yzw.1",
+      "title": "Native round-trip child",
+      "description": "Описание synthetic\nSecond line",
+      "design": "Дизайн v1\nNo project source",
+      "acceptance_criteria": "AC5/AC9 synthetic\nRound-trip fields and edges",
+      "notes": "Заметки v1",
+      "status": "open",
+      "priority": 2,
+      "issue_type": "task",
+      "owner": "4734706+komleff@users.noreply.github.com",
+      "created_at": "2026-11-04T12:38:14Z",
+      "created_by": "windows-qa",
+      "updated_at": "2026-11-04T12:38:14Z",
+      "metadata": {
+        "qa": {
+          "unicode": "проверка",
+          "platform": "windows",
+          "revision": 1
+        },
+        "count": 3,
+        "items": [
+          "alpha",
+          "beta"
+        ],
+        "enabled": true
+      },
+      "labels": [
+        "qa-native",
+        "roundtrip"
+      ],
+      "dependencies": [
+        {
+          "id": "qa-yzw",
+          "title": "Native round-trip parent",
+          "description": "Synthetic parent; no real project tasks",
+          "status": "open",
+          "priority": 2,
+          "issue_type": "epic",
+          "owner": "4734706+komleff@users.noreply.github.com",
+          "created_at": "2026-11-04T12:38:13Z",
+          "created_by": "windows-qa",
+          "updated_at": "2026-11-04T12:38:13Z",
+          "dependency_type": "parent-child"
+        }
+      ],
+      "parent": "qa-yzw",
+      "dependent_count": 0,
+      "dependency_count": 1,
+      "comment_count": 0
+    }
+  ]
+}

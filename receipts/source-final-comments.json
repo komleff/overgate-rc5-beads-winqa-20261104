@@ -1,0 +1,14 @@
+{
+  "command": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "comments",
+    "qa-yzw.1",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-source",
+  "exit_code": 0,
+  "duration_seconds": 0.25,
+  "stdout": "[\n  {\n    \"id\": \"01a1a6be-40aa-78ba-b33b-2a55daa4d2a7\",\n    \"issue_id\": \"qa-yzw.1\",\n    \"author\": \"windows-qa\",\n    \"text\": \"Native round-trip comment: комментарий\\nSecond comment line\",\n    \"created_at\": \"2026-11-04T13:27:29Z\"\n  }\n]\n",
+  "stderr": ""
+}

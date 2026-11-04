@@ -1,0 +1,12 @@
+{
+  "command": [
+    "git",
+    "add",
+    "README.md"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-target",
+  "exit_code": 0,
+  "duration_seconds": 0.026,
+  "stdout": "",
+  "stderr": "warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it\n"
+}

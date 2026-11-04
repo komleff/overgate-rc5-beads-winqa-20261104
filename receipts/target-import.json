@@ -1,0 +1,14 @@
+{
+  "command": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "import",
+    "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\evidence\\native-export.jsonl",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-target",
+  "exit_code": 0,
+  "duration_seconds": 0.305,
+  "stdout": "{\n  \"created\": 3,\n  \"ids\": [\n    \"qa-yzw.1\",\n    \"qa-3qo\",\n    \"qa-yzw\"\n  ],\n  \"schema_version\": 1,\n  \"skipped\": 0,\n  \"source\": \"D:\\\\CodexArtifacts\\\\overgate-rc5-beads-winqa-20261104\\\\evidence\\\\native-export.jsonl\"\n}\n",
+  "stderr": ""
+}

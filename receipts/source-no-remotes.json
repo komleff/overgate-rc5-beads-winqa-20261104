@@ -1,0 +1,11 @@
+{
+  "command": [
+    "git",
+    "remote"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-source",
+  "exit_code": 0,
+  "duration_seconds": 0.022,
+  "stdout": "",
+  "stderr": ""
+}

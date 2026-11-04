@@ -1,0 +1,15 @@
+{
+  "command": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "export",
+    "--all",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\evidence\\native-export.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-source",
+  "exit_code": 0,
+  "duration_seconds": 0.296,
+  "stdout": "",
+  "stderr": "Exported 3 issues to D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\evidence\\native-export.jsonl\n"
+}

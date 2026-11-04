@@ -1,0 +1,14 @@
+{
+  "command": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "show",
+    "qa-yzw",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-source",
+  "exit_code": 0,
+  "duration_seconds": 0.3,
+  "stdout": "[\n  {\n    \"id\": \"qa-yzw\",\n    \"title\": \"Native round-trip parent\",\n    \"description\": \"Synthetic parent; no real project tasks\",\n    \"status\": \"open\",\n    \"priority\": 2,\n    \"issue_type\": \"epic\",\n    \"owner\": \"4734706+komleff@users.noreply.github.com\",\n    \"created_at\": \"2026-11-04T12:38:13Z\",\n    \"created_by\": \"windows-qa\",\n    \"updated_at\": \"2026-11-04T12:38:13Z\",\n    \"dependent_count\": 1,\n    \"dependency_count\": 0,\n    \"comment_count\": 0\n  }\n]\n",
+  "stderr": ""
+}

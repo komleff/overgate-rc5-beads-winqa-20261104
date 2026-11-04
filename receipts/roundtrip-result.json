@@ -1,0 +1,271 @@
+{
+  "source_root": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-source",
+  "target_root": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-target",
+  "ids": [
+    "qa-yzw",
+    "qa-3qo",
+    "qa-yzw.1"
+  ],
+  "shows": {
+    "qa-yzw.1": {
+      "id": "qa-yzw.1",
+      "title": "Native round-trip child updated",
+      "description": "Описание updated\nSecond line retained",
+      "design": "Дизайн updated\nNative Windows",
+      "acceptance_criteria": "AC5/AC9 updated\nCheck all fields",
+      "notes": "Заметки updated\nFinal note",
+      "status": "closed",
+      "priority": 2,
+      "issue_type": "task",
+      "assignee": "windows-qa",
+      "owner": "4734706+komleff@users.noreply.github.com",
+      "created_at": "2026-11-04T12:38:14Z",
+      "created_by": "windows-qa",
+      "updated_at": "2026-11-04T13:27:29Z",
+      "started_at": "2026-11-04T13:27:28Z",
+      "closed_at": "2026-11-04T13:27:29Z",
+      "close_reason": "Synthetic Windows CLI qualification complete",
+      "metadata": {
+        "qa": {
+          "unicode": "проверка",
+          "platform": "windows",
+          "revision": 2
+        },
+        "count": 3,
+        "items": [
+          "alpha",
+          "beta"
+        ],
+        "enabled": true,
+        "updated": true
+      },
+      "labels": [
+        "qa-native",
+        "roundtrip"
+      ],
+      "dependencies": [
+        {
+          "id": "qa-yzw",
+          "title": "Native round-trip parent",
+          "description": "Synthetic parent; no real project tasks",
+          "status": "open",
+          "priority": 2,
+          "issue_type": "epic",
+          "owner": "4734706+komleff@users.noreply.github.com",
+          "created_at": "2026-11-04T12:38:13Z",
+          "created_by": "windows-qa",
+          "updated_at": "2026-11-04T12:38:13Z",
+          "dependency_type": "parent-child"
+        },
+        {
+          "id": "qa-3qo",
+          "title": "Native typed-edge peer",
+          "description": "Synthetic dependency target",
+          "status": "open",
+          "priority": 2,
+          "issue_type": "task",
+          "owner": "4734706+komleff@users.noreply.github.com",
+          "created_at": "2026-11-04T12:38:13Z",
+          "created_by": "windows-qa",
+          "updated_at": "2026-11-04T12:38:13Z",
+          "dependency_type": "discovered-from"
+        }
+      ],
+      "parent": "qa-yzw",
+      "dependent_count": 0,
+      "dependency_count": 2,
+      "comment_count": 1
+    },
+    "qa-yzw": {
+      "id": "qa-yzw",
+      "title": "Native round-trip parent",
+      "description": "Synthetic parent; no real project tasks",
+      "status": "open",
+      "priority": 2,
+      "issue_type": "epic",
+      "owner": "4734706+komleff@users.noreply.github.com",
+      "created_at": "2026-11-04T12:38:13Z",
+      "created_by": "windows-qa",
+      "updated_at": "2026-11-04T12:38:13Z",
+      "dependent_count": 1,
+      "dependency_count": 0,
+      "comment_count": 0
+    },
+    "qa-3qo": {
+      "id": "qa-3qo",
+      "title": "Native typed-edge peer",
+      "description": "Synthetic dependency target",
+      "status": "open",
+      "priority": 2,
+      "issue_type": "task",
+      "owner": "4734706+komleff@users.noreply.github.com",
+      "created_at": "2026-11-04T12:38:13Z",
+      "created_by": "windows-qa",
+      "updated_at": "2026-11-04T12:38:13Z",
+      "dependent_count": 1,
+      "dependency_count": 0,
+      "comment_count": 0
+    }
+  },
+  "compared_fields": {
+    "qa-yzw.1": [
+      "acceptance_criteria",
+      "assignee",
+      "close_reason",
+      "closed_at",
+      "comment_count",
+      "created_at",
+      "created_by",
+      "dependencies",
+      "dependency_count",
+      "dependent_count",
+      "description",
+      "design",
+      "id",
+      "issue_type",
+      "labels",
+      "metadata",
+      "notes",
+      "owner",
+      "parent",
+      "priority",
+      "started_at",
+      "status",
+      "title",
+      "updated_at"
+    ],
+    "qa-yzw": [
+      "comment_count",
+      "created_at",
+      "created_by",
+      "dependency_count",
+      "dependent_count",
+      "description",
+      "id",
+      "issue_type",
+      "owner",
+      "priority",
+      "status",
+      "title",
+      "updated_at"
+    ],
+    "qa-3qo": [
+      "comment_count",
+      "created_at",
+      "created_by",
+      "dependency_count",
+      "dependent_count",
+      "description",
+      "id",
+      "issue_type",
+      "owner",
+      "priority",
+      "status",
+      "title",
+      "updated_at"
+    ]
+  },
+  "result": "PASS",
+  "comments": [
+    {
+      "id": "01a1a6be-40aa-78ba-b33b-2a55daa4d2a7",
+      "issue_id": "qa-yzw.1",
+      "author": "windows-qa",
+      "text": "Native round-trip comment: комментарий\nSecond comment line",
+      "created_at": "2026-11-04T13:27:29Z"
+    }
+  ],
+  "list": [
+    {
+      "id": "qa-yzw.1",
+      "title": "Native round-trip child updated",
+      "description": "Описание updated\nSecond line retained",
+      "design": "Дизайн updated\nNative Windows",
+      "acceptance_criteria": "AC5/AC9 updated\nCheck all fields",
+      "notes": "Заметки updated\nFinal note",
+      "status": "closed",
+      "priority": 2,
+      "issue_type": "task",
+      "assignee": "windows-qa",
+      "owner": "4734706+komleff@users.noreply.github.com",
+      "created_at": "2026-11-04T12:38:14Z",
+      "created_by": "windows-qa",
+      "updated_at": "2026-11-04T13:27:29Z",
+      "started_at": "2026-11-04T13:27:28Z",
+      "closed_at": "2026-11-04T13:27:29Z",
+      "close_reason": "Synthetic Windows CLI qualification complete",
+      "metadata": {
+        "qa": {
+          "unicode": "проверка",
+          "platform": "windows",
+          "revision": 2
+        },
+        "count": 3,
+        "items": [
+          "alpha",
+          "beta"
+        ],
+        "enabled": true,
+        "updated": true
+      },
+      "labels": [
+        "qa-native",
+        "roundtrip"
+      ],
+      "dependencies": [
+        {
+          "issue_id": "qa-yzw.1",
+          "depends_on_id": "qa-yzw",
+          "type": "parent-child",
+          "created_at": "2026-11-04T19:38:13Z",
+          "created_by": "windows-qa",
+          "metadata": "{}"
+        },
+        {
+          "issue_id": "qa-yzw.1",
+          "depends_on_id": "qa-3qo",
+          "type": "discovered-from",
+          "created_at": "2026-11-04T20:27:28Z",
+          "created_by": "windows-qa",
+          "metadata": "{}"
+        }
+      ],
+      "dependency_count": 0,
+      "dependent_count": 0,
+      "comment_count": 1,
+      "parent": "qa-yzw"
+    },
+    {
+      "id": "qa-3qo",
+      "title": "Native typed-edge peer",
+      "description": "Synthetic dependency target",
+      "status": "open",
+      "priority": 2,
+      "issue_type": "task",
+      "owner": "4734706+komleff@users.noreply.github.com",
+      "created_at": "2026-11-04T12:38:13Z",
+      "created_by": "windows-qa",
+      "updated_at": "2026-11-04T12:38:13Z",
+      "dependency_count": 0,
+      "dependent_count": 0,
+      "comment_count": 0
+    },
+    {
+      "id": "qa-yzw",
+      "title": "Native round-trip parent",
+      "description": "Synthetic parent; no real project tasks",
+      "status": "open",
+      "priority": 2,
+      "issue_type": "epic",
+      "owner": "4734706+komleff@users.noreply.github.com",
+      "created_at": "2026-11-04T12:38:13Z",
+      "created_by": "windows-qa",
+      "updated_at": "2026-11-04T12:38:13Z",
+      "dependency_count": 0,
+      "dependent_count": 0,
+      "comment_count": 0
+    }
+  ],
+  "qa-source_git_head": "9f80d8d373f17eb0575998c79b53f6a72a845f4c",
+  "qa-target_git_head": "e0a50592765c17d366f0548a1501c8c7693d8c8b"
+}

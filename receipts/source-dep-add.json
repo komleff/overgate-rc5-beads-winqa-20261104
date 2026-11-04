@@ -1,0 +1,20 @@
+{
+  "command": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "--actor",
+    "windows-qa",
+    "dep",
+    "add",
+    "qa-yzw.1",
+    "qa-3qo",
+    "--type",
+    "discovered-from",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-source",
+  "exit_code": 0,
+  "duration_seconds": 0.305,
+  "stdout": "{\n  \"depends_on_id\": \"qa-3qo\",\n  \"issue_id\": \"qa-yzw.1\",\n  \"schema_version\": 1,\n  \"status\": \"added\",\n  \"type\": \"discovered-from\"\n}\n",
+  "stderr": ""
+}

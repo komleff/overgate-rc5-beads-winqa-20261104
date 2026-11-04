@@ -1,0 +1,13 @@
+{
+  "command": [
+    "git",
+    "init",
+    "-b",
+    "main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-target",
+  "exit_code": 0,
+  "duration_seconds": 0.045,
+  "stdout": "Initialized empty Git repository in D:/CodexArtifacts/overgate-rc5-beads-winqa-20261104/qa-target/.git/\n",
+  "stderr": ""
+}

@@ -1,0 +1,28 @@
+{
+  "command": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "--actor",
+    "windows-qa",
+    "update",
+    "qa-yzw.1",
+    "--title",
+    "Native round-trip child updated",
+    "--description",
+    "Описание updated\nSecond line retained",
+    "--design",
+    "Дизайн updated\nNative Windows",
+    "--acceptance",
+    "AC5/AC9 updated\nCheck all fields",
+    "--notes",
+    "Заметки updated\nFinal note",
+    "--metadata",
+    "{\"qa\": {\"platform\": \"windows\", \"unicode\": \"проверка\", \"revision\": 2}, \"enabled\": true, \"count\": 3, \"items\": [\"alpha\", \"beta\"], \"updated\": true}",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-source",
+  "exit_code": 0,
+  "duration_seconds": 0.281,
+  "stdout": "[\n  {\n    \"id\": \"qa-yzw.1\",\n    \"title\": \"Native round-trip child updated\",\n    \"description\": \"Описание updated\\nSecond line retained\",\n    \"design\": \"Дизайн updated\\nNative Windows\",\n    \"acceptance_criteria\": \"AC5/AC9 updated\\nCheck all fields\",\n    \"notes\": \"Заметки updated\\nFinal note\",\n    \"status\": \"in_progress\",\n    \"priority\": 2,\n    \"issue_type\": \"task\",\n    \"assignee\": \"windows-qa\",\n    \"owner\": \"4734706+komleff@users.noreply.github.com\",\n    \"created_at\": \"2026-11-04T12:38:14Z\",\n    \"created_by\": \"windows-qa\",\n    \"updated_at\": \"2026-11-04T13:27:28Z\",\n    \"started_at\": \"2026-11-04T13:27:28Z\",\n    \"metadata\": {\n      \"qa\": {\n        \"unicode\": \"проверка\",\n        \"platform\": \"windows\",\n        \"revision\": 2\n      },\n      \"count\": 3,\n      \"items\": [\n        \"alpha\",\n        \"beta\"\n      ],\n      \"enabled\": true,\n      \"updated\": true\n    },\n    \"labels\": [\n      \"qa-native\",\n      \"roundtrip\"\n    ]\n  }\n]\n",
+  "stderr": ""
+}

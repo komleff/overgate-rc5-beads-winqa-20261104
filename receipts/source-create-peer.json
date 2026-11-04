@@ -1,0 +1,21 @@
+{
+  "command": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "--actor",
+    "windows-qa",
+    "create",
+    "--title",
+    "Native typed-edge peer",
+    "--type",
+    "task",
+    "--description",
+    "Synthetic dependency target",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\qa-source",
+  "exit_code": 0,
+  "duration_seconds": 0.363,
+  "stdout": "{\n  \"created_at\": \"2026-11-04T12:38:13.3138698Z\",\n  \"created_by\": \"windows-qa\",\n  \"description\": \"Synthetic dependency target\",\n  \"id\": \"qa-3qo\",\n  \"issue_type\": \"task\",\n  \"owner\": \"4734706+komleff@users.noreply.github.com\",\n  \"priority\": 2,\n  \"schema_version\": 1,\n  \"status\": \"open\",\n  \"title\": \"Native typed-edge peer\",\n  \"updated_at\": \"2026-11-04T12:38:13.3138698Z\"\n}\n",
+  "stderr": ""
+}

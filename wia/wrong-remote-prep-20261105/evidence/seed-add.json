@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "git",
+    "add",
+    "README.md"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\seed",
+  "exit_code": 0,
+  "seconds": 0.027,
+  "stdout": "",
+  "stderr": "warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "d2cb6ffb663a2b94bca7a186494ceb020deacbc8ff6c9af0ce2e8eba2120ca08"
+}

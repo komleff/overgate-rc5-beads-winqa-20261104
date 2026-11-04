@@ -1,0 +1,16 @@
+{
+  "COUNT": {
+    "GIT_CONFIG_COUNT": "2",
+    "GIT_CONFIG_KEY_0": "remote.origin.url",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git",
+    "GIT_CONFIG_KEY_1": "remote.origin.pushurl",
+    "GIT_CONFIG_VALUE_1": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git"
+  },
+  "PARAMETERS": {
+    "GIT_CONFIG_PARAMETERS": "'remote.origin.url=D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git' 'remote.origin.pushurl=D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git'"
+  },
+  "GLOBAL": {
+    "GIT_CONFIG_GLOBAL": "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\inputs\\attacker-global.gitconfig"
+  },
+  "status": "PREPARED INPUTS ONLY; never set in any executed child; global-vs-local precedence has not been qualified"
+}

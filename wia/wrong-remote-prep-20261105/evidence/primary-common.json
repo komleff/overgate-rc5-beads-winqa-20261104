@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "--path-format=absolute",
+    "--git-common-dir"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\primary",
+  "exit_code": 0,
+  "seconds": 0.02,
+  "stdout": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/primary/.git\n",
+  "stderr": "",
+  "stdout_sha256": "c337d4bb4809a6aaf7eb9d27e3330bc9d5b4167e098e23df1d872479b84017ce",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

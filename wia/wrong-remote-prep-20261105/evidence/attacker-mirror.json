@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--mirror",
+    "--no-hardlinks",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\real-origin.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\attacker-origin.git"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105",
+  "exit_code": 0,
+  "seconds": 0.075,
+  "stdout": "",
+  "stderr": "Cloning into bare repository 'D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\attacker-origin.git'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "da9375742e6444b0197909e380c8ed08f9c321a3e9a5438495e8104b7fce77f7"
+}

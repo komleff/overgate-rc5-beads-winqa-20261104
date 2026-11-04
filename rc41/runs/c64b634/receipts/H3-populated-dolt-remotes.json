@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "dolt",
+    "remote",
+    "list",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\peer-populated",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.209,
+  "stdout": "[]\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "show",
+    "big-heroes-qs4",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\peer-populated",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.292,
+  "stdout": "[\n  {\n    \"id\": \"big-heroes-qs4\",\n    \"title\": \"Synthetic first\",\n    \"description\": \"Native Windows H3 description\",\n    \"design\": \"Synthetic design\",\n    \"acceptance_criteria\": \"Full-field restore\",\n    \"notes\": \"Notes retained\",\n    \"status\": \"open\",\n    \"priority\": 2,\n    \"issue_type\": \"task\",\n    \"owner\": \"windows-qa@example.invalid\",\n    \"created_at\": \"2026-11-04T15:52:51Z\",\n    \"created_by\": \"Windows QA fixture\",\n    \"updated_at\": \"2026-11-04T15:52:51Z\",\n    \"metadata\": {\n      \"qa\": true,\n      \"number\": 2\n    },\n    \"labels\": [\n      \"qa\",\n      \"restore\"\n    ],\n    \"dependent_count\": 1,\n    \"dependency_count\": 0,\n    \"comment_count\": 0\n  }\n]\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "9c43adb762e3bacd06a761b13fd92e2db68ba7208e7939cba8f52d67654b514f",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

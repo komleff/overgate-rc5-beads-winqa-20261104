@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "init",
+    "--bare",
+    "--initial-branch=qa/project",
+    "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\origin.git"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.034,
+  "stdout": "Initialized empty Git repository in D:/CodexArtifacts/overgate-rc41-winqa-20261104/runs/c64b634/cases/populated/origin.git/\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "f012bee0e158d8bbc31be11b8082623ad6e8ad6245573f108f3bebc654b2a60e",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

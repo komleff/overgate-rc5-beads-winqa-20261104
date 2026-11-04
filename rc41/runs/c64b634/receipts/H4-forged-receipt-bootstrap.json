@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-bootstrap.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\negatives\\H4-forged-receipt",
+  "environment_overrides": {
+    "BD_BOOTSTRAP_PREFIX_RECEIPT": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\evidence\\forged-prefix.json",
+    "BD_BOOTSTRAP_PREFIX_RECEIPT_SHA256": "dfa1b1374744f12c13cf28d8d8520e50f679043d7ce5d675e5613926144440a3"
+  },
+  "exit_code": 1,
+  "duration_seconds": 0.513,
+  "stdout": "",
+  "stderr": "STOP: caller receipt/SHA route removed; use tracked project issue-prefix; snapshot not published by bootstrap\r\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_raw_sha256": "cfd2c1674a4406c05dbd4f74bf9222b15ad3c59e4ad6cbcd3dffe736890cf351"
+}

@@ -1,0 +1,21 @@
+{
+  "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+  "tree": "9d7ee38808d34c4e0ce1d7f8147aabfd2faf8e42",
+  "source_clean": true,
+  "tested_paths": {
+    "scripts/bd-bootstrap.sh": "5565a265eb05ee10bb13577bc05dd5b531117538",
+    "scripts/bd-sync-common.sh": "9ea9ded9eeb810cc3ce2cee035f997059857d970",
+    "scripts/bd-sync-export.sh": "5c8a3dd3ef8640ce09eb43c7aebc432b1eb70cac",
+    "scripts/bd-sync-restore.sh": "5350041e86f002f099d1043b2e9108f23fc30f27",
+    "scripts/lib/bd-env.sh": "e66502d39bd3af9082524411fa3b2fcde8141437",
+    ".claude/tools/run-python.sh": "cd6341fa8d73307d28408b84c001fc050e5660b1",
+    ".agents/distribution-manifest.json": "15b8c9d55b39b9050fc011b01612a55da4624738",
+    ".agents/HOW_TO_USE.md": "d546042010cf7f153020e7dcb394673976aff584",
+    ".claude/rules/beads.md": "5bbfc73663170b85a17e3bc07e2ecd335efb573d",
+    "scripts/install-overgate.py": "b64e48ffcdbb95de538d626ac1829de3b9bc1ef3",
+    "scripts/tests/install-distribution.test.py": "77dd09130fdadf4b1a4e866514cecc4d9f2c90cb"
+  },
+  "contract_comment": 6635128301,
+  "fingerprint": "a4d40bf2f82856888140f1db79c1785dac63f06e516938615a5f284f3a21eeb0",
+  "method": "sorted path SP Git blob LF + exact PM RUN body UTF8"
+}

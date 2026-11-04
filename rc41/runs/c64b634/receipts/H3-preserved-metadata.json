@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "big_heroes",
+  "project_id": "08c0f2c6-2648-4aeb-b0dd-51012ffb6904"
+}

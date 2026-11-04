@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\source-c64b634\\scripts\\tests\\install-distribution.test.py",
+    "InstallTests.test_fresh_installed_how_to_use_links_and_beads_version"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\source-c64b634",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 14.654,
+  "stdout": "",
+  "stderr": ".\r\n----------------------------------------------------------------------\r\nRan 1 test in 14.360s\r\n\r\nOK\r\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_raw_sha256": "b270ad433323883ffc6dbe16c275dc86c3ecab712e27a893623b0b0aff105e30"
+}

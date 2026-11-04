@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "config",
+    "get",
+    "issue_prefix",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\empty\\peer-empty",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.234,
+  "stdout": "{\n  \"key\": \"issue_prefix\",\n  \"schema_version\": 1,\n  \"value\": \"big-heroes\"\n}\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "95f13367be3615083ba600d7c71225e062020fe224ff6354e039cd3b60803a66",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

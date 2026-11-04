@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-bootstrap.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\peer",
+  "environment_overrides": {
+    "GIT_INDEX_FILE": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\evidence\\H1-alternate-alternate-index.bin"
+  },
+  "exit_code": 1,
+  "duration_seconds": 0.029,
+  "stdout": "",
+  "stderr": "STOP: GIT_INDEX_FILE override запрещён для Beads bootstrap; canonical Git index должен быть проверен.\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_raw_sha256": "a81d9b1c6abb1ddd7602f4c64d0f4b3a710a313294f9e8f87d71bf682fd9b5ad"
+}

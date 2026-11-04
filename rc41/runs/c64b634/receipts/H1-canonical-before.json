@@ -1,0 +1,12 @@
+{
+  "head": "2be178daab75cee46ddd946f8e6e673735e46311",
+  "index_sha256": "6937310ce9c578d68f8ea0552e36a4ea745dd184581743c183de4437d1444b36",
+  "files": {
+    "README.md": "bae5ef5c157b296f284a2cfaadd90ce7e44980f645b88df3999dd8341bca2fb2",
+    "sentinel.txt": "4fd71d3bc3fb6c875e6ecfa7162aaff877b6788dbcf60ef09ce3177c0bbbf69e",
+    ".beads/metadata.json": null,
+    ".beads/config.yaml": null
+  },
+  "origin_refs": "f4ba4df33d2387f2d9db6f068713144ed3da5d25\trefs/heads/qa/windows",
+  "local_db_exists": false
+}

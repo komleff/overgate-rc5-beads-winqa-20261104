@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-bootstrap.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\negatives\\H4-no-tracked-pin",
+  "environment_overrides": {},
+  "exit_code": 1,
+  "duration_seconds": 0.524,
+  "stdout": "",
+  "stderr": "STOP: active project-owned tracked issue-prefix required; caller receipt/SHA and clone/database names are not provenance; snapshot not published by bootstrap\r\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_raw_sha256": "b8b4a8147068286be7479287c655b4475034a98e3c6ca7e4fd91a128339ec558"
+}

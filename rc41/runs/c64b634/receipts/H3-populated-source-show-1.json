@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "show",
+    "big-heroes-cf0",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\big-heroes",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.292,
+  "stdout": "[\n  {\n    \"id\": \"big-heroes-cf0\",\n    \"title\": \"Synthetic second\",\n    \"description\": \"Typed dependency peer\",\n    \"status\": \"open\",\n    \"priority\": 2,\n    \"issue_type\": \"task\",\n    \"owner\": \"windows-qa@example.invalid\",\n    \"created_at\": \"2026-11-04T15:52:52Z\",\n    \"created_by\": \"Windows QA fixture\",\n    \"updated_at\": \"2026-11-04T15:52:52Z\",\n    \"dependencies\": [\n      {\n        \"id\": \"big-heroes-qs4\",\n        \"title\": \"Synthetic first\",\n        \"description\": \"Native Windows H3 description\",\n        \"design\": \"Synthetic design\",\n        \"acceptance_criteria\": \"Full-field restore\",\n        \"notes\": \"Notes retained\",\n        \"status\": \"open\",\n        \"priority\": 2,\n        \"issue_type\": \"task\",\n        \"owner\": \"windows-qa@example.invalid\",\n        \"created_at\": \"2026-11-04T15:52:51Z\",\n        \"created_by\": \"Windows QA fixture\",\n        \"updated_at\": \"2026-11-04T15:52:51Z\",\n        \"metadata\": {\n          \"qa\": true,\n          \"number\": 2\n        },\n        \"labels\": [\n          \"qa\",\n          \"restore\"\n        ],\n        \"dependency_type\": \"discovered-from\"\n      }\n    ],\n    \"dependent_count\": 0,\n    \"dependency_count\": 1,\n    \"comment_count\": 0\n  }\n]\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "f89f344f76d869c289e81264e84c846a3f5aa3e53a91851c69322b66c17e779a",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

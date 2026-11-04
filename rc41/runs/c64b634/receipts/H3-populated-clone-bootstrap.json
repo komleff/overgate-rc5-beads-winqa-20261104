@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-bootstrap.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\peer-populated",
+  "environment_overrides": {
+    "BD_BOOTSTRAP_EXPECTED_R": "38fc5e41ccb5bba571641453adddeb6ac140abd7"
+  },
+  "exit_code": 0,
+  "duration_seconds": 4.86,
+  "stdout": "Beads clone restored: 38fc5e41ccb5bba571641453adddeb6ac140abd7; issue prefix big-heroes; 2 issues; no publication\r\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "b3c0acad123f67e95e56b1eb8563a0a4a6bba5717fd524c0339102b6743d981d",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

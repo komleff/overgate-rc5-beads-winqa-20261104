@@ -1,0 +1,11 @@
+{
+  "case": "H4",
+  "H": "H4",
+  "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+  "checks": {
+    "no_pin_STOP": true,
+    "forged_receipt_STOP": true,
+    "nonempty_no_namespace_STOP": true
+  },
+  "result": "PASS"
+}

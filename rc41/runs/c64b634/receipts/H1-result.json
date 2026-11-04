@@ -1,0 +1,10 @@
+{
+  "case": "H1",
+  "H": "H1",
+  "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+  "checks": {
+    "canonical_staged_stop": true,
+    "alternate_override_stop": true
+  },
+  "result": "PASS"
+}

@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "-c",
+    "core.autocrlf=false",
+    "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\origin.git",
+    "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\negatives\\H4-forged-receipt"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.123,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\negatives\\H4-forged-receipt'...\ndone.\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_raw_sha256": "eb1d7088ee1670d4ce64e60ef8bc20560b8ddff5ef62a3df2b9be10dee994681"
+}

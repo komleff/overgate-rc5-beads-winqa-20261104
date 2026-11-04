@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "export",
+    "--all",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\evidence\\H3-populated-restored.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\peer-populated",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.294,
+  "stdout": "",
+  "stderr": "Exported 2 issues to D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\evidence\\H3-populated-restored.jsonl\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_raw_sha256": "865286c5e19c89e028ae72a1dc859ca42c606b9144ad89be7d0f9dd0a1276e45"
+}

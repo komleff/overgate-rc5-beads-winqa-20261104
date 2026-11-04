@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-bootstrap.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\empty\\big-heroes",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 6.654,
+  "stdout": "Beads fresh prefix: big-heroes\r\nBeads: ready; origin/beads-backup exists\r\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "6e3152d01bb8533d42bf12b4f08e45fe966fe11efa3781642db7bf3bb281e14b",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

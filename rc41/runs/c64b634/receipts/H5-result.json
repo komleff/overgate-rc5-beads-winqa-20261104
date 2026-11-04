@@ -1,0 +1,10 @@
+{
+  "case": "H5",
+  "H": "H5",
+  "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+  "checks": {
+    "existing_fresh_installed_doc_version_fixture": true
+  },
+  "method": "Native candidate test code; fixture generates its own synthetic source Git SHA, so no literal candidate install-state claim",
+  "result": "PASS"
+}

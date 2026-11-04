@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "commit",
+    "-m",
+    "project: pin effective issue prefix"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\big-heroes",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.05,
+  "stdout": "[qa/project 030debb] project: pin effective issue prefix\n 1 file changed, 5 insertions(+)\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "f75c4d3271ebd859fb88d6cecd9c6298864328179ba8ddf3c7946096d84c65ce",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-bootstrap.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\negatives\\H4-nonempty-no-namespace",
+  "environment_overrides": {
+    "BD_BOOTSTRAP_EXPECTED_R": "a54e4c8110e9e98565023512389809a46cc7c8af"
+  },
+  "exit_code": 1,
+  "duration_seconds": 0.712,
+  "stdout": "",
+  "stderr": "STOP: published snapshot has no issue namespace to verify; snapshot not published by bootstrap\r\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_raw_sha256": "2f318c0213de02e1819a5360081a1a827b3075cd880f3870384f1163e4147a98"
+}

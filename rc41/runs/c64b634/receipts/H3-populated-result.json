@@ -1,0 +1,26 @@
+{
+  "case": "H3-populated",
+  "H": "H3",
+  "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+  "checks": {
+    "clone_bootstrap_exit0": true,
+    "db_created": true,
+    "head_index_metadata_config_origin_preserved": true,
+    "full_snapshot_objects_equal": true,
+    "full_show_0": true,
+    "full_show_1": true,
+    "lastSeen_frozen_R": true,
+    "remote_R_unchanged": true,
+    "no_dolt_remote": true,
+    "exact_prefix": true
+  },
+  "frozen_R": "38fc5e41ccb5bba571641453adddeb6ac140abd7",
+  "primary": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\big-heroes",
+  "clone": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\peer-populated",
+  "ids": [
+    "big-heroes-qs4",
+    "big-heroes-cf0"
+  ],
+  "origin": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\origin.git",
+  "result": "PASS"
+}

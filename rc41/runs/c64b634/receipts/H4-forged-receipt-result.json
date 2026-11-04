@@ -1,0 +1,11 @@
+{
+  "case": "H4-forged-receipt",
+  "H": "H4",
+  "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+  "checks": {
+    "controlled_STOP": true,
+    "db_not_created": true,
+    "head_index_metadata_config_origin_preserved": true
+  },
+  "result": "PASS"
+}

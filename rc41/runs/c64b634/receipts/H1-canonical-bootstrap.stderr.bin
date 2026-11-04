@@ -1,0 +1,1 @@
+STOP: Git index содержит staged файлы; bd init мог бы включить их в автоматический Beads commit. Сохраните и разберите staged изменения до bootstrap.

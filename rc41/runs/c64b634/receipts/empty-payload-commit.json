@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "commit",
+    "-m",
+    "test: frozen RC4.1 helper fixture"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\empty\\big-heroes",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.056,
+  "stdout": "[qa/project (root-commit) ea5b738] test: frozen RC4.1 helper fixture\n 9 files changed, 1405 insertions(+)\n create mode 100644 .agents/distribution-manifest.json\n create mode 100644 .claude/tools/run-python.sh\n create mode 100644 .gitattributes\n create mode 100644 README.md\n create mode 100644 scripts/bd-bootstrap.sh\n create mode 100644 scripts/bd-sync-common.sh\n create mode 100644 scripts/bd-sync-export.sh\n create mode 100644 scripts/bd-sync-restore.sh\n create mode 100644 scripts/lib/bd-env.sh\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e786361f8cc73c3ad97d344b455246e51861a48d14ac68838f8d23e9bc639e30",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

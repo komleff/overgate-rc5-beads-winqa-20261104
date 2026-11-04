@@ -1,0 +1,12 @@
+{
+  "head": "677513e3c5adfb55ddb82c6514b04b5f9cd48ff6",
+  "index_sha256": "65c27b2326dd95336341d4b0e3a1b8f128418625aa0d0636030fc79e54fc3b5c",
+  "files": {
+    "README.md": "654007c696bfa6497506d3e4b6fdf41fbf3631c162e31aff150bb4b4dc57b87d",
+    "sentinel.txt": "b327bd4429913e68bcaed551c87990fc0bd10a4468f963df29cc35162f9f87fa",
+    ".beads/metadata.json": "de1b113a38a328f53240e35b0883d8fda6180c747e53e5182153dac5ae517f60",
+    ".beads/config.yaml": "ea94dc4f0da51dcf87072043a0d561ff14adc0706518a44418bc092ec664f511"
+  },
+  "origin_refs": "df3155baebc0e302e1d6130e8e70d280ff81276d\trefs/heads/beads-backup\nea5b7383ecbb376ee8b4b21122c2f240a900b337\trefs/heads/qa/project",
+  "local_db_exists": true
+}

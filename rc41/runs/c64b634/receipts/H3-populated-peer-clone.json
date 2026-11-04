@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "-c",
+    "core.autocrlf=false",
+    "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\origin.git",
+    "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\peer-populated"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.126,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\peer-populated'...\ndone.\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_raw_sha256": "3f755aadd8410317c8a578f85466cd3a5fdaa937e958d1daac4d5d7850ecadec"
+}

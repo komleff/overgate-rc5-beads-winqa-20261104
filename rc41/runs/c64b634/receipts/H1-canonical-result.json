@@ -1,0 +1,12 @@
+{
+  "case": "H1-canonical",
+  "H": "H1",
+  "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+  "method": "Actual native Git Bash bootstrap with canonical staged sentinel",
+  "checks": {
+    "controlled_stop": true,
+    "snapshot_unchanged": true,
+    "no_local_beads": true
+  },
+  "result": "PASS"
+}

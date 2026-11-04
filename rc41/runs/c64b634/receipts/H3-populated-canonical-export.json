@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-sync-export.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\big-heroes",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 1.081,
+  "stdout": "OK: снапшот опубликован в origin/beads-backup (.beads/issues.jsonl)\n",
+  "stderr": "Exported 2 issues to C:/Users/komle/AppData/Local/Temp/bd-sync.NFbLXs/snap.jsonl\nTo D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\origin.git\n   95e8ef0..38fc5e4  beads-backup -> beads-backup\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e1a1792cebb0a916ee9402aff4568c62723bd7d909622b3072bad10b9775b46e",
+  "stderr_raw_sha256": "5c4e4b05b94d56a0f79742d70add268200b712b9dac4b0c63e76f406110ea290"
+}

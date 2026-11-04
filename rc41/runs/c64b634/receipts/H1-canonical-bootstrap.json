@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-bootstrap.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\primary",
+  "environment_overrides": {},
+  "exit_code": 1,
+  "duration_seconds": 0.163,
+  "stdout": "",
+  "stderr": "STOP: Git index содержит staged файлы; bd init мог бы включить их в автоматический Beads commit. Сохраните и разберите staged изменения до bootstrap.\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_raw_sha256": "8a56c77dc379f42619275318101d0c1a29c873ce952b9d3e645c6180a0db0dc2"
+}

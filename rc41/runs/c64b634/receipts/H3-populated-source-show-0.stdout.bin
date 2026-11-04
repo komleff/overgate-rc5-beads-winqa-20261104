@@ -1,0 +1,28 @@
+[
+  {
+    "id": "big-heroes-qs4",
+    "title": "Synthetic first",
+    "description": "Native Windows H3 description",
+    "design": "Synthetic design",
+    "acceptance_criteria": "Full-field restore",
+    "notes": "Notes retained",
+    "status": "open",
+    "priority": 2,
+    "issue_type": "task",
+    "owner": "windows-qa@example.invalid",
+    "created_at": "2026-11-04T15:52:51Z",
+    "created_by": "Windows QA fixture",
+    "updated_at": "2026-11-04T15:52:51Z",
+    "metadata": {
+      "qa": true,
+      "number": 2
+    },
+    "labels": [
+      "qa",
+      "restore"
+    ],
+    "dependent_count": 1,
+    "dependency_count": 0,
+    "comment_count": 0
+  }
+]

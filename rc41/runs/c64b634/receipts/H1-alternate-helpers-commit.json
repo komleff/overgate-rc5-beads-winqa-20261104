@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "commit",
+    "-m",
+    "test: frozen helper payload H1-alternate"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\peer",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.058,
+  "stdout": "[qa/windows ceb88da] test: frozen helper payload H1-alternate\n 7 files changed, 1403 insertions(+)\n create mode 100644 .agents/distribution-manifest.json\n create mode 100644 .claude/tools/run-python.sh\n create mode 100644 scripts/bd-bootstrap.sh\n create mode 100644 scripts/bd-sync-common.sh\n create mode 100644 scripts/bd-sync-export.sh\n create mode 100644 scripts/bd-sync-restore.sh\n create mode 100644 scripts/lib/bd-env.sh\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "b9e7a95f7d16de19ef41e46534048ea5af87357c0ace636b317d9f0ae5375995",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

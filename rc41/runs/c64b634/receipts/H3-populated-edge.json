@@ -1,0 +1,23 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "dep",
+    "add",
+    "big-heroes-cf0",
+    "big-heroes-qs4",
+    "--type",
+    "discovered-from",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\big-heroes",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.334,
+  "stdout": "{\n  \"depends_on_id\": \"big-heroes-qs4\",\n  \"issue_id\": \"big-heroes-cf0\",\n  \"schema_version\": 1,\n  \"status\": \"added\",\n  \"type\": \"discovered-from\"\n}\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "30e5c6c2d9fa38be0990096f12e03bf3b35ee6e2df03c147404881436cde5a21",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

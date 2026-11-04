@@ -1,0 +1,9 @@
+[qa/windows 2be178d] test: frozen helper payload H1-canonical
+ 7 files changed, 1403 insertions(+)
+ create mode 100644 .agents/distribution-manifest.json
+ create mode 100644 .claude/tools/run-python.sh
+ create mode 100644 scripts/bd-bootstrap.sh
+ create mode 100644 scripts/bd-sync-common.sh
+ create mode 100644 scripts/bd-sync-export.sh
+ create mode 100644 scripts/bd-sync-restore.sh
+ create mode 100644 scripts/lib/bd-env.sh

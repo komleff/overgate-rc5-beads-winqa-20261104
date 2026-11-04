@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "-c",
+    "core.autocrlf=false",
+    "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\origin.git",
+    "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\big-heroes"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.074,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\big-heroes'...\nwarning: You appear to have cloned an empty repository.\ndone.\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_raw_sha256": "191e80556ed17693684fb40ad907bdab2898fbbcc3fc7d25e9913fbe5e208b2a"
+}

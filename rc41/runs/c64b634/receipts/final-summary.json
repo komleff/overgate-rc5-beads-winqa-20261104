@@ -1,0 +1,119 @@
+{
+  "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+  "binary_path": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+  "binary_sha256_before_after": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+  "tools": {
+    "bd": {
+      "path": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+      "sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+      "version": "bd version 1.2.2 (6c124203e)"
+    },
+    "git": "git version 2.51.2.windows.1",
+    "bash": "GNU bash, version 5.2.37(1)-release (x86_64-pc-msys)",
+    "python": "Python 3.14.0",
+    "codex": "codex-cli 0.154.0"
+  },
+  "cases": {
+    "H1": {
+      "case": "H1",
+      "H": "H1",
+      "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+      "checks": {
+        "canonical_staged_stop": true,
+        "alternate_override_stop": true
+      },
+      "result": "PASS"
+    },
+    "H2": {
+      "case": "H2-empty",
+      "H": "H2",
+      "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+      "checks": {
+        "fresh_bootstrap_exit0": true,
+        "beads_only_init_commit": true,
+        "untracked_sentinel_preserved": true,
+        "actual_hyphen_prefix": true,
+        "active_pin_written": true,
+        "pin_requires_project_commit": true,
+        "snapshot_empty_before_any_issue": true,
+        "clone_metadata_pin_tracked": true,
+        "clone_db_absent_before_restore": true,
+        "clone_bootstrap_exit0": true,
+        "clone_db_created": true,
+        "clone_head_index_metadata_config_origin_preserved": true,
+        "restored_export_empty": true,
+        "lastSeen_frozen_R": true,
+        "remote_R_unchanged": true,
+        "no_dolt_remote": true,
+        "exact_effective_prefix": true,
+        "metadata_project_id_preserved": true
+      },
+      "frozen_R": "df3155baebc0e302e1d6130e8e70d280ff81276d",
+      "primary": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\empty\\big-heroes",
+      "clone": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\empty\\peer-empty",
+      "committed_files": [
+        ".beads/.gitignore",
+        ".beads/README.md",
+        ".beads/config.yaml",
+        ".beads/interactions.jsonl",
+        ".beads/metadata.json",
+        ".gitignore"
+      ],
+      "primary_init_commit": "677513e3c5adfb55ddb82c6514b04b5f9cd48ff6",
+      "project_pin_commit": "a0c627ecc050c2fb8ccf387ad9a3e5097a6293c3",
+      "result": "PASS"
+    },
+    "H3": {
+      "case": "H3-populated",
+      "H": "H3",
+      "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+      "checks": {
+        "clone_bootstrap_exit0": true,
+        "db_created": true,
+        "head_index_metadata_config_origin_preserved": true,
+        "full_snapshot_objects_equal": true,
+        "full_show_0": true,
+        "full_show_1": true,
+        "lastSeen_frozen_R": true,
+        "remote_R_unchanged": true,
+        "no_dolt_remote": true,
+        "exact_prefix": true
+      },
+      "frozen_R": "38fc5e41ccb5bba571641453adddeb6ac140abd7",
+      "primary": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\big-heroes",
+      "clone": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\peer-populated",
+      "ids": [
+        "big-heroes-qs4",
+        "big-heroes-cf0"
+      ],
+      "origin": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\runs\\c64b634\\cases\\populated\\origin.git",
+      "result": "PASS"
+    },
+    "H4": {
+      "case": "H4",
+      "H": "H4",
+      "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+      "checks": {
+        "no_pin_STOP": true,
+        "forged_receipt_STOP": true,
+        "nonempty_no_namespace_STOP": true
+      },
+      "result": "PASS"
+    },
+    "H5": {
+      "case": "H5",
+      "H": "H5",
+      "source_sha": "c64b634ea1b3425647b0d44323ac997bbb8b7c28",
+      "checks": {
+        "existing_fresh_installed_doc_version_fixture": true
+      },
+      "method": "Native candidate test code; fixture generates its own synthetic source Git SHA, so no literal candidate install-state claim",
+      "result": "PASS"
+    }
+  },
+  "source_clean": true,
+  "PR_HEAD_matches": true,
+  "H3_strict_JSON_types_equal": true,
+  "original_failed_run_825_preserved": true,
+  "result": "PASS for H1-H5 scoped Windows packet; H6/H7/overall acceptance not asserted"
+}

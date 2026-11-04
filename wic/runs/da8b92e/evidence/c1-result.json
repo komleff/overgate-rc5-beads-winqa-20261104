@@ -1,0 +1,69 @@
+{
+  "result": "PASS",
+  "source": "da8b92e5b83dab0951775f117f0241b84d5a4f76",
+  "entry_sha256": "34bf9a3c5a4cc14ac03afd3cdf00d278ee6d2ba0840e2434f182582044f23795",
+  "settings_sha256": "b983c073fdabc4c119d8c1f2fe89f318a94d49acb01e9fbe6ea14ff36d4f01ca",
+  "cases": [
+    {
+      "case": "ascii",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e\\cases\\project-ascii",
+      "source": "da8b92e5b83dab0951775f117f0241b84d5a4f76",
+      "printed": "cd 'D:/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii'",
+      "printed_sha256": "45130fbed7d37004989f079e58fbebba771305713a9ea3fbae25ed07bf8826f4",
+      "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii",
+      "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii",
+      "result": "PASS"
+    },
+    {
+      "case": "space",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e\\cases\\project with space",
+      "source": "da8b92e5b83dab0951775f117f0241b84d5a4f76",
+      "printed": "cd 'D:/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project with space'",
+      "printed_sha256": "c40382255a0eeb7612e5f9b94bc122a39a4d5041795056c87806049bd91ace55",
+      "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project with space",
+      "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project with space",
+      "result": "PASS"
+    },
+    {
+      "case": "cyrillic",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e\\cases\\проект-кириллица",
+      "source": "da8b92e5b83dab0951775f117f0241b84d5a4f76",
+      "printed": "cd 'D:/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/проект-кириллица'",
+      "printed_sha256": "939fbf55156e963e929b1c17f6ac13fb635afae0eb6f4e212c01723f608d6d4f",
+      "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/проект-кириллица",
+      "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/проект-кириллица",
+      "result": "PASS"
+    },
+    {
+      "case": "parentheses",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e\\cases\\project(parens)",
+      "source": "da8b92e5b83dab0951775f117f0241b84d5a4f76",
+      "printed": "cd 'D:/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project(parens)'",
+      "printed_sha256": "4cbba26039afb09a2525c33abd5f4aa0fe7082f787e4f2e21407c3697eea8ce5",
+      "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project(parens)",
+      "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project(parens)",
+      "result": "PASS"
+    },
+    {
+      "case": "apostrophe",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e\\cases\\project'apostrophe",
+      "source": "da8b92e5b83dab0951775f117f0241b84d5a4f76",
+      "printed": "cd '/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project'\"'\"'apostrophe'",
+      "printed_sha256": "cec49addb24f83ce559acbbdf9b33bdbbdf0d6a065cb6c747bd57706fc4bf40d",
+      "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project'apostrophe",
+      "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project'apostrophe",
+      "result": "PASS"
+    },
+    {
+      "case": "c-drive",
+      "root": "C:\\work\\og-wic-da8b92e",
+      "source": "da8b92e5b83dab0951775f117f0241b84d5a4f76",
+      "printed": "cd 'C:/work/og-wic-da8b92e'",
+      "printed_sha256": "28efc0b2f2709f290542637dfa9d314953fa99c3761c7a7e55c3e1eb07e394ab",
+      "actual_pwd": "/c/work/og-wic-da8b92e",
+      "expected_pwd": "/c/work/og-wic-da8b92e",
+      "result": "PASS"
+    }
+  ],
+  "method": "native Windows subprocess [Git bash.exe,-c,exact entry], full UTF-8 JSON; exact printed bytes replayed then executed; actual pwd -P compared to independent same-tool root pwd"
+}

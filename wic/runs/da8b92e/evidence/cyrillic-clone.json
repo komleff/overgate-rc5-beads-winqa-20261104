@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--no-hardlinks",
+    "--no-checkout",
+    "-c",
+    "core.autocrlf=false",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\source-da8b92e",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e\\cases\\проект-кириллица"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.075,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e\\cases\\проект-кириллица'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "5a82b39fec5de1195ab7656059cfef0e4dc4e91ae707d8501deb7defa807fada"
+}

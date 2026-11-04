@@ -1,0 +1,8 @@
+{
+  "result": "PASS",
+  "details": {
+    "actual_pwd": "/c/work/og-wic-da8b92e",
+    "expected_pwd": "/c/work/og-wic-da8b92e",
+    "method": "both values from native Git Bash pwd -P, never Windows Path(/c/...).resolve()"
+  }
+}

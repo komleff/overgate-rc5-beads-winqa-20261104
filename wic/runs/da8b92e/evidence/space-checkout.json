@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e\\cases\\project with space",
+    "-c",
+    "core.autocrlf=false",
+    "checkout",
+    "--detach",
+    "da8b92e5b83dab0951775f117f0241b84d5a4f76"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.085,
+  "stdout": "",
+  "stderr": "HEAD is now at da8b92e fix: portable Bash recovery for complex checkout paths\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "14186bb7ecda3f93564debdf107d5b332512958e29dbad640bee25abfc4cbe58"
+}

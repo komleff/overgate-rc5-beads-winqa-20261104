@@ -1,0 +1,26 @@
+{
+  "source": "da8b92e5b83dab0951775f117f0241b84d5a4f76",
+  "result": "FAIL",
+  "case": "same-root MSYS unquoted absolute cd",
+  "actual_exit": 2,
+  "expected_exit": 0,
+  "sentinel_absent": true,
+  "pass_scoped": [
+    "C1 six source checkouts, same printed bytes accepted and executed",
+    "12 C2 command negatives",
+    "CLAUDE_PROJECT_DIR spoof negative",
+    "apostrophe/Cyrillic/parentheses tail negatives",
+    "DOS same-root unquoted cd"
+  ],
+  "not_run": [
+    "C-drive alias pair after failure",
+    "missing dispatcher",
+    "C3 root guard/runtime checks",
+    "C4 outside-Git checks",
+    "C5 portability mutation",
+    "installer auto/bypass upgrade/custom hook conflict",
+    "full verifier",
+    "live Claude model session"
+  ],
+  "reason": "First native hook FAIL -> STOP; no rerun or product source modification"
+}

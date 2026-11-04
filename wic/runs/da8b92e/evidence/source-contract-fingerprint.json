@@ -1,0 +1,26 @@
+{
+  "source": "da8b92e5b83dab0951775f117f0241b84d5a4f76",
+  "content_fingerprint": "5348da2a19b0c8c33980933496b8e55d20b1e124a19c05d254397c64208aa223",
+  "contract_sha256": "118a2da8d515cbd809293a8379ecafa7f536b401e419619a521fe76ed36d45a6",
+  "contract_bytes": 1060,
+  "plan_blob": "e56ec8ff7f49e4a85483140ea811dabd42d6de5e",
+  "paths": {
+    ".agents/HOW_TO_USE.md": "0578456b3e4f4b149db96499f24fca0581b89fb6",
+    ".agents/INSTALL.md": "590ac992994e8c3157e5578057fb1775657862d0",
+    ".agents/PIPELINE_ADR.md": "ecb7df04a737797933ec9dc1084a4bd7f8886df8",
+    ".agents/distribution-manifest.json": "927363b07673cf52c941a79c3d15ad270511bd0c",
+    ".claude/hooks/commit_command_classifier.py": "f4a8e8d2b43d00a517081542bbdf6e49f4c2ab6b",
+    ".claude/settings.json": "3a3cdd8b918a405e3b2275a85460e0492c8da4d1",
+    ".claude/tools/with-timeout.sh": "ff65ff64d54b3734ef95088dbc0999d4824e6941",
+    "README.md": "b76a501b9788d7b61492490619034957c536bba3",
+    "docs/plans/2026-11-05-v4.0.0-rc.5-path-recovery.md": "e56ec8ff7f49e4a85483140ea811dabd42d6de5e",
+    "scripts/tests/commit-command-classifier.test.sh": "275a0e8a029e02305a2e057d6682b74b27d1f933",
+    "scripts/tests/install-distribution.test.py": "0416886ce9526617413730dc176bbb3a1e40415d",
+    "scripts/tests/portability-names.test.py": "61751e3ec42d537c3af51f3be3175cb831ca52a2",
+    "scripts/tests/pre-bash-dispatch.test.py": "13fa6f7b1f82679e9311b8855110c425ba7c7e65",
+    "scripts/tests/publish-pr-comment.test.py": "e1355bb4826c2fb6c30f4b3dad23cc0536f8b4cb",
+    "scripts/tests/with-timeout-transparency.test.sh": "10bfd81654f77425893b0e1175085f20a3763a57",
+    "scripts/verify-reference.sh": "096ba70c214a751044d9a24ef3f4a97f97f4a859"
+  },
+  "algorithm": "sorted full PR base..HEAD path SP blob LF + normalized contract bytes"
+}

@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--no-hardlinks",
+    "--no-checkout",
+    "-c",
+    "core.autocrlf=false",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\source-da8b92e",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e\\cases\\project with space"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.072,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e\\cases\\project with space'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "f625c6c91e6dd8cfc4277a6526680f48303727ed42f62bded1afda1747374fb9"
+}

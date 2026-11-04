@@ -1,0 +1,4 @@
+{
+  "result": "PASS",
+  "details": "БЛОКИРОВКА: каталог сессии не корень репозитория, диспетчер хуков .claude/hooks/pre-bash.sh здесь не найден (PWD=[/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/проект-кириллица/own-subdir/deep], CLAUDE_PROJECT_DIR=[]). Проходит только одна literal cd к проверенному корню. Восстановление: cd 'D:/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/проект-кириллица'\n"
+}

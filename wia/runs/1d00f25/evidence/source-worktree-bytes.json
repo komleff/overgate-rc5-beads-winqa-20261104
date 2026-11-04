@@ -1,0 +1,4 @@
+{
+  "result": "PASS",
+  "details": "canonical source bytes match working files (core.autocrlf=false)"
+}

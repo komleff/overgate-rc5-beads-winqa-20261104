@@ -1,0 +1,4 @@
+{
+  "result": "PASS",
+  "details": "publisher actual legacy store and endpoint files absent; tracked reference metadata retained unchanged"
+}

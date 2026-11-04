@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "1d00f257202dbced5894b841e97f1945dad7a158:refs/heads/main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+  "exit_code": 1,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.133,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "199343966db43a99b6fcc5a5bcd664abb3acee0099c47f669a6b0b406cf20cf2",
+  "stdout": "",
+  "stderr": "To D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\origin.git\n ! [remote rejected] 1d00f257202dbced5894b841e97f1945dad7a158 -> main (shallow update not allowed)\nerror: failed to push some refs to 'D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\origin.git'\n"
+}

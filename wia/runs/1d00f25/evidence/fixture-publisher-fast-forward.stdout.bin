@@ -1,0 +1,10 @@
+Updating 1d00f25..020e7ad
+Fast-forward
+ .beads/.gitignore         | 10 ++++--
+ .beads/README.md          | 81 +++++++++++++++++++++++++++++++++++++++++++++++
+ .beads/interactions.jsonl |  0
+ .beads/metadata.json      |  2 +-
+ .gitignore                |  4 +++
+ 5 files changed, 93 insertions(+), 4 deletions(-)
+ create mode 100644 .beads/README.md
+ create mode 100644 .beads/interactions.jsonl

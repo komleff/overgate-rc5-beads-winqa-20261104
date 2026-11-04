@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "details": {
+    "expected": "Published ID and claim match peer snapshot.",
+    "actual": "Published ID and claim match peer snapshot."
+  }
+}

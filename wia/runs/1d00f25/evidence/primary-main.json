@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "git",
+    "-c",
+    "core.autocrlf=false",
+    "checkout",
+    "-b",
+    "main",
+    "origin/main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-a",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.095,
+  "stdout_sha256": "27dcfc17776735b09ec3e85bbd5412aec660c384a8fe4dd2c8f02dd6cfc1750a",
+  "stderr_sha256": "446ff0ffd78aeb745263492c17a55ce198f883d87fd7800720043a1b562c71f8",
+  "stdout": "branch 'main' set up to track 'origin/main'.\n",
+  "stderr": "Switched to a new branch 'main'\n"
+}

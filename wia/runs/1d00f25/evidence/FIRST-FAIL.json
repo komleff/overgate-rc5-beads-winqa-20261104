@@ -1,0 +1,14 @@
+{
+  "case": "create-field-labels",
+  "source": "1d00f257202dbced5894b841e97f1945dad7a158",
+  "reason": {
+    "expected": [
+      "windows-qa",
+      "synthetic"
+    ],
+    "actual": [
+      "synthetic",
+      "windows-qa"
+    ]
+  }
+}

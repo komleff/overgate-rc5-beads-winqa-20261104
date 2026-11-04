@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "show",
+    "b4e8a10366dc205dbae2aef32a0a8487a35588f3:.beads/overgate-ledger.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+  "exit_code": 128,
+  "expected_exit": [
+    0,
+    128
+  ],
+  "seconds": 0.023,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "3bec4f61a722298f0b2bdf25f99b89c0e8601a3e57a5ef45b48c57ccc4d5d706",
+  "stdout": "",
+  "stderr": "fatal: path '.beads/overgate-ledger.json' does not exist in 'b4e8a10366dc205dbae2aef32a0a8487a35588f3'\n"
+}

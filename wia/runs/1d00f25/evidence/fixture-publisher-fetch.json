@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "fetch",
+    "origin",
+    "main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.124,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "e585133e9149caac40bc16aa6009ca5a67acd366dcc17b0001d6c2769238a12b",
+  "stdout": "",
+  "stderr": "From D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\origin\n * branch            main       -> FETCH_HEAD\n   1d00f25..020e7ad  main       -> origin/main\n"
+}

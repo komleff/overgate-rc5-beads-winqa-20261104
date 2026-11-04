@@ -1,0 +1,24 @@
+{
+  "primary": {
+    "path": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-a",
+    "head": "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64",
+    "refs": "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64 refs/heads/main\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/heads/qa/linked\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/heads/qa/preparation\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/remotes/origin/HEAD\nb4e8a10366dc205dbae2aef32a0a8487a35588f3 refs/remotes/origin/beads-backup\n020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64 refs/remotes/origin/main\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/remotes/origin/qa/preparation",
+    "status": "",
+    "index_sha256": "c15120aad10e64eb8a00ea77cb65abb510c954ceb2aa3867b8701b0059a12b47"
+  },
+  "publisher": {
+    "path": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+    "head": "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64",
+    "refs": "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64 refs/heads/main\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/heads/qa/preparation\nb4e8a10366dc205dbae2aef32a0a8487a35588f3 refs/overgate-bd-managed/last-seen\nb4e8a10366dc205dbae2aef32a0a8487a35588f3 refs/overgate-bd-managed/pending/880672970795c05a7422aa50183cbe4978d544f39cd8928f5a436bd28a7ef0c9/b4e8a10366dc205dbae2aef32a0a8487a35588f3\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/remotes/origin/HEAD\nb4e8a10366dc205dbae2aef32a0a8487a35588f3 refs/remotes/origin/beads-backup\n020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64 refs/remotes/origin/main\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/remotes/origin/qa/preparation",
+    "status": "",
+    "index_sha256": "c15120aad10e64eb8a00ea77cb65abb510c954ceb2aa3867b8701b0059a12b47"
+  },
+  "linked": {
+    "path": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\linked",
+    "head": "9f107d92dfcb2a9cc02b7d9008546db8812bdcf0",
+    "refs": "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64 refs/heads/main\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/heads/qa/linked\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/heads/qa/preparation\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/remotes/origin/HEAD\nb4e8a10366dc205dbae2aef32a0a8487a35588f3 refs/remotes/origin/beads-backup\n020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64 refs/remotes/origin/main\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/remotes/origin/qa/preparation",
+    "status": "",
+    "index_sha256": "607503726b0402e6b17ccb4eb64518d52f8b3df899154eb5138e452d7e1dead2"
+  },
+  "bare": "9f107d92dfcb2a9cc02b7d9008546db8812bdcf0\tHEAD\nb4e8a10366dc205dbae2aef32a0a8487a35588f3\trefs/heads/beads-backup\n020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64\trefs/heads/main\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0\trefs/heads/qa/preparation"
+}

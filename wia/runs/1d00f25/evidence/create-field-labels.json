@@ -1,0 +1,13 @@
+{
+  "result": "FAIL",
+  "details": {
+    "expected": [
+      "windows-qa",
+      "synthetic"
+    ],
+    "actual": [
+      "synthetic",
+      "windows-qa"
+    ]
+  }
+}

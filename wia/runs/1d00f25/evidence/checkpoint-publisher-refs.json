@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "show-ref"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.021,
+  "stdout_sha256": "1613736d8b539dc3561ae2f4c7bfad6c641b688c85b39190669e9179c0a735f8",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64 refs/heads/main\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/heads/qa/preparation\nb4e8a10366dc205dbae2aef32a0a8487a35588f3 refs/overgate-bd-managed/last-seen\nb4e8a10366dc205dbae2aef32a0a8487a35588f3 refs/overgate-bd-managed/pending/880672970795c05a7422aa50183cbe4978d544f39cd8928f5a436bd28a7ef0c9/b4e8a10366dc205dbae2aef32a0a8487a35588f3\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/remotes/origin/HEAD\nb4e8a10366dc205dbae2aef32a0a8487a35588f3 refs/remotes/origin/beads-backup\n020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64 refs/remotes/origin/main\n9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/remotes/origin/qa/preparation\n",
+  "stderr": ""
+}

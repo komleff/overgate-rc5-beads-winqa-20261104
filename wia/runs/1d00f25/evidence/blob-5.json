@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "show",
+    "1d00f257202dbced5894b841e97f1945dad7a158:scripts/bd-read.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.022,
+  "stdout_sha256": "9e69f20fb36dcddc7ec07bab93dac83d9c7dc2a7caca110cff43fffc8c0d3cfd",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "#!/usr/bin/env bash\n# Чтение задач Beads из снимка origin/beads-backup без bd и без базы.\n# Для облачного контейнера (нет bd) и для быстрого чтения из worktree. правила проекта .claude/rules/beads.md.\n#\n# Usage:\n#   bash scripts/bd-read.sh list  [--status S] [--priority N] [--assignee A] [--type T] [--json]\n#   bash scripts/bd-read.sh show  <id> [--json]\n#   bash scripts/bd-read.sh ready [--json]\n#\n# Env:\n#   BD_READ_REF=origin/beads-backup   ref снимка (по умолчанию); авто-fetch только для него,\n#                                     кастомный ref читается как есть (fetch'ит вызывающий)\n#   BD_READ_NO_FETCH=1                не делать fetch (читать закэшированный ref)\n#   BD_READ_FIXTURE=path              читать из локального JSONL (для тестов)\nset -euo pipefail\n\nSCRIPT_DIR=\"$(cd \"$(dirname \"${BASH_SOURCE[0]}\")\" && pwd)\"\n# shellcheck source=scripts/lib/bd-env.sh\n. \"${SCRIPT_DIR}/lib/bd-env.sh\"\n\nREF=\"${BD_READ_REF:-origin/${BD_BACKUP_BRANCH}}\"\nENGINE=\"${SCRIPT_DIR}/lib/bd-read-engine.mjs\"\nREF_SHA=\"\"\n\nif [ $# -lt 1 ]; then\n  echo \"Usage: bd-read.sh <list|show <id>|ready> [флаги]\" >&2\n  exit 1\nfi\n\n# Источник снимка: фикстура (тесты) либо git-объект ref'а.\nread_snapshot() {\n  if [ -n \"${BD_READ_FIXTURE:-}\" ]; then\n    cat \"$BD_READ_FIXTURE\"\n    return\n  fi\n  # Авто-fetch только для КАНОНИЧЕСКОГО ref (origin/beads-backup): bd_env_fetch_backup\n  # обновляет именно его. Кастомный BD_READ_REF (напр. локальный/другой ref) читается\n  # как есть — им управляет вызывающий (иначе fetch не соответствовал бы REF).\n  if [ -z \"${BD_READ_NO_FETCH:-}\" ] && [ \"$REF\" = \"origin/${BD_BACKUP_BRANCH}\" ]; then\n    # fail-closed по умолчанию: устаревший снимок → неверные заявки. Stale-чтение —\n    # только явным BD_READ_NO_FETCH=1.\n    if ! bd_env_fetch_backup; then\n      echo \"ERROR: fetch ${REF} не удался — снимок мог устареть (fail-closed).\" >&2\n      echo \"       Проверьте git-доступ; для чтения закэшированного снимка — BD_READ_NO_FETCH=1.\" >&2\n      return 1\n    fi\n  fi\n  if ! REF_SHA=\"$(git rev-parse --verify \"${REF}^{commit}\" 2>/dev/null)\"; then\n    echo \"ERROR: снимок ${REF} не разрешён в commit SHA (fail-closed).\" >&2\n    return 1\n  fi\n  if ! git show \"${REF_SHA}:.beads/issues.jsonl\" 2>/dev/null; then\n    echo \"ERROR: снимок ${REF}:.beads/issues.jsonl не найден.\" >&2\n    echo \"       Проверьте git-доступ к origin и наличие ветки beads-backup.\" >&2\n    return 1\n  fi\n}\n\n# Снимок получаем целиком ДО движка: при ошибке git show node иначе получил бы пустой stdin\n# и напечатал «(нет задач)» прежде, чем pipeline упадёт по pipefail — двусмысленный вывод.\nSNAP=\"$(mktemp \"${TMPDIR:-/tmp}/overgate-bd-read.XXXXXX\")\"\ntrap 'rm -f \"$SNAP\"' EXIT\nif ! read_snapshot > \"$SNAP\"; then\n  exit 1\nfi\nif [ -z \"${BD_READ_FIXTURE:-}\" ]; then\n  node \"${SCRIPT_DIR}/lib/bd-managed-read-check.mjs\" \"$REF_SHA\" \"$SNAP\"\nfi\nnode \"$ENGINE\" \"$@\" < \"$SNAP\"\n",
+  "stderr": ""
+}

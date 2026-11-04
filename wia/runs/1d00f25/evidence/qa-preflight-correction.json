@@ -1,0 +1,5 @@
+{
+  "classification": "QA assertion correction; candidate not executed",
+  "reason": "tracked reference metadata.json is a descriptor, not a legacy store; original false preflight receipt preserved",
+  "source": "1d00f257202dbced5894b841e97f1945dad7a158"
+}

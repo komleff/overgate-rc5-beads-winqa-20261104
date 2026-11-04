@@ -1,0 +1,8 @@
+{
+  "classification": "QA fixture transport, not product FAIL",
+  "original_receipt": "source-to-local-main.json",
+  "reason": "shallow fetch cannot be transferred to non-shallow bare origin",
+  "resolution": "fetch complete source ancestry before fixture main publication",
+  "setup_run": false,
+  "task_mutations": 0
+}

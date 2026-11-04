@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "HEAD"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-a",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.027,
+  "stdout_sha256": "211c606cb340dddd054ca58d8677c08b0ed569c323bb5babdb6dab027bbf396b",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64\n",
+  "stderr": ""
+}

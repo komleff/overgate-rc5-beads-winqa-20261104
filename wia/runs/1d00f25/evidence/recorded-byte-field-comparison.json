@@ -1,0 +1,87 @@
+{
+  "method": "read-only postprocessing of existing captured publication/peer bytes; no candidate rerun",
+  "labels_semantics": "unordered distinct set",
+  "fields": {
+    "title": {
+      "expected": "Windows managed QA — synthetic task",
+      "actual": "Windows managed QA — synthetic task",
+      "result": "PASS"
+    },
+    "issue_type": {
+      "expected": "bug",
+      "actual": "bug",
+      "result": "PASS"
+    },
+    "priority": {
+      "expected": 2,
+      "actual": 2,
+      "result": "PASS"
+    },
+    "description": {
+      "expected": "Synthetic disposable data only.\nКириллица: сохранение полей.",
+      "actual": "Synthetic disposable data only.\nКириллица: сохранение полей.",
+      "result": "PASS"
+    },
+    "acceptance_criteria": {
+      "expected": "Published ID and claim match peer snapshot.",
+      "actual": "Published ID and claim match peer snapshot.",
+      "result": "PASS"
+    },
+    "notes": {
+      "expected": "Initial notes\nВторая строка",
+      "actual": "Initial notes\nВторая строка",
+      "result": "PASS"
+    },
+    "labels": {
+      "expected": [
+        "windows-qa",
+        "synthetic"
+      ],
+      "actual": [
+        "synthetic",
+        "windows-qa"
+      ],
+      "result": "PASS"
+    },
+    "external_ref": {
+      "expected": "https://example.invalid/windows-qa",
+      "actual": "https://example.invalid/windows-qa",
+      "result": "PASS"
+    },
+    "due_at": {
+      "expected": "2026-12-01T12:00:00Z",
+      "actual": "2026-12-01T12:00:00Z",
+      "result": "PASS"
+    },
+    "metadata": {
+      "expected": {
+        "suite": "wia",
+        "nested": {
+          "text": "Кириллица",
+          "enabled": true,
+          "count": 3,
+          "items": [
+            1,
+            null,
+            "a"
+          ]
+        }
+      },
+      "actual": {
+        "suite": "wia",
+        "nested": {
+          "text": "Кириллица",
+          "count": 3,
+          "items": [
+            1,
+            null,
+            "a"
+          ],
+          "enabled": true
+        }
+      },
+      "result": "PASS"
+    }
+  },
+  "result": "PASS"
+}

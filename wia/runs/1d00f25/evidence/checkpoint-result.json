@@ -1,0 +1,26 @@
+{
+  "result": "NOT RUN for WI-A acceptance — PM HOLD",
+  "source": "1d00f257202dbced5894b841e97f1945dad7a158",
+  "target": "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64",
+  "pass_scoped": [
+    "binary identity",
+    "trusted fixture candidate bytes",
+    "setup",
+    "verified-absent bootstrap",
+    "native create/claim",
+    "claims.confirmed",
+    "peer full-object same-SHA read-back",
+    "recorded field values"
+  ],
+  "not_run": [
+    "update/close",
+    "linked/isolated managed routes",
+    "B1/B2/B3 address negatives",
+    "AC3/AC4 race/retry",
+    "Linux/macOS/whole-release"
+  ],
+  "issue_id": "wqa-z5e",
+  "published_sha": "b4e8a10366dc205dbae2aef32a0a8487a35588f3",
+  "mutations": 2,
+  "stop_reason": "PM HOLD 6639435396 arrived through active five-minute monitor; no further product operations"
+}

@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "details": {
+    "expected": "Synthetic disposable data only.\nКириллица: сохранение полей.",
+    "actual": "Synthetic disposable data only.\nКириллица: сохранение полей."
+  }
+}

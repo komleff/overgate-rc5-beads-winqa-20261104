@@ -1,0 +1,27 @@
+{
+  "source": "1d00f257202dbced5894b841e97f1945dad7a158",
+  "files": {
+    ".agents/HOW_TO_USE.md": "414293ab002950e3d4a51465195cf6b26909c97ff253207c5260ea68ef240874",
+    "AGENTS.md": "93979505df54f082844c9a307c9ce5a4053438687c58cdd1651d35f80fb349dc",
+    "docs/plans/2026-11-03-v4.0.0-rc.5-beads.md": "c4ae45cb7b891afcc066f809ac51ba0a7488018332939c5d8870e29c90a867cd",
+    "scripts/bd-apply-intents.sh": "32c2e92c1147ec20c660e3228eca959aab64e80c40b62236864a92c987a7bf59",
+    "scripts/bd-publisher-setup.mjs": "fd38bd17226a62e910304f5dcc956b054ded055f2d2a3444ae395fea737d1148",
+    "scripts/bd-read.sh": "9e69f20fb36dcddc7ec07bab93dac83d9c7dc2a7caca110cff43fffc8c0d3cfd",
+    "scripts/bd-sync-export.sh": "2ea17c30c38cabe513f52d1db0576bc755f65f0913faf387c790bc45043279cc",
+    "scripts/bd-sync-restore.sh": "fea2109bd34c5cc49cea8159a203aee1d220c8b121f494d11f481b5ab11d80ff",
+    "scripts/bd-wt.sh": "fa07d8e8b7c268f085e249c6423c66a1171aa7b0060ab30ca61d34207f65b171",
+    "scripts/lib/bd-env.sh": "5e4ffb08ed0791150e4b51c3df73828bf47170f474b18b1c5c0c8b8af268fd27",
+    "scripts/lib/bd-managed-cli.mjs": "7295149c80811cee72a198e3c59b6665eefa50a03631bd858cb7d7558a28d04a",
+    "scripts/lib/bd-managed-contract.mjs": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+    "scripts/lib/bd-managed-entry.mjs": "b82c7bb733cbd33255840aee747a0b5f8dfe04f11a4e1e46da304314863b4dab",
+    "scripts/lib/bd-managed-git.mjs": "4f460e551db39ca0a3dc3a4c3916ee230046dd80e1aceb4b5ebb40280035c5c2",
+    "scripts/lib/bd-managed-journal.mjs": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+    "scripts/lib/bd-managed-project.mjs": "1d231bb57aacfd34e1426813b1119b9fa54820a2230cf08c315ce3c5e332b489",
+    "scripts/lib/bd-managed-read-check.mjs": "50c6842ac5dbc7fb76faafc190108cd1e18008b3f71c9c0040138f3d22c6fc7a",
+    "scripts/lib/bd-managed-transaction.mjs": "2f4fad6f23be205a2a3e77dc29f07b2bd81c6320c80c6bb9abc7cc4703d4f420",
+    "scripts/lib/bd-publisher-push-guard.mjs": "7c7f89150b0fc0bfa39ae7ded391ea5196ac077722e1ecc7034f6e3879434074",
+    "scripts/lib/bd-read-engine.mjs": "df581a2d632230de1f78015c03f840cd07296218840207d9ec76525a3289498b",
+    "scripts/lib/bd-snapshot.mjs": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e"
+  },
+  "sha256": "95c12a9018937c48fbdd33fbf7c2a0f8adf463dbfaaec3f288ce4b0a77a73556"
+}

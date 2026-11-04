@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "fetch",
+    "--depth=1",
+    "https://github.com/komleff/overgate.git",
+    "1d00f257202dbced5894b841e97f1945dad7a158"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 4.049,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "59a2cc74220c94cc066fca0f202ba25401de73f7490a4f16a4f5c10624fdac9f",
+  "stdout": "",
+  "stderr": "From https://github.com/komleff/overgate\n * branch            1d00f257202dbced5894b841e97f1945dad7a158 -> FETCH_HEAD\n"
+}

@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "details": {
+    "status": "validated",
+    "R": "0000000000000000000000000000000000000000",
+    "records": 0,
+    "managed": false,
+    "legacy_store": "untouched"
+  }
+}

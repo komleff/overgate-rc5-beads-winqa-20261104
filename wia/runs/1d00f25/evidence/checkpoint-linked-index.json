@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "ls-files",
+    "-s",
+    "-z"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\linked",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.02,
+  "stdout_sha256": "607503726b0402e6b17ccb4eb64518d52f8b3df899154eb5138e452d7e1dead2",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "100644 dfdb8b771ce07609491fa2e83698969fd917a135 0\t.gitattributes\u0000100644 563026ede37bd53b7a25d7668c3e96c212df8e6b 0\tREADME.md\u0000",
+  "stderr": ""
+}

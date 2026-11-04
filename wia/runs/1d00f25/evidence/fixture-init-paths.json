@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "diff",
+    "--name-only",
+    "1d00f257202dbced5894b841e97f1945dad7a158",
+    "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-a",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.032,
+  "stdout_sha256": "1428263ddd4a7c298ff039ac35cac39bed0dbf5e955873dd81c5aaecfd87c17d",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": ".beads/.gitignore\n.beads/README.md\n.beads/interactions.jsonl\n.beads/metadata.json\n.gitignore\n",
+  "stderr": ""
+}

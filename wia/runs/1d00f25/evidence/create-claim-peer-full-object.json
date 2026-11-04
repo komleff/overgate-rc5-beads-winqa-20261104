@@ -1,0 +1,81 @@
+{
+  "result": "PASS",
+  "details": {
+    "publisher": {
+      "_type": "issue",
+      "id": "wqa-z5e",
+      "title": "Windows managed QA — synthetic task",
+      "description": "Synthetic disposable data only.\nКириллица: сохранение полей.",
+      "acceptance_criteria": "Published ID and claim match peer snapshot.",
+      "notes": "Initial notes\nВторая строка",
+      "status": "in_progress",
+      "priority": 2,
+      "issue_type": "bug",
+      "assignee": "agent-a2081464-1158-48ce-b6c4-42f3324f9918",
+      "created_at": "2026-11-04T19:06:17Z",
+      "created_by": "agent-a2081464-1158-48ce-b6c4-42f3324f9918",
+      "updated_at": "2026-11-04T19:06:17Z",
+      "started_at": "2026-11-04T19:06:17Z",
+      "due_at": "2026-12-01T12:00:00Z",
+      "external_ref": "https://example.invalid/windows-qa",
+      "metadata": {
+        "suite": "wia",
+        "nested": {
+          "text": "Кириллица",
+          "count": 3,
+          "items": [
+            1,
+            null,
+            "a"
+          ],
+          "enabled": true
+        }
+      },
+      "labels": [
+        "synthetic",
+        "windows-qa"
+      ],
+      "dependency_count": 0,
+      "dependent_count": 0,
+      "comment_count": 0
+    },
+    "peer": {
+      "_type": "issue",
+      "id": "wqa-z5e",
+      "title": "Windows managed QA — synthetic task",
+      "description": "Synthetic disposable data only.\nКириллица: сохранение полей.",
+      "acceptance_criteria": "Published ID and claim match peer snapshot.",
+      "notes": "Initial notes\nВторая строка",
+      "status": "in_progress",
+      "priority": 2,
+      "issue_type": "bug",
+      "assignee": "agent-a2081464-1158-48ce-b6c4-42f3324f9918",
+      "created_at": "2026-11-04T19:06:17Z",
+      "created_by": "agent-a2081464-1158-48ce-b6c4-42f3324f9918",
+      "updated_at": "2026-11-04T19:06:17Z",
+      "started_at": "2026-11-04T19:06:17Z",
+      "due_at": "2026-12-01T12:00:00Z",
+      "external_ref": "https://example.invalid/windows-qa",
+      "metadata": {
+        "suite": "wia",
+        "nested": {
+          "text": "Кириллица",
+          "count": 3,
+          "items": [
+            1,
+            null,
+            "a"
+          ],
+          "enabled": true
+        }
+      },
+      "labels": [
+        "synthetic",
+        "windows-qa"
+      ],
+      "dependency_count": 0,
+      "dependent_count": 0,
+      "comment_count": 0
+    }
+  }
+}

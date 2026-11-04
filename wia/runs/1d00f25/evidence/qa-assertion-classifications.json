@@ -1,0 +1,22 @@
+[
+  {
+    "receipt": "source-to-local-main.json",
+    "kind": "QA fixture transport error",
+    "reason": "shallow Git transfer; fixed by complete ancestry fetch before candidate execution"
+  },
+  {
+    "receipt": "publisher-legacy-absent-pre.json",
+    "kind": "QA overstrict preflight assertion",
+    "reason": "tracked reference metadata mistaken for existing database; actual store absent"
+  },
+  {
+    "receipt": "primary-still-exact-pin.json",
+    "kind": "QA fixture binding assertion",
+    "reason": "native bd init makes project-state commit; newer RUN requires candidate-byte equivalence + trusted fixture main; both established before setup"
+  },
+  {
+    "receipt": "create-field-labels.json",
+    "kind": "QA ordered-array comparison error",
+    "reason": "labels set contents identical; original false FAIL preserved; postprocessing only existing bytes confirms semantic equality"
+  }
+]

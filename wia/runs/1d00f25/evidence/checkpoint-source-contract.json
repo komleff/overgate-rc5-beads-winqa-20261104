@@ -1,0 +1,10 @@
+{
+  "source": "1d00f257202dbced5894b841e97f1945dad7a158",
+  "target": "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64",
+  "source_fingerprint": "95c12a9018937c48fbdd33fbf7c2a0f8adf463dbfaaec3f288ce4b0a77a73556",
+  "contract_sha256": "40cfc7c8320c921e7d66c9c74f7769b61598b6841670e05b2c795aa2c7adfc0a",
+  "contract_bytes": 1255,
+  "plan_blob": "ceefa86186c62b4c754a59841710128a1ee9bbce",
+  "scripts_tree": "853c8480eb4f38b91e73cef92a1a5e58606a5775",
+  "combined_fingerprint": "75d6da66af2e6cc7f425e97cf80784bca3dcc3dc0da0a207721e28a94c8922a0"
+}

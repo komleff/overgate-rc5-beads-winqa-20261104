@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-apply-intents.sh",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\run-1d00f25\\queues\\create-claim.v2.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 5.113,
+  "stdout_sha256": "8cc3de51817afc0ed54a1fbdcaf0a72643aff35b961f378c7ad893a1d771277f",
+  "stderr_sha256": "b45c252996d1ccbfc00cd47256aed87ea8edd91e07be7d3c625a15b37f83bbca",
+  "stdout": "{\"status\":\"published\",\"published_sha\":\"b4e8a10366dc205dbae2aef32a0a8487a35588f3\",\"queue_hash\":\"880672970795c05a7422aa50183cbe4978d544f39cd8928f5a436bd28a7ef0c9\",\"mutations\":2,\"outcomes\":[{\"intent_id\":\"win-create-001\",\"payload_hash\":\"29367b2db951285d8996a89d154b307acbc3a2c6dca7f18eb9ed41f9e9156c7f\",\"result\":{\"handles\":{\"tmp:task\":\"wqa-z5e\"},\"ref\":\"wqa-z5e\"}},{\"intent_id\":\"win-claim-001\",\"payload_hash\":\"4fa1f7ad511b900f4cd10496dd3a2cb8f458a4aca63d4a6640c9a37dcbce39ca\",\"result\":{\"ref\":\"wqa-z5e\"}}],\"claims\":[{\"id\":\"wqa-z5e\",\"actor\":\"agent-a2081464-1158-48ce-b6c4-42f3324f9918\",\"status\":\"in_progress\",\"assignee\":\"agent-a2081464-1158-48ce-b6c4-42f3324f9918\",\"confirmed\":true}]}\n",
+  "stderr": "Warning: failed to commit beads files: exit status 128\n\n⚠ No Dolt remote configured\n  Issues are stored in local Dolt. .beads/issues.jsonl is an export,\n  not cross-machine sync or the source of truth.\n  To enable durable sync, add a git origin and then run:\n    bd dolt push\nExported 0 issues to C:\\Users\\komle\\AppData\\Local\\Temp\\overgate-bd-managed-StVdha\\evidence\\export-1.jsonl\nExported 1 issues to C:\\Users\\komle\\AppData\\Local\\Temp\\overgate-bd-managed-StVdha\\evidence\\export-2.jsonl\n"
+}

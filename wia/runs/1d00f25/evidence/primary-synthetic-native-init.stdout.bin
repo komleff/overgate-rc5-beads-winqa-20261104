@@ -1,0 +1,14 @@
+  Repository ID: cf11067d
+  Clone ID: 2d70c328732e970d
+  ✓ Committed beads files to git
+
+✓ bd initialized successfully!
+
+  Backend: dolt
+  Mode: embedded
+  Database: og
+  Issue prefix: wqa
+  Issues will be named: wqa-<hash> (e.g., wqa-a3f2dd)
+
+Run bd quickstart to get started.
+

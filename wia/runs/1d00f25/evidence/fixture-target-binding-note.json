@@ -1,0 +1,8 @@
+{
+  "source": "1d00f257202dbced5894b841e97f1945dad7a158",
+  "target": "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64",
+  "reason": "native bd init created its own Git commit; RUN packet requires exact candidate helper bytes and fixture HEAD==origin/main, not synthetic commit==source SHA",
+  "initialization_receipt": "primary-synthetic-native-init.json",
+  "source_scripts_changed": false,
+  "task_mutations": 0
+}

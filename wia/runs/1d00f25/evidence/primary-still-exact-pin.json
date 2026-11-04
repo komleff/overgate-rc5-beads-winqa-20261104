@@ -1,0 +1,4 @@
+{
+  "result": "FAIL",
+  "details": "bd init must not move source HEAD"
+}

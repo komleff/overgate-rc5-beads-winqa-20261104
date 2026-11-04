@@ -1,0 +1,24 @@
+{
+  "argv": [
+    "node",
+    "scripts/bd-publisher-setup.mjs",
+    "--primary-root",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-a",
+    "--publisher-root",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+    "--qualified-cli",
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\run-1d00f25\\setup-plan.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 2.012,
+  "stdout_sha256": "fe0a2cd6a51fcb478c3a5af41f2a699fa79946c0c61de3c1efeb0a6e3e6105b4",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "PREPARE plan 61077b0108ad509d0a94ae07720e2d8de981904b731254d33688a4e629a1f7c3\n",
+  "stderr": ""
+}

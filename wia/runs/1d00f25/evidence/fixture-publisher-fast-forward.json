@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "git",
+    "-c",
+    "core.autocrlf=false",
+    "merge",
+    "--ff-only",
+    "origin/main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.048,
+  "stdout_sha256": "5892e32b78f47c3af3f509d36a458910924f1d2a876efc0b37d8745a6f8922e9",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "Updating 1d00f25..020e7ad\nFast-forward\n .beads/.gitignore         | 10 ++++--\n .beads/README.md          | 81 +++++++++++++++++++++++++++++++++++++++++++++++\n .beads/interactions.jsonl |  0\n .beads/metadata.json      |  2 +-\n .gitignore                |  4 +++\n 5 files changed, 93 insertions(+), 4 deletions(-)\n create mode 100644 .beads/README.md\n create mode 100644 .beads/interactions.jsonl\n",
+  "stderr": ""
+}

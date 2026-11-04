@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "source": "1d00f257202dbced5894b841e97f1945dad7a158",
+  "target": "020e7ad5fbc1c4d078e8f0ea349bd908df6ffa64",
+  "primary": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-a",
+  "publisher": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+  "prefix": "wqa",
+  "actor": "agent-a2081464-1158-48ce-b6c4-42f3324f9918",
+  "bootstrap": {
+    "status": "bootstrapped",
+    "base": "0000000000000000000000000000000000000000",
+    "actor": "agent-a2081464-1158-48ce-b6c4-42f3324f9918",
+    "outcome": "verified-absent",
+    "legacy_store": "untouched"
+  }
+}

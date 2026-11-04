@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "details": {
+    "expected": "Initial notes\nВторая строка",
+    "actual": "Initial notes\nВторая строка"
+  }
+}

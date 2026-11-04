@@ -1,0 +1,24 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-apply-intents.sh",
+    "--prepare",
+    "--base",
+    "0000000000000000000000000000000000000000",
+    "--actor",
+    "agent-a2081464-1158-48ce-b6c4-42f3324f9918",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\run-1d00f25\\queues\\create-claim.v2.jsonl",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\run-1d00f25\\queues\\create-claim.raw.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.761,
+  "stdout_sha256": "38dac9ddc7e2f91e1d36602d19fb9207380e1d594611329a10b3feac38005026",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "{\"status\":\"prepared\",\"base\":\"0000000000000000000000000000000000000000\",\"actor\":\"agent-a2081464-1158-48ce-b6c4-42f3324f9918\",\"output\":\"D:\\\\CodexArtifacts\\\\overgate-rc5-wia-winqa-20261105\\\\run-1d00f25\\\\queues\\\\create-claim.v2.jsonl\",\"operations\":2,\"payload_hashes\":[\"29367b2db951285d8996a89d154b307acbc3a2c6dca7f18eb9ed41f9e9156c7f\",\"4fa1f7ad511b900f4cd10496dd3a2cb8f458a4aca63d4a6640c9a37dcbce39ca\"]}\n",
+  "stderr": ""
+}

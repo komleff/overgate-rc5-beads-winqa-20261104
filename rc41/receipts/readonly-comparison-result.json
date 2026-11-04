@@ -1,0 +1,204 @@
+{
+  "source_sha": "825c0b9d9e2ad7fe61182836649008a47a34c0c4",
+  "pm_authorization": [
+    6634342369,
+    6634357455
+  ],
+  "root": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty\\peer-empty",
+  "frozen_R": "9ab3001ce8979a8d73868d47c47f4d8f721abe19",
+  "read_only_commands_only": true,
+  "candidate_bootstrap_restore_bd_invoked": false,
+  "before": {
+    "head": "b02a1172f9dbd2246a2aa4b7d1ea459445bd49c3",
+    "index_sha256": "1196c88837156f7dec3a6c8ba37055c5c264881227e31faf8d69482beff8d503",
+    "files": {
+      "README.md": "654007c696bfa6497506d3e4b6fdf41fbf3631c162e31aff150bb4b4dc57b87d",
+      "sentinel.txt": null,
+      ".beads/metadata.json": "4758f7e9962888b820d7f06220624b3ddb25a71a0e3bc8079c1a7c7d16428bfc",
+      ".beads/config.yaml": "ea94dc4f0da51dcf87072043a0d561ff14adc0706518a44418bc092ec664f511"
+    },
+    "origin_refs": "9ab3001ce8979a8d73868d47c47f4d8f721abe19\trefs/heads/beads-backup\nb02a1172f9dbd2246a2aa4b7d1ea459445bd49c3\trefs/heads/qa/project",
+    "local_db_exists": true
+  },
+  "after": {
+    "head": "b02a1172f9dbd2246a2aa4b7d1ea459445bd49c3",
+    "index_sha256": "1196c88837156f7dec3a6c8ba37055c5c264881227e31faf8d69482beff8d503",
+    "files": {
+      "README.md": "654007c696bfa6497506d3e4b6fdf41fbf3631c162e31aff150bb4b4dc57b87d",
+      "sentinel.txt": null,
+      ".beads/metadata.json": "4758f7e9962888b820d7f06220624b3ddb25a71a0e3bc8079c1a7c7d16428bfc",
+      ".beads/config.yaml": "ea94dc4f0da51dcf87072043a0d561ff14adc0706518a44418bc092ec664f511"
+    },
+    "origin_refs": "9ab3001ce8979a8d73868d47c47f4d8f721abe19\trefs/heads/beads-backup\nb02a1172f9dbd2246a2aa4b7d1ea459445bd49c3\trefs/heads/qa/project",
+    "local_db_exists": true
+  },
+  "state_unchanged": true,
+  "contexts": [
+    {
+      "bash": "C:/Program Files/Git/bin/bash.exe",
+      "environment_method": "Same native initial environment as the outer QA harness; no candidate script sourced",
+      "commands": [
+        {
+          "name": "env",
+          "command": "printf 'MSYSTEM=%s\\nPATH=%s\\n' \"${MSYSTEM-}\" \"$PATH\"",
+          "returncode": 0,
+          "stdout": "MSYSTEM=MINGW64\nPATH=/mingw64/bin:/usr/bin:/c/Users/komle/bin:/d/CodexArtifacts/overgate-rc4-winqa-20261103/tools:/bin:/usr/bin:/c/Program Files/PowerShell/7:/d/AI/Codex/profile/tmp/arg0-windows/codex-arg0onMVEk:/c/Python314/Scripts:/c/Python314:/d/Python310/Scripts:/d/Python310:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files/dotnet:/c/Program Files/Process Lasso:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/d/Program Files/nodejs:/cmd:/c/ProgramData/chocolatey/bin:/d/Programs/Go/bin:/c/Program Files/GitHub CLI:/c/Program Files (x86)/HP/HP OCR/DB_Lib:/c/Program Files/HP/Common/HPDestPlgIn:/c/Program Files (x86)/HP/Common/HPDestPlgIn:/d/Docker/Docker/resources/bin:/c/Program Files/PowerShell/7:/c/Users/komle/bin:/mingw64/bin:/usr/local/bin:/usr/bin:/usr/bin:/mingw64/bin:/usr/bin:/c/Users/komle/bin:/c/Users/komle/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/c/Users/komle/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli:/d/Programs/Microsoft VS Code:/c/Python314/Scripts:/c/Python314:/d/Python310/Scripts:/d/Python310:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files/dotnet:/c/Program Files/Process Lasso:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/d/Program Files/nodejs:/cmd:/c/ProgramData/chocolatey/bin:/d/Programs/cursor/resources/app/bin:/d/Programs/Go/bin:/c/Program Files/GitHub CLI:/d/Docker/Docker/resources/bin:/c/Program Files/PowerShell/7:/c/Program Files/PowerShell/7:/c/Users/komle/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/c/Users/komle/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli:/c/Python314/Scripts:/c/Python314:/d/Python310/Scripts:/d/Python310:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files/dotnet:/c/Program Files/Process Lasso:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/d/Program Files/nodejs:/cmd:/c/ProgramData/chocolatey/bin:/c/Program Files/Docker/Docker/resources/bin:/c/Program Files/PowerShell/7:/d/Programs/cursor/resources/app/bin:/d/Programs/Go/bin:/c/Program Files/GitHub CLI:/c/Program Files/GitHub CLI:/c/Users/komle/AppData/Local/Microsoft/WindowsApps:/c/Users/komle/AppData/Roaming/npm:/c/Users/komle/AppData/Local/GitHubDesktop/bin:/d/Programs/Microsoft VS Code/bin:/c/Users/komle/.dotnet/tools:/c/Users/komle/go/bin:/usr/bin:/c/Users/komle/.vscode/extensions/ms-python.debugpy-2025.18.0-win32-x64/bundled/scripts/noConfigScripts:/usr/bin:/usr/bin/vendor_perl:/usr/bin/core_perl:/c/Users/komle/PowerShell/7.6.0:/c/Program Files/HP/Common/HPDestPlgIn:/c/Program Files (x86)/HP/Common/HPDestPlgIn:/c/Users/komle/AppData/Local/Unity/bin:/c/Users/komle/.dotnet/tools:/c/Users/komle/AppData/Local/Microsoft/WinGet/Packages/astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe:/d/u2-nextfest-final-temp-20260831/dotnet-home/.dotnet/tools:/c/Users/komle/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe:/c/Users/komle/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg.Essentials_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-9.0.1-essentials_build/bin:/d/Programs/Microsoft VS Code/bin/copilot-shim:/c/Users/komle/.vscode/extensions/openai.chatgpt-26.1021.22027-win32-x64/bin/windows-x86_64\n",
+          "stdout_length": 4039,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-bin-env.stdout.bin",
+          "raw_stderr_file": "readonly-bin-env.stderr.bin"
+        },
+        {
+          "name": "pwd",
+          "command": "pwd",
+          "returncode": 0,
+          "stdout": "/d/CodexArtifacts/overgate-rc41-winqa-20261104/cases/empty/peer-empty\n",
+          "stdout_length": 70,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-bin-pwd.stdout.bin",
+          "raw_stderr_file": "readonly-bin-pwd.stderr.bin"
+        },
+        {
+          "name": "git-path",
+          "command": "command -v git",
+          "returncode": 0,
+          "stdout": "/mingw64/bin/git\n",
+          "stdout_length": 17,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-bin-git-path.stdout.bin",
+          "raw_stderr_file": "readonly-bin-git-path.stderr.bin"
+        },
+        {
+          "name": "remote-tip",
+          "command": "git rev-parse refs/remotes/origin/beads-backup",
+          "returncode": 0,
+          "stdout": "9ab3001ce8979a8d73868d47c47f4d8f721abe19\n",
+          "stdout_length": 41,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-bin-remote-tip.stdout.bin",
+          "raw_stderr_file": "readonly-bin-remote-tip.stderr.bin"
+        },
+        {
+          "name": "show-ref",
+          "command": "git show origin/beads-backup:.beads/issues.jsonl",
+          "returncode": 128,
+          "stdout": "",
+          "stdout_length": 0,
+          "stderr": "fatal: ambiguous argument 'origin\\beads-backup;.beads\\issues.jsonl': unknown revision or path not in the working tree.\nUse '--' to separate paths from revisions, like this:\n'git <command> [<revision>...] -- [<file>...]'\n",
+          "stderr_raw_base64": "ZmF0YWw6IGFtYmlndW91cyBhcmd1bWVudCAnb3JpZ2luXGJlYWRzLWJhY2t1cDsuYmVhZHNcaXNzdWVzLmpzb25sJzogdW5rbm93biByZXZpc2lvbiBvciBwYXRoIG5vdCBpbiB0aGUgd29ya2luZyB0cmVlLgpVc2UgJy0tJyB0byBzZXBhcmF0ZSBwYXRocyBmcm9tIHJldmlzaW9ucywgbGlrZSB0aGlzOgonZ2l0IDxjb21tYW5kPiBbPHJldmlzaW9uPi4uLl0gLS0gWzxmaWxlPi4uLl0nCg==",
+          "raw_stdout_file": "readonly-bin-show-ref.stdout.bin",
+          "raw_stderr_file": "readonly-bin-show-ref.stderr.bin"
+        },
+        {
+          "name": "show-sha",
+          "command": "git show 9ab3001ce8979a8d73868d47c47f4d8f721abe19:.beads/issues.jsonl",
+          "returncode": 0,
+          "stdout": "",
+          "stdout_length": 0,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-bin-show-sha.stdout.bin",
+          "raw_stderr_file": "readonly-bin-show-sha.stderr.bin"
+        },
+        {
+          "name": "autocrlf",
+          "command": "git config --get core.autocrlf",
+          "returncode": 0,
+          "stdout": "false\n",
+          "stdout_length": 6,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-bin-autocrlf.stdout.bin",
+          "raw_stderr_file": "readonly-bin-autocrlf.stderr.bin"
+        }
+      ]
+    },
+    {
+      "bash": "C:/Program Files/Git/usr/bin/bash.exe",
+      "environment_method": "Same native initial environment as the outer QA harness; no candidate script sourced",
+      "commands": [
+        {
+          "name": "env",
+          "command": "printf 'MSYSTEM=%s\\nPATH=%s\\n' \"${MSYSTEM-}\" \"$PATH\"",
+          "returncode": 0,
+          "stdout": "MSYSTEM=\nPATH=/d/CodexArtifacts/overgate-rc4-winqa-20261103/tools:/bin:/usr/bin:/c/Program Files/PowerShell/7:/d/AI/Codex/profile/tmp/arg0-windows/codex-arg0onMVEk:/c/Python314/Scripts:/c/Python314:/d/Python310/Scripts:/d/Python310:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files/dotnet:/c/Program Files/Process Lasso:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/d/Program Files/nodejs:/cmd:/c/ProgramData/chocolatey/bin:/d/Programs/Go/bin:/c/Program Files/GitHub CLI:/c/Program Files (x86)/HP/HP OCR/DB_Lib:/c/Program Files/HP/Common/HPDestPlgIn:/c/Program Files (x86)/HP/Common/HPDestPlgIn:/d/Docker/Docker/resources/bin:/c/Program Files/PowerShell/7:/c/Users/komle/bin:/mingw64/bin:/usr/local/bin:/usr/bin:/usr/bin:/mingw64/bin:/usr/bin:/c/Users/komle/bin:/c/Users/komle/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/c/Users/komle/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli:/d/Programs/Microsoft VS Code:/c/Python314/Scripts:/c/Python314:/d/Python310/Scripts:/d/Python310:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files/dotnet:/c/Program Files/Process Lasso:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/d/Program Files/nodejs:/cmd:/c/ProgramData/chocolatey/bin:/d/Programs/cursor/resources/app/bin:/d/Programs/Go/bin:/c/Program Files/GitHub CLI:/d/Docker/Docker/resources/bin:/c/Program Files/PowerShell/7:/c/Program Files/PowerShell/7:/c/Users/komle/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/c/Users/komle/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli:/c/Python314/Scripts:/c/Python314:/d/Python310/Scripts:/d/Python310:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files/dotnet:/c/Program Files/Process Lasso:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/d/Program Files/nodejs:/cmd:/c/ProgramData/chocolatey/bin:/c/Program Files/Docker/Docker/resources/bin:/c/Program Files/PowerShell/7:/d/Programs/cursor/resources/app/bin:/d/Programs/Go/bin:/c/Program Files/GitHub CLI:/c/Program Files/GitHub CLI:/c/Users/komle/AppData/Local/Microsoft/WindowsApps:/c/Users/komle/AppData/Roaming/npm:/c/Users/komle/AppData/Local/GitHubDesktop/bin:/d/Programs/Microsoft VS Code/bin:/c/Users/komle/.dotnet/tools:/c/Users/komle/go/bin:/usr/bin:/c/Users/komle/.vscode/extensions/ms-python.debugpy-2025.18.0-win32-x64/bundled/scripts/noConfigScripts:/usr/bin:/usr/bin/vendor_perl:/usr/bin/core_perl:/c/Users/komle/PowerShell/7.6.0:/c/Program Files/HP/Common/HPDestPlgIn:/c/Program Files (x86)/HP/Common/HPDestPlgIn:/c/Users/komle/AppData/Local/Unity/bin:/c/Users/komle/.dotnet/tools:/c/Users/komle/AppData/Local/Microsoft/WinGet/Packages/astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe:/d/u2-nextfest-final-temp-20260831/dotnet-home/.dotnet/tools:/c/Users/komle/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe:/c/Users/komle/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg.Essentials_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-9.0.1-essentials_build/bin:/d/Programs/Microsoft VS Code/bin/copilot-shim:/c/Users/komle/.vscode/extensions/openai.chatgpt-26.1021.22027-win32-x64/bin/windows-x86_64\n",
+          "stdout_length": 3991,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-usr-bin-env.stdout.bin",
+          "raw_stderr_file": "readonly-usr-bin-env.stderr.bin"
+        },
+        {
+          "name": "pwd",
+          "command": "pwd",
+          "returncode": 0,
+          "stdout": "/d/CodexArtifacts/overgate-rc41-winqa-20261104/cases/empty/peer-empty\n",
+          "stdout_length": 70,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-usr-bin-pwd.stdout.bin",
+          "raw_stderr_file": "readonly-usr-bin-pwd.stderr.bin"
+        },
+        {
+          "name": "git-path",
+          "command": "command -v git",
+          "returncode": 0,
+          "stdout": "/cmd/git\n",
+          "stdout_length": 9,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-usr-bin-git-path.stdout.bin",
+          "raw_stderr_file": "readonly-usr-bin-git-path.stderr.bin"
+        },
+        {
+          "name": "remote-tip",
+          "command": "git rev-parse refs/remotes/origin/beads-backup",
+          "returncode": 0,
+          "stdout": "9ab3001ce8979a8d73868d47c47f4d8f721abe19\n",
+          "stdout_length": 41,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-usr-bin-remote-tip.stdout.bin",
+          "raw_stderr_file": "readonly-usr-bin-remote-tip.stderr.bin"
+        },
+        {
+          "name": "show-ref",
+          "command": "git show origin/beads-backup:.beads/issues.jsonl",
+          "returncode": 128,
+          "stdout": "",
+          "stdout_length": 0,
+          "stderr": "fatal: ambiguous argument 'origin\\beads-backup;.beads\\issues.jsonl': unknown revision or path not in the working tree.\nUse '--' to separate paths from revisions, like this:\n'git <command> [<revision>...] -- [<file>...]'\n",
+          "stderr_raw_base64": "ZmF0YWw6IGFtYmlndW91cyBhcmd1bWVudCAnb3JpZ2luXGJlYWRzLWJhY2t1cDsuYmVhZHNcaXNzdWVzLmpzb25sJzogdW5rbm93biByZXZpc2lvbiBvciBwYXRoIG5vdCBpbiB0aGUgd29ya2luZyB0cmVlLgpVc2UgJy0tJyB0byBzZXBhcmF0ZSBwYXRocyBmcm9tIHJldmlzaW9ucywgbGlrZSB0aGlzOgonZ2l0IDxjb21tYW5kPiBbPHJldmlzaW9uPi4uLl0gLS0gWzxmaWxlPi4uLl0nCg==",
+          "raw_stdout_file": "readonly-usr-bin-show-ref.stdout.bin",
+          "raw_stderr_file": "readonly-usr-bin-show-ref.stderr.bin"
+        },
+        {
+          "name": "show-sha",
+          "command": "git show 9ab3001ce8979a8d73868d47c47f4d8f721abe19:.beads/issues.jsonl",
+          "returncode": 0,
+          "stdout": "",
+          "stdout_length": 0,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-usr-bin-show-sha.stdout.bin",
+          "raw_stderr_file": "readonly-usr-bin-show-sha.stderr.bin"
+        },
+        {
+          "name": "autocrlf",
+          "command": "git config --get core.autocrlf",
+          "returncode": 0,
+          "stdout": "false\n",
+          "stdout_length": 6,
+          "stderr": "",
+          "stderr_raw_base64": "",
+          "raw_stdout_file": "readonly-usr-bin-autocrlf.stdout.bin",
+          "raw_stderr_file": "readonly-usr-bin-autocrlf.stderr.bin"
+        }
+      ]
+    }
+  ]
+}

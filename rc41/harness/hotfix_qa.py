@@ -14,8 +14,18 @@ def save(name,value):
     p=E/(name+'.json');p.write_text(json.dumps(value,ensure_ascii=False,indent=2),encoding='utf-8',newline='\n');return p
 def run(args,cwd=B,label=None,extra=None,expected_zero=True,input=None):
     env=dict(BASE,**(extra or {}));started=time.time()
-    p=subprocess.run([str(x) for x in args],cwd=cwd,env=env,input=input,capture_output=True,text=True,encoding='utf-8',errors='replace')
-    record={'argv':[str(x) for x in args],'cwd':str(cwd),'environment_overrides':extra or {},'exit_code':p.returncode,'duration_seconds':round(time.time()-started,3),'stdout':p.stdout,'stderr':p.stderr}
+    p=subprocess.run([str(x) for x in args],cwd=cwd,env=env,input=input.encode('utf-8') if isinstance(input,str) else input,capture_output=True)
+    rawout,rawerr=p.stdout,p.stderr
+    if label:
+        (E/(label+'.stdout.bin')).write_bytes(rawout)
+        (E/(label+'.stderr.bin')).write_bytes(rawerr)
+    def decode(data):
+        for encoding in ['utf-8','cp1251']:
+            try:return data.decode(encoding),encoding
+            except UnicodeDecodeError:pass
+        return data.decode('utf-8',errors='replace'),'utf-8 replacement; original bytes retained'
+    p.stdout,out_encoding=decode(rawout);p.stderr,err_encoding=decode(rawerr)
+    record={'argv':[str(x) for x in args],'cwd':str(cwd),'environment_overrides':extra or {},'exit_code':p.returncode,'duration_seconds':round(time.time()-started,3),'stdout':p.stdout,'stderr':p.stderr,'stdout_encoding':out_encoding,'stderr_encoding':err_encoding,'stdout_raw_sha256':hashlib.sha256(rawout).hexdigest(),'stderr_raw_sha256':hashlib.sha256(rawerr).hexdigest()}
     if label:save(label,record)
     if expected_zero and p.returncode:raise RuntimeError(json.dumps(record,ensure_ascii=True))
     return p

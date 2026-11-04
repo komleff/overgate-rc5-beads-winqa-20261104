@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "-c",
+    "pwd"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty\\peer-empty",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.026,
+  "stdout": "/d/CodexArtifacts/overgate-rc41-winqa-20261104/cases/empty/peer-empty\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "3496b17cea0b3968ff273064077e9a069fabcdd15676e40eb34d457aa56cdf58",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

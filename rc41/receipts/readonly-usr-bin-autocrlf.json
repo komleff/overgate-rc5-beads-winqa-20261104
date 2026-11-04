@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:/Program Files/Git/usr/bin/bash.exe",
+    "-c",
+    "git config --get core.autocrlf"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty\\peer-empty",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.038,
+  "stdout": "false\n",
+  "stderr": "",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "2ed27c1421e6928dbe13dbfdb5c59e1045b30341fe7ebe05700006bc5ac572c0",
+  "stderr_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

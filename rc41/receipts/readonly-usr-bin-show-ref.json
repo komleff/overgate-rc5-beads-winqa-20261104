@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:/Program Files/Git/usr/bin/bash.exe",
+    "-c",
+    "git show origin/beads-backup:.beads/issues.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty\\peer-empty",
+  "environment_overrides": {},
+  "exit_code": 128,
+  "duration_seconds": 0.039,
+  "stdout": "",
+  "stderr": "fatal: ambiguous argument 'origin\\beads-backup;.beads\\issues.jsonl': unknown revision or path not in the working tree.\nUse '--' to separate paths from revisions, like this:\n'git <command> [<revision>...] -- [<file>...]'\n",
+  "stdout_encoding": "utf-8",
+  "stderr_encoding": "utf-8",
+  "stdout_raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_raw_sha256": "6508ea04e84275a89e3ce9c996bd5003f222c5bc6c27909d7b320e4ce36d257c"
+}

@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "details": {
+    "actual": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii",
+    "expected": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii",
+    "dos": "cd D:/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii",
+    "msys": "cd /d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii",
+    "printed": "cd '/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii'"
+  }
+}

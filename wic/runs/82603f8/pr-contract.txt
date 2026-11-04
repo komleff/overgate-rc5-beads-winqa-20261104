@@ -1,0 +1,6 @@
+Plan + Verification Contract: docs/plans/2026-11-05-v4.0.0-rc.5-path-recovery.md v0.1, blob e56ec8ff7f49e4a85483140ea811dabd42d6de5e; C1-C6, P1-P5, rollback.
+Source: Beads og-7sr and docs/plans/2026-10-03-delivery-first-rc-portability-amendment.md §4; rc.5 WI-C separate from managed Beads WI-A/B.
+Mode: CRITICAL — recovery parser could bypass guards or execute shell injection.
+Acceptance: one literal absolute cd to the canonical Git root of current checkout subdirectory; unknown foreign cwd keeps rc.4.1 unquoted simple absolute cd to a dispatcher target, with root-session restart guidance for complex paths; printed command passes itself; spaces/Cyrillic/parentheses on native Windows/macOS; tails/substitutions blocked; root guards/timing preserved; generic runtime prefixes with precise provenance exceptions.
+OUT: managed Beads publisher/installer WI-A/B, new Codex dispatcher, broad historical renames, real project state.
+Release: integrate only after WI-C QA/review/finalize and operator merge; overall rc.5 release follows WI-A/B/C acceptance.

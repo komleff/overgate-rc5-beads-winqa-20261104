@@ -1,0 +1,8 @@
+{
+  "result": "PASS",
+  "details": {
+    "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-82603f8-winqa-20261105/run-82603f8/cases/project with space",
+    "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-82603f8-winqa-20261105/run-82603f8/cases/project with space",
+    "method": "both values from native Git Bash pwd -P, never Windows Path(/c/...).resolve()"
+  }
+}

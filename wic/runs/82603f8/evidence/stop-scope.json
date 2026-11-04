@@ -1,0 +1,21 @@
+{
+  "source": "82603f821387e0f65c71c60afa04b98db89cb739",
+  "result": "FAIL",
+  "case": "apostrophe root git log through dispatcher",
+  "expected_exit": 0,
+  "actual_exit": 2,
+  "pass_scoped": [
+    "exact prior DOS/MSYS alias case in original failed directory",
+    "printed same-byte hook replay and actual execution",
+    "six-root C1 native matrix"
+  ],
+  "not_run": [
+    "spoofed-GIT_DIR/GIT_WORK_TREE own quoted DOS case",
+    "new-source C2 sweep",
+    "remaining C3/C4 root/outside cases",
+    "installer auto/bypass upgrade/custom managed hook conflict",
+    "full verifier/live Claude"
+  ],
+  "C5": "NOT RUN by Windows; PM permits content-equivalent prior Mac/CI evidence; no inference of Windows runtime PASS",
+  "reason": "first actual native root-read FAIL -> STOP"
+}

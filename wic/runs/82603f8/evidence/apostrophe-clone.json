@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--no-hardlinks",
+    "--no-checkout",
+    "-c",
+    "core.autocrlf=false",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-82603f8-winqa-20261105\\source-82603f8",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-82603f8-winqa-20261105\\run-82603f8\\cases\\project'apostrophe"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-82603f8-winqa-20261105\\run-82603f8",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.077,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wic-82603f8-winqa-20261105\\run-82603f8\\cases\\project'apostrophe'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "62be70b7cbd0ba430786428d71d6d57dea8c0c3134d9332412b7010df3584a20"
+}

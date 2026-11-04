@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-82603f8-winqa-20261105\\source-82603f8",
+    "rev-parse",
+    "82603f821387e0f65c71c60afa04b98db89cb739:docs/plans/2026-11-05-v4.0.0-rc.5-path-recovery.md"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-82603f8-winqa-20261105\\run-82603f8",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.023,
+  "stdout": "e56ec8ff7f49e4a85483140ea811dabd42d6de5e\n",
+  "stderr": "",
+  "stdout_sha256": "059955105e59c3916f18ed7fc01f712b021032a7b22497590bfcceb700f3c6f8",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

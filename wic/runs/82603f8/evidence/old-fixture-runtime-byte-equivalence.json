@@ -1,0 +1,9 @@
+{
+  "result": "PASS",
+  "details": {
+    "source": "82603f821387e0f65c71c60afa04b98db89cb739",
+    "files": 19,
+    "settings_before_sha256": "b983c073fdabc4c119d8c1f2fe89f318a94d49acb01e9fbe6ea14ff36d4f01ca",
+    "settings_new_sha256": "16a4e90872c23afa406b68b82864de5a4c74e44e0c8309b4e6faad8a9f458cac"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "-c",
+    "pwd -P"
+  ],
+  "cwd": "C:\\work\\og-wic-82603f8",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.025,
+  "stdout": "/c/work/og-wic-82603f8\n",
+  "stderr": "",
+  "stdout_sha256": "b57452948ec852fe877d4eb0dfe9a3db33d8df2acaa3c9cfab7b5aede84255c9",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

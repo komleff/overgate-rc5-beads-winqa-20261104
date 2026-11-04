@@ -1,0 +1,12 @@
+{
+  "result": "PASS",
+  "source": "82603f821387e0f65c71c60afa04b98db89cb739",
+  "original_fixture": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\run-da8b92e\\cases\\project-ascii",
+  "old_settings_sha256": "b983c073fdabc4c119d8c1f2fe89f318a94d49acb01e9fbe6ea14ff36d4f01ca",
+  "new_settings_sha256": "16a4e90872c23afa406b68b82864de5a4c74e44e0c8309b4e6faad8a9f458cac",
+  "dos": "cd D:/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii",
+  "msys": "cd /d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii",
+  "printed": "cd '/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii'",
+  "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii",
+  "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-winqa-20261105/run-da8b92e/cases/project-ascii"
+}

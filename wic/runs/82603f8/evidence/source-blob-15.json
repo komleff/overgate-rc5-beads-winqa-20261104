@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-82603f8-winqa-20261105\\source-82603f8",
+    "show",
+    "82603f821387e0f65c71c60afa04b98db89cb739:scripts/verify-reference.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-82603f8-winqa-20261105\\run-82603f8",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.024,
+  "stdout": "#!/usr/bin/env bash\n# Единый fail-fast reference entrypoint. Не подменяет проверки установленного проекта.\nset -euo pipefail\nROOT=\"$(cd \"$(dirname \"$0\")/..\" && pwd)\"\ncd \"$ROOT\"\nunset CLAUDE_PROJECT_DIR\nPYTHON=\"$ROOT/.claude/tools/run-python.sh\"\nfor required in git bash node jq; do\n  command -v \"$required\" >/dev/null || { echo \"NOT RUN: missing $required\" >&2; exit 2; }\ndone\nLOG_DIR=\"$(mktemp -d \"${TMPDIR:-/tmp}/overgate-verify.XXXXXX\")\"\necho \"Reference evidence: $LOG_DIR\"\nrun() {\n  local label=\"$1\"; shift\n  local log=\"$LOG_DIR/$label.log\"\n  if \"$@\" >\"$log\" 2>&1; then\n    printf 'PASS %s\\n' \"$label\"\n    tail -n 2 \"$log\"\n  else\n    local result=$?\n    printf 'FAIL %s (exit %s)\\n' \"$label\" \"$result\" >&2\n    cat \"$log\" >&2\n    exit \"$result\"\n  fi\n}\nrun structure \"$PYTHON\" scripts/check-reference.py\nrun structural-mutations \"$PYTHON\" scripts/tests/check-reference.test.py\nrun closure-mutations \"$PYTHON\" scripts/tests/reference-closure.test.py\nrun pre-bash-dispatch \"$PYTHON\" scripts/tests/pre-bash-dispatch.test.py\nrun portability-names \"$PYTHON\" scripts/tests/portability-names.test.py\nrun activation bash scripts/tests/activation-routing.test.sh\nrun mutation-guard bash scripts/tests/repository-mutation-guard.test.sh\nrun classifier bash scripts/tests/commit-command-classifier.test.sh\nrun commit-gate \"$PYTHON\" scripts/tests/commit-gate.test.py\nrun readiness \"$PYTHON\" .claude/hooks/test_check_merge_ready.py\nrun publisher \"$PYTHON\" scripts/tests/publish-pr-comment.test.py\nfor test_name in python-launcher with-timeout with-timeout-transparency merge-gate-script-run-parity merge-gate-parse-completeness merge-gate-parse-budget gate-arithmetic-expansion gate-heredoc-delimiter gate-line-continuation-parity shell-grammar-single-source module-resolution-closure finalize-triage-parse finalize-gate-script bd-read bd-wt; do\n  run \"$test_name\" bash \"scripts/tests/$test_name.test.sh\"\ndone\nfor test_name in merge-gate-parse-complexity readiness-declaration-corpus readiness-policy-complexity shell-nonascii-expansion; do\n  run \"$test_name\" \"$PYTHON\" \"scripts/tests/$test_name.test.py\"\ndone\nrun finalizer-validator bash .claude/skills/finalize-pr/validators/test_validate_review_pass.sh\n# regression_pr183.sh is historical U2 live-comment tooling, not a deterministic reference fixture.\nrun install-fresh-upgrade-rollback \"$PYTHON\" scripts/tests/install-distribution.test.py\nrun install-helpers \"$PYTHON\" scripts/tests/install-helpers.test.py\nrun bd-bootstrap-native \"$PYTHON\" scripts/tests/bd-bootstrap-native.test.py\nrun finalize-no-beads \"$PYTHON\" scripts/tests/finalize-no-beads.test.py\nrun bd-sync bash scripts/test-bd-sync.sh\nprintf 'PASS verify-reference; full logs: %s\\n' \"$LOG_DIR\"\n",
+  "stderr": "",
+  "stdout_sha256": "31837315b9277b923dfad67dfe4b3650f28a5dc9ca6dc0201e1cb2c48a3f5853",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

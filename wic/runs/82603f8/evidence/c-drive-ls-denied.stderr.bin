@@ -1,0 +1,1 @@
+БЛОКИРОВКА: каталог сессии не корень репозитория, диспетчер хуков .claude/hooks/pre-bash.sh здесь не найден (PWD=[/c/work/og-wic-82603f8/own-subdir/deep], CLAUDE_PROJECT_DIR=[]). Проходит только одна literal cd к проверенному корню. Восстановление: cd '/c/work/og-wic-82603f8'

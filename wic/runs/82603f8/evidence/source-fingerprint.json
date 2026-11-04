@@ -1,0 +1,22 @@
+{
+  "source": "82603f821387e0f65c71c60afa04b98db89cb739",
+  "files": {
+    ".agents/HOW_TO_USE.md": "f04627524c2094552284e76297bdbb02d6e250f47c1d917f9b14e5eeee02e2fc",
+    ".agents/INSTALL.md": "3ed5aa771ad7ef571de37bab1a889d36c87faa6463e9ad896e118cc2322aa54a",
+    ".agents/PIPELINE_ADR.md": "4739471bd6a5b0b754b9f47d97d2bb000ec462200154bc3f3da5356592e1730e",
+    ".agents/distribution-manifest.json": "f50842541c94d63abf53e6dbb6b8247470d6813ebc4e4cbe4e2e605c95a0dc54",
+    ".claude/hooks/commit_command_classifier.py": "9bfca1696932b8f74b17a50bf8c4e9961d8fa181d71e1ea6ac767106ad71796a",
+    ".claude/settings.json": "16a4e90872c23afa406b68b82864de5a4c74e44e0c8309b4e6faad8a9f458cac",
+    ".claude/tools/with-timeout.sh": "e1ac71b5e8de963afe2e4d4ad27f27927931483e40f5fa69f8f4a28df47f794e",
+    "README.md": "e8241b1d1d4c454f6684652e1f359c603d5f070ddab591497078e6ccb1886c65",
+    "docs/plans/2026-11-05-v4.0.0-rc.5-path-recovery.md": "e15de66118b8cdf798540d3abe3a86f295d134a6ab193e36dd53c93533fac9c5",
+    "scripts/tests/commit-command-classifier.test.sh": "1f9825795527dd8ca5e4a61f378c46f1537fc958d045b6bb08d7108836cf9137",
+    "scripts/tests/install-distribution.test.py": "eeb7fc332599ac8af448995862e54be077c95a4d2b58607a28146ea6febd494b",
+    "scripts/tests/portability-names.test.py": "e691997290033a566de53b8f7d3d3550eaab6a3b916750555cf3e5bbe942a298",
+    "scripts/tests/pre-bash-dispatch.test.py": "e7ee6292caae7faf3c5602529e2366a8d3c4ce64ccaef7d06929bd8476900643",
+    "scripts/tests/publish-pr-comment.test.py": "97b8df8747ddd1d3117aebe8c109e4379dc973e11a9f4bc0c139f15351eefcf7",
+    "scripts/tests/with-timeout-transparency.test.sh": "6ff7a3fbb5c13cc6dfbff306f3d8e46e49b06b4b01662fd034d6e5bbd9322b32",
+    "scripts/verify-reference.sh": "31837315b9277b923dfad67dfe4b3650f28a5dc9ca6dc0201e1cb2c48a3f5853"
+  },
+  "sha256": "c6b8faabf28c3663ddc8e0982f344ee83d4ed98ccd7d89757891842369798482"
+}

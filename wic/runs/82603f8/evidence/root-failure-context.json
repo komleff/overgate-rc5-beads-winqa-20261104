@@ -1,0 +1,11 @@
+{
+  "source": "82603f821387e0f65c71c60afa04b98db89cb739",
+  "case": "ci-apostrophe-root-read",
+  "root": "D:\\CodexArtifacts\\overgate-rc5-wic-82603f8-winqa-20261105\\run-82603f8\\cases\\project'apostrophe",
+  "independent_pwd": "/d/CodexArtifacts/overgate-rc5-wic-82603f8-winqa-20261105/run-82603f8/cases/project'apostrophe",
+  "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-82603f8-winqa-20261105/run-82603f8/cases/project'apostrophe",
+  "actual_guard_file_exists": true,
+  "actual_guard_file_sha256": "0bce1e3f250d968256b0f709c80e199441d98facc74cfe63c57fed5e86a7bd57",
+  "source_guard_file_sha256": "0bce1e3f250d968256b0f709c80e199441d98facc74cfe63c57fed5e86a7bd57",
+  "interpretation": "actual hook invocation returns2; native Python tries D:\\d\\... rather than existing D:\\... guard; no Windows Path.resolve comparison involved"
+}

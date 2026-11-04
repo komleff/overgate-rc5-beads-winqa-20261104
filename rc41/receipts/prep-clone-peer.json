@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "-c",
+    "core.autocrlf=false",
+    "--no-hardlinks",
+    "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\origin.git",
+    "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\peer"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104",
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\peer'...\ndone.\n"
+}

@@ -1,0 +1,10 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--version"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104",
+  "exit_code": 0,
+  "stdout": "bd version 1.2.2 (6c124203e)\n",
+  "stderr": ""
+}

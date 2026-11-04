@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "qa/windows"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\seed",
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": "To D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\origin.git\n * [new branch]      qa/windows -> qa/windows\n"
+}

@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "qa/project"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty\\big-heroes",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.18,
+  "stdout": "",
+  "stderr": "To D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty\\origin.git\n * [new branch]      qa/project -> qa/project\n"
+}

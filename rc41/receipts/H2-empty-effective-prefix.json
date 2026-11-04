@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "config",
+    "get",
+    "issue_prefix",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty\\big-heroes",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.225,
+  "stdout": "{\n  \"key\": \"issue_prefix\",\n  \"schema_version\": 1,\n  \"value\": \"big-heroes\"\n}\n",
+  "stderr": ""
+}

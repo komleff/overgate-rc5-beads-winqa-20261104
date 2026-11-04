@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "git",
+    "commit",
+    "-m",
+    "test: baseline isolated Windows QA workspace"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\seed",
+  "exit_code": 0,
+  "stdout": "[qa/windows (root-commit) f4ba4df] test: baseline isolated Windows QA workspace\n 2 files changed, 2 insertions(+)\n create mode 100644 .gitattributes\n create mode 100644 README.md\n",
+  "stderr": ""
+}

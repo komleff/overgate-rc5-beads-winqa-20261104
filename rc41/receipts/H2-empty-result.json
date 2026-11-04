@@ -1,0 +1,24 @@
+{
+  "case": "H2-empty",
+  "H": "H2",
+  "source_sha": "825c0b9d9e2ad7fe61182836649008a47a34c0c4",
+  "checks": {
+    "fresh_bootstrap_exit0": true,
+    "beads_only_init_commit": true,
+    "untracked_sentinel_preserved": true,
+    "actual_hyphen_prefix": true,
+    "active_pin_written": true,
+    "pin_requires_project_commit": true,
+    "snapshot_empty_before_any_issue": true,
+    "clone_metadata_pin_tracked": true,
+    "clone_db_absent_before_restore": true,
+    "clone_bootstrap_exit0": false,
+    "clone_db_created": true,
+    "clone_head_index_metadata_config_origin_preserved": true
+  },
+  "stage": "empty clone restore",
+  "frozen_R": "9ab3001ce8979a8d73868d47c47f4d8f721abe19",
+  "primary": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty\\big-heroes",
+  "clone": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty\\peer-empty",
+  "result": "FAIL"
+}

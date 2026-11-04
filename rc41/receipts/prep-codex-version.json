@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "powershell.exe",
+    "-NoProfile",
+    "-Command",
+    "codex --version"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104",
+  "exit_code": 0,
+  "stdout": "codex-cli 0.154.0\n",
+  "stderr": ""
+}

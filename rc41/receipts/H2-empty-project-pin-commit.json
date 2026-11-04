@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "git",
+    "commit",
+    "-m",
+    "project: commit active issue prefix pin"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty\\big-heroes",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 0.051,
+  "stdout": "[qa/project b02a117] project: commit active issue prefix pin\n 1 file changed, 5 insertions(+)\n",
+  "stderr": ""
+}

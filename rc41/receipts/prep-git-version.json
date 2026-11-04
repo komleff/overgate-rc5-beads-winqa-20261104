@@ -1,0 +1,10 @@
+{
+  "argv": [
+    "git",
+    "--version"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104",
+  "exit_code": 0,
+  "stdout": "git version 2.51.2.windows.1\n",
+  "stderr": ""
+}

@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-bootstrap.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty\\big-heroes",
+  "environment_overrides": {},
+  "exit_code": 0,
+  "duration_seconds": 6.501,
+  "stdout": "Beads fresh prefix: big-heroes\nBeads: ready; origin/beads-backup exists\n",
+  "stderr": ""
+}

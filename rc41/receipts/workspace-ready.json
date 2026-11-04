@@ -1,0 +1,44 @@
+{
+  "status": "READY FOR NEW PIN; candidate runtime NOT RUN",
+  "pm_packet": 6633775710,
+  "hold_source": "e4a737dc79e079a49b69c97fd0274d88eb40f700",
+  "workspace": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104",
+  "bare_origin": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\origin.git",
+  "baseline_origin_refs": "f4ba4df33d2387f2d9db6f068713144ed3da5d25 refs/heads/qa/windows",
+  "clones": [
+    {
+      "path": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\primary",
+      "head": "f4ba4df33d2387f2d9db6f068713144ed3da5d25",
+      "index_sha256": "ab4bec1e34793e1dec20a1fa1a19b6cf355029e671fb380ce322eef300ecacb7",
+      "clean": true,
+      "beads_absent": true,
+      "origin": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\origin.git"
+    },
+    {
+      "path": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\peer",
+      "head": "f4ba4df33d2387f2d9db6f068713144ed3da5d25",
+      "index_sha256": "c6d6e7585e65ad06139ac80ce331b195775714805a27cdd0ec49f4cc6f41e283",
+      "clean": true,
+      "beads_absent": true,
+      "origin": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\prepared\\origin.git"
+    }
+  ],
+  "future_case_paths": {
+    "empty": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\empty",
+    "populated": "D:\\CodexArtifacts\\overgate-rc41-winqa-20261104\\cases\\populated"
+  },
+  "tools": {
+    "bd": {
+      "path": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+      "sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+      "version": "bd version 1.2.2 (6c124203e)"
+    },
+    "git": "git version 2.51.2.windows.1",
+    "bash": "GNU bash, version 5.2.37(1)-release (x86_64-pc-msys)",
+    "python": "Python 3.14.0",
+    "codex": "codex-cli 0.154.0"
+  },
+  "candidate_bootstrap_or_restore_run": false,
+  "beads_snapshot_created": false,
+  "working_databases_used": false
+}

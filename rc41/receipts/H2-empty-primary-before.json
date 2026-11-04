@@ -1,0 +1,12 @@
+{
+  "head": "8a435902c37620e60300f4b701d15242075052bc",
+  "index_sha256": "053be6aca98c1272815f5438ec9deb841c1c48661dad6f5e770ddbb75a177335",
+  "files": {
+    "README.md": "654007c696bfa6497506d3e4b6fdf41fbf3631c162e31aff150bb4b4dc57b87d",
+    "sentinel.txt": "b327bd4429913e68bcaed551c87990fc0bd10a4468f963df29cc35162f9f87fa",
+    ".beads/metadata.json": null,
+    ".beads/config.yaml": null
+  },
+  "origin_refs": "8a435902c37620e60300f4b701d15242075052bc\trefs/heads/qa/project",
+  "local_db_exists": false
+}

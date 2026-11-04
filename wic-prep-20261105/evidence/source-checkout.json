@@ -1,0 +1,21 @@
+{
+  "label": "source-checkout",
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\released-source",
+    "-c",
+    "core.autocrlf=false",
+    "checkout",
+    "--detach",
+    "3f3246c3a3b62377fc02aad05283cae1ef5d4e2d"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.104,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "f4ac1f316e3302063077e638340be2ab000aa2f62be103ad8538291c5af8ce84",
+  "stdout": "",
+  "stderr": "HEAD is now at 3f3246c Merge pull request #15 from komleff/fix/rc4-bootstrap-consumer\n"
+}

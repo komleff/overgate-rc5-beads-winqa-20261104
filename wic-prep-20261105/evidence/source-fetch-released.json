@@ -1,0 +1,20 @@
+{
+  "label": "source-fetch-released",
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\released-source",
+    "fetch",
+    "--depth=1",
+    "https://github.com/komleff/overgate.git",
+    "3f3246c3a3b62377fc02aad05283cae1ef5d4e2d"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 2.891,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "0402715ab644fb112865bfbe31babdc68e8f351933f96ad64187db0a289c9f12",
+  "stdout": "",
+  "stderr": "From https://github.com/komleff/overgate\n * branch            3f3246c3a3b62377fc02aad05283cae1ef5d4e2d -> FETCH_HEAD\n"
+}

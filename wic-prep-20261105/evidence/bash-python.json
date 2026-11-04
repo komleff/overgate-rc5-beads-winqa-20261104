@@ -1,0 +1,16 @@
+{
+  "label": "bash-python",
+  "argv": [
+    "C:\\Program Files\\Git\\bin\\bash.exe",
+    "-c",
+    "python -c \"import sys; print(sys.executable); print(sys.version.split()[0])\""
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.053,
+  "stdout_sha256": "3b3be4ad0eacaedf7284cae7d233c21cb858b12a8a27b524853aa8ea27f16c2d",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "C:\\Python314\\python.exe\r\n3.14.0\r\n",
+  "stderr": ""
+}

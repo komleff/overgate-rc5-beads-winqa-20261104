@@ -1,0 +1,23 @@
+[qa/preparation (root-commit) 82162d4] fixture: released rc.4.1 hook bytes
+ 21 files changed, 9349 insertions(+)
+ create mode 100644 .claude/hooks/check-merge-ready.py
+ create mode 100644 .claude/hooks/check-repository-mutation.py
+ create mode 100644 .claude/hooks/check-tests-before-commit.sh
+ create mode 100644 .claude/hooks/codex-login.sh
+ create mode 100644 .claude/hooks/commit_command_classifier.py
+ create mode 100644 .claude/hooks/pre-bash.sh
+ create mode 100644 .claude/hooks/readiness_policy.py
+ create mode 100644 .claude/hooks/shell_comment_parser.py
+ create mode 100644 .claude/hooks/shell_grammar.py
+ create mode 100644 .claude/hooks/test_check_merge_ready.py
+ create mode 100644 .claude/settings.json
+ create mode 100644 .claude/tools/README.md
+ create mode 100644 .claude/tools/codex-account-switch.ps1
+ create mode 100644 .claude/tools/openai-review.mjs
+ create mode 100644 .claude/tools/package-lock.json
+ create mode 100644 .claude/tools/package.json
+ create mode 100644 .claude/tools/publish-pr-comment.py
+ create mode 100644 .claude/tools/run-python.sh
+ create mode 100644 .claude/tools/smoke-test.mjs
+ create mode 100644 .claude/tools/with-timeout.sh
+ create mode 100644 README.md

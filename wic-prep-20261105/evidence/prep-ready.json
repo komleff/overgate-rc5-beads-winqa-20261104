@@ -1,0 +1,129 @@
+{
+  "status": "PREP READY; no WI-C acceptance",
+  "baseline_source_sha": "3f3246c3a3b62377fc02aad05283cae1ef5d4e2d",
+  "pr16_implementation_installed": false,
+  "working_settings_hooks_changed": false,
+  "fixture_type": "Neutral Git roots populated with exact released hooks/tools/settings bytes; installer acceptance NOT RUN",
+  "roots": {
+    "ascii": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\project-ascii",
+      "head": "82162d4e9e201a40ff86b79450343415d55b9f4a",
+      "settings_sha256": "6588e7e9693929a277f0e613d662fe3088aa34153f288e1224002c83614bd874",
+      "dispatcher_sha256": "ee62ec23aab0328f8cb3aff9b5bdf32222abf00d4a3968f1136d78aa9e8c3a04"
+    },
+    "space": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\project with space",
+      "head": "82162d4e9e201a40ff86b79450343415d55b9f4a",
+      "settings_sha256": "6588e7e9693929a277f0e613d662fe3088aa34153f288e1224002c83614bd874",
+      "dispatcher_sha256": "ee62ec23aab0328f8cb3aff9b5bdf32222abf00d4a3968f1136d78aa9e8c3a04"
+    },
+    "cyrillic": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\проект-кириллица",
+      "head": "82162d4e9e201a40ff86b79450343415d55b9f4a",
+      "settings_sha256": "6588e7e9693929a277f0e613d662fe3088aa34153f288e1224002c83614bd874",
+      "dispatcher_sha256": "ee62ec23aab0328f8cb3aff9b5bdf32222abf00d4a3968f1136d78aa9e8c3a04"
+    },
+    "parentheses": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\project(parens)",
+      "head": "82162d4e9e201a40ff86b79450343415d55b9f4a",
+      "settings_sha256": "6588e7e9693929a277f0e613d662fe3088aa34153f288e1224002c83614bd874",
+      "dispatcher_sha256": "ee62ec23aab0328f8cb3aff9b5bdf32222abf00d4a3968f1136d78aa9e8c3a04"
+    },
+    "second": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\second-dispatcher",
+      "head": "82162d4e9e201a40ff86b79450343415d55b9f4a",
+      "settings_sha256": "6588e7e9693929a277f0e613d662fe3088aa34153f288e1224002c83614bd874",
+      "dispatcher_sha256": "ee62ec23aab0328f8cb3aff9b5bdf32222abf00d4a3968f1136d78aa9e8c3a04"
+    }
+  },
+  "outside": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\outside-no-git",
+  "entry_count": 1,
+  "entry_timeout": 600,
+  "probes": [
+    {
+      "name": "ascii-root-invocation-only",
+      "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\project-ascii",
+      "result": "PASS scoped invocation",
+      "exit_code": 0
+    },
+    {
+      "name": "ascii-own-subdir-invocation-only",
+      "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\project-ascii\\own-subdir",
+      "result": "PASS scoped invocation",
+      "exit_code": 2
+    },
+    {
+      "name": "space-root-invocation-only",
+      "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\project with space",
+      "result": "PASS scoped invocation",
+      "exit_code": 0
+    },
+    {
+      "name": "space-own-subdir-invocation-only",
+      "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\project with space\\own-subdir",
+      "result": "PASS scoped invocation",
+      "exit_code": 2
+    },
+    {
+      "name": "cyrillic-root-invocation-only",
+      "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\проект-кириллица",
+      "result": "PASS scoped invocation",
+      "exit_code": 0
+    },
+    {
+      "name": "cyrillic-own-subdir-invocation-only",
+      "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\проект-кириллица\\own-subdir",
+      "result": "PASS scoped invocation",
+      "exit_code": 2
+    },
+    {
+      "name": "parentheses-root-invocation-only",
+      "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\project(parens)",
+      "result": "PASS scoped invocation",
+      "exit_code": 0
+    },
+    {
+      "name": "parentheses-own-subdir-invocation-only",
+      "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\project(parens)\\own-subdir",
+      "result": "PASS scoped invocation",
+      "exit_code": 2
+    },
+    {
+      "name": "second-root-invocation-only",
+      "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\second-dispatcher",
+      "result": "PASS scoped invocation",
+      "exit_code": 0
+    },
+    {
+      "name": "second-own-subdir-invocation-only",
+      "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\second-dispatcher\\own-subdir",
+      "result": "PASS scoped invocation",
+      "exit_code": 2
+    },
+    {
+      "name": "outside-invocation-only",
+      "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\outside-no-git",
+      "result": "PASS scoped invocation",
+      "exit_code": 2
+    }
+  ],
+  "tools": {
+    "git": "git version 2.51.2.windows.1",
+    "bash": {
+      "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "version": "GNU bash, version 5.2.37(1)-release (x86_64-pc-msys)"
+    },
+    "python": {
+      "path": "C:\\Python314\\python.exe",
+      "version": "3.14.0",
+      "from_git_bash": "C:\\Python314\\python.exe\r\n3.14.0"
+    },
+    "claude": {
+      "path": "C:\\Users\\komle\\AppData\\Roaming\\npm\\claude.cmd",
+      "version": "2.1.139 (Claude Code)"
+    }
+  },
+  "simple_path_baseline": "Read released entry grammar only; no cd recovery payload executed",
+  "recovery_cases": "NOT RUN until exact implementation SHA packet",
+  "live_claude_model_call": "NOT RUN; CLI version only"
+}

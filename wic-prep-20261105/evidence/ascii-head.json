@@ -1,0 +1,18 @@
+{
+  "label": "ascii-head",
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\project-ascii",
+    "rev-parse",
+    "HEAD"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.024,
+  "stdout_sha256": "b410d2f2880ae64a35ff66092a3b6576526d5d4787dba7c2bb1d04f2d86d719b",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "82162d4e9e201a40ff86b79450343415d55b9f4a\n",
+  "stderr": ""
+}

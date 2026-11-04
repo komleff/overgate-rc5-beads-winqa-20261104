@@ -1,0 +1,17 @@
+{
+  "label": "cyrillic-git-init",
+  "argv": [
+    "git",
+    "init",
+    "--initial-branch=qa/preparation",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\проект-кириллица"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.035,
+  "stdout_sha256": "a32bcaa4aa1db04b4199f721ad4d561bc6d5659ab642e2eaee8996a0108d1309",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "Initialized empty Git repository in D:/CodexArtifacts/overgate-rc5-wic-winqa-20261105/проект-кириллица/.git/\n",
+  "stderr": ""
+}

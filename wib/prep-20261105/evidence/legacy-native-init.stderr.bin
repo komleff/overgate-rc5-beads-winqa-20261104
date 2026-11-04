@@ -1,0 +1,5 @@
+
+⚠ Git upstream not configured
+  For sync workflows, set your upstream with:
+  git remote add upstream <repo-url>
+

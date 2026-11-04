@@ -1,0 +1,48 @@
+The following paths are ignored by one of your .gitignore files:
+.overgate-backups
+hint: Use -f if you really want to add them.
+hint: Disable this message with "git config set advice.addIgnoredFile false"
+warning: in the working copy of '.claude/agents/developer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/agents/planner.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/agents/reviewer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/agents/tester.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/hooks/check-merge-ready.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/hooks/check-repository-mutation.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/hooks/check-tests-before-commit.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/hooks/commit_command_classifier.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/hooks/pre-bash.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/hooks/readiness_policy.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/hooks/shell_comment_parser.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/hooks/shell_grammar.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/rules/beads.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/rules/large-payloads.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/rules/tests.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/rules/universal.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/skills/architect/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/skills/external-review/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/skills/finalize-pr/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/skills/finalize-pr/finalize-gate.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/skills/finalize-pr/validators/strip_code_spans.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/skills/finalize-pr/validators/test_validate_review_pass.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/skills/pipeline-audit/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/skills/project-manager/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/skills/sprint-pr-cycle/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/skills/verify/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/tools/publish-pr-comment.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/tools/run-python.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claude/tools/with-timeout.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.overgate/install-state.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/baselines/2026-10-01-delivery-first-provenance.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/bd-bootstrap.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/bd-read.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/bd-sync-common.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/bd-sync-export.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/bd-sync-restore.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/bd-wt.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/check-reference.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/install-overgate.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/lib/bd-env.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/lib/bd-read-engine.mjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/og-init-memory-bank.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/og-protect-main.sh', LF will be replaced by CRLF the next time Git touches it

@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--readonly",
+    "config",
+    "list",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.208,
+  "stdout": "{\n  \"auto_compact_enabled\": \"false\",\n  \"compact_batch_size\": \"50\",\n  \"compact_parallel_workers\": \"5\",\n  \"compact_tier1_days\": \"30\",\n  \"compact_tier1_dep_levels\": \"2\",\n  \"compact_tier2_commits\": \"100\",\n  \"compact_tier2_days\": \"90\",\n  \"compact_tier2_dep_levels\": \"5\",\n  \"compaction_enabled\": \"false\",\n  \"issue_prefix\": \"wib-qa\",\n  \"schema_version\": 1\n}\n",
+  "stderr": "",
+  "stdout_sha256": "43b54d78f36b649003c4d3bc263ddc920c1a4c792162e4fb8f9174d1a2545162",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

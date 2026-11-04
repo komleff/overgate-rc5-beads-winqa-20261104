@@ -1,0 +1,28 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "create",
+    "--title",
+    "WI-B legacy synthetic owner",
+    "--type",
+    "task",
+    "--priority",
+    "2",
+    "--description",
+    "Preserve legacy data\nКириллица",
+    "--labels",
+    "wib-qa,legacy",
+    "--metadata",
+    "{\"phase\": \"baseline\", \"typed\": [1, true, null]}",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.427,
+  "stdout": "{\n  \"created_at\": \"2026-11-04T21:46:41.4148142Z\",\n  \"created_by\": \"Windows WI-B QA\",\n  \"description\": \"Preserve legacy data\\nКириллица\",\n  \"id\": \"wib-qa-05l\",\n  \"issue_type\": \"task\",\n  \"labels\": [\n    \"wib-qa\",\n    \"legacy\"\n  ],\n  \"metadata\": {\n    \"phase\": \"baseline\",\n    \"typed\": [\n      1,\n      true,\n      null\n    ]\n  },\n  \"owner\": \"qa-wib@example.invalid\",\n  \"priority\": 2,\n  \"schema_version\": 1,\n  \"status\": \"open\",\n  \"title\": \"WI-B legacy synthetic owner\",\n  \"updated_at\": \"2026-11-04T21:46:41.4148142Z\"\n}\n\n",
+  "stderr": "",
+  "stdout_sha256": "9a1a1bc3688fbc102d19cc16d60efc1a3c0541b4c000ed5c779442003874ab92",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

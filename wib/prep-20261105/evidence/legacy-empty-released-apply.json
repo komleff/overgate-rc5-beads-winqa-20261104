@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\released-source\\scripts\\install-overgate.py",
+    "apply",
+    "--plan",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\released-baseline-plans\\legacy-empty.plan.json",
+    "--approval",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\released-baseline-plans\\legacy-empty.synthetic-approval.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 8.902,
+  "stdout": "Applied frozen source 3f3246c3a3b62377fc02aad05283cae1ef5d4e2d; backup: D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-empty\\.overgate-backups\\adcf0bd3f21443e38023702dab72cbdf\\rollback.json\r\n",
+  "stderr": "",
+  "stdout_sha256": "7686370defb0ebccd43b0d74eb0b10dd9a31023044a2011f1a61dc49dbdd6019",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

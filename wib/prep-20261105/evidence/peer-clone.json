@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--no-hardlinks",
+    "-c",
+    "core.autocrlf=false",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\origin.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\peer"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.079,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\peer'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "357d048715fe76c56ce6de899b5733de8bbfbc6a736677c77c3caa8ca37ef0bb"
+}

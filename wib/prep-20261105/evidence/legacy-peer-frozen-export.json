@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "export",
+    "--all",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\evidence\\legacy-peer-before.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-old-writer-peer",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.3,
+  "stdout": "",
+  "stderr": "Exported 2 issues to D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\evidence\\legacy-peer-before.jsonl\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "67033671ddba0c7c6f54c5f2c0e63a938434686817ce6889c0ba76186f6a2cc6"
+}

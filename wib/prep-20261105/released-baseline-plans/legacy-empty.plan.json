@@ -1,0 +1,800 @@
+{
+  "beads": true,
+  "branch": "qa/preparation",
+  "conflicts": [],
+  "contract": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\released-baseline-contract.md",
+  "contract_sha256": "58ce36962ca81d545caf39e7e5f35849267638c556f4eb35157eeea4745212c4",
+  "format": 1,
+  "manifest_version": "4.0.0-rc.4",
+  "mode": "auto",
+  "no_beads": false,
+  "notes": [],
+  "operations": [
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "fe434b3d5ccf88e0cc76b588ffb62edebe19c39a6d72b2d6f93b2a0a65b1d260"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/PIPELINE_ADR.md",
+      "target": ".agents/PIPELINE_ADR.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "1d723daa20a5798a1569e179c160fde667f788f5d2b0f47a3cff6e942453742b"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/PIPELINE.md",
+      "target": ".agents/PIPELINE.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "e606a4633a5e2c5ce34b20d9d09008b195f31097050918bf6ec60445ad238352"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/AGENT_ROLES.md",
+      "target": ".agents/AGENT_ROLES.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "36d37434c9544f053de5819ed0536089837407e3e7f730ac3a46c4e5bfe7410c"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/PM_ROLE.md",
+      "target": ".agents/PM_ROLE.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "8dea453ec5985c8c65a67f2a74b6c78e70b70841f3f4a2fdad5a9e55528f59e8"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/SV_ROLE.md",
+      "target": ".agents/SV_ROLE.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "d9f403b3060c0765f6d317c296bbe6eb5b587ea5ddb5ab0c60226371fa4aa75b"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/PL_ROLE.md",
+      "target": ".agents/PL_ROLE.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "b6cb405467d397c14b0b85bd359cc1f16071b4dd12977317510009429d6f07dd"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/DEV_ROLE.md",
+      "target": ".agents/DEV_ROLE.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "ed21dc4f85a515c60ba8cc062d23b69d63519a9504b408c8dad0459fd1ea842c"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/QA_ROLE.md",
+      "target": ".agents/QA_ROLE.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "361403255f04c6b7ded784d1a4437c513e5dc082b6f832844fc39644a4daeba1"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/RV_ROLE.md",
+      "target": ".agents/RV_ROLE.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "b127e7581980330fcc59128a9a51bfa4a9894e6c01b5422668266b9988cda4f3"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/SKILLS.md",
+      "target": ".agents/SKILLS.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "313bba5bb580e788e39e4ff8b77b5a1d23e2513c973d371aed9a86191b480e78"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/HOW_TO_USE.md",
+      "target": ".agents/HOW_TO_USE.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "a1be417a31b9b03c1d293688b5bafde6b08243a0c43335968d29c5cbc089f12c"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/REFERENCES.md",
+      "target": ".agents/REFERENCES.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "98c9e8f045156121689c92f107857bc54c91b863173965c034865c62b81d5ecf"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/INSTALL.md",
+      "target": ".agents/INSTALL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "4f6e44ccfeefb8265ded1a258270523ef818dcb620a35e2c381a108efb3ee288"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/HOW_TO_INSTALL.md",
+      "target": ".agents/HOW_TO_INSTALL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "0fceecec8d63de5f0b4105937fc4ba18a3039d1ce5c6346adfb9a25b8aec0e2f"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/distribution-manifest.json",
+      "target": ".agents/distribution-manifest.json"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "3e507b1dfc2d0fbfadaf419d022b59f7cae4b8d25cd0f00d7f0b181e06d45209"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/skills/canon-router/SKILL.md",
+      "target": ".agents/skills/canon-router/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "c943d548cedc6806f3c05e42430dac4005bbe5f86f1893be27dff80e60e243e9"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/skills/product-gap/SKILL.md",
+      "target": ".agents/skills/product-gap/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "2e4beeb9b15ce65396be7549e7576033dd4566082842d7b5127ca82646ee08a4"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/skills/product-handoff/SKILL.md",
+      "target": ".agents/skills/product-handoff/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "3079ee76c606bf71819995618015f8e8f40368a75fefe75df889ebea69a7a81f"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/skills/diagnose/SKILL.md",
+      "target": ".agents/skills/diagnose/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "03671805bd9e1f07f27872b5ee26a2e9d6d8797879af716c48d48792fad7163e"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/skills/handoff/SKILL.md",
+      "target": ".agents/skills/handoff/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "e95deae089fd6f984bf5ae628c40942bf0ca2d25d40b9c1d622a83d9cd93eaf4"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/AGENTS.template.md",
+      "target": ".agents/templates/AGENTS.template.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "c4c66cffa8de7578d8737c4026cc257f6a8540cc1fbc4e3ae0273587262d3f38"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/project-verify.sh",
+      "target": ".agents/templates/project-verify.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "b612be7583691c7daf6cc92f10e9469d4c8e556071b3d0c395f8bc44986125f5"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/project-authority.md",
+      "target": ".agents/templates/project-authority.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "5326c2e5579af8feea13cc603edbf8e09d7be872dff812cbc30d7b1bca25e8bc"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/gitignore.fragment",
+      "target": ".agents/templates/gitignore.fragment"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "be3495d660244a6ffb75d225a2f5c40c04342f68b8fcf69410425913eb5be983"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/agents/developer.md",
+      "target": ".claude/agents/developer.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "597ce57700d341564f8a860e9b49f0227b8f273f851f591588d5534b927a1108"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/agents/planner.md",
+      "target": ".claude/agents/planner.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "04728a46b5928c5c845fdd94564c97dcd254ae209e9c833596a7f6d3b429ca5f"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/agents/reviewer.md",
+      "target": ".claude/agents/reviewer.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "ec8bafff1518c0f01d180fcb2cf2185de9a0eb06740cd169c8ab58c9ef0f14ff"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/agents/tester.md",
+      "target": ".claude/agents/tester.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "e7177e5f44ccf882b16b380825d65222585a7bd8187669574337a82f7925eba7"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/skills/verify/SKILL.md",
+      "target": ".claude/skills/verify/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "70a94c61bbeb4f260ed86c2824d1877caf5d90d357962cbda27d7fef0b3ea81a"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/skills/sprint-pr-cycle/SKILL.md",
+      "target": ".claude/skills/sprint-pr-cycle/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "8a9af8d59881fd7fed91fbaeeee4b7e3b0d398d30ccbd30dcdc05d64d1de96b8"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/skills/external-review/SKILL.md",
+      "target": ".claude/skills/external-review/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "d5af1fdbb68493dfc1ac51fbd9bf8f47e479e7d68a58cd0e659d5bccefce62b6"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/skills/finalize-pr/SKILL.md",
+      "target": ".claude/skills/finalize-pr/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "3bac5d39a87c39cdb37186888a5625f6dc7bb9a312be70af6e9ab18fba421463"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/skills/finalize-pr/finalize-gate.sh",
+      "target": ".claude/skills/finalize-pr/finalize-gate.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "3e0e9d598559edbbbcdda03bfeb421e9081f7dfe651f361f4fbd1b546cd5c07b"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/skills/pipeline-audit/SKILL.md",
+      "target": ".claude/skills/pipeline-audit/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "fb77f26fada4b9e825154d929d86a30e5f0fbc9dac49b459907c5348aed4b7da"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/skills/project-manager/SKILL.md",
+      "target": ".claude/skills/project-manager/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "e9e5bd93b917234e59f3d2cff5aadcfbaf2eb7efd7937c5e20581d53848c021f"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/skills/architect/SKILL.md",
+      "target": ".claude/skills/architect/SKILL.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "52cf023ca81d294eab36f14042a687e2c58a5187abe55e7ca460f986c56cf6f3"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/skills/finalize-pr/validators/strip_code_spans.sh",
+      "target": ".claude/skills/finalize-pr/validators/strip_code_spans.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "00b0902c4bf810012bafa66b51013932048aa6787434dcff960b5533cbb4dfd3"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/skills/finalize-pr/validators/test_validate_review_pass.sh",
+      "target": ".claude/skills/finalize-pr/validators/test_validate_review_pass.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "0bce1e3f250d968256b0f709c80e199441d98facc74cfe63c57fed5e86a7bd57"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/hooks/check-repository-mutation.py",
+      "target": ".claude/hooks/check-repository-mutation.py"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "df55d239d92afe2d9f1a7ce9033f36ba2316f1d82aa146c5dd856d7b5a7bdf4d"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/hooks/check-tests-before-commit.sh",
+      "target": ".claude/hooks/check-tests-before-commit.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "5fcae317d1831f92ef3bdba48bd700ca8cc1c12cfc419dbada2e092c4dd8d8f9"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/hooks/check-merge-ready.py",
+      "target": ".claude/hooks/check-merge-ready.py"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "5d2847e90ccc05cafdb4c0f342888687bf881a98c0ff1759e9312ad17b7c44ec"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/hooks/commit_command_classifier.py",
+      "target": ".claude/hooks/commit_command_classifier.py"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "f90151ec57fc0628e6bd84c66a1136ecf0fade5c36e87b2cb425ef3b99f32a57"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/hooks/shell_grammar.py",
+      "target": ".claude/hooks/shell_grammar.py"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "70ce684867ecb33fd5e7ec73e04ff5e7eba19ae8f3167abd6be5d824a6d59e95"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/hooks/shell_comment_parser.py",
+      "target": ".claude/hooks/shell_comment_parser.py"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "e87001607a47cb1dc311be5fb6b2029a04ac9ea4693dc8aebfa5749c9c43f34b"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/hooks/readiness_policy.py",
+      "target": ".claude/hooks/readiness_policy.py"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "6b174974380f2e3c76ea06cb3e89d1811aeddd3d5258db9c4343cd180217d1a8"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/tools/run-python.sh",
+      "target": ".claude/tools/run-python.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "0b3ee3dab6b65e1bc5d7a5b854fa567b9d962c1d993f0ddfcce8e3f817c5d717"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/tools/with-timeout.sh",
+      "target": ".claude/tools/with-timeout.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "a19b837c1fe07cf5d4432ad310c9bce6afec0933fb4d46f1ec609f040389f0bd"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/tools/publish-pr-comment.py",
+      "target": ".claude/tools/publish-pr-comment.py"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "ee62ec23aab0328f8cb3aff9b5bdf32222abf00d4a3968f1136d78aa9e8c3a04"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/hooks/pre-bash.sh",
+      "target": ".claude/hooks/pre-bash.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "6588e7e9693929a277f0e613d662fe3088aa34153f288e1224002c83614bd874"
+      },
+      "before": null,
+      "data": "ewogICJlbnYiOiB7CiAgICAiQ0xBVURFX0FVVE9DT01QQUNUX1BDVF9PVkVSUklERSI6ICI4MCIsCiAgICAiUFlUSE9OSU9FTkNPRElORyI6ICJ1dGYtOCIKICB9LAogICJwZXJtaXNzaW9ucyI6IHsKICAgICJhbGxvdyI6IFsKICAgICAgIkJhc2goKikiLAogICAgICAiUmVhZCIsCiAgICAgICJFZGl0IiwKICAgICAgIldyaXRlIiwKICAgICAgIkdsb2IiLAogICAgICAiR3JlcCIsCiAgICAgICJXZWJGZXRjaCIsCiAgICAgICJXZWJTZWFyY2giLAogICAgICAiVG9kb1dyaXRlIiwKICAgICAgIlRhc2siLAogICAgICAiTm90ZWJvb2tFZGl0IgogICAgXSwKICAgICJkZW55IjogWwogICAgICAiUmVhZCguZW52KikiLAogICAgICAiUmVhZCgqKi9jcmVkZW50aWFscyopIiwKICAgICAgIlJlYWQoKiovc2VjcmV0cyopIiwKICAgICAgIkJhc2gocm0gLXJmICopIiwKICAgICAgIkJhc2gocm0gLXIgKikiLAogICAgICAiQmFzaChybSAtZnIgKikiLAogICAgICAiQmFzaChybWRpciAqKSIsCiAgICAgICJCYXNoKFJlbW92ZS1JdGVtIC1SZWN1cnNlICopIiwKICAgICAgIkJhc2goZ2l0IHB1c2ggLS1mb3JjZSAqKSIsCiAgICAgICJCYXNoKGdpdCBwdXNoIC1mICopIiwKICAgICAgIkJhc2goZ2l0IHB1c2ggb3JpZ2luIG1haW4pIiwKICAgICAgIkJhc2goZ2l0IHB1c2ggKiBtYWluKSIsCiAgICAgICJCYXNoKGdpdCBwdXNoIG9yaWdpbiBIRUFEOm1haW4pIiwKICAgICAgIkJhc2goZ2l0IHB1c2ggKiBIRUFEOm1haW4pIiwKICAgICAgIkJhc2goZ2l0IHB1c2ggb3JpZ2luIG1hc3RlcikiLAogICAgICAiQmFzaChnaXQgcHVzaCAqIG1hc3RlcikiLAogICAgICAiQmFzaChnaXQgcHVzaCBvcmlnaW4gSEVBRDptYXN0ZXIpIiwKICAgICAgIkJhc2goZ2l0IHB1c2ggKiBIRUFEOm1hc3RlcikiLAogICAgICAiQmFzaChnaCBwciBtZXJnZSAqKSIsCiAgICAgICJCYXNoKGdoIGFwaSAqbWVyZ2UqKSIsCiAgICAgICJCYXNoKGdoIHJlcG8gZGVsZXRlICopIiwKICAgICAgIkJhc2goZ2ggYXBpIC1YIERFTEVURSAqKSIsCiAgICAgICJCYXNoKGRvY2tlciBjb21wb3NlICogZG93biopIiwKICAgICAgIkJhc2goZ2ggcmVwbyBlZGl0KikiLAogICAgICAiQmFzaChnaCBzZWNyZXQgc2V0KikiLAogICAgICAiQmFzaChnaCBzZWNyZXQgZGVsZXRlKikiLAogICAgICAiQmFzaChnaCBzZWNyZXQgcmVtb3ZlKikiLAogICAgICAiQmFzaChiZCBkZWxldGUqKSIsCiAgICAgICJCYXNoKGJkIGRvbHQgcHVzaCopIiwKICAgICAgIkJhc2goYmQgZG9sdCBwdWxsKikiLAogICAgICAiQmFzaCgqQkRfU1lOQ19GT1JDRSopIiwKICAgICAgIkJhc2goZ2l0IHB1c2ggKiAtLWRlbGV0ZSopIiwKICAgICAgIkJhc2goZ2l0IHJlc2V0IC0taGFyZCopIiwKICAgICAgIkJhc2goZ2l0IGNsZWFuIC1mZCopIiwKICAgICAgIkJhc2goZ2l0IGNsZWFuIC1mZHgqKSIsCiAgICAgICJCYXNoKGdpdCBjaGVja291dCAtLSAqKSIsCiAgICAgICJCYXNoKGdpdCBjaGVja291dCAuKSIsCiAgICAgICJCYXNoKGNhdCAuZW52KikiLAogICAgICAiQmFzaChjYXQgKiovY3JlZGVudGlhbHMqKSIsCiAgICAgICJCYXNoKGNhdCAqKi9zZWNyZXRzKikiLAogICAgICAiQmFzaChwcmludGYqLmVudiopIiwKICAgICAgIkJhc2goaGVhZCAuZW52KikiLAogICAgICAiQmFzaCh0YWlsIC5lbnYqKSIsCiAgICAgICJCYXNoKGxlc3MgLmVudiopIiwKICAgICAgIkJhc2gobW9yZSAuZW52KikiLAogICAgICAiQmFzaChweXRob24gLWMgKm9wZW4qLmVudiopIiwKICAgICAgIkJhc2gocHl0aG9uMyAtYyAqb3BlbiouZW52KikiLAogICAgICAiQmFzaChub2RlIC1lICpyZWFkRmlsZSouZW52KikiLAogICAgICAiRWRpdCguZ2l0LyoqKSIsCiAgICAgICJXcml0ZSguZ2l0LyoqKSIsCiAgICAgICJFZGl0KC5naXRpZ25vcmUpIiwKICAgICAgIldyaXRlKC5naXRpZ25vcmUpIiwKICAgICAgIkVkaXQoLmdpdGF0dHJpYnV0ZXMpIiwKICAgICAgIldyaXRlKC5naXRhdHRyaWJ1dGVzKSIsCiAgICAgICJCYXNoKGdoIC1SICogcHIgbWVyZ2UgKikiLAogICAgICAiQmFzaChnaCAtLXJlcG8gKiBwciBtZXJnZSAqKSIsCiAgICAgICJCYXNoKGdoIC0tcmVwbz0qIHByIG1lcmdlICopIiwKICAgICAgIkJhc2goZ2ggLVIgKiBhcGkgKm1lcmdlKikiLAogICAgICAiQmFzaChnaCAtLXJlcG8gKiBhcGkgKm1lcmdlKikiLAogICAgICAiQmFzaChnaCAtLXJlcG89KiBhcGkgKm1lcmdlKikiLAogICAgICAiQmFzaChnaCBwciAtUiAqIG1lcmdlICopIiwKICAgICAgIkJhc2goZ2ggcHIgLS1yZXBvICogbWVyZ2UgKikiLAogICAgICAiQmFzaChnaCBwciAtLXJlcG89KiBtZXJnZSAqKSIsCiAgICAgICJCYXNoKGdoIGFwaSAtUiAqICptZXJnZSopIiwKICAgICAgIkJhc2goZ2ggYXBpIC0tcmVwbyAqICptZXJnZSopIiwKICAgICAgIkJhc2goZ2ggYXBpIC0tcmVwbz0qICptZXJnZSopIgogICAgXSwKICAgICJkZWZhdWx0TW9kZSI6ICJhdXRvIgogIH0sCiAgImVuYWJsZUFsbFByb2plY3RNY3BTZXJ2ZXJzIjogZmFsc2UsCiAgImhvb2tzIjogewogICAgIlByZVRvb2xVc2UiOiBbCiAgICAgIHsKICAgICAgICAibWF0Y2hlciI6ICJCYXNoIiwKICAgICAgICAiaG9va3MiOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogImNvbW1hbmQiLAogICAgICAgICAgICAiY29tbWFuZCI6ICJiYXNoIC1jICdIPS4vLmNsYXVkZS9ob29rcy9wcmUtYmFzaC5zaDsgaWYgWyAtZiBcIiRIXCIgXTsgdGhlbiBleGVjIGJhc2ggXCIkSFwiOyBmaTsgUD0kKGNhdCk7IFE9JChwcmludGYgJXMgXCIkUFwiIHwgdHIgLWQgXCJ7WzpzcGFjZTpdXCIgfCBjdXQgLWMxKTsgVD0kKHByaW50ZiAlcyBcIiRQXCIgfCBncmVwIC1vRSBcIlskUV1jb21tYW5kWyRRXTogKlskUV1jZCAoL3xbQS1aYS16XTovKVtBLVphLXowLTlfOi8uLV0qWyRRXVwiIHwgaGVhZCAtbjEpOyBUPSR7VCMqY2QgfTsgVD0ke1QlP307IGlmIFsgLW4gXCIkVFwiIF0gJiYgWyAtZiBcIiRULy5jbGF1ZGUvaG9va3MvcHJlLWJhc2guc2hcIiBdOyB0aGVuIGV4aXQgMDsgZmk7IFI9JChnaXQgcmV2LXBhcnNlIC0tc2hvdy10b3BsZXZlbCAyPi9kZXYvbnVsbCk7IGVjaG8gXCLQkdCb0J7QmtCY0KDQntCS0JrQkDog0LrQsNGC0LDQu9C+0LMg0YHQtdGB0YHQuNC4INC90LUg0LrQvtGA0LXQvdGMINGA0LXQv9C+0LfQuNGC0L7RgNC40Y8sINC00LjRgdC/0LXRgtGH0LXRgCDRhdGD0LrQvtCyIC5jbGF1ZGUvaG9va3MvcHJlLWJhc2guc2gg0LfQtNC10YHRjCDQvdC1INC90LDQudC00LXQvSAoUFdEPVskUFdEXSwgQ0xBVURFX1BST0pFQ1RfRElSPVske0NMQVVERV9QUk9KRUNUX0RJUi19XSkuINCf0YDQvtGF0L7QtNC40YIg0YLQvtC70YzQutC+INC+0LTQvdCwINC60L7QvNCw0L3QtNCwOiBjZCDRgSDQsNCx0YHQvtC70Y7RgtC90YvQvCDQv9GD0YLRkdC8INC6INC60L7RgNC90Y4g0YDQtdC/0L7Qt9C40YLQvtGA0LjRjyAo0L/RgNGP0LzRi9C1INGB0LvRjdGI0LgsINCx0LXQtyDQutCw0LLRi9GH0LXQuikuINCS0L7RgdGB0YLQsNC90L7QstC70LXQvdC40LU6IGNkICR7UjotPNC60L7RgNC10L3RjCDRgNC10L/QvtC30LjRgtC+0YDQuNGPPn1cIiA+JjI7IGV4aXQgMiciLAogICAgICAgICAgICAidGltZW91dCI6IDYwMAogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfQogICAgXSwKICAgICJQb3N0VG9vbFVzZSI6IFsKICAgICAgewogICAgICAgICJtYXRjaGVyIjogIldyaXRlfEVkaXQiLAogICAgICAgICJob29rcyI6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgInR5cGUiOiAiY29tbWFuZCIsCiAgICAgICAgICAgICJjb21tYW5kIjogImVjaG8gJ9Ck0LDQudC7INC40LfQvNC10L3RkdC9LiDQo9Cx0LXQtNC40YHRjCwg0YfRgtC+INGC0LXRgdGC0Ysg0L/RgNC+0YXQvtC00Y/RgiDQv9C10YDQtdC0INC60L7QvNC80LjRgtC+0LwuJyIKICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0KICAgIF0KICB9LAogICJsYW5ndWFnZSI6ICJydXNzaWFuIiwKICAic2tpcERhbmdlcm91c01vZGVQZXJtaXNzaW9uUHJvbXB0IjogdHJ1ZSwKICAic2tpcEF1dG9QZXJtaXNzaW9uUHJvbXB0IjogdHJ1ZSwKICAicGxhbnNEaXJlY3RvcnkiOiAiLi9kb2NzL3BsYW5zIgp9Cg==",
+      "source": ".claude/settings.json",
+      "target": ".claude/settings.json"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "050300922c0791e38f9dc5a509e0d370637cab6fd8dffb1ae60cb1bda9b89eb2"
+      },
+      "before": null,
+      "data": "ewogICJkZXNjcmlwdGlvbiI6ICJPdmVyR2F0ZSByZXBvc2l0b3J5IGd1YXJkOiBzaGFyZWQgb3BlcmF0b3Itb25seSBtZXJnZS9tYWluIG11dGF0aW9uIHBvbGljeS4iLAogICJob29rcyI6IHsKICAgICJQcmVUb29sVXNlIjogWwogICAgICB7CiAgICAgICAgIm1hdGNoZXIiOiAiXkJhc2gkIiwKICAgICAgICAiaG9va3MiOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogImNvbW1hbmQiLAogICAgICAgICAgICAiY29tbWFuZCI6ICJiYXNoIC1jICdST09UPSQoZ2l0IHJldi1wYXJzZSAtLXNob3ctdG9wbGV2ZWwpOyByb290X3JjPSQ/OyBpZiBbIFwiJHJvb3RfcmNcIiAtbmUgMCBdOyB0aGVuIGV4aXQgMjsgZmk7IExBVU5DSEVSPVwiJFJPT1QvLmNsYXVkZS90b29scy9ydW4tcHl0aG9uLnNoXCI7IEhPT0s9XCIkUk9PVC8uY2xhdWRlL2hvb2tzL2NoZWNrLXJlcG9zaXRvcnktbXV0YXRpb24ucHlcIjsgaWYgWyAhIC14IFwiJExBVU5DSEVSXCIgXSB8fCBbICEgLWYgXCIkSE9PS1wiIF07IHRoZW4gZXhpdCAyOyBmaTsgXCIkTEFVTkNIRVJcIiBcIiRIT09LXCI7IHJjPSQ/OyBpZiBbIFwiJHJjXCIgLW5lIDAgXTsgdGhlbiBleGl0IDI7IGZpOyBleGl0IDAnIiwKICAgICAgICAgICAgImNvbW1hbmRXaW5kb3dzIjogInBvd2Vyc2hlbGwgLU5vUHJvZmlsZSAtQ29tbWFuZCBcIiRyb290PShnaXQgcmV2LXBhcnNlIC0tc2hvdy10b3BsZXZlbCk7IGlmICgtbm90ICQ/KSB7IGV4aXQgMiB9OyAkaG9vaz1Kb2luLVBhdGggJHJvb3QgJy5jbGF1ZGUvaG9va3MvY2hlY2stcmVwb3NpdG9yeS1tdXRhdGlvbi5weSc7IGlmICgtbm90IChUZXN0LVBhdGggJGhvb2spKSB7IGV4aXQgMiB9OyAkcHk9R2V0LUNvbW1hbmQgcHkgLUVycm9yQWN0aW9uIFNpbGVudGx5Q29udGludWU7IGlmICgtbm90ICRweSkgeyBleGl0IDIgfTsgJiBweSAtMyAkaG9vazsgaWYgKCRMQVNURVhJVENPREUgLW5lIDApIHsgZXhpdCAyIH07IGV4aXQgMFwiIiwKICAgICAgICAgICAgInRpbWVvdXQiOiA1LAogICAgICAgICAgICAic3RhdHVzTWVzc2FnZSI6ICJDaGVja2luZyBPdmVyR2F0ZSByZXBvc2l0b3J5IG11dGF0aW9uIHBvbGljeSIKICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0KICAgIF0KICB9Cn0K",
+      "source": ".codex/hooks.json",
+      "target": ".codex/hooks.json"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "d7b56fb44d4ed9ca9717d07680fb7c866f5b1651ba647f33cbb49104b592714a"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/check-reference.py",
+      "target": "scripts/check-reference.py"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "a3cbafd0c1e9f87230e544d31a5d68a186ac8a6711ae963c7a7f224dff7119cd"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/install-overgate.py",
+      "target": "scripts/install-overgate.py"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "2832e4afbd275b8cb127a35f5e4fe767a212030db49512e251e87ddd9b6c634c"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/bd-read.sh",
+      "target": "scripts/bd-read.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "54f4a9a1b70517b532774f0acde6e72d006399c0b0995ddba590b0d26d141547"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/bd-wt.sh",
+      "target": "scripts/bd-wt.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "5e4ffb08ed0791150e4b51c3df73828bf47170f474b18b1c5c0c8b8af268fd27"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/lib/bd-env.sh",
+      "target": "scripts/lib/bd-env.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "df581a2d632230de1f78015c03f840cd07296218840207d9ec76525a3289498b"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/lib/bd-read-engine.mjs",
+      "target": "scripts/lib/bd-read-engine.mjs"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "a51de9460ccf17094af73fd502cd8c0caf918d929a9ca1f3bb563f97ce0e56a0"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/bd-sync-common.sh",
+      "target": "scripts/bd-sync-common.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "947a3268e48d4739c22cf28bd2479fc7f9c02edbe4953645242f5ce95016d218"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/bd-sync-export.sh",
+      "target": "scripts/bd-sync-export.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "c8db82db1d6bc90d1c696ec78674f08f12ee0f6299d3d7d9fc298278f189ceeb"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/bd-sync-restore.sh",
+      "target": "scripts/bd-sync-restore.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "a52aa2956376e177bd9bcb1bb1ebb5489a507a7cbed4b3ba94a11fa2ddf992e1"
+      },
+      "before": null,
+      "data": null,
+      "source": "LICENSE",
+      "target": "LICENSE"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "0d2854b2fc64a59fec52685740bcf237ec0d213e8f2dc232c8a03fb9ed031abb"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/rules/beads.md",
+      "target": ".claude/rules/beads.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "7097259cebddfb823915da111e758f24261a8ff33db958f96d35e4643d89eb5a"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/rules/tests.md",
+      "target": ".claude/rules/tests.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "ed543e232e1ef55af4fa64c3665c306fe13e9854b3a88ee7c7ad2a3834e4affb"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/rules/universal.md",
+      "target": ".claude/rules/universal.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "01a1a1b11b0a8de1ba83ad8269d21036606cdb1773795103ea06cbb9360f300f"
+      },
+      "before": null,
+      "data": null,
+      "source": ".claude/rules/large-payloads.md",
+      "target": ".claude/rules/large-payloads.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "e95deae089fd6f984bf5ae628c40942bf0ca2d25d40b9c1d622a83d9cd93eaf4"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/AGENTS.template.md",
+      "target": "AGENTS.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "c4c66cffa8de7578d8737c4026cc257f6a8540cc1fbc4e3ae0273587262d3f38"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/project-verify.sh",
+      "target": ".agents/project/verify.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "5326c2e5579af8feea13cc603edbf8e09d7be872dff812cbc30d7b1bca25e8bc"
+      },
+      "before": null,
+      "data": "IyBPdmVyR2F0ZSBwZXJzb25hbCBzdGF0ZSAobWFuYWdlZCBmcmFnbWVudCkKLmNvZGV4LyoKIS5jb2RleC9ob29rcy5qc29uCi5jbGF1ZGUvc2V0dGluZ3MubG9jYWwuanNvbgoub3ZlcmdhdGUtcnVudGltZS8KLm92ZXJnYXRlLWJhY2t1cHMvCl9fcHljYWNoZV9fLwoqLnB5Ywo=",
+      "source": ".agents/templates/gitignore.fragment",
+      "target": ".gitignore"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "f462e37834f450967de1b9c009a6529bc2ac0e3f1eed4bcc28f577691a06ea87"
+      },
+      "before": null,
+      "data": null,
+      "source": "docs/baselines/2026-10-01-delivery-first-provenance.json",
+      "target": "docs/baselines/2026-10-01-delivery-first-provenance.json"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "5340a1b4e174610d13d6f490bdb14fd90c7192a655f33164aaf29d1fb15f5c79"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/og-init-memory-bank.sh",
+      "target": "scripts/og-init-memory-bank.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "a4e7d41be216f50c2fb793947e45a6e1f7e5bf467f4d60359f964490def0c275"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/og-protect-main.sh",
+      "target": "scripts/og-protect-main.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "5a5cb1a3da1268b0e51a96bf871c668da3fa407d29d6f1675922b9d6aea52cdd"
+      },
+      "before": null,
+      "data": null,
+      "source": "scripts/bd-bootstrap.sh",
+      "target": "scripts/bd-bootstrap.sh"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "57a679e648d0b4dd00466f5fdd051fcb2d293ae8fd88a4765c036675efab0d92"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/memory-bank/projectbrief.md",
+      "target": ".agents/templates/memory-bank/projectbrief.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "39c0727956e5e08233947a7fecaf07454b3c240f13f8754bdce4b8397ff2f0af"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/memory-bank/productContext.md",
+      "target": ".agents/templates/memory-bank/productContext.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "576a7e0d5fb598b05f73aaf644219c2d72bca92ea360ee4e299bfb775f5708c2"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/memory-bank/systemPatterns.md",
+      "target": ".agents/templates/memory-bank/systemPatterns.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "f8f32b161ada180683580d9c07df4cf95959d46653d8b84c93e8a35145c5952d"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/memory-bank/techContext.md",
+      "target": ".agents/templates/memory-bank/techContext.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "484088fd999288c9885062f7295a8947b29aafb03c22cb68e75d14eea32b652f"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/memory-bank/activeContext.md",
+      "target": ".agents/templates/memory-bank/activeContext.md"
+    },
+    {
+      "after": {
+        "mode": 438,
+        "sha256": "5e978428d868441936c826a3a6fdddbc9da8762e05a7b24fbc58f7cc2e45e4a4"
+      },
+      "before": null,
+      "data": null,
+      "source": ".agents/templates/memory-bank/progress.md",
+      "target": ".agents/templates/memory-bank/progress.md"
+    }
+  ],
+  "requested_mode": null,
+  "source": "D:\\CodexArtifacts\\overgate-rc5-wic-winqa-20261105\\released-source",
+  "source_sha": "3f3246c3a3b62377fc02aad05283cae1ef5d4e2d",
+  "state_before": null,
+  "target": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-empty",
+  "target_pr": "https://github.com/example/project/pull/1"
+}

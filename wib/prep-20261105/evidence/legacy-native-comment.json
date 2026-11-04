@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "comments",
+    "add",
+    "wib-qa-05l",
+    "Preserve comment\nКомментарий",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.282,
+  "stdout": "{\n  \"author\": \"Windows WI-B QA\",\n  \"created_at\": \"2026-11-04T21:46:42.1444257Z\",\n  \"id\": \"01a1a887-4e61-7680-94e7-cfb36b9882f8\",\n  \"issue_id\": \"wib-qa-05l\",\n  \"schema_version\": 1,\n  \"text\": \"Preserve comment\\nКомментарий\"\n}\n",
+  "stderr": "",
+  "stdout_sha256": "c75bfd9bb3afa8a2f4810dda6a9f2119626eb97bdd7cc6eeaef87b0b4634f646",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

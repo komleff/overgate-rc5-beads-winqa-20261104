@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "qa/preparation"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.227,
+  "stdout": "",
+  "stderr": "To D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-origin.git\n * [new branch]      qa/preparation -> qa/preparation\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "6b5bbc8ebd0410a9644248c3e0801b5b794ada1cf049e5bc8998f3168bee5530"
+}

@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "dep",
+    "add",
+    "wib-qa-05l",
+    "wib-qa-jtu",
+    "--type",
+    "discovered-from",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.325,
+  "stdout": "{\n  \"depends_on_id\": \"wib-qa-jtu\",\n  \"issue_id\": \"wib-qa-05l\",\n  \"schema_version\": 1,\n  \"status\": \"added\",\n  \"type\": \"discovered-from\"\n}\n",
+  "stderr": "",
+  "stdout_sha256": "3a519b9d21a15c848c599f62e53e613c17d98b5a7a9a2efdb62aece399255577",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "-c",
+    "commit.gpgsign=false",
+    "commit",
+    "-m",
+    "fixture: neutral preparation"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\seed",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.051,
+  "stdout": "[qa/preparation (root-commit) e89c806] fixture: neutral preparation\n 1 file changed, 1 insertion(+)\n create mode 100644 README.md\n",
+  "stderr": "",
+  "stdout_sha256": "ecb9d2cc64addd670e53a40797126138a94bcf67c41c3bba0123a3246cf4137a",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

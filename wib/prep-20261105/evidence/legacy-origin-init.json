@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "init",
+    "--bare",
+    "--initial-branch=qa/preparation",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-origin.git"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.035,
+  "stdout": "Initialized empty Git repository in D:/CodexArtifacts/overgate-rc5-wib-winqa-20261105/legacy-origin.git/\n",
+  "stderr": "",
+  "stdout_sha256": "bd795f1814567c5c4f29e5df2d2c574d8ad6377c50566693c079bb2d04d6ad11",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,4 @@
+{
+  "result": "PASS",
+  "method": "full native export objects, unordered labels/comments/dependency representation only; metadata array order retained"
+}

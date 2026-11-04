@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "config",
+    "user.email",
+    "qa-wib@example.invalid"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\unknown-remote",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.02,
+  "stdout": "",
+  "stderr": "",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

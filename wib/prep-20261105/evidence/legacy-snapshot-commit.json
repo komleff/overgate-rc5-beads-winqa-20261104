@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "commit-tree",
+    "0421414e3571fce9b898277d82afd2c073cde700",
+    "-m",
+    "fixture: legitimate legacy native export"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.026,
+  "stdout": "aa42f389fa93eea88583d74010579ecc920528c0\n",
+  "stderr": "",
+  "stdout_sha256": "cd96c81091a1acfebefa389ee2019ac9b74213fbeaf99491085431788f50163a",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

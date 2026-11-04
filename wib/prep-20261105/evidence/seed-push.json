@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "qa/preparation"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\seed",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.151,
+  "stdout": "",
+  "stderr": "To D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\origin.git\n * [new branch]      qa/preparation -> qa/preparation\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "f78a8714b718eabfe9686efa1f0751d8cec9b55ee3c207c80c9c868d2137b15e"
+}

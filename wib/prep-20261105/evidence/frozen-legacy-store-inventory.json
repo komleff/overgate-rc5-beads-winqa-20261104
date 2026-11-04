@@ -1,0 +1,91 @@
+{
+  "legacy-pending": {
+    "source": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending\\.beads",
+    "frozen_copy": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\frozen-legacy-stores\\legacy-pending",
+    "files": {
+      ".gitignore": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      ".local_version": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "config.yaml": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "interactions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last-touched": "d39827e3787e0385980d446f6b9d6c4c91dbf8be56a22db160b5f2dec339b048",
+      "metadata.json": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "README.md": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "backup\\backup_state.json": "61df7e11210ef621cbe8c6d957c4c073ed17315551e6681e88c14b03e90fe93b",
+      "backup\\LOCK": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "backup\\manifest": "c4cd2e1b2ced021728750ccc8539d825691000e6293dc24dce5f3f86f5e7239d",
+      "backup\\q2na632iuvgt5bsctrlgqgmbgdg8gco9.darc": "a3d1400ca24b48a2f86957e816b73db55998c96909003ff174747b8b388cb7bd",
+      "embeddeddolt\\.lock": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embeddeddolt\\wib_qa\\.dolt\\config.json": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "embeddeddolt\\wib_qa\\.dolt\\repo_state.json": "3f34597edd763c9753e9b9ebe42c8cf07d932bcdae7c431d3a6727659cf68626",
+      "embeddeddolt\\wib_qa\\.dolt\\noms\\journal.idx": "2a3269c2859dbfdc94c5b5a1d546f51c6532a159ff53034fef2f7a7b96d46a37",
+      "embeddeddolt\\wib_qa\\.dolt\\noms\\LOCK": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embeddeddolt\\wib_qa\\.dolt\\noms\\manifest": "dd66c2cdf8aedaab5ff51f19187e5e52e00828b5133819721ec8b3ccea3c22d7",
+      "embeddeddolt\\wib_qa\\.dolt\\noms\\vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": "b5aaf65953304214b7ad38ad9891a8f4bfa5ab975c6e1ad4aa8408688063474d",
+      "embeddeddolt\\wib_qa\\.dolt\\temptf\\dolt_embedded_metrics": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "controls": {
+      "git-config": {
+        "path": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending\\.git\\config",
+        "sha256": "2d7b7e3ddfba6940e8a8818d2ecd6b6b374ccd49ae8c9f0f6a29ef8e752d2705"
+      },
+      "git-index": {
+        "path": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending\\.git\\index",
+        "sha256": "a01b8b8d29deac53e4408cc62bd23f23896de2b31b844e52b7d599c2e3711cc3"
+      },
+      "install-state": {
+        "path": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending\\.overgate\\install-state.json",
+        "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169"
+      },
+      "pre-push": {
+        "path": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending\\.git\\hooks\\pre-push",
+        "present": false,
+        "sha256": null
+      }
+    },
+    "full_byte_copy_verified": true
+  },
+  "legacy-old-writer-peer": {
+    "source": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-old-writer-peer\\.beads",
+    "frozen_copy": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\frozen-legacy-stores\\legacy-old-writer-peer",
+    "files": {
+      ".gitignore": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      ".local_version": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "config.yaml": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "interactions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "metadata.json": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "README.md": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "backup\\backup_state.json": "215fc524d230287a22febf78a59e54d3088b9531a978290de09cc1d4a0893fdf",
+      "backup\\LOCK": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "backup\\manifest": "e8074600d997d1451a3fee46180bdbb3b55ba055086e28909437d8bcc0fc01e9",
+      "backup\\or3al5ng4jf94oil6l4k784052ileegu.darc": "4275bc80fdc94e29baae075e47203cd59977fb2677f2dd984864c5f2ac549aee",
+      "embeddeddolt\\.lock": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embeddeddolt\\wib_qa\\.dolt\\config.json": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "embeddeddolt\\wib_qa\\.dolt\\repo_state.json": "7c68c0f801c4ff77186e7ef5fbdf97bff2c282e139058fd9fb5d5e31816dbcfa",
+      "embeddeddolt\\wib_qa\\.dolt\\noms\\journal.idx": "7a6a06fa8f7f23d5840c642acc26954d113bc74e3112176809ca8f20c1e4703a",
+      "embeddeddolt\\wib_qa\\.dolt\\noms\\LOCK": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embeddeddolt\\wib_qa\\.dolt\\noms\\manifest": "31be67299fc2673f2e1ef8df21837df71d5c3fe1e56c4ee71ed2e764f6ec02a6",
+      "embeddeddolt\\wib_qa\\.dolt\\noms\\vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": "688d7d37529fed1df269ad7b850f43a66b280e767158d26db949c428feb8e1cb",
+      "embeddeddolt\\wib_qa\\.dolt\\temptf\\dolt_embedded_metrics": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "controls": {
+      "git-config": {
+        "path": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-old-writer-peer\\.git\\config",
+        "sha256": "2bc0c2c5a82a30f6438ae019def3840cfc282a00376ce6b7a0414056ccc39dbe"
+      },
+      "git-index": {
+        "path": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-old-writer-peer\\.git\\index",
+        "sha256": "5651ebb3d12d808f1f38d4cf000a1bf0951fefdb54b99b5e4a4eaddd64324402"
+      },
+      "install-state": {
+        "path": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-old-writer-peer\\.overgate\\install-state.json",
+        "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169"
+      },
+      "pre-push": {
+        "path": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-old-writer-peer\\.git\\hooks\\pre-push",
+        "present": false,
+        "sha256": null
+      }
+    },
+    "full_byte_copy_verified": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "3f3246c3a3b62377fc02aad05283cae1ef5d4e2d",
+  "prefix": "wib-qa",
+  "ids": [
+    "wib-qa-05l",
+    "wib-qa-jtu"
+  ],
+  "frozen_remote_R": "aa42f389fa93eea88583d74010579ecc920528c0",
+  "export_sha256": "0909265e470355b457ddf0cea4b477bfd32433ac18f63d76d4b92b5beea31952",
+  "pending_sha256": "55b472ccca2951a09c14beb0029990aa8f6ca647a39c8a5d1b713935aaaf8518",
+  "pending_owner": "agent-ef2afc84-382c-4f74-9fc7-ea4fec935849",
+  "receipt_fixture": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\unknown-receipt",
+  "receipt_sha256": "1fa3d5590bfe28d421b10feaf162b27f99e74a3ebc56a4aa80387b518e739ba6",
+  "pending_status": "raw/unreconciled fixture data; never submitted/prepared/replayed; future reviewed adoption needed",
+  "known_old_writers": [
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-old-writer-peer"
+  ]
+}

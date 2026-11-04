@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "worktree",
+    "add",
+    "-b",
+    "qa/linked",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\linked",
+    "qa/install-fixture"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\fresh-install-pr",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.071,
+  "stdout": "HEAD is now at e89c806 fixture: neutral preparation\n",
+  "stderr": "Preparing worktree (new branch 'qa/linked')\n",
+  "stdout_sha256": "84b6c15daf9feef8cbfd5908b409e24213cef42576aaa8895d4a2e2ec188254f",
+  "stderr_sha256": "24420ed199fa0c3fd80fe9811cfd0df5241702cc4f613ba4214525c826af21c6"
+}

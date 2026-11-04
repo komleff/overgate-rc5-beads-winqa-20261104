@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-11-04T21:46:41.8651625Z",
+  "created_by": "Windows WI-B QA",
+  "id": "wib-qa-jtu",
+  "issue_type": "bug",
+  "owner": "qa-wib@example.invalid",
+  "priority": 1,
+  "schema_version": 1,
+  "status": "open",
+  "title": "WI-B legacy synthetic peer",
+  "updated_at": "2026-11-04T21:46:41.8651625Z"
+}

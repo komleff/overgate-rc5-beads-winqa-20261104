@@ -1,0 +1,13 @@
+  Repository ID: cad3efef
+  Clone ID: ca97359e901bd1cc
+
+✓ bd initialized successfully!
+
+  Backend: dolt
+  Mode: embedded
+  Database: wib_qa
+  Issue prefix: wib-qa
+  Issues will be named: wib-qa-<hash> (e.g., wib-qa-a3f2dd)
+
+Run bd quickstart to get started.
+

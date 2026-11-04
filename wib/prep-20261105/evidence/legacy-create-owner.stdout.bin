@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-11-04T21:46:41.4148142Z",
+  "created_by": "Windows WI-B QA",
+  "description": "Preserve legacy data\nКириллица",
+  "id": "wib-qa-05l",
+  "issue_type": "task",
+  "labels": [
+    "wib-qa",
+    "legacy"
+  ],
+  "metadata": {
+    "phase": "baseline",
+    "typed": [
+      1,
+      true,
+      null
+    ]
+  },
+  "owner": "qa-wib@example.invalid",
+  "priority": 2,
+  "schema_version": 1,
+  "status": "open",
+  "title": "WI-B legacy synthetic owner",
+  "updated_at": "2026-11-04T21:46:41.4148142Z"
+}
+

@@ -1,0 +1,6 @@
+{
+  "reason": "QA git add exclude pathspec encountered ignored backup directory; use explicit released manifest target allowlist",
+  "candidate_executed": false,
+  "original_receipt": "legacy-code-add.json",
+  "released_installs_and_native_creates_not_repeated": true
+}

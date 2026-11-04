@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "ls-files",
+    "-s",
+    "-z"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\linked",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.021,
+  "stdout": "100644 829068f5dbc21da78f0840e4013b913d9449fe2c 0\tREADME.md\u0000",
+  "stderr": "",
+  "stdout_sha256": "f94c2731418a590341add6ba3bcfb2041995fcda70e91dd263d3f678a8bbc534",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

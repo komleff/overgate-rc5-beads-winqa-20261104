@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "aa42f389fa93eea88583d74010579ecc920528c0:refs/heads/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-pending",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.151,
+  "stdout": "",
+  "stderr": "To D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-origin.git\n * [new branch]      aa42f389fa93eea88583d74010579ecc920528c0 -> beads-backup\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "0a45dbb7f63cfae307dbef70cf211fb42cb17838fca1d1d6aca0b7350b4a4ea3"
+}

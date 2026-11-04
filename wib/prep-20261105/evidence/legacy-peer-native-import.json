@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "import",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\evidence\\legacy-before.jsonl",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-old-writer-peer",
+  "exit_code": 0,
+  "expected_exit": 0,
+  "seconds": 0.353,
+  "stdout": "{\n  \"created\": 2,\n  \"ids\": [\n    \"wib-qa-jtu\",\n    \"wib-qa-05l\"\n  ],\n  \"schema_version\": 1,\n  \"skipped\": 0,\n  \"source\": \"D:\\\\CodexArtifacts\\\\overgate-rc5-wib-winqa-20261105\\\\evidence\\\\legacy-before.jsonl\"\n}\n\n",
+  "stderr": "",
+  "stdout_sha256": "1135f8d54d8be3ef9397cb7be2cd8837682b88a09f62713bb9da81a21cde4b76",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

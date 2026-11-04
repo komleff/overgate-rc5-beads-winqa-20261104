@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "canonical_zero_bytes": true,
+  "malformed": [
+    {
+      "raw": " \n\t\n",
+      "rejected": true,
+      "message": "snapshot: строка 1 — пустая строка в непустом snapshot (fail-closed)"
+    },
+    {
+      "raw": "\n",
+      "rejected": true,
+      "message": "snapshot: строка 1 — пустая строка в непустом snapshot (fail-closed)"
+    },
+    {
+      "raw": " ",
+      "rejected": true,
+      "message": "snapshot: строка 1 — пустая строка в непустом snapshot (fail-closed)"
+    }
+  ]
+}

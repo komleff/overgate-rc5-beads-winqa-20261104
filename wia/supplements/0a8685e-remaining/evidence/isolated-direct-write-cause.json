@@ -1,0 +1,4 @@
+{
+  "result": "PASS",
+  "details": "ERROR: remote managed protocol активен; прямой bd-wt write запрещён. Используй trusted typed queue publisher.\n"
+}

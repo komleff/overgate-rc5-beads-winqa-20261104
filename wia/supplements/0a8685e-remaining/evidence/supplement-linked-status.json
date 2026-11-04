@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "status",
+    "--porcelain"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\linked",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.026,
+  "stdout_sha256": "249030523bc08e239c61f6e7295e2af731e1d5a2f47869b5a6a11e548439fd96",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "?? .bd-intents/\n",
+  "stderr": ""
+}

@@ -1,0 +1,24 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-apply-intents.sh",
+    "--prepare",
+    "--base",
+    "20716a7a5ded0a5bc960690519ee6ba9963ec562",
+    "--actor",
+    "agent-d2e31940-1e4b-40cb-8d60-ddc3b7710366",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\run-0a8685e\\queues\\race-graph-cycle.v2.jsonl",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\run-0a8685e\\queues\\race-graph-cycle.raw.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 1.36,
+  "stdout_sha256": "04c521ac5f979882f267b9a28dda19e25638df47fd7789ed9ea07091a6e7500e",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "{\"status\":\"prepared\",\"base\":\"20716a7a5ded0a5bc960690519ee6ba9963ec562\",\"actor\":\"agent-d2e31940-1e4b-40cb-8d60-ddc3b7710366\",\"output\":\"D:\\\\CodexArtifacts\\\\overgate-rc5-wia-0a8685e-winqa-20261105\\\\run-0a8685e\\\\queues\\\\race-graph-cycle.v2.jsonl\",\"operations\":1,\"payload_hashes\":[\"092969817c27569fb29cd4207ed5cc3be366faaab63d521d5b3e7386591a2eee\"]}\n",
+  "stderr": ""
+}

@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "ls-remote",
+    "origin"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.051,
+  "stdout_sha256": "85ef0b8cde140ba78b6a87606a7a9289aa315282e5758bc4afef71d322c1c59c",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "ae1fbcc4aa463b312c0dce30771b239902edf1e9\tHEAD\n0b25f2996748cc7322f90de445ce7a8268245d8d\trefs/heads/beads-backup\nae1fbcc4aa463b312c0dce30771b239902edf1e9\trefs/heads/main\n",
+  "stderr": ""
+}

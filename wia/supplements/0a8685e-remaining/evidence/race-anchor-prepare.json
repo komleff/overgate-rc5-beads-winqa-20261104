@@ -1,0 +1,24 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-apply-intents.sh",
+    "--prepare",
+    "--base",
+    "5a81caeb58e15981b5e75d2f4fdc62c067eae53c",
+    "--actor",
+    "agent-afc68d65-bbe9-4b1d-a12b-3a72d97120a9",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\run-0a8685e\\queues\\race-anchor.v2.jsonl",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\run-0a8685e\\queues\\race-anchor.raw.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 1.304,
+  "stdout_sha256": "6b1b99727ced78b3959da27991f4706148c446157337529c35cba9f3205d0b35",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "{\"status\":\"prepared\",\"base\":\"5a81caeb58e15981b5e75d2f4fdc62c067eae53c\",\"actor\":\"agent-afc68d65-bbe9-4b1d-a12b-3a72d97120a9\",\"output\":\"D:\\\\CodexArtifacts\\\\overgate-rc5-wia-0a8685e-winqa-20261105\\\\run-0a8685e\\\\queues\\\\race-anchor.v2.jsonl\",\"operations\":1,\"payload_hashes\":[\"173c1e0078b569c398f40e59c45ea2ad947533ec692a86fbef7b5943ec76a5d0\"]}\n",
+  "stderr": ""
+}

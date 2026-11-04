@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "details": {
+    "wanted": {
+      "status": "closed",
+      "close_reason": "Synthetic QA done — готово"
+    },
+    "actual": {
+      "status": "closed",
+      "close_reason": "Synthetic QA done — готово"
+    }
+  }
+}

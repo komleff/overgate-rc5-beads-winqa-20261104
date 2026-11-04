@@ -1,0 +1,59 @@
+{
+  "result": "PASS",
+  "details": [
+    {
+      "intent_id": "win-0a-race-title-B",
+      "ref": "wqa-jax.1",
+      "field": "title",
+      "expected": {
+        "present": true,
+        "value": "Updated Windows native task"
+      },
+      "actual": {
+        "present": true,
+        "value": "AC3 winning title"
+      }
+    },
+    {
+      "intent_id": "win-0a-race-claim-B",
+      "ref": "wqa-jax",
+      "field": "assignee",
+      "expected": {
+        "unassigned_or": "agent-d2e31940-1e4b-40cb-8d60-ddc3b7710366"
+      },
+      "actual": "agent-afc68d65-bbe9-4b1d-a12b-3a72d97120a9"
+    },
+    {
+      "intent_id": "win-0a-race-claim-B",
+      "ref": "wqa-jax",
+      "field": "$lifecycle",
+      "expected": 1,
+      "actual": 2
+    },
+    {
+      "intent_id": "win-0a-race-claim-B",
+      "ref": "wqa-jax",
+      "field": "assignee",
+      "expected": {
+        "present": false
+      },
+      "actual": {
+        "present": true,
+        "value": "agent-afc68d65-bbe9-4b1d-a12b-3a72d97120a9"
+      }
+    },
+    {
+      "intent_id": "win-0a-race-claim-B",
+      "ref": "wqa-jax",
+      "field": "status",
+      "expected": {
+        "present": true,
+        "value": "open"
+      },
+      "actual": {
+        "present": true,
+        "value": "in_progress"
+      }
+    }
+  ]
+}

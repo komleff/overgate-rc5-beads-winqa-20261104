@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-read.sh",
+    "list",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\isolated-reader",
+  "exit_code": 2,
+  "expected_exit": [
+    2
+  ],
+  "seconds": 1.069,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "2896a46383b0a5da8933305d05d996548cdcc2cbe9028e20e1fc52c89ea38010",
+  "stdout": "",
+  "stderr": "ERROR: snapshot changed without authorized outcome (fail-closed)\n"
+}

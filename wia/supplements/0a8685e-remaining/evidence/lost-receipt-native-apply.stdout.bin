@@ -1,0 +1,1 @@
+{"status":"published","published_sha":"5a81caeb58e15981b5e75d2f4fdc62c067eae53c","queue_hash":"2eb8ed34aafa854fcff85e3db60afbf19bf073fc19dfc29dc2b5e539f1efc27a","mutations":1,"outcomes":[{"intent_id":"win-0a-lost-receipt","payload_hash":"ded1d55e87164b99637475310001696c62b7771f34d9d2e3bbfde4e0e3c76373","result":{"ref":"wqa-jax.1"}}],"claims":[]}

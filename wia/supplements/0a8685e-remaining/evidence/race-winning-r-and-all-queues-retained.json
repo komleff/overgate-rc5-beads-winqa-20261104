@@ -1,0 +1,12 @@
+{
+  "result": "PASS",
+  "details": {
+    "remote": "37a7d061bba28944163dfd4115aadd3c6552f659",
+    "winner": "37a7d061bba28944163dfd4115aadd3c6552f659",
+    "queue_hashes": {
+      "race-winning.v2.jsonl": "e7e76443633c63fde45d309a578d37c00e1ec0b6eb3cda55b8be2a2759c17980",
+      "race-losing.v2.jsonl": "c94c74bbc370bea95f6f6d0a06fa97962c19858ab63b6f15c729ef9a8c444288",
+      "race-graph-cycle.v2.jsonl": "3435929be8fa5fb3bdea80ed64a2ff5bdd7aecaf34e30cab88e09e997b1c246d"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "node",
+    "scripts/bd-publisher-setup.mjs",
+    "--install",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\run-0a8685e\\setup-plan.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 2.316,
+  "stdout_sha256": "345f382b58e6bd257a4327aa5cd56353ef95652cf4ac87974d098d33b2dae9c8",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "INSTALL plan f1d5ab10a6c41a9bfc173e1fb2ef40cbe83ddb1b181e9a8cf58c5c1bff83a376\n",
+  "stderr": ""
+}

@@ -1,0 +1,58 @@
+{
+  "status": "published",
+  "published_sha": "f34d37c107851309ff414e1239b206bbac4f660e",
+  "queue_hash": "c75d5239aebc93d4f3a337f025c82662bf98ec29ec34a82abf753aa789172630",
+  "mutations": 5,
+  "outcomes": [
+    {
+      "intent_id": "win-0a-parent",
+      "payload_hash": "aefa1821c95618e2397f1884b25ebd5225af4ac70ede162068dcdcf94e6897e7",
+      "result": {
+        "handles": {
+          "tmp:parent": "wqa-jax"
+        },
+        "ref": "wqa-jax"
+      }
+    },
+    {
+      "intent_id": "win-0a-child",
+      "payload_hash": "143ef537c1cdae0c5b816b757cd33bb58f5848f9fd932116eeb13206242e5023",
+      "result": {
+        "handles": {
+          "tmp:child": "wqa-jax.1"
+        },
+        "ref": "wqa-jax.1"
+      }
+    },
+    {
+      "intent_id": "win-0a-claim",
+      "payload_hash": "36d3571512ce4af1ef5fb9d0768ede7a9ff50cf21ef90a84d6796493be52750f",
+      "result": {
+        "ref": "wqa-jax.1"
+      }
+    },
+    {
+      "intent_id": "win-0a-comment",
+      "payload_hash": "3cd2fb524a68a904b1df2c1f66edd0dd51ae1e65227cbea4985909e0f0f18183",
+      "result": {
+        "ref": "wqa-jax.1"
+      }
+    },
+    {
+      "intent_id": "win-0a-edge",
+      "payload_hash": "b2d873972f9a22128578cd00754b75293400a3f3f5e660081defc2206d1ccb65",
+      "result": {
+        "ref": "wqa-jax.1"
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "wqa-jax.1",
+      "actor": "agent-76e0e949-325c-4c9e-b6b8-2564b582df0c",
+      "status": "in_progress",
+      "assignee": "agent-76e0e949-325c-4c9e-b6b8-2564b582df0c",
+      "confirmed": true
+    }
+  ]
+}

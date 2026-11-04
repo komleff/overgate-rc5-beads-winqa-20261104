@@ -1,0 +1,4 @@
+{
+  "result": "PASS",
+  "details": "ERROR: snapshot changed without authorized outcome (fail-closed)\n"
+}

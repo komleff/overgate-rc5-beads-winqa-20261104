@@ -1,0 +1,1 @@
+ERROR: managed publisher активен; прямой bd-wt write запрещён. Подготовь typed queue и публикуй из trusted main publisher.

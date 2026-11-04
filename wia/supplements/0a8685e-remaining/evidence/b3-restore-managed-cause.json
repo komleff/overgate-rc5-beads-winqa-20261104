@@ -1,0 +1,4 @@
+{
+  "result": "PASS",
+  "details": "ОШИБКА: managed publisher зарегистрирован; legacy sync запрещён. Используй trusted typed queue publisher.\n"
+}

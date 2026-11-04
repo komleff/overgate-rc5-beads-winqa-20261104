@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "details": {
+    "expected": "Windows rc.5 native child — Кириллица",
+    "actual": "Windows rc.5 native child — Кириллица"
+  }
+}

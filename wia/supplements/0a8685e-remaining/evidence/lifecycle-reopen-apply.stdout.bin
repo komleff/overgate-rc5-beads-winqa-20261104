@@ -1,0 +1,1 @@
+{"status":"published","published_sha":"5ac9052553da5c40e3f2714b3f5b149b759535d2","queue_hash":"e4b7d8f190be7d894d19cb6931e0a337e048bd103da604c35c617da6089f19e9","mutations":1,"outcomes":[{"intent_id":"win-0a-reopen","payload_hash":"ddc9bb65a6aadf451c9cf4a3b07fcf1bb2e04ad78e0acddbed1a171a3468ad9a","result":{"ref":"wqa-jax.1"}}],"claims":[]}

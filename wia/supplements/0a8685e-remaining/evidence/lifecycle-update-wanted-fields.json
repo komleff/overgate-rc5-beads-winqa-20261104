@@ -1,0 +1,51 @@
+{
+  "result": "PASS",
+  "details": {
+    "wanted": {
+      "title": "Updated Windows native task",
+      "priority": 1,
+      "metadata": {
+        "suite": "wia-0a",
+        "nested": {
+          "text": "Кириллица",
+          "count": 3,
+          "items": [
+            1,
+            null,
+            "a"
+          ],
+          "enabled": true
+        },
+        "phase": "updated"
+      },
+      "design": "Design\nДизайн",
+      "labels": [
+        "synthetic",
+        "updated"
+      ]
+    },
+    "actual": {
+      "title": "Updated Windows native task",
+      "priority": 1,
+      "metadata": {
+        "phase": "updated",
+        "suite": "wia-0a",
+        "nested": {
+          "text": "Кириллица",
+          "count": 3,
+          "items": [
+            1,
+            null,
+            "a"
+          ],
+          "enabled": true
+        }
+      },
+      "design": "Design\nДизайн",
+      "labels": [
+        "synthetic",
+        "updated"
+      ]
+    }
+  }
+}

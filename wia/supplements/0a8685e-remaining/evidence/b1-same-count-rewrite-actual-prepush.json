@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "954fa64789a9817497401d7565dd0b0e0c963482:refs/heads/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 1,
+  "expected_exit": [
+    1
+  ],
+  "seconds": 0.484,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "e7e70b24993412a2fa45a62121350eaf05eec84e0bd698b7d241b868b099ea76",
+  "stdout": "",
+  "stderr": "OverGate Beads pre-push denied: snapshot changed without authorized outcome\nerror: failed to push some refs to 'D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\origin.git'\n"
+}

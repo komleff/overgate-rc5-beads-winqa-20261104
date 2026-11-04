@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "details": {
+    "status": "validated",
+    "R": "b4e8a10366dc205dbae2aef32a0a8487a35588f3",
+    "records": 1,
+    "managed": true,
+    "legacy_store": "untouched"
+  }
+}

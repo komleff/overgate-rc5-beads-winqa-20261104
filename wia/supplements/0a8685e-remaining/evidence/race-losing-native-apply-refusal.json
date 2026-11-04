@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-apply-intents.sh",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\run-0a8685e\\queues\\race-losing.v2.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 8,
+  "expected_exit": [
+    8
+  ],
+  "seconds": 1.859,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "b951345b786300afc0caa1312380e9631a090dc9431e4452f59500f5d6b28d55",
+  "stdout": "",
+  "stderr": "ERROR: precondition conflict retained: prepare reviewed resolution with NEW op IDs and use --resolve <queue_hash> <newqueue>\n{\"conflicts\":[{\"intent_id\":\"win-0a-race-title-B\",\"ref\":\"wqa-jax.1\",\"field\":\"title\",\"expected\":{\"present\":true,\"value\":\"Updated Windows native task\"},\"actual\":{\"present\":true,\"value\":\"AC3 winning title\"}},{\"intent_id\":\"win-0a-race-claim-B\",\"ref\":\"wqa-jax\",\"field\":\"assignee\",\"expected\":{\"unassigned_or\":\"agent-d2e31940-1e4b-40cb-8d60-ddc3b7710366\"},\"actual\":\"agent-afc68d65-bbe9-4b1d-a12b-3a72d97120a9\"},{\"intent_id\":\"win-0a-race-claim-B\",\"ref\":\"wqa-jax\",\"field\":\"$lifecycle\",\"expected\":1,\"actual\":2},{\"intent_id\":\"win-0a-race-claim-B\",\"ref\":\"wqa-jax\",\"field\":\"assignee\",\"expected\":{\"present\":false},\"actual\":{\"present\":true,\"value\":\"agent-afc68d65-bbe9-4b1d-a12b-3a72d97120a9\"}},{\"intent_id\":\"win-0a-race-claim-B\",\"ref\":\"wqa-jax\",\"field\":\"status\",\"expected\":{\"present\":true,\"value\":\"open\"},\"actual\":{\"present\":true,\"value\":\"in_progress\"}}]}\n"
+}

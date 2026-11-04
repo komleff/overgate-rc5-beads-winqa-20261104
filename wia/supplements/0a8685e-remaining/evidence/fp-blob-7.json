@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3:docs/plans/2026-11-03-v4.0.0-rc.5-beads.md"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.022,
+  "stdout_sha256": "e23913eb3db51bf9549955753d8f2c6158f37aec587697a48accf6dd2bd21056",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "ceefa86186c62b4c754a59841710128a1ee9bbce\n",
+  "stderr": ""
+}

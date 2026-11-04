@@ -1,0 +1,20 @@
+{
+  ".gitignore": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+  ".local_version": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+  "config.yaml": "da19dedaad8881fc468865304f95a0be0426c68e1579cf8f6396c321187e7614",
+  "interactions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "metadata.json": "d4ef19aebe3d684409d50acaa7bc0d8a6c8cb20b46b7f076452497f7a4de948e",
+  "README.md": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+  "backup\\backup_state.json": "ce8618cb6e3eab76e857e53c2a85264dcfd7cac32a4ececc5174ca1ab0c9f0f3",
+  "backup\\LOCK": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "backup\\manifest": "0ae6c244701a310b3a6350eb5a2069c655253b705178ff48f2deb3a6764f0103",
+  "backup\\sv8kbbbi7l4npv82ni292elp8tc39q9c.darc": "90412a7f380f98862bd47ce34f61f1269a177275510ff98576d7a2049a6ee839",
+  "embeddeddolt\\.lock": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "embeddeddolt\\og\\.dolt\\config.json": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+  "embeddeddolt\\og\\.dolt\\repo_state.json": "e2ee5237d77135dee186318851b5c9ee199f64c1fda740923cf817d48d4022dc",
+  "embeddeddolt\\og\\.dolt\\noms\\journal.idx": "8f68a742f119df512875655f61c10bd548b0ef6edf879cf0870107fa0eebad83",
+  "embeddeddolt\\og\\.dolt\\noms\\LOCK": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "embeddeddolt\\og\\.dolt\\noms\\manifest": "4d15257d71967b8b7d413194cbd0c3c27f7e643e5c45aaceaa93cc4744a78a61",
+  "embeddeddolt\\og\\.dolt\\noms\\vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": "11b31255659bd783593ae1dae8367dd5c2d533a9ef7299e382d4b36c9726b31d",
+  "embeddeddolt\\og\\.dolt\\temptf\\dolt_embedded_metrics": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

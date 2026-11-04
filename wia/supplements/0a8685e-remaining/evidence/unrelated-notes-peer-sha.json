@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "origin/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\isolated-reader",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.02,
+  "stdout_sha256": "4eb94efc3b59abae2953e364b60e3143d36ec287eff32d65e62547a9816f1a44",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "9f83706677a8b6a758b5f024232494d5fb1bf336\n",
+  "stderr": ""
+}

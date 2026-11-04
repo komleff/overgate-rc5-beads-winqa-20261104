@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-sync-export.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-a",
+  "exit_code": 1,
+  "expected_exit": [
+    1
+  ],
+  "seconds": 0.169,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "e4bc8e9501329f98df98948ba14d8d9af9a117ed60ec1933c777e6842e90b95b",
+  "stdout": "",
+  "stderr": "ОШИБКА: managed publisher зарегистрирован; legacy sync запрещён. Используй trusted typed queue publisher.\n"
+}

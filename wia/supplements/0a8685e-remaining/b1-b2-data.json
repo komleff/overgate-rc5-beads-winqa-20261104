@@ -1,0 +1,38 @@
+{
+  "source": "0a8685ed072fece134418a1d18ed11d8a53759a3",
+  "cases": [
+    {
+      "name": "task-loss",
+      "candidate": "550a4b6e150dd997a7a3e582e0f1c33b98d1d894",
+      "base": "0b25f2996748cc7322f90de445ce7a8268245d8d",
+      "id": "wqa-jax.1"
+    },
+    {
+      "name": "same-count-rewrite",
+      "candidate": "954fa64789a9817497401d7565dd0b0e0c963482",
+      "base": "0b25f2996748cc7322f90de445ce7a8268245d8d",
+      "id": "wqa-jax.1"
+    }
+  ],
+  "B2": {
+    "result": "PASS",
+    "canonical_zero_bytes": true,
+    "malformed": [
+      {
+        "raw": " \n\t\n",
+        "rejected": true,
+        "message": "snapshot: строка 1 — пустая строка в непустом snapshot (fail-closed)"
+      },
+      {
+        "raw": "\n",
+        "rejected": true,
+        "message": "snapshot: строка 1 — пустая строка в непустом snapshot (fail-closed)"
+      },
+      {
+        "raw": " ",
+        "rejected": true,
+        "message": "snapshot: строка 1 — пустая строка в непустом snapshot (fail-closed)"
+      }
+    ]
+  }
+}

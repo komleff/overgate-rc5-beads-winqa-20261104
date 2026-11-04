@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "node",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\forge-stale.mjs",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\run-0a8685e\\forged-stale.json",
+    "agent-76e0e949-325c-4c9e-b6b8-2564b582df0c"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 1.324,
+  "stdout_sha256": "07e249495fe6270966da1e1d7a4e3778c80bfc2333e1bb5e7b6e387af0eea5e5",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "{\"base\":\"b4e8a10366dc205dbae2aef32a0a8487a35588f3\",\"candidate\":\"6cc44abcb798ccdd37afab86a17b4b189fb61dc0\",\"id\":\"wqa-z5e\",\"actor\":\"agent-76e0e949-325c-4c9e-b6b8-2564b582df0c\",\"conflicts\":[{\"intent_id\":\"forged-stale-title-001\",\"ref\":\"wqa-z5e\",\"field\":\"title\",\"expected\":{\"present\":true,\"value\":\"Old\"},\"actual\":{\"present\":true,\"value\":\"Windows managed QA — synthetic task\"}}],\"intent\":{\"actor\":\"agent-76e0e949-325c-4c9e-b6b8-2564b582df0c\",\"base\":\"b4e8a10366dc205dbae2aef32a0a8487a35588f3\",\"expected\":{\"wqa-z5e\":{\"exists\":true,\"fields\":{\"title\":{\"present\":true,\"value\":\"Old\"}},\"lifecycle\":2}},\"intent_id\":\"forged-stale-title-001\",\"op\":\"update\",\"payload_hash\":\"ad7d5b82d40119e953c900d77f32752b04cf7f18c920c34d965fbea9311a9e2d\",\"ref\":\"wqa-z5e\",\"title\":\"Forged\",\"version\":2}}\n",
+  "stderr": ""
+}

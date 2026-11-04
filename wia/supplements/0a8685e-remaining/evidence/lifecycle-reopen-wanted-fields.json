@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "details": {
+    "wanted": {
+      "status": "open"
+    },
+    "actual": {
+      "status": "open"
+    }
+  }
+}

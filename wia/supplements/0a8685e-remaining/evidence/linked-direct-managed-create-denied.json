@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-wt.sh",
+    "create",
+    "Must never be created"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\linked",
+  "exit_code": 2,
+  "expected_exit": [
+    2
+  ],
+  "seconds": 0.15,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "aeea1e0a8043539559382e0e58ba14dce0c4fbe9acf6769bb08bef8e34184897",
+  "stdout": "",
+  "stderr": "ERROR: managed publisher активен; прямой bd-wt write запрещён. Подготовь typed queue и публикуй из trusted main publisher.\n"
+}

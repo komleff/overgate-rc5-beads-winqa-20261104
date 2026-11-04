@@ -1,0 +1,16 @@
+{
+  "source": "0a8685ed072fece134418a1d18ed11d8a53759a3",
+  "result": "PASS scoped; listed NOT RUN remain",
+  "content_fingerprint": "95b731c6e64270128739781b042ca91b2dd08c58c661175dfa106b9e1f6f369f",
+  "latest_published_sha": "37a7d061bba28944163dfd4115aadd3c6552f659",
+  "remote_pr_head_at_stop": "187d607584388efa31ab7394610bf1afb48a1978",
+  "stopped": "safe checkpoint after PR HEAD change; awaiting PM affected pin/scope",
+  "not_run": [
+    "simultaneous OS/CAS push race",
+    "actual native graph apply (only native dry-run checked)",
+    "isolated unavailable-publisher pending queue handoff",
+    "specific stale close after reassignment",
+    "failed-push-with-no-advance journal/restart"
+  ],
+  "not_run_reason": "terminal losing title/claim queue retained; no invented resolution or replacement fixture after source HEAD changed"
+}

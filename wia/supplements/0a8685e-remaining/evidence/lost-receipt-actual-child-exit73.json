@@ -1,0 +1,17 @@
+{
+  "result": "PASS",
+  "details": [
+    {
+      "event": "child_exit",
+      "sid": "20261104T201612.172456Z-H1144413e-P00009454",
+      "thread": "main",
+      "time": "2026-11-04T20:16:13.638711Z",
+      "file": "run-command.c",
+      "line": 997,
+      "child_id": 0,
+      "pid": 36844,
+      "code": 73,
+      "t_rel": 1.440761
+    }
+  ]
+}

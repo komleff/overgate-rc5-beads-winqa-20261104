@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "show",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3:.agents/templates/AGENTS.template.md"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.022,
+  "stdout_sha256": "8033f24d8ccd73e1521e46dfab5d5f52bfe7abf09e2139bdf76114d288bf14ec",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "# Project — agent bootstrap\n\nProduct authority: оператор (пока проект явно не назначил другого владельца).\nProject first-read route: текущий project context и один authoritative owner по теме.\nЕсли current owners конфликтуют — эскалация оператору; search result не authority.\n\nPipeline: `.agents/PIPELINE.md`; role owners: `.agents/AGENT_ROLES.md`;\ncore skills: `.agents/SKILLS.md`. Общая policy — ADR §§3.28–3.34.\nPM/Planner/Developer не выбирают missing WHAT. Ready source → PASS_THROUGH.\nИИ не merge/auto-merge и не обновляет main/master. Не обходить hooks/permissions,\nне читать `.env*`, credentials, secrets. Evidence публиковать с фактической ролью/моделью.\nПроверки проекта: `.agents/project/verify.sh`; до заполнения он намеренно даёт FAIL.\nЛичные runtime overrides и project context принадлежат проекту.\n\nMemory Bank: перед задачей читать `.memory-bank/activeContext.md` и `progress.md`;\nпосле работы обновлять оба файла, сохраняя решения проекта.\n\n<!-- overgate:beads -->\nBeads route определяется зарегистрированным protocol. В managed v1 читать опубликованный\n`beads-backup` через `bash scripts/bd-read.sh` (или read route `bd-wt.sh`), готовить typed\nqueue v2 и применять только trusted publisher из exact target `main`. Прямой `bd-wt` write\nи legacy sync отказывают; real ID/claim/published SHA подтверждать peer read-back.\nВ legacy v0 основной checkout использует `bd` и sync helpers, linked worktree —\n`bash scripts/bd-wt.sh` с основной базой (embedded или dolt-сервер), cloud agent — снимок\nи pending-заявки `.bd-intents/` в PR. Порядок и граница поставки:\n`.agents/HOW_TO_USE.md`, секция Beads; project owner — `.claude/rules/beads.md`.\nАвторизованный GitHub-коннектор не требует отдельного login Git CLI. Не создавать\ncloud writer и не менять снимок вручную. Managed activation происходит отдельно после\nmerge кода; до неё очередь применяет оператор trusted tooling.\n<!-- /overgate:beads -->\n",
+  "stderr": ""
+}

@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "details": {
+    "expected": "Real ID, confirmed claim and independent same-SHA peer object.",
+    "actual": "Real ID, confirmed claim and independent same-SHA peer object."
+  }
+}

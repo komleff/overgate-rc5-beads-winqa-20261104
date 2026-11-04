@@ -1,0 +1,4 @@
+{
+  "result": "PASS",
+  "details": "OverGate Beads pre-push denied: snapshot changed without authorized outcome\nerror: failed to push some refs to 'D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\origin.git'\n"
+}

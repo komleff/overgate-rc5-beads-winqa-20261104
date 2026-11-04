@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-apply-intents.sh",
+    "--read-state"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 1.096,
+  "stdout_sha256": "0c18b69047329cf1b5df08048fbc1fae09120cdad82dec58fc36b49a2765487a",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "{\"status\":\"validated\",\"R\":\"b4e8a10366dc205dbae2aef32a0a8487a35588f3\",\"records\":1,\"managed\":true,\"legacy_store\":\"untouched\"}\n",
+  "stderr": ""
+}

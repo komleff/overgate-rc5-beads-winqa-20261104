@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "show-ref"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\linked",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.021,
+  "stdout_sha256": "cfdc11078d14687d9020d191d3417951f8bc69f8d116a27bae11797a06f1e77a",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "ae1fbcc4aa463b312c0dce30771b239902edf1e9 refs/heads/main\nae1fbcc4aa463b312c0dce30771b239902edf1e9 refs/heads/qa/linked\nb4e8a10366dc205dbae2aef32a0a8487a35588f3 refs/qa/seed\n2aecd0779cce2d176bd977afcb0035e738dcb1b7 refs/remotes/origin/beads-backup\nae1fbcc4aa463b312c0dce30771b239902edf1e9 refs/remotes/origin/main\n",
+  "stderr": ""
+}

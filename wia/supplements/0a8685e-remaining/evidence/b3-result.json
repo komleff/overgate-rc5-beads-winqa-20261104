@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "source": "0a8685ed072fece134418a1d18ed11d8a53759a3",
+  "original_published_sha": "2aecd0779cce2d176bd977afcb0035e738dcb1b7",
+  "export_refused": true,
+  "restore_refused": true,
+  "primary_store_unchanged": true,
+  "branch_recreated_by_legacy": false,
+  "own_fault_restored": true
+}

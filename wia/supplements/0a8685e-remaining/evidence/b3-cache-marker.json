@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "show",
+    "2aecd0779cce2d176bd977afcb0035e738dcb1b7:.beads/overgate-managed-v1.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-a",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.024,
+  "stdout_sha256": "3e7f8f749cd3237a1d7f032741aaf6d34d7f3b4f58a7128db208c23dceee5b98",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "{\"ledger_sha256\":\"cebdd75e76b55a45c15ea033c92de789a081db55af46efee6f4b13188d7fa5a9\",\"prefix\":\"wqa\",\"snapshot_sha256\":\"6a48a73a837fd244ca8af6dcaefee0e8b10d4d55cbad96ea74237c5b052e734f\",\"version\":1}\n",
+  "stderr": ""
+}

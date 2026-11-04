@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "git",
+    "worktree",
+    "add",
+    "-b",
+    "qa/linked",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\linked",
+    "main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-a",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.128,
+  "stdout_sha256": "9d3bd4fe549b82eb708c393652cc867bb693a815160696856061b21c30b580a6",
+  "stderr_sha256": "24420ed199fa0c3fd80fe9811cfd0df5241702cc4f613ba4214525c826af21c6",
+  "stdout": "HEAD is now at ae1fbcc bd init: initialize beads issue tracking\n",
+  "stderr": "Preparing worktree (new branch 'qa/linked')\n"
+}

@@ -1,0 +1,5 @@
+{
+  "kind": "QA fixture directory preparation",
+  "reason": "data directory absent in linked checkout; created before queue handoff; no product case rerun",
+  "previous_reads_and_refusals": "PASS"
+}

@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "6cc44abcb798ccdd37afab86a17b4b189fb61dc0:refs/heads/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 1,
+  "expected_exit": [
+    1
+  ],
+  "seconds": 0.562,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "4ceee7576c43c870d4e6d1ec3a8a57cdb3f7f0bda5b581d984dd71b6d6546cc8",
+  "stdout": "",
+  "stderr": "OverGate Beads pre-push denied: snapshot outcome precondition conflict against prior published state: [{\"actual\":{\"present\":true,\"value\":\"Windows managed QA — synthetic task\"},\"expected\":{\"present\":true,\"value\":\"Old\"},\"field\":\"title\",\"intent_id\":\"forged-stale-title-001\",\"ref\":\"wqa-z5e\"}]\nerror: failed to push some refs to 'D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\origin.git'\n"
+}

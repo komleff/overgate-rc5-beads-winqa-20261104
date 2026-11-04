@@ -1,0 +1,24 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-apply-intents.sh",
+    "--prepare",
+    "--base",
+    "20716a7a5ded0a5bc960690519ee6ba9963ec562",
+    "--actor",
+    "agent-d2e31940-1e4b-40cb-8d60-ddc3b7710366",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\run-0a8685e\\queues\\race-losing.v2.jsonl",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\run-0a8685e\\queues\\race-losing.raw.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 1.316,
+  "stdout_sha256": "e196a59eb04ec5f6575774202653248a797c9febd8465698f54db2ede47c5898",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "{\"status\":\"prepared\",\"base\":\"20716a7a5ded0a5bc960690519ee6ba9963ec562\",\"actor\":\"agent-d2e31940-1e4b-40cb-8d60-ddc3b7710366\",\"output\":\"D:\\\\CodexArtifacts\\\\overgate-rc5-wia-0a8685e-winqa-20261105\\\\run-0a8685e\\\\queues\\\\race-losing.v2.jsonl\",\"operations\":2,\"payload_hashes\":[\"3323f97f3cee7ed61e8afbf56e0cba8b55b6ac097befa728f2cae5fbcff46508\",\"49851de3677ae464338745625c2526193914870043e0d9dcbfecc44c435cc097\"]}\n",
+  "stderr": ""
+}

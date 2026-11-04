@@ -1,0 +1,79 @@
+{
+  "result": "PASS scoped",
+  "source": "0a8685ed072fece134418a1d18ed11d8a53759a3",
+  "base": "20716a7a5ded0a5bc960690519ee6ba9963ec562",
+  "published_sha": "37a7d061bba28944163dfd4115aadd3c6552f659",
+  "actor_winner": "agent-afc68d65-bbe9-4b1d-a12b-3a72d97120a9",
+  "actor_loser": "agent-d2e31940-1e4b-40cb-8d60-ddc3b7710366",
+  "anchor_id": "wqa-xw7",
+  "conflicts": [
+    {
+      "intent_id": "win-0a-race-title-B",
+      "ref": "wqa-jax.1",
+      "field": "title",
+      "expected": {
+        "present": true,
+        "value": "Updated Windows native task"
+      },
+      "actual": {
+        "present": true,
+        "value": "AC3 winning title"
+      }
+    },
+    {
+      "intent_id": "win-0a-race-claim-B",
+      "ref": "wqa-jax",
+      "field": "assignee",
+      "expected": {
+        "unassigned_or": "agent-d2e31940-1e4b-40cb-8d60-ddc3b7710366"
+      },
+      "actual": "agent-afc68d65-bbe9-4b1d-a12b-3a72d97120a9"
+    },
+    {
+      "intent_id": "win-0a-race-claim-B",
+      "ref": "wqa-jax",
+      "field": "$lifecycle",
+      "expected": 1,
+      "actual": 2
+    },
+    {
+      "intent_id": "win-0a-race-claim-B",
+      "ref": "wqa-jax",
+      "field": "assignee",
+      "expected": {
+        "present": false
+      },
+      "actual": {
+        "present": true,
+        "value": "agent-afc68d65-bbe9-4b1d-a12b-3a72d97120a9"
+      }
+    },
+    {
+      "intent_id": "win-0a-race-claim-B",
+      "ref": "wqa-jax",
+      "field": "status",
+      "expected": {
+        "present": true,
+        "value": "open"
+      },
+      "actual": {
+        "present": true,
+        "value": "in_progress"
+      }
+    }
+  ],
+  "queue_hashes": {
+    "race-winning.v2.jsonl": "e7e76443633c63fde45d309a578d37c00e1ec0b6eb3cda55b8be2a2759c17980",
+    "race-losing.v2.jsonl": "c94c74bbc370bea95f6f6d0a06fa97962c19858ab63b6f15c729ef9a8c444288",
+    "race-graph-cycle.v2.jsonl": "3435929be8fa5fb3bdea80ed64a2ff5bdd7aecaf34e30cab88e09e997b1c246d"
+  },
+  "methods": {
+    "same_field_and_claim": "two actors prepared on same frozen R; winner native publishes, loser actual native apply rejects RC8; terminal conflict/queues retained",
+    "graph": "two actors prepared opposing edges on same R; winner native adds first edge; loser trusted native --dry-run rejects cycle before CLI/publication"
+  },
+  "not_run": [
+    "simultaneous OS processes/CAS network race",
+    "native graph apply after terminal title/claim conflict"
+  ],
+  "not_run_reason": "one sequential worker; current terminal conflict and losing queue preserved, no unreviewed resolution/new fixture created"
+}

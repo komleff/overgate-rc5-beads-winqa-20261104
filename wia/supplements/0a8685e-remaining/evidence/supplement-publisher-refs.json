@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "show-ref"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.027,
+  "stdout_sha256": "a82240e8dc25787a402a644b028bb5a9d1df3939b475649234be22b8098ae0bc",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "ae1fbcc4aa463b312c0dce30771b239902edf1e9 refs/heads/main\n6cc44abcb798ccdd37afab86a17b4b189fb61dc0 refs/heads/qa/forged-stale\n954fa64789a9817497401d7565dd0b0e0c963482 refs/heads/qa/same-count-rewrite\n550a4b6e150dd997a7a3e582e0f1c33b98d1d894 refs/heads/qa/task-loss\n37a7d061bba28944163dfd4115aadd3c6552f659 refs/overgate-bd-managed/last-seen\n0b25f2996748cc7322f90de445ce7a8268245d8d refs/overgate-bd-managed/pending/11f7de32b9afcb5573ca9a6629e5908396398c6fede528acadd616cd99c9a4e1/0b25f2996748cc7322f90de445ce7a8268245d8d\n9f83706677a8b6a758b5f024232494d5fb1bf336 refs/overgate-bd-managed/pending/288f52472e4efc40a2c86110c00beb0545776c606fcaf9d785fc5347187d5194/9f83706677a8b6a758b5f024232494d5fb1bf336\n5a81caeb58e15981b5e75d2f4fdc62c067eae53c refs/overgate-bd-managed/pending/2eb8ed34aafa854fcff85e3db60afbf19bf073fc19dfc29dc2b5e539f1efc27a/5a81caeb58e15981b5e75d2f4fdc62c067eae53c\n19411a76faacf80079302eb654914e023e3216e2 refs/overgate-bd-managed/pending/3726511b1078661222f8df286d95cd51cbc8d4a5844a3cdfc88075cc6c2af638/19411a76faacf80079302eb654914e023e3216e2\n2aecd0779cce2d176bd977afcb0035e738dcb1b7 refs/overgate-bd-managed/pending/4e871c9188754165b30b96c39437e439a994fbe0f7e7d54cbd7b49d60b29174c/2aecd0779cce2d176bd977afcb0035e738dcb1b7\n37a7d061bba28944163dfd4115aadd3c6552f659 refs/overgate-bd-managed/pending/789314833cc9ba87adc97b8efc19144553024867f6ff12414ee57bcd1763d532/37a7d061bba28944163dfd4115aadd3c6552f659\n9238403f6749a72092efba1a28d73fbb6ab602be refs/overgate-bd-managed/pending/a8a868a4d09b55df0cdf39148cedbc627d62fdc066efe722c9e99a999963a18e/9238403f6749a72092efba1a28d73fbb6ab602be\nf34d37c107851309ff414e1239b206bbac4f660e refs/overgate-bd-managed/pending/c75d5239aebc93d4f3a337f025c82662bf98ec29ec34a82abf753aa789172630/f34d37c107851309ff414e1239b206bbac4f660e\n20716a7a5ded0a5bc960690519ee6ba9963ec562 refs/overgate-bd-managed/pending/dadc33b71aa4f7deb562b7737e634244f7a47c468bfbdddf9620c91989c384bb/20716a7a5ded0a5bc960690519ee6ba9963ec562\n5ac9052553da5c40e3f2714b3f5b149b759535d2 refs/overgate-bd-managed/pending/e4b7d8f190be7d894d19cb6931e0a337e048bd103da604c35c617da6089f19e9/5ac9052553da5c40e3f2714b3f5b149b759535d2\nae1fbcc4aa463b312c0dce30771b239902edf1e9 refs/remotes/origin/HEAD\n37a7d061bba28944163dfd4115aadd3c6552f659 refs/remotes/origin/beads-backup\nae1fbcc4aa463b312c0dce30771b239902edf1e9 refs/remotes/origin/main\n",
+  "stderr": ""
+}

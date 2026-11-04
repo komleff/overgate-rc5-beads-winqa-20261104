@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "fetch",
+    "origin",
+    "refs/heads/beads-backup:refs/remotes/origin/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-a",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.125,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "ccb44f845967f1d0ba7da49544d52a4c109cad2bff85ecb76dd9a2a83babaaa7",
+  "stdout": "",
+  "stderr": "From D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\origin\n   0b25f29..2aecd07  beads-backup -> origin/beads-backup\n"
+}

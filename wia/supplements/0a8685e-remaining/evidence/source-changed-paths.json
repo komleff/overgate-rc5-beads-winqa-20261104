@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "diff",
+    "--name-only",
+    "3f3246c3a3b62377fc02aad05283cae1ef5d4e2d",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.023,
+  "stdout_sha256": "79f5d958b984df3d28c79ecd48aa5de38dc4ad02a5c950a9727e28d1dd9803a1",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": ".agents/HOW_TO_USE.md\n.agents/INSTALL.md\n.agents/PIPELINE_ADR.md\n.agents/templates/AGENTS.template.md\n.claude/rules/beads.md\nAGENTS.md\ndocs/architecture/ADR-INDEX.md\ndocs/plans/2026-11-03-v4.0.0-rc.5-beads.md\nscripts/bd-apply-intents.sh\nscripts/bd-publisher-setup.mjs\nscripts/bd-read.sh\nscripts/bd-sync-common.sh\nscripts/bd-sync-export.sh\nscripts/bd-sync-restore.sh\nscripts/bd-wt.sh\nscripts/lib/bd-managed-cli.mjs\nscripts/lib/bd-managed-contract.mjs\nscripts/lib/bd-managed-entry.mjs\nscripts/lib/bd-managed-git.mjs\nscripts/lib/bd-managed-journal.mjs\nscripts/lib/bd-managed-project.mjs\nscripts/lib/bd-managed-read-check.mjs\nscripts/lib/bd-managed-transaction.mjs\nscripts/lib/bd-publisher-push-guard.mjs\nscripts/lib/bd-snapshot.mjs\nscripts/test-bd-sync.sh\nscripts/tests/bd-managed-prefix.test.mjs\nscripts/tests/bd-managed-routes.test.mjs\nscripts/tests/bd-managed-snapshot.test.mjs\nscripts/tests/bd-managed-two-clone.test.mjs\nscripts/tests/bd-publisher-guard.test.mjs\nscripts/tests/bd-publisher-setup.test.mjs\nscripts/tests/bd-wt.test.sh\nscripts/tests/finalize-gate-script.test.sh\nscripts/verify-reference.sh\n",
+  "stderr": ""
+}

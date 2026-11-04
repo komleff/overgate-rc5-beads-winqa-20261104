@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "details": {
+    "stdout": "",
+    "stderr": "ERROR: snapshot outcome precondition conflict against prior published state: [{\"actual\":{\"present\":true,\"value\":\"Windows managed QA — synthetic task\"},\"expected\":{\"present\":true,\"value\":\"Old\"},\"field\":\"title\",\"intent_id\":\"forged-stale-title-001\",\"ref\":\"wqa-z5e\"}] (fail-closed)\n"
+  }
+}

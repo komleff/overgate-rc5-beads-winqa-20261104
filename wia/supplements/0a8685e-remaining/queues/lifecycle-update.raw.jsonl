@@ -1,0 +1,1 @@
+{"intent_id": "win-0a-update", "op": "update", "ref": "wqa-jax.1", "title": "Updated Windows native task", "priority": 1, "design": "Design\nДизайн", "metadata": {"suite": "wia-0a", "nested": {"text": "Кириллица", "count": 3, "items": [1, null, "a"], "enabled": true}, "phase": "updated"}, "add_labels": ["updated"], "remove_labels": ["windows-qa"]}

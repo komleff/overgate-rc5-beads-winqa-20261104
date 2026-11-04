@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "details": {
+    "expected": "Full object preservation\nКириллица и новая строка.",
+    "actual": "Full object preservation\nКириллица и новая строка."
+  }
+}

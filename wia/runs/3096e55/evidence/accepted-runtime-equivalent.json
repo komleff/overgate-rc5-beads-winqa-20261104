@@ -1,0 +1,55 @@
+{
+  "result": "PASS",
+  "details": {
+    "scripts/lib/bd-publisher-push-guard.mjs": {
+      "old_blob": "7d407e469975af4dc0b2ec86ede870d57eade316",
+      "new_blob": "7d407e469975af4dc0b2ec86ede870d57eade316",
+      "equal": true
+    },
+    "scripts/lib/bd-managed-read-check.mjs": {
+      "old_blob": "d227a77645b0de33fb1d428725c822ec7e65f5cd",
+      "new_blob": "d227a77645b0de33fb1d428725c822ec7e65f5cd",
+      "equal": true
+    },
+    "scripts/lib/bd-managed-contract.mjs": {
+      "old_blob": "7194c5de8940b81cd3b8aabf11bd1944618d5078",
+      "new_blob": "7194c5de8940b81cd3b8aabf11bd1944618d5078",
+      "equal": true
+    },
+    "scripts/lib/bd-managed-git.mjs": {
+      "old_blob": "fea06b93f3410a330059e6a1422dfaac26f3efc9",
+      "new_blob": "fea06b93f3410a330059e6a1422dfaac26f3efc9",
+      "equal": true
+    },
+    "scripts/lib/bd-managed-journal.mjs": {
+      "old_blob": "94c3504968c11a2bacd2b969dfaf5bb196a2b423",
+      "new_blob": "94c3504968c11a2bacd2b969dfaf5bb196a2b423",
+      "equal": true
+    },
+    "scripts/lib/bd-managed-transaction.mjs": {
+      "old_blob": "071c2c752a09aa9f5194fdaa5f333153c4b8db4d",
+      "new_blob": "071c2c752a09aa9f5194fdaa5f333153c4b8db4d",
+      "equal": true
+    },
+    "scripts/bd-read.sh": {
+      "old_blob": "35214842dcfa16d82db80fa6e40a21e4dc5fd497",
+      "new_blob": "35214842dcfa16d82db80fa6e40a21e4dc5fd497",
+      "equal": true
+    },
+    "scripts/bd-wt.sh": {
+      "old_blob": "eb0841cb38bb000ce923ac586a86a5373c8098a6",
+      "new_blob": "eb0841cb38bb000ce923ac586a86a5373c8098a6",
+      "equal": true
+    },
+    "scripts/bd-apply-intents.sh": {
+      "old_blob": "00f5e439e94f0c02d85a9814a3db2d7b6edfdc9f",
+      "new_blob": "00f5e439e94f0c02d85a9814a3db2d7b6edfdc9f",
+      "equal": true
+    },
+    "scripts/bd-publisher-setup.mjs": {
+      "old_blob": "b05365c735e876309e8d35b4919b2763df36300f",
+      "new_blob": "b05365c735e876309e8d35b4919b2763df36300f",
+      "equal": true
+    }
+  }
+}

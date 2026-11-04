@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-3096e55-winqa-20261105\\source-3096e55",
+    "diff",
+    "--name-only",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3",
+    "3096e550bfd6f4ff73c987812a2dda2c7d339669"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-3096e55-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.023,
+  "stdout_sha256": "b02a97c7ebd340a556a3d19145852a523d6ad8fd3eb00a4fbee2837d0d8e556f",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": ".github/workflows/ci.yml\nscripts/lib/bd-managed-cli.mjs\nscripts/tests/bd-linux-native-proof.test.mjs\n",
+  "stderr": ""
+}

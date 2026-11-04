@@ -1,0 +1,3 @@
+.github/workflows/ci.yml
+scripts/lib/bd-managed-cli.mjs
+scripts/tests/bd-linux-native-proof.test.mjs

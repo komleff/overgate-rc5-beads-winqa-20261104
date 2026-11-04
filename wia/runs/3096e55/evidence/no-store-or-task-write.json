@@ -1,0 +1,15 @@
+{
+  "result": "PASS",
+  "details": {
+    "before": {
+      ".gitignore": "651231e6695d711a7a6ca078c2821209c63971831a168ad621e4f0c005bdd407",
+      "config.yaml": "da19dedaad8881fc468865304f95a0be0426c68e1579cf8f6396c321187e7614",
+      "metadata.json": "64ceca9e728b8d7a28dd8a119fafbb991793e0f6f2a094481b0ac057b0cb5fb6"
+    },
+    "after": {
+      ".gitignore": "651231e6695d711a7a6ca078c2821209c63971831a168ad621e4f0c005bdd407",
+      "config.yaml": "da19dedaad8881fc468865304f95a0be0426c68e1579cf8f6396c321187e7614",
+      "metadata.json": "64ceca9e728b8d7a28dd8a119fafbb991793e0f6f2a094481b0ac057b0cb5fb6"
+    }
+  }
+}

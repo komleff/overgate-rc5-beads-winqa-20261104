@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-3096e55-winqa-20261105\\source-3096e55",
+    "rev-parse",
+    "3096e550bfd6f4ff73c987812a2dda2c7d339669:scripts/tests/finalize-gate-script.test.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-3096e55-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.021,
+  "stdout_sha256": "3db993fd3a947b2c73e51295cb20e6d192bea6ee0582c9d2e1c441da834af879",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "badc59108d04715d68d50c38d3b2646f167d0e0b\n",
+  "stderr": ""
+}

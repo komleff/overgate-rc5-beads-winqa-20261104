@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-3096e55-winqa-20261105\\source-3096e55",
+    "rev-parse",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3:scripts/lib/bd-publisher-push-guard.mjs"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-3096e55-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.022,
+  "stdout_sha256": "2df0b8768acc6f5fda9d338877f5ebc6559b5ced38fe208f7bbfec239b1ad181",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "7d407e469975af4dc0b2ec86ede870d57eade316\n",
+  "stderr": ""
+}

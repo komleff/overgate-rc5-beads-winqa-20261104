@@ -1,0 +1,11 @@
+{
+  "result": "PASS scoped AC6/AC9 Windows qualification regression",
+  "source": "3096e550bfd6f4ff73c987812a2dda2c7d339669",
+  "content_fingerprint": "1c4215a4ed226aec548dc6f522459dd40901c91c94c871949601e07e88107f7d",
+  "actual_native_binary": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+  "native_platform": "win32",
+  "DB_or_task_write": false,
+  "full_route_smoke": "NOT RUN on3096e55; unchanged source/runtime equivalence to accepted0a8685e + native real binary gate check",
+  "reused_native_checkpoint": "0ccd30cf63896db09f41d9e2a8e19c71c0b120bd",
+  "reused_native_supplement": "08168676eb58fbe44cae1ca56ce3bf752abc30ea"
+}

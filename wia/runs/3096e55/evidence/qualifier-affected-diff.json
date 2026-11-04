@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-3096e55-winqa-20261105\\source-3096e55",
+    "diff",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3",
+    "3096e550bfd6f4ff73c987812a2dda2c7d339669",
+    "--",
+    "scripts/lib/bd-managed-cli.mjs"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-3096e55-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.024,
+  "stdout_sha256": "e0b726d6ec22506d5e9f9a7f9afb1746314c1af9b9f4db9846a9c7280a439d52",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "diff --git a/scripts/lib/bd-managed-cli.mjs b/scripts/lib/bd-managed-cli.mjs\nindex 735864c..ef1df38 100644\n--- a/scripts/lib/bd-managed-cli.mjs\n+++ b/scripts/lib/bd-managed-cli.mjs\n@@ -8,10 +8,11 @@ import { canonical, validateQueue, planReplay, replayHandles, validateBlockingGr\n \n const requireThat = (condition, message) => { if (!condition) throw new Error(message); };\n const defaultRun = (binary, args, options) => execFileSync(binary, args, { ...options, encoding: 'utf8', maxBuffer: 2 * 1024 * 1024 });\n-// Только два actual qualified build; новая версия/платформа требует disposable proof.\n+// Actual qualified builds; новая версия/платформа требует disposable proof.\n const qualifiedBuilds = new Map([\n   ['cd6827a3b3ec5b212131337201df1e623e028bce15065903fb70291e0ac4a355', 'darwin'],\n   ['b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de', 'win32'],\n+  ['54fc0e0581ce4c5487a5b242f0a4f34af1ef09cf056e164a1af63a6ec7aa1e0e', 'linux'],\n ]);\n function streamFingerprint(binary) {\n   const hash = createHash('sha256'), buffer = Buffer.alloc(1024 * 1024), started = Date.now(), fd = fs.openSync(binary, 'r');\n@@ -24,7 +25,7 @@ function streamFingerprint(binary) {\n   } finally { fs.closeSync(fd); }\n }\n export function qualifyBinary(binary, { fingerprint = streamFingerprint, platform = process.platform } = {}) {\n-  requireThat(['darwin', 'win32'].includes(platform), 'native writer platform not qualified: retain queue and use an available qualified publisher/disposable qualification');\n+  requireThat(['darwin', 'win32', 'linux'].includes(platform), 'native writer platform not qualified: retain queue and use an available qualified publisher/disposable qualification');\n   requireThat(fs.realpathSync(binary) === path.resolve(binary) && fs.statSync(binary).isFile(), 'CLI fingerprint requires resolved regular binary');\n   const digest = fingerprint(binary);\n   requireThat(qualifiedBuilds.get(digest) === platform, `CLI fingerprint not qualified (${digest}); retain queue for an available qualified publisher or disposable qualification`);\n",
+  "stderr": ""
+}

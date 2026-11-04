@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-3096e55-winqa-20261105\\source-3096e55",
+    "rev-parse",
+    "3096e550bfd6f4ff73c987812a2dda2c7d339669:scripts/tests/bd-managed-prefix.test.mjs"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-3096e55-winqa-20261105",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.022,
+  "stdout_sha256": "066f2191fceed89d576ba369ca45fa928fe42e9fea7ead2056874fd1652ae24e",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "a4786b18d9540b7bd94cef4bb232dc5ba41d857b\n",
+  "stderr": ""
+}

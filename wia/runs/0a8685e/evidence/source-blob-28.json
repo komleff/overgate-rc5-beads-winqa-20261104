@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "show",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3:scripts/tests/bd-managed-snapshot.test.mjs"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.023,
+  "stdout_sha256": "fceaa3c63446cf77da82e696083a4c2f3972064025413f8ae33e5fb8d9505e32",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "import assert from 'node:assert/strict';\nimport { configureProjectPrefix } from '../lib/bd-managed-contract.mjs';\nimport { assertExactSnapshot, normalizeSnapshot } from '../lib/bd-snapshot.mjs';\n\nconfigureProjectPrefix('big-heroes');\nconst issue = { _type: 'issue', id: 'big-heroes-A', title: 'Keep every field', status: 'open', priority: 2,\n  issue_type: 'task', labels: ['z', 'a'], metadata: { source: 'fixture' },\n  comments: [{ id: 'c1', issue_id: 'big-heroes-A', author: 'agent-a', text: 'evidence', created_at: '2026-11-04T00:00:00Z' }],\n  comment_count: 1, dependencies: [{ issue_id: 'big-heroes-A', depends_on_id: 'big-heroes-B', type: 'blocks' }],\n  dependency_count: 1 };\nconst memory = { _type: 'memory', key: 'fixture', value: 'retained' };\nconst expected = [issue, memory].map(JSON.stringify).join('\\n') + '\\n';\nconst reordered = [memory, { ...issue, labels: ['a', 'z'] }].map(JSON.stringify).join('\\n') + '\\n';\nassert.equal(normalizeSnapshot(expected), normalizeSnapshot(reordered));\nassertExactSnapshot(expected, reordered);\nassert.throws(() => assertExactSnapshot(expected, JSON.stringify({ ...issue, comments: [], comment_count: 0 }) + '\\n' + JSON.stringify(memory) + '\\n'),\n  /full-content roundtrip mismatch/);\nassert.throws(() => assertExactSnapshot(expected, JSON.stringify({ ...issue, dependencies: [], dependency_count: 0 }) + '\\n' + JSON.stringify(memory) + '\\n'),\n  /full-content roundtrip mismatch/);\nassert.throws(() => normalizeSnapshot(JSON.stringify({ ...issue, future_field: 'unqualified' }) + '\\n'), /unsupported field/);\nassert.equal(normalizeSnapshot(''), '[]');\nfor (const malformed of ['\\n', ' \\n\\t\\n', expected + '\\n']) {\n  assert.throws(() => normalizeSnapshot(malformed), /empty|blank|строка/);\n  assert.throws(() => assertExactSnapshot(malformed, ''), /empty|blank|строка/);\n}\n",
+  "stderr": ""
+}

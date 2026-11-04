@@ -1,0 +1,16 @@
+{
+  "status": "published",
+  "published_sha": "0b25f2996748cc7322f90de445ce7a8268245d8d",
+  "queue_hash": "11f7de32b9afcb5573ca9a6629e5908396398c6fede528acadd616cd99c9a4e1",
+  "mutations": 1,
+  "outcomes": [
+    {
+      "intent_id": "win-0a-reassign",
+      "payload_hash": "cb4adde22c985af76528a1f115adf9c45b2acffd50ce98168b7ea4fa09934d30",
+      "result": {
+        "ref": "wqa-jax.1"
+      }
+    }
+  ],
+  "claims": []
+}

@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "details": {
+    "expected": "bug",
+    "actual": "bug"
+  }
+}

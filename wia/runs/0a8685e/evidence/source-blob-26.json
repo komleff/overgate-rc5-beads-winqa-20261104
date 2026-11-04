@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "show",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3:scripts/tests/bd-managed-prefix.test.mjs"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.022,
+  "stdout_sha256": "3d9c2617266c91eddbca36ad7a8c6b6303b9497c017d85c2b305882ae4cf8b84",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "import assert from 'node:assert/strict';\nimport fs from 'node:fs';\nimport os from 'node:os';\nimport path from 'node:path';\nimport { execFileSync } from 'node:child_process';\nimport { loadProjectPrefix } from '../lib/bd-managed-project.mjs';\n\n// У Beads issue prefix может содержать дефис, а имя Dolt DB заменяет его на подчёркивание.\nconst root = fs.mkdtempSync(path.join(os.tmpdir(), 'overgate-bd-prefix-'));\ntry {\n  execFileSync('git', ['init', '-q', root]);\n  execFileSync('git', ['config', '--local', 'overgate.beadsPrefix', 'big-heroes'], { cwd: root });\n  fs.mkdirSync(path.join(root, '.beads'));\n  fs.writeFileSync(path.join(root, '.beads/metadata.json'), JSON.stringify({ backend: 'dolt', dolt_mode: 'embedded', dolt_database: 'big_heroes' }));\n  fs.writeFileSync(path.join(root, '.beads/config.yaml'), '# issue-prefix: \"example\"\\n');\n  assert.equal(loadProjectPrefix(root, { readIssuePrefix: () => 'big-heroes' }), 'big-heroes');\n} finally {\n  fs.rmSync(root, { recursive: true, force: true });\n}\n",
+  "stderr": ""
+}

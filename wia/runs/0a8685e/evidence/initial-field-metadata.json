@@ -1,0 +1,31 @@
+{
+  "result": "PASS",
+  "details": {
+    "expected": {
+      "suite": "wia-0a",
+      "nested": {
+        "text": "Кириллица",
+        "enabled": true,
+        "count": 3,
+        "items": [
+          1,
+          null,
+          "a"
+        ]
+      }
+    },
+    "actual": {
+      "suite": "wia-0a",
+      "nested": {
+        "text": "Кириллица",
+        "count": 3,
+        "items": [
+          1,
+          null,
+          "a"
+        ],
+        "enabled": true
+      }
+    }
+  }
+}

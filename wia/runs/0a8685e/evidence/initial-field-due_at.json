@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "details": {
+    "expected": "2026-12-01T12:00:00Z",
+    "actual": "2026-12-01T12:00:00Z"
+  }
+}

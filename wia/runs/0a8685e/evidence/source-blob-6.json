@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "show",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3:docs/architecture/ADR-INDEX.md"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.023,
+  "stdout_sha256": "44543b3264ab17cfd7bb6ad844b387deb7913b88655bfe34ed01cfc2b4cc2133",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "# ADR-INDEX — реестр архитектурных решений\n\n> Реестр канон-решений проекта. Процесс ведения — [`ADR-0000-ADR-Process.md`](ADR-0000-ADR-Process.md), шаблон новой записи — [`ADR-TEMPLATE.md`](ADR-TEMPLATE.md).\n> Перед задачами по архитектуре/домену сверяйся с этим реестром (см. `.claude/rules/universal.md`, блок «Канон-решения»). Если решение противоречит записи — не «улучшать по ходу»: новый ADR со статусом `supersedes`, потом код.\n\n## Процесс (generic, входит в OverGate)\n\n| ADR | Тема | Статус |\n|-----|------|--------|\n| [ADR-0000](ADR-0000-ADR-Process.md) | Процесс ведения ADR | accepted |\n| [Pipeline ADR §§3.28–3.33](../../.agents/PIPELINE_ADR.md) | Delivery First generic binding, lifecycle, single finalize, пять skills, автономная установка rc.4 | accepted for v4 RC |\n| [Pipeline ADR §3.34](../../.agents/PIPELINE_ADR.md) | Managed Beads publication, typed queue и trusted publisher | proposed for rc.5 WI-A |\n\n## Решения проекта\n\n> Продуктовые и архитектурные ADR конкретного проекта добавляются сюда по [`ADR-TEMPLATE.md`](ADR-TEMPLATE.md) (каждый — с обязательным блоком «Отклонённые варианты»).\n>\n> В dogfood-проекте U2 это были ADR-0001…0031 (физика, HUD, экономика, базы и т.д.) — они **не переносятся** в overgate как project payload. Этот раздел в новом проекте наполняется с нуля.\n",
+  "stderr": ""
+}

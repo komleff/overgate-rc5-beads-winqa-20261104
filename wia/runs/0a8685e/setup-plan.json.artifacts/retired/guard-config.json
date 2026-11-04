@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "mode": "retired",
+  "repositoryRoot": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-a",
+  "publisherRoot": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "expectedPublisherHead": "ae1fbcc4aa463b312c0dce30771b239902edf1e9",
+  "sourcePins": {
+    "scripts/bd-apply-intents.sh": "32c2e92c1147ec20c660e3228eca959aab64e80c40b62236864a92c987a7bf59",
+    "scripts/bd-publisher-setup.mjs": "fd38bd17226a62e910304f5dcc956b054ded055f2d2a3444ae395fea737d1148",
+    "scripts/bd-sync-export.sh": "2ea17c30c38cabe513f52d1db0576bc755f65f0913faf387c790bc45043279cc",
+    "scripts/bd-wt.sh": "fa07d8e8b7c268f085e249c6423c66a1171aa7b0060ab30ca61d34207f65b171",
+    "scripts/lib/bd-env.sh": "5e4ffb08ed0791150e4b51c3df73828bf47170f474b18b1c5c0c8b8af268fd27",
+    "scripts/lib/bd-publisher-push-guard.mjs": "7c7f89150b0fc0bfa39ae7ded391ea5196ac077722e1ecc7034f6e3879434074",
+    "scripts/lib/bd-managed-entry.mjs": "b82c7bb733cbd33255840aee747a0b5f8dfe04f11a4e1e46da304314863b4dab",
+    "scripts/lib/bd-managed-cli.mjs": "b07fdf354852b976baf764d34e6b93e68212bcb268b0b3429af921ef143bb4d8",
+    "scripts/lib/bd-managed-contract.mjs": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+    "scripts/lib/bd-managed-journal.mjs": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+    "scripts/lib/bd-managed-transaction.mjs": "2f4fad6f23be205a2a3e77dc29f07b2bd81c6320c80c6bb9abc7cc4703d4f420",
+    "scripts/lib/bd-managed-git.mjs": "4f460e551db39ca0a3dc3a4c3916ee230046dd80e1aceb4b5ebb40280035c5c2",
+    "scripts/lib/bd-managed-project.mjs": "1d231bb57aacfd34e1426813b1119b9fa54820a2230cf08c315ce3c5e332b489",
+    "scripts/lib/bd-snapshot.mjs": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e"
+  },
+  "projectPrefix": "wqa"
+}

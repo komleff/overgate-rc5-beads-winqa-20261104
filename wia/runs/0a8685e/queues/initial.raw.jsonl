@@ -1,0 +1,5 @@
+{"intent_id": "win-0a-parent", "op": "create", "handle": "tmp:parent", "title": "Synthetic Windows QA epic", "type": "epic", "priority": 2}
+{"intent_id": "win-0a-child", "op": "create", "handle": "tmp:child", "parent": "tmp:parent", "title": "Windows rc.5 native child — Кириллица", "type": "bug", "priority": 2, "description": "Full object preservation\nКириллица и новая строка.", "acceptance": "Real ID, confirmed claim and independent same-SHA peer object.", "notes": "Initial notes\nВторая строка", "labels": ["windows-qa", "synthetic"], "external_ref": "https://example.invalid/rc5-windows", "due_at": "2026-12-01T12:00:00Z", "metadata": {"suite": "wia-0a", "nested": {"text": "Кириллица", "enabled": true, "count": 3, "items": [1, null, "a"]}}}
+{"intent_id": "win-0a-claim", "op": "claim", "ref": "tmp:child"}
+{"intent_id": "win-0a-comment", "op": "comment", "ref": "tmp:child", "text": "Native comment\nКомментарий"}
+{"intent_id": "win-0a-edge", "op": "dep_add", "ref": "tmp:child", "blocked_by": "wqa-z5e", "dep_type": "discovered-from"}

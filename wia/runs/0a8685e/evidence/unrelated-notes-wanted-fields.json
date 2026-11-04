@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "details": {
+    "wanted": {
+      "title": "Updated Windows native task",
+      "notes": "Rebased notes\nСохранить актуальный title"
+    },
+    "actual": {
+      "title": "Updated Windows native task",
+      "notes": "Rebased notes\nСохранить актуальный title"
+    }
+  }
+}

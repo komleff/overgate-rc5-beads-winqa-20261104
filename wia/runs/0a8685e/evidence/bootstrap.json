@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-apply-intents.sh",
+    "--bootstrap",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b\\.git\\overgate-bd-managed\\preservation\\preservation.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 1.161,
+  "stdout_sha256": "fe3ee2e44c65b171d4e3c8033dd339602f34364fa8e0c029028dc9d2567bf867",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "{\"status\":\"bootstrapped\",\"base\":\"b4e8a10366dc205dbae2aef32a0a8487a35588f3\",\"actor\":\"agent-76e0e949-325c-4c9e-b6b8-2564b582df0c\",\"outcome\":\"verified-absent\",\"legacy_store\":\"untouched\"}\n",
+  "stderr": ""
+}

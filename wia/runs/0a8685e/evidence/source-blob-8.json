@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "show",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3:scripts/bd-apply-intents.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.022,
+  "stdout_sha256": "32c2e92c1147ec20c660e3228eca959aab64e80c40b62236864a92c987a7bf59",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "#!/usr/bin/env bash\n# Trusted main route: prepare/bootstrap/resolve и fresh CLI transaction publication.\n# Queue — данные; publisher исполняет merged/trusted helper, не код PR.\n# Usage: bash scripts/bd-apply-intents.sh [--prepare --base R --actor A --output Q] [queue.jsonl]\n#        bash scripts/bd-apply-intents.sh --bootstrap <known preservation.json>\n#        bash scripts/bd-apply-intents.sh --resolve <old queue hash> <new prepared queue>\nset -euo pipefail\nSCRIPT_DIR=\"$(cd \"$(dirname \"${BASH_SOURCE[0]}\")\" && pwd -P)\"\nrepo_root=\"$(git rev-parse --show-toplevel)\"\nrepo_root=\"$(cd \"$repo_root\" && pwd -P)\"\nif [ \"$SCRIPT_DIR\" != \"$repo_root/scripts\" ] || [ -L \"$SCRIPT_DIR/bd-apply-intents.sh\" ] || [ -L \"$SCRIPT_DIR/lib\" ]; then\n  echo \"ERROR: trusted publisher helper path must be target main checkout scripts/ (fail-closed).\" >&2\n  exit 6\nfi\ncd \"$repo_root\"\nfor helper in scripts/bd-apply-intents.sh scripts/lib/bd-env.sh scripts/lib/bd-managed-*.mjs scripts/lib/bd-snapshot.mjs; do\n  if [ ! -f \"$helper\" ] || [ -L \"$helper\" ] || ! git ls-files --error-unmatch -- \"$helper\" >/dev/null 2>&1; then\n    echo \"ERROR: tracked publisher tooling closure incomplete (fail-closed).\" >&2\n    exit 6\n  fi\ndone\n. \"${SCRIPT_DIR}/lib/bd-env.sh\"\nbd_env_assert_main_checkout \"bd-apply-intents.sh\"\n\nbranch=\"$(git symbolic-ref --quiet --short HEAD 2>/dev/null || true)\"\nhead=\"$(git rev-parse HEAD)\"\ntrusted=\"$(git ls-remote --exit-code --heads origin refs/heads/main 2>/dev/null | awk '{print $1}')\"\nif [ \"$branch\" != main ] || [ -z \"$trusted\" ] || [ \"$head\" != \"$trusted\" ]; then\n  echo \"ERROR: managed publisher требует exact trusted origin/main HEAD (fail-closed).\" >&2\n  exit 6\nfi\nif ! git diff --quiet -- scripts/bd-apply-intents.sh scripts/lib/bd-env.sh scripts/lib/bd-managed-*.mjs scripts/lib/bd-snapshot.mjs \\\n  || ! git diff --cached --quiet HEAD -- scripts/bd-apply-intents.sh scripts/lib/bd-env.sh scripts/lib/bd-managed-*.mjs scripts/lib/bd-snapshot.mjs; then\n  echo \"ERROR: managed publisher tooling изменён в worktree.\" >&2\n  exit 6\nfi\nexec node \"${SCRIPT_DIR}/lib/bd-managed-entry.mjs\" \"$@\"\n",
+  "stderr": ""
+}

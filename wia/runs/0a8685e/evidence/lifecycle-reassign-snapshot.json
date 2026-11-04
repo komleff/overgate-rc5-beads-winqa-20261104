@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "show",
+    "0b25f2996748cc7322f90de445ce7a8268245d8d:.beads/issues.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.023,
+  "stdout_sha256": "bf20fef2fafb27a48970bcc3b9d589fc6af4b12570469ecbd1bc041842b02be0",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "{\"_type\":\"issue\",\"id\":\"wqa-jax.1\",\"title\":\"Updated Windows native task\",\"description\":\"Full object preservation\\nКириллица и новая строка.\",\"design\":\"Design\\nДизайн\",\"acceptance_criteria\":\"Real ID, confirmed claim and independent same-SHA peer object.\",\"notes\":\"Rebased notes\\nСохранить актуальный title\",\"status\":\"in_progress\",\"priority\":1,\"issue_type\":\"bug\",\"assignee\":\"agent-37e43435-33ac-49e4-8fb5-49a2336c34a3\",\"created_at\":\"2026-11-04T19:57:16Z\",\"created_by\":\"agent-76e0e949-325c-4c9e-b6b8-2564b582df0c\",\"updated_at\":\"2026-11-04T19:59:04Z\",\"started_at\":\"2026-11-04T19:57:16Z\",\"due_at\":\"2026-12-01T12:00:00Z\",\"external_ref\":\"https://example.invalid/rc5-windows\",\"metadata\":{\"phase\":\"updated\",\"suite\":\"wia-0a\",\"nested\":{\"text\":\"Кириллица\",\"count\":3,\"items\":[1,null,\"a\"],\"enabled\":true}},\"labels\":[\"synthetic\",\"updated\"],\"dependencies\":[{\"issue_id\":\"wqa-jax.1\",\"depends_on_id\":\"wqa-jax\",\"type\":\"parent-child\",\"created_at\":\"2026-11-05T02:57:15Z\",\"created_by\":\"agent-76e0e949-325c-4c9e-b6b8-2564b582df0c\",\"metadata\":\"{}\"},{\"issue_id\":\"wqa-jax.1\",\"depends_on_id\":\"wqa-z5e\",\"type\":\"discovered-from\",\"created_at\":\"2026-11-05T02:57:16Z\",\"created_by\":\"agent-76e0e949-325c-4c9e-b6b8-2564b582df0c\",\"metadata\":\"{}\"}],\"comments\":[{\"id\":\"01a1a823-1fae-7708-818c-4b60c578c466\",\"issue_id\":\"wqa-jax.1\",\"author\":\"agent-76e0e949-325c-4c9e-b6b8-2564b582df0c\",\"text\":\"Native comment\\nКомментарий\\n\\n[intent:win-0a-comment]\",\"created_at\":\"2026-11-04T19:57:17Z\"}],\"dependency_count\":0,\"dependent_count\":0,\"comment_count\":1}\n{\"_type\":\"issue\",\"id\":\"wqa-jax\",\"title\":\"Synthetic Windows QA epic\",\"status\":\"open\",\"priority\":2,\"issue_type\":\"epic\",\"created_at\":\"2026-11-04T19:57:16Z\",\"created_by\":\"agent-76e0e949-325c-4c9e-b6b8-2564b582df0c\",\"updated_at\":\"2026-11-04T19:57:16Z\",\"external_ref\":\"intent:win-0a-parent\",\"dependency_count\":0,\"dependent_count\":0,\"comment_count\":0}\n{\"_type\":\"issue\",\"id\":\"wqa-z5e\",\"title\":\"Windows managed QA — synthetic task\",\"description\":\"Synthetic disposable data only.\\nКириллица: сохранение полей.\",\"acceptance_criteria\":\"Published ID and claim match peer snapshot.\",\"notes\":\"Initial notes\\nВторая строка\",\"status\":\"in_progress\",\"priority\":2,\"issue_type\":\"bug\",\"assignee\":\"agent-a2081464-1158-48ce-b6c4-42f3324f9918\",\"created_at\":\"2026-11-04T19:06:17Z\",\"created_by\":\"agent-a2081464-1158-48ce-b6c4-42f3324f9918\",\"updated_at\":\"2026-11-04T19:06:17Z\",\"started_at\":\"2026-11-04T19:06:17Z\",\"due_at\":\"2026-12-01T12:00:00Z\",\"external_ref\":\"https://example.invalid/windows-qa\",\"metadata\":{\"suite\":\"wia\",\"nested\":{\"text\":\"Кириллица\",\"count\":3,\"items\":[1,null,\"a\"],\"enabled\":true}},\"labels\":[\"synthetic\",\"windows-qa\"],\"dependency_count\":0,\"dependent_count\":0,\"comment_count\":0}\n",
+  "stderr": ""
+}

@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "details": {
+    "expected": "https://example.invalid/rc5-windows",
+    "actual": "https://example.invalid/rc5-windows"
+  }
+}

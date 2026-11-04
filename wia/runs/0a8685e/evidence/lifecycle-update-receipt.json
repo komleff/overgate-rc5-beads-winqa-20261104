@@ -1,0 +1,16 @@
+{
+  "status": "published",
+  "published_sha": "9238403f6749a72092efba1a28d73fbb6ab602be",
+  "queue_hash": "a8a868a4d09b55df0cdf39148cedbc627d62fdc066efe722c9e99a999963a18e",
+  "mutations": 1,
+  "outcomes": [
+    {
+      "intent_id": "win-0a-update",
+      "payload_hash": "aaa9179931fdaa41fd68f038f0769f8526eb8b8be02906a081a388778e921067",
+      "result": {
+        "ref": "wqa-jax.1"
+      }
+    }
+  ],
+  "claims": []
+}

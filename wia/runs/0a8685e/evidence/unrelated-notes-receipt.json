@@ -1,0 +1,16 @@
+{
+  "status": "published",
+  "published_sha": "9f83706677a8b6a758b5f024232494d5fb1bf336",
+  "queue_hash": "288f52472e4efc40a2c86110c00beb0545776c606fcaf9d785fc5347187d5194",
+  "mutations": 1,
+  "outcomes": [
+    {
+      "intent_id": "win-0a-unrelated-notes",
+      "payload_hash": "5ae04190ee2349183476a7516f44afd9c3c74db2d91536068b5eeadb20b064b8",
+      "result": {
+        "ref": "wqa-jax.1"
+      }
+    }
+  ],
+  "claims": []
+}

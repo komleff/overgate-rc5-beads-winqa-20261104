@@ -1,0 +1,4 @@
+{
+  "result": "PASS",
+  "details": "OverGate Beads pre-push denied: snapshot outcome precondition conflict against prior published state: [{\"actual\":{\"present\":true,\"value\":\"Windows managed QA — synthetic task\"},\"expected\":{\"present\":true,\"value\":\"Old\"},\"field\":\"title\",\"intent_id\":\"forged-stale-title-001\",\"ref\":\"wqa-z5e\"}]\nerror: failed to push some refs to 'D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\origin.git'\n"
+}

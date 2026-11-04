@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "details": {
+    "wanted": {
+      "status": "in_progress",
+      "assignee": "agent-37e43435-33ac-49e4-8fb5-49a2336c34a3"
+    },
+    "actual": {
+      "status": "in_progress",
+      "assignee": "agent-37e43435-33ac-49e4-8fb5-49a2336c34a3"
+    }
+  }
+}

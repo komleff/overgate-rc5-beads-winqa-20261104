@@ -1,0 +1,5 @@
+.beads/.gitignore
+.beads/README.md
+.beads/interactions.jsonl
+.beads/metadata.json
+.gitignore

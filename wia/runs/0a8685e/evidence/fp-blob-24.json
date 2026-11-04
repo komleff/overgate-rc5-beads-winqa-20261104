@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3:scripts/lib/bd-snapshot.mjs"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-b",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.021,
+  "stdout_sha256": "127cd42d39be63c785b71292585ba5c5f36ae973787c11004cfc6bf71794cb36",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stdout": "55279873e188bbad0ef2d12a587c4f870907bed2\n",
+  "stderr": ""
+}

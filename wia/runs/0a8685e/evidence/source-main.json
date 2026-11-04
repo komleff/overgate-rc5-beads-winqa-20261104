@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "git",
+    "-c",
+    "core.autocrlf=false",
+    "checkout",
+    "-b",
+    "main",
+    "0a8685ed072fece134418a1d18ed11d8a53759a3"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-0a8685e-winqa-20261105\\actor-a",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.093,
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "67ed6a745c75e082876095e204222a0b4de1d739b9de910cdec2f4d90a09f341",
+  "stdout": "",
+  "stderr": "Already on 'main'\n"
+}

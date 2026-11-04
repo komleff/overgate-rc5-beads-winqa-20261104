@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "-c",
+    "core.autocrlf=false",
+    "--no-hardlinks",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\origin.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105",
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b'...\ndone.\n"
+}

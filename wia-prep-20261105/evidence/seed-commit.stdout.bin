@@ -1,0 +1,4 @@
+[qa/preparation (root-commit) 9f107d9] test: neutral WI-A Windows preparation
+ 2 files changed, 2 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 README.md

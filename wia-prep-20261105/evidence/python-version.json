@@ -1,0 +1,10 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "--version"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105",
+  "exit_code": 0,
+  "stdout": "Python 3.14.0\r\n",
+  "stderr": ""
+}

@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "worktree",
+    "add",
+    "-b",
+    "qa/linked",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\linked",
+    "qa/preparation"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-a",
+  "exit_code": 0,
+  "stdout": "HEAD is now at 9f107d9 test: neutral WI-A Windows preparation\n",
+  "stderr": "Preparing worktree (new branch 'qa/linked')\n"
+}

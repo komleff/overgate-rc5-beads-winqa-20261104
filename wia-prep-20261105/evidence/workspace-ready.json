@@ -1,0 +1,65 @@
+{
+  "status": "NEUTRAL PREP READY; f11a6b5 HOLD; runtime NOT RUN",
+  "root": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105",
+  "origin": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\origin.git",
+  "origin_refs": "9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/heads/qa/preparation",
+  "actors": [
+    {
+      "actor_id": "agent-a2081464-1158-48ce-b6c4-42f3324f9918",
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-a",
+      "head": "9f107d92dfcb2a9cc02b7d9008546db8812bdcf0",
+      "branch": "qa/preparation",
+      "index_sha256": "205aa19fc59dbd37ccb3084ca1d731cb643f71e801d512c18d0aa044f4f6cc62",
+      "git_dir": "D:/CodexArtifacts/overgate-rc5-wia-winqa-20261105/actor-a/.git",
+      "common_dir": "D:/CodexArtifacts/overgate-rc5-wia-winqa-20261105/actor-a/.git",
+      "beads_absent": true,
+      "clean": true
+    },
+    {
+      "actor_id": "agent-8b0f0b04-a77f-4fbf-b93e-36d6971224e4",
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-b",
+      "head": "9f107d92dfcb2a9cc02b7d9008546db8812bdcf0",
+      "branch": "qa/preparation",
+      "index_sha256": "c740ac31cdab1054d8f9b173c73536cf36377f1a400ec8339d7d75bfc9ff9fbc",
+      "git_dir": "D:/CodexArtifacts/overgate-rc5-wia-winqa-20261105/actor-b/.git",
+      "common_dir": "D:/CodexArtifacts/overgate-rc5-wia-winqa-20261105/actor-b/.git",
+      "beads_absent": true,
+      "clean": true
+    }
+  ],
+  "linked": {
+    "path": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\linked",
+    "head": "9f107d92dfcb2a9cc02b7d9008546db8812bdcf0",
+    "branch": "qa/linked",
+    "index_sha256": "acea65d3ade52c8a41feda391d980054d13fb7a7a50a70efd8b91cf08c30f318",
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wia-winqa-20261105/actor-a/.git/worktrees/linked",
+    "common_dir": "D:/CodexArtifacts/overgate-rc5-wia-winqa-20261105/actor-a/.git",
+    "beads_absent": true,
+    "clean": true
+  },
+  "isolated_reader": {
+    "mode": "read-and-queue preparation only",
+    "origin": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\origin.git",
+    "publisher_path_candidate": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\actor-a",
+    "publisher_registered": false,
+    "source_pin": null,
+    "snapshot_sha": null,
+    "pending_queue_path": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\isolated-reader\\queue.raw.jsonl"
+  },
+  "tools": {
+    "bd": {
+      "path": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+      "version": "bd version 1.2.2 (6c124203e)",
+      "sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de"
+    },
+    "git": "git version 2.51.2.windows.1",
+    "bash": "GNU bash, version 5.2.37(1)-release (x86_64-pc-msys)",
+    "python": "Python 3.14.0",
+    "node": "v24.11.0"
+  },
+  "candidate_code_installed": false,
+  "trusted_main_established": false,
+  "publisher_setup_run": false,
+  "beads_or_snapshot_created": false,
+  "working_project_db_used": false
+}

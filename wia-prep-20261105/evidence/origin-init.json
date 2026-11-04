@@ -1,0 +1,13 @@
+{
+  "argv": [
+    "git",
+    "init",
+    "--bare",
+    "--initial-branch=qa/preparation",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\origin.git"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105",
+  "exit_code": 0,
+  "stdout": "Initialized empty Git repository in D:/CodexArtifacts/overgate-rc5-wia-winqa-20261105/origin.git/\n",
+  "stderr": ""
+}

@@ -1,0 +1,10 @@
+{
+  "argv": [
+    "git",
+    "show-ref"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-winqa-20261105\\origin.git",
+  "exit_code": 0,
+  "stdout": "9f107d92dfcb2a9cc02b7d9008546db8812bdcf0 refs/heads/qa/preparation\n",
+  "stderr": ""
+}

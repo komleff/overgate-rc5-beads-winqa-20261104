@@ -1,0 +1,7 @@
+{
+  "absolute_path": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+  "sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+  "version": "bd version 1.2.2 (6c124203e)",
+  "removed_database_redirect_names": [],
+  "qualification": "Native Windows CLI capability only; no publisher/source/release qualification"
+}

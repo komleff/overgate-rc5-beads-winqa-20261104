@@ -1,0 +1,13 @@
+{
+  "command": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "comments",
+    "--help"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104",
+  "exit_code": 0,
+  "duration_seconds": 0.098,
+  "stdout": "View or manage comments on an issue.\n\nExamples:\n  # List all comments on an issue (issue id is required — there is no \"comments list\")\n  bd comments bd-123\n\n  # List comments in JSON format\n  bd comments bd-123 --json\n\n  # Add a comment\n  bd comments add bd-123 \"This is a comment\"\n\n  # Add a comment from a file\n  bd comments add bd-123 -f notes.txt\n\nUsage:\n  bd comments [issue-id] [flags]\n  bd comments [command]\n\nAvailable Commands:\n  add         Add a comment to an issue\n  list        Invalid — use bd comments <issue-id> to list comments\n\nFlags:\n  -h, --help         help for comments\n      --local-time   Show timestamps in local time instead of UTC\n\nGlobal Flags:\n      --actor string              Actor name for audit trail (default: $BEADS_ACTOR, git user.name, $USER)\n      --db string                 Database path (default: auto-discover .beads/*.db)\n  -C, --directory string          Change to this directory before running the command (like git -C)\n      --dolt-auto-commit string   Dolt auto-commit policy (off|on|batch). 'on': commit after each write. 'batch': defer commits to bd dolt commit; uncommitted changes persist in the working set until then. SIGTERM/SIGHUP flush pending batch commits. Default: off. Override via config key dolt.auto-commit\n      --global                    Use the global shared-server database (beads_global)\n      --ignore-schema-skew        Proceed despite forward schema drift (some queries may fail)\n      --json                      Output in JSON format\n      --profile                   Generate CPU profile for performance analysis\n  -q, --quiet                     Suppress non-essential output (errors only)\n      --readonly                  Read-only mode: block write operations (for worker sandboxes)\n      --sandbox                   Sandbox mode: disables Dolt auto-push\n  -v, --verbose                   Enable verbose/debug output\n\nUse \"bd comments [command] --help\" for more information about a command.\n",
+  "stderr": ""
+}

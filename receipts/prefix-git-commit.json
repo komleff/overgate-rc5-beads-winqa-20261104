@@ -1,0 +1,13 @@
+{
+  "command": [
+    "git",
+    "commit",
+    "-m",
+    "test: initialize disposable Beads CLI project"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\big-heroes",
+  "exit_code": 0,
+  "duration_seconds": 0.046,
+  "stdout": "[main (root-commit) 32216aa] test: initialize disposable Beads CLI project\n 1 file changed, 1 insertion(+)\n create mode 100644 README.md\n",
+  "stderr": ""
+}

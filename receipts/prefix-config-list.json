@@ -1,0 +1,14 @@
+{
+  "command": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "config",
+    "list",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\big-heroes",
+  "exit_code": 0,
+  "duration_seconds": 0.223,
+  "stdout": "{\n  \"auto_compact_enabled\": \"false\",\n  \"compact_batch_size\": \"50\",\n  \"compact_parallel_workers\": \"5\",\n  \"compact_tier1_days\": \"30\",\n  \"compact_tier1_dep_levels\": \"2\",\n  \"compact_tier2_commits\": \"100\",\n  \"compact_tier2_days\": \"90\",\n  \"compact_tier2_dep_levels\": \"5\",\n  \"compaction_enabled\": \"false\",\n  \"issue_prefix\": \"big-heroes\",\n  \"schema_version\": 1\n}\n",
+  "stderr": ""
+}

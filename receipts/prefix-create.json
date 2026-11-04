@@ -1,0 +1,19 @@
+{
+  "command": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "create",
+    "--title",
+    "Windows prefix probe",
+    "--type",
+    "task",
+    "--description",
+    "Synthetic CLI prequalification only",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104\\big-heroes",
+  "exit_code": 0,
+  "duration_seconds": 0.389,
+  "stdout": "{\n  \"created_at\": \"2026-11-04T12:28:20.0684384Z\",\n  \"created_by\": \"Dmitriy Komleff\",\n  \"description\": \"Synthetic CLI prequalification only\",\n  \"id\": \"big-heroes-aad\",\n  \"issue_type\": \"task\",\n  \"owner\": \"4734706+komleff@users.noreply.github.com\",\n  \"priority\": 2,\n  \"schema_version\": 1,\n  \"status\": \"open\",\n  \"title\": \"Windows prefix probe\",\n  \"updated_at\": \"2026-11-04T12:28:20.0684384Z\"\n}\n",
+  "stderr": ""
+}

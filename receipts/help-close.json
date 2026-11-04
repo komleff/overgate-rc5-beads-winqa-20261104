@@ -1,0 +1,13 @@
+{
+  "command": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "close",
+    "--help"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-beads-winqa-20261104",
+  "exit_code": 0,
+  "duration_seconds": 0.096,
+  "stdout": "Close one or more issues.\n\nIf no issue ID is provided, closes the last touched issue (from most recent\ncreate, update, show, or close operation).\n\nWhen closing multiple issues, provide one --reason for all IDs or repeat\n--reason once per ID. Reasons map positionally: the first --reason applies\nto the first ID, the second --reason to the second ID, regardless of where\nthe flags appear in the command line.\n\nUsage:\n  bd close [id...] [flags]\n\nAliases:\n  close, done\n\nFlags:\n      --claim-next           Automatically claim the next highest priority available issue\n      --continue             Auto-advance to next step in molecule\n  -f, --force                Force close pinned issues or unsatisfied gates\n  -h, --help                 help for close\n      --no-auto              With --continue, show next step but don't claim it\n  -r, --reason string        Reason for closing\n      --reason-file string   Read close reason from file (use - for stdin)\n      --session string       Claude Code session ID (or set CLAUDE_SESSION_ID env var)\n      --suggest-next         Show newly unblocked issues after closing\n\nGlobal Flags:\n      --actor string              Actor name for audit trail (default: $BEADS_ACTOR, git user.name, $USER)\n      --db string                 Database path (default: auto-discover .beads/*.db)\n  -C, --directory string          Change to this directory before running the command (like git -C)\n      --dolt-auto-commit string   Dolt auto-commit policy (off|on|batch). 'on': commit after each write. 'batch': defer commits to bd dolt commit; uncommitted changes persist in the working set until then. SIGTERM/SIGHUP flush pending batch commits. Default: off. Override via config key dolt.auto-commit\n      --global                    Use the global shared-server database (beads_global)\n      --ignore-schema-skew        Proceed despite forward schema drift (some queries may fail)\n      --json                      Output in JSON format\n      --profile                   Generate CPU profile for performance analysis\n  -q, --quiet                     Suppress non-essential output (errors only)\n      --readonly                  Read-only mode: block write operations (for worker sandboxes)\n      --sandbox                   Sandbox mode: disables Dolt auto-push\n  -v, --verbose                   Enable verbose/debug output\n",
+  "stderr": ""
+}

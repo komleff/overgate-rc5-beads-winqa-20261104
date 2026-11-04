@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "switch",
+    "-c",
+    "qa/unknown-receipt"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\unknown-receipt",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.037,
+  "stdout": "",
+  "stderr": "Switched to a new branch 'qa/unknown-receipt'\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "7efa56e5b327faf1cdb17c6134c88d3bec6419d30328bd82003220fd21c39a65"
+}

@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "switch",
+    "-c",
+    "qa/no-beads"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\no-beads",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.032,
+  "stdout": "",
+  "stderr": "Switched to a new branch 'qa/no-beads'\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "29762b0bd93a92f327a3e3cbea8c91bc535686653828f228f5c0e1fc3afb2b9b"
+}

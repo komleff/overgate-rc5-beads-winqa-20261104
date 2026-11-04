@@ -1,0 +1,5 @@
+.agents/distribution-manifest.json
+docs/plans/2026-11-05-v4.0.0-rc.5-install-activation.md
+scripts/check-reference.py
+scripts/install-overgate.py
+scripts/tests/install-distribution.test.py

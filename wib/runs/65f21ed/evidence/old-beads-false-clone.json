@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--no-hardlinks",
+    "-c",
+    "core.autocrlf=false",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\origin.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\old-beads-false"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.082,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\old-beads-false'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "7a3f2469b2297d3c2122f95cb042a6c94b53ccc330591fa686c4c865bdef2a08"
+}

@@ -1,0 +1,5 @@
+{
+  "planned_R": "aa42f389fa93eea88583d74010579ecc920528c0",
+  "injected_R": "c5368b37ed667e34dd7ddc906286ff7641443915",
+  "method": "synthetic local bare ref advance to same-tree commit; not managed publisher execution"
+}

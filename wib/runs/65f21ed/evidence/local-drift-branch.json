@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "switch",
+    "-c",
+    "qa/local-drift"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\local-drift",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.032,
+  "stdout": "",
+  "stderr": "Switched to a new branch 'qa/local-drift'\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "6572483ce2dba365362f53ac9c93e44311a3ef82d4d884a201c2792f50e2ccad"
+}

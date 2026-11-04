@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\source\\scripts\\install-overgate.py",
+    "apply",
+    "--plan",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\plans\\remote-advance.plan.json",
+    "--approval",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\plans\\remote-advance.synthetic-approval.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105",
+  "exit_code": 1,
+  "expected": 1,
+  "seconds": 6.702,
+  "stdout": "",
+  "stderr": "STOP: target/source plan drift after Plan Review; regenerate plan in same PR\r\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "6dbea4ec60ea2a822ba095ff28840622a05e2378394bfaf86c774485f399124c"
+}

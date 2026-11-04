@@ -1,0 +1,7 @@
+{
+  "source": "65f21ed72b6cbc85cd7b5ed41502e3a84a464739",
+  "method": "actual candidate validate_payload against in-memory manifest omission; unchanged frozen Git source; no CLI synthetic source SHA",
+  "omitted": "scripts/lib/bd-managed-git.mjs",
+  "error": "payload preflight failed: CLOSURE-006: missing managed import: scripts/lib/bd-publisher-push-guard.mjs -> scripts/lib/bd-managed-git.mjs\nCLOSURE-006: missing managed import: scripts/lib/bd-managed-entry.mjs -> scripts/lib/bd-managed-git.mjs\nCLOSURE-002: missing dependency: scripts/lib/bd-managed-git.mjs\nCLOSURE-006: missing managed import: scripts/lib/bd-managed-transaction.mjs -> scripts/lib/bd-managed-git.mjs\nreference structure: FAIL",
+  "refused": true
+}

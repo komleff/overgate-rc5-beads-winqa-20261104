@@ -1,0 +1,128 @@
+[
+  {
+    "source": "scripts/bd-read.sh",
+    "target": "scripts/bd-read.sh",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/bd-wt.sh",
+    "target": "scripts/bd-wt.sh",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-env.sh",
+    "target": "scripts/lib/bd-env.sh",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-read-engine.mjs",
+    "target": "scripts/lib/bd-read-engine.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/bd-apply-intents.sh",
+    "target": "scripts/bd-apply-intents.sh",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/bd-publisher-setup.mjs",
+    "target": "scripts/bd-publisher-setup.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-publisher-push-guard.mjs",
+    "target": "scripts/lib/bd-publisher-push-guard.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-managed-cli.mjs",
+    "target": "scripts/lib/bd-managed-cli.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-managed-contract.mjs",
+    "target": "scripts/lib/bd-managed-contract.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-managed-entry.mjs",
+    "target": "scripts/lib/bd-managed-entry.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-managed-git.mjs",
+    "target": "scripts/lib/bd-managed-git.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-managed-journal.mjs",
+    "target": "scripts/lib/bd-managed-journal.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-managed-project.mjs",
+    "target": "scripts/lib/bd-managed-project.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-managed-read-check.mjs",
+    "target": "scripts/lib/bd-managed-read-check.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-managed-transaction.mjs",
+    "target": "scripts/lib/bd-managed-transaction.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/lib/bd-snapshot.mjs",
+    "target": "scripts/lib/bd-snapshot.mjs",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/bd-sync-common.sh",
+    "target": "scripts/bd-sync-common.sh",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/bd-sync-export.sh",
+    "target": "scripts/bd-sync-export.sh",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/bd-sync-restore.sh",
+    "target": "scripts/bd-sync-restore.sh",
+    "policy": "managed",
+    "component": "beads"
+  },
+  {
+    "source": ".claude/rules/beads.md",
+    "target": ".claude/rules/beads.md",
+    "policy": "preserve",
+    "component": "beads"
+  },
+  {
+    "source": "scripts/bd-bootstrap.sh",
+    "target": "scripts/bd-bootstrap.sh",
+    "policy": "managed",
+    "component": "beads"
+  }
+]

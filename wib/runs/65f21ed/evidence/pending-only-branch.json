@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "switch",
+    "-c",
+    "qa/pending-only"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\pending-only",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.031,
+  "stdout": "",
+  "stderr": "Switched to a new branch 'qa/pending-only'\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "967a6aa0fda27268f23ab22a85154e0cb5dde0e245b91db9d283611a5463ccc2"
+}

@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\source\\scripts\\install-overgate.py",
+    "apply",
+    "--plan",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\plans\\local-native-legacy.plan.json",
+    "--approval",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\plans\\local-native-legacy.synthetic-approval.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105",
+  "exit_code": 1,
+  "expected": 1,
+  "seconds": 5.48,
+  "stdout": "",
+  "stderr": "STOP: Beads preservation required before install: .bd-intents: retained state; .beads: retained state; remote beads-backup present\r\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "6136db083eab7a58bb925986ec0c131a247d5761cb4b5bb2df80909b401eaec7"
+}

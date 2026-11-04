@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "switch",
+    "-c",
+    "qa/remote-advance"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\remote-advance",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.038,
+  "stdout": "",
+  "stderr": "Switched to a new branch 'qa/remote-advance'\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "6efee1598518d5fe5db13aa7fd59e5cb19ab32185244cc10e4567fd4ef568262"
+}

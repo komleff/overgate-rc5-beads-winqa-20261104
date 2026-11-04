@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\fresh\\scripts\\check-reference.py",
+    "--root",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\fresh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.733,
+  "stdout": "reference structure: PASS\r\n",
+  "stderr": "",
+  "stdout_sha256": "d1b90a9e2d9971a66a0237d1b1cf091276510f5a59c4a2c2cf36f2eefde82874",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

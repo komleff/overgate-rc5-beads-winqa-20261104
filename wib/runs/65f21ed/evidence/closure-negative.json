@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\closure-negative.py",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\source",
+    "65f21ed72b6cbc85cd7b5ed41502e3a84a464739",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\evidence"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 7.183,
+  "stdout": "{\"source\": \"65f21ed72b6cbc85cd7b5ed41502e3a84a464739\", \"method\": \"actual candidate validate_payload against in-memory manifest omission; unchanged frozen Git source; no CLI synthetic source SHA\", \"omitted\": \"scripts/lib/bd-managed-git.mjs\", \"error\": \"payload preflight failed: CLOSURE-006: missing managed import: scripts/lib/bd-publisher-push-guard.mjs -> scripts/lib/bd-managed-git.mjs\\nCLOSURE-006: missing managed import: scripts/lib/bd-managed-entry.mjs -> scripts/lib/bd-managed-git.mjs\\nCLOSURE-002: missing dependency: scripts/lib/bd-managed-git.mjs\\nCLOSURE-006: missing managed import: scripts/lib/bd-managed-transaction.mjs -> scripts/lib/bd-managed-git.mjs\\nreference structure: FAIL\", \"refused\": true}\r\n",
+  "stderr": "",
+  "stdout_sha256": "33748723724e4b1e57ec02bbfbd5ee4d5086af419762939fa1761433c1b2c3cc",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

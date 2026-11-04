@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "switch",
+    "-c",
+    "qa/remote-present"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\remote-present",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.032,
+  "stdout": "",
+  "stderr": "Switched to a new branch 'qa/remote-present'\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "9b6c298f4b6672336e93c1525473bd8733e2cdb946264ca0bd1e2d2d59f34996"
+}

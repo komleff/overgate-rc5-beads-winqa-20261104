@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "switch",
+    "-c",
+    "qa/symlink"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\symlink",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.03,
+  "stdout": "",
+  "stderr": "Switched to a new branch 'qa/symlink'\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "7bdc7cba2ec648f51a70396420b75c3cf1361b91755d19a05eda2205b3990e54"
+}

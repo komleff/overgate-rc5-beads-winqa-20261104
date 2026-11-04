@@ -1,0 +1,383 @@
+{
+  "target": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\local-drift",
+  "files": {
+    ".bd-intents": {
+      "directory": true
+    },
+    ".bd-intents/arrived.jsonl": {
+      "sha256": "4cefe7a64ede298ccecf43d67ef8a5371efc6a2452aa59b116713f7f8835de1c",
+      "bytes": 37,
+      "mode": 438
+    },
+    ".git": {
+      "directory": true
+    },
+    ".git/config": {
+      "sha256": "9661b5f772484b93fc7f403af576ae93bf8bf6beb9f61b1a97ccf728c18b74c5",
+      "bytes": 423,
+      "mode": 438
+    },
+    ".git/description": {
+      "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+      "bytes": 73,
+      "mode": 438
+    },
+    ".git/HEAD": {
+      "sha256": "6b74be086e02eaed541a135b22490c7ce04be838985d54ff52d00c2047377614",
+      "bytes": 31,
+      "mode": 438
+    },
+    ".git/hooks": {
+      "directory": true
+    },
+    ".git/hooks/applypatch-msg.sample": {
+      "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+      "bytes": 478,
+      "mode": 438
+    },
+    ".git/hooks/commit-msg.sample": {
+      "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+      "bytes": 896,
+      "mode": 438
+    },
+    ".git/hooks/fsmonitor-watchman.sample": {
+      "sha256": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0",
+      "bytes": 4726,
+      "mode": 438
+    },
+    ".git/hooks/post-update.sample": {
+      "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+      "bytes": 189,
+      "mode": 438
+    },
+    ".git/hooks/pre-applypatch.sample": {
+      "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+      "bytes": 424,
+      "mode": 438
+    },
+    ".git/hooks/pre-commit.sample": {
+      "sha256": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b",
+      "bytes": 1649,
+      "mode": 438
+    },
+    ".git/hooks/pre-merge-commit.sample": {
+      "sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+      "bytes": 416,
+      "mode": 438
+    },
+    ".git/hooks/pre-push.sample": {
+      "sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
+      "bytes": 1374,
+      "mode": 438
+    },
+    ".git/hooks/pre-rebase.sample": {
+      "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+      "bytes": 4898,
+      "mode": 438
+    },
+    ".git/hooks/pre-receive.sample": {
+      "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+      "bytes": 544,
+      "mode": 438
+    },
+    ".git/hooks/prepare-commit-msg.sample": {
+      "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+      "bytes": 1492,
+      "mode": 438
+    },
+    ".git/hooks/push-to-checkout.sample": {
+      "sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
+      "bytes": 2783,
+      "mode": 438
+    },
+    ".git/hooks/sendemail-validate.sample": {
+      "sha256": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92",
+      "bytes": 2308,
+      "mode": 438
+    },
+    ".git/hooks/update.sample": {
+      "sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
+      "bytes": 3650,
+      "mode": 438
+    },
+    ".git/index": {
+      "sha256": "f54ae8e5ace713e19b29337b7246a65c59ae09b780019a3d25130cf39ab9e129",
+      "bytes": 137,
+      "mode": 438
+    },
+    ".git/info": {
+      "directory": true
+    },
+    ".git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    ".git/logs": {
+      "directory": true
+    },
+    ".git/logs/HEAD": {
+      "sha256": "a09550d9aaa61827ecdafe841d29b70a320dc9c54a2ac1f7e596f2a6b1eb5a25",
+      "bytes": 444,
+      "mode": 438
+    },
+    ".git/logs/refs": {
+      "directory": true
+    },
+    ".git/logs/refs/heads": {
+      "directory": true
+    },
+    ".git/logs/refs/heads/qa": {
+      "directory": true
+    },
+    ".git/logs/refs/heads/qa/local-drift": {
+      "sha256": "4941dbae82990065f02b34fd93903ef0127af0e9ce4d9d3548142e302e826e21",
+      "bytes": 184,
+      "mode": 438
+    },
+    ".git/logs/refs/heads/qa/preparation": {
+      "sha256": "51a2499448ea9e835c0cbce9770945e61285b57efc6d9a357fd5822e0317b060",
+      "bytes": 231,
+      "mode": 438
+    },
+    ".git/logs/refs/remotes": {
+      "directory": true
+    },
+    ".git/logs/refs/remotes/origin": {
+      "directory": true
+    },
+    ".git/logs/refs/remotes/origin/HEAD": {
+      "sha256": "51a2499448ea9e835c0cbce9770945e61285b57efc6d9a357fd5822e0317b060",
+      "bytes": 231,
+      "mode": 438
+    },
+    ".git/objects": {
+      "directory": true
+    },
+    ".git/objects/2f": {
+      "directory": true
+    },
+    ".git/objects/2f/eaf3f11e8d3276db9451ead113c7c1e7c33775": {
+      "sha256": "cad6674fdd4763f58cfde54a0d5c3c18a9cf597aa1c191319aff6b513d009b69",
+      "bytes": 54,
+      "mode": 438
+    },
+    ".git/objects/82": {
+      "directory": true
+    },
+    ".git/objects/82/9068f5dbc21da78f0840e4013b913d9449fe2c": {
+      "sha256": "d0468eacb3e4dfc8a7f2651750cc6117eac3c92fe27752790cad8a3edae36a3d",
+      "bytes": 64,
+      "mode": 438
+    },
+    ".git/objects/e8": {
+      "directory": true
+    },
+    ".git/objects/e8/9c806b44620b063a8c3274de9edd799ca87911": {
+      "sha256": "fa5700cbf85ea8b7d26725edbff5387678d34781b42d1c8cae512b86ab83c7a9",
+      "bytes": 150,
+      "mode": 438
+    },
+    ".git/objects/info": {
+      "directory": true
+    },
+    ".git/objects/pack": {
+      "directory": true
+    },
+    ".git/packed-refs": {
+      "sha256": "be2086e0389f9ee63f8593c934919594b9d33ab1017322e7e59255ab1fda8235",
+      "bytes": 122,
+      "mode": 438
+    },
+    ".git/refs": {
+      "directory": true
+    },
+    ".git/refs/heads": {
+      "directory": true
+    },
+    ".git/refs/heads/qa": {
+      "directory": true
+    },
+    ".git/refs/heads/qa/local-drift": {
+      "sha256": "bdd32bbb324e2093d001505629dda1e8290ff4b673807e3f9c50145fd325bed3",
+      "bytes": 41,
+      "mode": 438
+    },
+    ".git/refs/heads/qa/preparation": {
+      "sha256": "bdd32bbb324e2093d001505629dda1e8290ff4b673807e3f9c50145fd325bed3",
+      "bytes": 41,
+      "mode": 438
+    },
+    ".git/refs/remotes": {
+      "directory": true
+    },
+    ".git/refs/remotes/origin": {
+      "directory": true
+    },
+    ".git/refs/remotes/origin/HEAD": {
+      "sha256": "f036c8e96d75ae906f76febba7293c86761ba661b0f729e5bb345c1cb0354dc5",
+      "bytes": 40,
+      "mode": 438
+    },
+    ".git/refs/tags": {
+      "directory": true
+    },
+    "README.md": {
+      "sha256": "0c8260538199f42cd2c9c578b8ca5ece43038da38d380c4930617c25f5b577b0",
+      "bytes": 48,
+      "mode": 438
+    }
+  },
+  "backup": {
+    "absent": true
+  },
+  "remote": "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\origin.git",
+  "remote_files": {
+    "config": {
+      "sha256": "74c63b4eae3533b3ff4c0e285897778464d6c04815c33457729279ded1e2a947",
+      "bytes": 104,
+      "mode": 438
+    },
+    "description": {
+      "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+      "bytes": 73,
+      "mode": 438
+    },
+    "HEAD": {
+      "sha256": "3a749b26b5d7484190f340f592132351c139c762ab206bc0a9b96d9622d2ac87",
+      "bytes": 31,
+      "mode": 438
+    },
+    "hooks": {
+      "directory": true
+    },
+    "hooks/applypatch-msg.sample": {
+      "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+      "bytes": 478,
+      "mode": 438
+    },
+    "hooks/commit-msg.sample": {
+      "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+      "bytes": 896,
+      "mode": 438
+    },
+    "hooks/fsmonitor-watchman.sample": {
+      "sha256": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0",
+      "bytes": 4726,
+      "mode": 438
+    },
+    "hooks/post-update.sample": {
+      "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+      "bytes": 189,
+      "mode": 438
+    },
+    "hooks/pre-applypatch.sample": {
+      "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+      "bytes": 424,
+      "mode": 438
+    },
+    "hooks/pre-commit.sample": {
+      "sha256": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b",
+      "bytes": 1649,
+      "mode": 438
+    },
+    "hooks/pre-merge-commit.sample": {
+      "sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+      "bytes": 416,
+      "mode": 438
+    },
+    "hooks/pre-push.sample": {
+      "sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
+      "bytes": 1374,
+      "mode": 438
+    },
+    "hooks/pre-rebase.sample": {
+      "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+      "bytes": 4898,
+      "mode": 438
+    },
+    "hooks/pre-receive.sample": {
+      "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+      "bytes": 544,
+      "mode": 438
+    },
+    "hooks/prepare-commit-msg.sample": {
+      "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+      "bytes": 1492,
+      "mode": 438
+    },
+    "hooks/push-to-checkout.sample": {
+      "sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
+      "bytes": 2783,
+      "mode": 438
+    },
+    "hooks/sendemail-validate.sample": {
+      "sha256": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92",
+      "bytes": 2308,
+      "mode": 438
+    },
+    "hooks/update.sample": {
+      "sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
+      "bytes": 3650,
+      "mode": 438
+    },
+    "info": {
+      "directory": true
+    },
+    "info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "objects": {
+      "directory": true
+    },
+    "objects/2f": {
+      "directory": true
+    },
+    "objects/2f/eaf3f11e8d3276db9451ead113c7c1e7c33775": {
+      "sha256": "cad6674fdd4763f58cfde54a0d5c3c18a9cf597aa1c191319aff6b513d009b69",
+      "bytes": 54,
+      "mode": 292
+    },
+    "objects/82": {
+      "directory": true
+    },
+    "objects/82/9068f5dbc21da78f0840e4013b913d9449fe2c": {
+      "sha256": "d0468eacb3e4dfc8a7f2651750cc6117eac3c92fe27752790cad8a3edae36a3d",
+      "bytes": 64,
+      "mode": 292
+    },
+    "objects/e8": {
+      "directory": true
+    },
+    "objects/e8/9c806b44620b063a8c3274de9edd799ca87911": {
+      "sha256": "fa5700cbf85ea8b7d26725edbff5387678d34781b42d1c8cae512b86ab83c7a9",
+      "bytes": 150,
+      "mode": 292
+    },
+    "objects/info": {
+      "directory": true
+    },
+    "objects/pack": {
+      "directory": true
+    },
+    "refs": {
+      "directory": true
+    },
+    "refs/heads": {
+      "directory": true
+    },
+    "refs/heads/qa": {
+      "directory": true
+    },
+    "refs/heads/qa/preparation": {
+      "sha256": "bdd32bbb324e2093d001505629dda1e8290ff4b673807e3f9c50145fd325bed3",
+      "bytes": 41,
+      "mode": 438
+    },
+    "refs/tags": {
+      "directory": true
+    }
+  }
+}

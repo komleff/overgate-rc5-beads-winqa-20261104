@@ -1,0 +1,27 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\source\\scripts\\install-overgate.py",
+    "plan",
+    "--source",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\source",
+    "--source-sha",
+    "65f21ed72b6cbc85cd7b5ed41502e3a84a464739",
+    "--target",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\pending-only",
+    "--contract",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\pr-contract.txt",
+    "--target-pr",
+    "https://github.com/example/project/pull/1",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\plans\\pending-only.plan.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 5.437,
+  "stdout": "Plan written; conflicts=0; SHA256=c372ef32be8fedb5fd898c6a447ccc4c9ceea2c26acc7f74930ff917d088091f\r\n",
+  "stderr": "",
+  "stdout_sha256": "97fa5a32d39ae5dbab6c4f92685816b0b636b510cc2f8fb826e4aacdd28c93b6",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

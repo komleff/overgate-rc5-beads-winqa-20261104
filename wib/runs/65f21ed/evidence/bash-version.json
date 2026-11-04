@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "--version"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.024,
+  "stdout": "GNU bash, version 5.2.37(1)-release (x86_64-pc-msys)\nCopyright (C) 2022 Free Software Foundation, Inc.\nLicense GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\n\nThis is free software; you are free to change and redistribute it.\nThere is NO WARRANTY, to the extent permitted by law.\n",
+  "stderr": "",
+  "stdout_sha256": "227caeeb08fd389317580daeca2beb47b26bce62b7da921afd2a6025526afec0",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

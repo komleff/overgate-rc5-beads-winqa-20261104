@@ -1,0 +1,100 @@
+[
+  {
+    "case": "fresh-managed-closure-no-init",
+    "ac": "B1",
+    "result": "PASS",
+    "method": "Native plan/apply + all Beads source/target SHA256; installed checker; no .beads/registration/queue; origin byte unchanged",
+    "evidence": "fresh-result.json"
+  },
+  {
+    "case": "no-beads",
+    "ac": "B1",
+    "result": "PASS",
+    "method": "Actual native plan/apply/checker; none; complete Beads closure absent; prior false upgrade has no --no-beads override",
+    "evidence": "no-beads-result.json"
+  },
+  {
+    "case": "old-beads-false",
+    "ac": "B1",
+    "result": "PASS",
+    "method": "Actual native plan/apply/checker; none; complete Beads closure absent; prior false upgrade has no --no-beads override",
+    "evidence": "old-beads-false-result.json"
+  },
+  {
+    "case": "local-native-legacy",
+    "ac": "B2",
+    "result": "PASS",
+    "method": "Actual plan records blocked inventory; approved apply RC1; full target/Git/backup/remote hashes unchanged",
+    "evidence": "local-native-legacy-apply-readonly.json"
+  },
+  {
+    "case": "pending-only",
+    "ac": "B2",
+    "result": "PASS",
+    "method": "Actual plan records blocked inventory; approved apply RC1; full target/Git/backup/remote hashes unchanged",
+    "evidence": "pending-only-apply-readonly.json"
+  },
+  {
+    "case": "unknown-receipt",
+    "ac": "B2",
+    "result": "PASS",
+    "method": "Actual plan records blocked inventory; approved apply RC1; full target/Git/backup/remote hashes unchanged",
+    "evidence": "unknown-receipt-apply-readonly.json"
+  },
+  {
+    "case": "remote-present",
+    "ac": "B2",
+    "result": "PASS",
+    "method": "Actual plan records blocked inventory; approved apply RC1; full target/Git/backup/remote hashes unchanged",
+    "evidence": "remote-present-apply-readonly.json"
+  },
+  {
+    "case": "remote-unavailable",
+    "ac": "B2",
+    "result": "PASS",
+    "method": "Actual plan records blocked inventory; approved apply RC1; full target/Git/backup/remote hashes unchanged",
+    "evidence": "remote-unavailable-apply-readonly.json"
+  },
+  {
+    "case": "local-plan-apply-drift",
+    "ac": "B2",
+    "result": "PASS",
+    "method": "Exact approved plan then new pending; actual apply RC1 drift before target/backup write",
+    "evidence": "local-drift-apply-readonly.json"
+  },
+  {
+    "case": "remote-R-advance",
+    "ac": "B2",
+    "result": "PASS",
+    "method": "Synthetic known local remote advance; actual approved apply refuses exact frozen-R drift, preserves injected remote",
+    "evidence": "remote-advance-result.json"
+  },
+  {
+    "case": "symlink",
+    "ac": "B2",
+    "result": "NOT RUN",
+    "method": "Native Windows symlink creation unavailable; no emulation",
+    "evidence": "symlink-capability.json"
+  },
+  {
+    "case": "missing-managed-import",
+    "ac": "B1/I3",
+    "result": "PASS",
+    "method": "Exact-source exported validator with one manifest import dependency omitted in memory; actual checker refuses projected temp closure; source/installed target untouched",
+    "evidence": "closure-negative-result.json"
+  },
+  {
+    "case": "permissions-negative",
+    "ac": "B2",
+    "result": "NOT RUN",
+    "method": "No reliable denied-access fixture established under current Windows account; no mock substituted",
+    "evidence": "results.json"
+  },
+  {
+    "case": "activation-switch-fence-publication",
+    "ac": "B3/B4",
+    "result": "NOT RUN",
+    "method": "Explicitly excluded by early B1/B2 packet",
+    "evidence": "results.json"
+  }
+]

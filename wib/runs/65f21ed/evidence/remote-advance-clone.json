@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--no-hardlinks",
+    "-c",
+    "core.autocrlf=false",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\advance-origin.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\remote-advance"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.132,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\remote-advance'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "0f3147f0f95261025f56d003a0d6283fca8007181c477a6ffcfe962f0679aa2d"
+}

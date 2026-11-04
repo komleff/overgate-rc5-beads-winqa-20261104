@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "switch",
+    "-c",
+    "qa/fresh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\fresh",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.03,
+  "stdout": "",
+  "stderr": "Switched to a new branch 'qa/fresh'\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "192301707a501ff818024410681ae403606ff034e44e3fa50deb9e0008aebb11"
+}

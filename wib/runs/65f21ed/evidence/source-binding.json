@@ -1,0 +1,15 @@
+{
+  "source": "65f21ed72b6cbc85cd7b5ed41502e3a84a464739",
+  "base": "3096e550bfd6f4ff73c987812a2dda2c7d339669",
+  "paths": {
+    ".agents/distribution-manifest.json": "5c1cc99dd8a52679369e75cdbcc5d9c581766a6a",
+    "docs/plans/2026-11-05-v4.0.0-rc.5-install-activation.md": "5dedca627bf31916b871d85e88c4906551aaf576",
+    "scripts/check-reference.py": "5a7245f81056dd3af3f308bd8a02b68fc08e4be1",
+    "scripts/install-overgate.py": "fe2278ce93e70049778c9c0db6fd87bd7a983635",
+    "scripts/tests/install-distribution.test.py": "45d7d60f30f9b5f4050bf3a0093f4b2059698dd3"
+  },
+  "contract_bytes": 1024,
+  "contract_sha256": "32b9d90893e2a686506b3210403857c43e4b422b091d4fce0cbe11426834c795",
+  "content_fingerprint": "f51ba29323722d0732c4aa93213b70fad906129541c7c96b83f6c3c750a9c9ff",
+  "plan_blob": "5dedca627bf31916b871d85e88c4906551aaf576"
+}

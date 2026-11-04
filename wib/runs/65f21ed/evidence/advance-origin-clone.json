@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--bare",
+    "--no-hardlinks",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\legacy-origin.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\advance-origin.git"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.077,
+  "stdout": "",
+  "stderr": "Cloning into bare repository 'D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\advance-origin.git'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "b49864ec947bf2c21c612fb2437f39ceb75d63b782df00cba41a304c0832b34c"
+}

@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "65f21ed72b6cbc85cd7b5ed41502e3a84a464739:scripts/install-overgate.py"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\source",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "fe2278ce93e70049778c9c0db6fd87bd7a983635\n",
+  "stderr": "",
+  "stdout_sha256": "f506ad60bb4005ec0c41d08a0b8fcbeee4e15baaf323a19ca1c1741bc6403dc0",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

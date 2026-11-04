@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "update-ref",
+    "refs/heads/beads-backup",
+    "c5368b37ed667e34dd7ddc906286ff7641443915",
+    "aa42f389fa93eea88583d74010579ecc920528c0"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-65f21ed-winqa-20261105\\cases\\advance-origin.git",
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.027,
+  "stdout": "",
+  "stderr": "",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

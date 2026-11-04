@@ -1,0 +1,12 @@
+{
+  "frozen_files": 43,
+  "frozen_zip_sha256": "7063b0a27bca5d749e2b1cad594a22dac6e20457bd47198c6aea8312d08b941b",
+  "frozen_zip_bytes": 646482,
+  "zip_full_bytes_equal": true,
+  "legacy_bundle_sha256": "1f37139e3a382750ebfc4eded5758268bbae612e0c7262446ee007be0edc793d",
+  "legacy_bundle_bytes": 336336,
+  "git_bundle_verified": true,
+  "pending_sha256": "55b472ccca2951a09c14beb0029990aa8f6ca647a39c8a5d1b713935aaaf8518",
+  "unknown_receipt_sha256": "1fa3d5590bfe28d421b10feaf162b27f99e74a3ebc56a4aa80387b518e739ba6",
+  "candidate_executed": false
+}

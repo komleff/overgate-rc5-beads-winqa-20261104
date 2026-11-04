@@ -1,0 +1,2 @@
+БЛОКИРОВКА: фразы 'готов к merge' / 'ready to merge' / 'merge-ready' разрешены только через /finalize-pr (см. .claude/skills/finalize-pr/SKILL.md).
+Используй /finalize-pr <PR_NUMBER>.

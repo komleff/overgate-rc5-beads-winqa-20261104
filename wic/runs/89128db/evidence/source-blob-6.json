@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\source-89128db",
+    "show",
+    "89128db6438da86a4a27e083a6d522741a020ebc:.claude/tools/run-python.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.022,
+  "stdout": "#!/bin/sh\n# Единый переносимый запуск Python 3 для macOS, Linux и Windows Git Bash.\n\nprobe='import sys; raise SystemExit(0 if sys.version_info.major == 3 else 1)'\n\n# Native Windows Python не всегда преобразует MSYS-путь argv с апострофом.\ncase \"${1-}\" in\n  /*)\n    if command -v cygpath >/dev/null 2>&1; then\n      script_path=\"$(cygpath -m \"$1\")\" || exit 127\n      [ -n \"$script_path\" ] || exit 127\n      shift\n      set -- \"$script_path\" \"$@\"\n    fi ;;\nesac\n\nif command -v py >/dev/null 2>&1 && py -3 -c \"$probe\" >/dev/null 2>&1; then\n  exec py -3 \"$@\"\nfi\n\nif command -v python3 >/dev/null 2>&1 && \\\n    python3 -c \"$probe\" >/dev/null 2>&1; then\n  exec python3 \"$@\"\nfi\n\nif command -v python >/dev/null 2>&1 && \\\n    python -c \"$probe\" >/dev/null 2>&1; then\n  exec python \"$@\"\nfi\n\necho \"ОШИБКА: не найден исправный Python 3 (проверены: py -3, python3, python).\" >&2\nexit 127\n",
+  "stderr": "",
+  "stdout_sha256": "9c66b06e59f15a990ae3f5e39f98867ad0877c5a60be0f099bac6c2a19a50f74",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

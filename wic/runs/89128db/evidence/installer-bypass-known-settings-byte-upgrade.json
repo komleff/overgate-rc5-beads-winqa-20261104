@@ -1,0 +1,8 @@
+{
+  "result": "PASS",
+  "details": {
+    "actual_sha256": "77c5d53c6c2a6965423e17699f91fa74568a94861e3e5dee2b4d6c1ddb36706d",
+    "expected_sha256": "77c5d53c6c2a6965423e17699f91fa74568a94861e3e5dee2b4d6c1ddb36706d",
+    "mode": "bypass"
+  }
+}

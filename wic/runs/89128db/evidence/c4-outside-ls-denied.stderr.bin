@@ -1,0 +1,1 @@
+БЛОКИРОВКА: каталог сессии не корень репозитория, диспетчер хуков .claude/hooks/pre-bash.sh здесь не найден (PWD=[/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/outside-no-git], CLAUDE_PROJECT_DIR=[]). Для восстановления начните новую сессию из корня checkout с dispatcher; простой absolute cd к нему допускается.

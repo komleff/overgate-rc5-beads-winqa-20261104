@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db\\cases\\project(parens)",
+    "-c",
+    "core.autocrlf=false",
+    "checkout",
+    "--detach",
+    "89128db6438da86a4a27e083a6d522741a020ebc"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.092,
+  "stdout": "",
+  "stderr": "HEAD is now at 89128db fix: pass MSYS script paths to native Python\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "52948b069aae8d394334da79ae93b591e8a6308825a7aa2af42c12d46ead2b62"
+}

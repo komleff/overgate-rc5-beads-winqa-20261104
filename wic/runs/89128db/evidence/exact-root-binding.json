@@ -1,0 +1,8 @@
+{
+  "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+  "fixture": "D:\\CodexArtifacts\\overgate-rc5-wic-82603f8-winqa-20261105\\run-82603f8\\cases\\project'apostrophe",
+  "native_pwd": "/d/CodexArtifacts/overgate-rc5-wic-82603f8-winqa-20261105/run-82603f8/cases/project'apostrophe",
+  "old_launcher_sha256": "6b174974380f2e3c76ea06cb3e89d1811aeddd3d5258db9c4343cd180217d1a8",
+  "new_launcher_sha256": "9c66b06e59f15a990ae3f5e39f98867ad0877c5a60be0f099bac6c2a19a50f74",
+  "actual_guard_exists": true
+}

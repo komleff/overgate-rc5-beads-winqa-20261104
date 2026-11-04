@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\source-89128db\\scripts\\install-overgate.py",
+    "apply",
+    "--plan",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db\\installer-plans\\installer-custom-conflict.plan.json",
+    "--approval",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db\\installer-plans\\installer-custom-conflict.synthetic-approval.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db",
+  "exit_code": 1,
+  "expected_exit": [
+    1
+  ],
+  "seconds": 4.787,
+  "stdout": "",
+  "stderr": "STOP: conflicts require explicit project resolution: .claude/settings.json: conflict: custom managed runtime hook; resolve in target PR\r\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "c99c8917d7ab01953def1d4db13b492ddce13788c803ea2c2903469b9b0a5774"
+}

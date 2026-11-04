@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+  "method": "existing two portability producer/consumer and mutation tests on native Windows Python",
+  "stdout": "",
+  "stderr": "test_each_old_name_mutation_is_detected (__main__.ActiveNames.test_each_old_name_mutation_is_detected) ... ok\r\ntest_producers_and_consumers_are_generic (__main__.ActiveNames.test_producers_and_consumers_are_generic) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 2 tests in 0.019s\r\n\r\nOK\r\n"
+}

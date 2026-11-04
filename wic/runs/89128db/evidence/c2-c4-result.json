@@ -1,0 +1,29 @@
+{
+  "result": "PASS scoped",
+  "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+  "negative_cases": [
+    "semicolon-tail",
+    "and-tail",
+    "newline-tail",
+    "substitution",
+    "backtick",
+    "variable",
+    "glob",
+    "second-cd",
+    "relative",
+    "other-dispatcher-checkout",
+    "drive-relative",
+    "other-drive"
+  ],
+  "sentinel_absent": true,
+  "extra": [
+    "apostrophe/cyrillic/parentheses tails",
+    "DOS and MSYS same-root spelling on C and D",
+    "real other drive checkout refused",
+    "missing dispatcher",
+    "CLAUDE_PROJECT_DIR spoof refused",
+    "outside-Git legacy simple cd",
+    "honest outside guidance",
+    "root mutation/readiness/test gate scenarios"
+  ]
+}

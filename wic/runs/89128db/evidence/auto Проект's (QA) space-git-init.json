@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "init",
+    "--initial-branch=qa/installer",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db\\installed\\auto Проект's (QA) space"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.037,
+  "stdout": "Initialized empty Git repository in D:/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/installed/auto Проект's (QA) space/.git/\n",
+  "stderr": "",
+  "stdout_sha256": "c56d13998043548e96f3918ab23c99e535450f674a772ded1c8a729d1cb6515e",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

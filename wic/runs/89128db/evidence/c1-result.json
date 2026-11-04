@@ -1,0 +1,69 @@
+{
+  "result": "PASS",
+  "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+  "entry_sha256": "06f9662f9ad22149a31279a8bc2d6d2a9991ea2ddc5bffb7e85411156b64b9b4",
+  "settings_sha256": "16a4e90872c23afa406b68b82864de5a4c74e44e0c8309b4e6faad8a9f458cac",
+  "cases": [
+    {
+      "case": "ascii",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db\\cases\\project-ascii",
+      "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+      "printed": "cd '/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project-ascii'",
+      "printed_sha256": "777d3f8d541ffd6b660e3a468a7663fd83127f632dbd0a8aa75dbe314dba92dd",
+      "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project-ascii",
+      "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project-ascii",
+      "result": "PASS"
+    },
+    {
+      "case": "space",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db\\cases\\project with space",
+      "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+      "printed": "cd '/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project with space'",
+      "printed_sha256": "0d148d804f09ed5c82bac53bb426d56f79b237298c2a84447902b249109e5ae1",
+      "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project with space",
+      "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project with space",
+      "result": "PASS"
+    },
+    {
+      "case": "cyrillic",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db\\cases\\проект-кириллица",
+      "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+      "printed": "cd '/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/проект-кириллица'",
+      "printed_sha256": "67625062c676e8b19aa8857a851bb4ae0aa5766913d5dbdbf64201961333d7a6",
+      "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/проект-кириллица",
+      "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/проект-кириллица",
+      "result": "PASS"
+    },
+    {
+      "case": "parentheses",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db\\cases\\project(parens)",
+      "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+      "printed": "cd '/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project(parens)'",
+      "printed_sha256": "93507211cfa5b4f59720330450b3b4803049ce71fa907119f804697f0d3fc65f",
+      "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project(parens)",
+      "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project(parens)",
+      "result": "PASS"
+    },
+    {
+      "case": "apostrophe",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db\\cases\\project'apostrophe",
+      "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+      "printed": "cd '/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project'\"'\"'apostrophe'",
+      "printed_sha256": "2025e7a569fc2e07399a50738d322ebebe3a6a465cb8fddd35dcd42a7ecc06e1",
+      "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project'apostrophe",
+      "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project'apostrophe",
+      "result": "PASS"
+    },
+    {
+      "case": "c-drive",
+      "root": "C:\\work\\og-wic-89128db",
+      "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+      "printed": "cd '/c/work/og-wic-89128db'",
+      "printed_sha256": "6e4711bff4e8703c8a701905d4838d2298d6e301490de9ec4954d9c65ff8b008",
+      "actual_pwd": "/c/work/og-wic-89128db",
+      "expected_pwd": "/c/work/og-wic-89128db",
+      "result": "PASS"
+    }
+  ],
+  "method": "native Windows subprocess [Git bash.exe,-c,exact entry], full UTF-8 JSON; exact printed bytes replayed then executed; actual pwd -P compared to independent same-tool root pwd"
+}

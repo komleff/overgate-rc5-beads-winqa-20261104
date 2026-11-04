@@ -1,0 +1,27 @@
+{
+  "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+  "content_fingerprint": "536044bb778a67a193afeee6aa5a196bcb1ba5bfcef883a0da6e7e6fa96207cd",
+  "contract_bytes": 1060,
+  "contract_sha256": "118a2da8d515cbd809293a8379ecafa7f536b401e419619a521fe76ed36d45a6",
+  "plan_blob": "e56ec8ff7f49e4a85483140ea811dabd42d6de5e",
+  "blobs": {
+    ".agents/HOW_TO_USE.md": "0578456b3e4f4b149db96499f24fca0581b89fb6",
+    ".agents/INSTALL.md": "590ac992994e8c3157e5578057fb1775657862d0",
+    ".agents/PIPELINE_ADR.md": "ecb7df04a737797933ec9dc1084a4bd7f8886df8",
+    ".agents/distribution-manifest.json": "f08518d53a8d39ff265239c8b71caeb9a71e25ee",
+    ".claude/hooks/commit_command_classifier.py": "f4a8e8d2b43d00a517081542bbdf6e49f4c2ab6b",
+    ".claude/settings.json": "b0f9abd06d367da869da5ebc8a24db4530493d60",
+    ".claude/tools/run-python.sh": "83eabe5bc3081a954949a9343239d706fede94cc",
+    ".claude/tools/with-timeout.sh": "ff65ff64d54b3734ef95088dbc0999d4824e6941",
+    "README.md": "b76a501b9788d7b61492490619034957c536bba3",
+    "docs/plans/2026-11-05-v4.0.0-rc.5-path-recovery.md": "e56ec8ff7f49e4a85483140ea811dabd42d6de5e",
+    "scripts/tests/commit-command-classifier.test.sh": "275a0e8a029e02305a2e057d6682b74b27d1f933",
+    "scripts/tests/install-distribution.test.py": "471d3932487f36900b7f12134923f605ed039158",
+    "scripts/tests/portability-names.test.py": "61751e3ec42d537c3af51f3be3175cb831ca52a2",
+    "scripts/tests/pre-bash-dispatch.test.py": "a8a36c307dd228b4a560fb5df3cae769f6c36556",
+    "scripts/tests/publish-pr-comment.test.py": "e1355bb4826c2fb6c30f4b3dad23cc0536f8b4cb",
+    "scripts/tests/python-launcher.test.sh": "f6f8b791300045ee5f0b07ed1a6ecae940ecbd0b",
+    "scripts/tests/with-timeout-transparency.test.sh": "10bfd81654f77425893b0e1175085f20a3763a57",
+    "scripts/verify-reference.sh": "096ba70c214a751044d9a24ef3f4a97f97f4a859"
+  }
+}

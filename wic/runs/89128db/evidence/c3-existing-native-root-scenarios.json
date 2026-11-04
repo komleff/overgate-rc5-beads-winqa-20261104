@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\source-89128db\\scripts\\tests\\pre-bash-dispatch.test.py",
+    "RootScenarios"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\source-89128db",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 11.516,
+  "stdout": "",
+  "stderr": "test_commit_follows_test_gate_verdict (__main__.RootScenarios.test_commit_follows_test_gate_verdict) ... ok\r\ntest_merge_readiness_publication_is_blocked (__main__.RootScenarios.test_merge_readiness_publication_is_blocked) ... ok\r\ntest_read_passes_with_any_project_dir_form (__main__.RootScenarios.test_read_passes_with_any_project_dir_form) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 3 tests in 11.391s\r\n\r\nOK\r\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "620b395c60f2e226f00b161bc788a2986017b8ed77518cbcb7c7fa4237c4827d"
+}

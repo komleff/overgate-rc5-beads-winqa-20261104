@@ -1,0 +1,1 @@
+STOP: conflicts require explicit project resolution: .claude/settings.json: conflict: custom managed runtime hook; resolve in target PR

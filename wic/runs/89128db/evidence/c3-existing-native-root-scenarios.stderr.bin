@@ -1,0 +1,8 @@
+test_commit_follows_test_gate_verdict (__main__.RootScenarios.test_commit_follows_test_gate_verdict) ... ok
+test_merge_readiness_publication_is_blocked (__main__.RootScenarios.test_merge_readiness_publication_is_blocked) ... ok
+test_read_passes_with_any_project_dir_form (__main__.RootScenarios.test_read_passes_with_any_project_dir_form) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 11.391s
+
+OK

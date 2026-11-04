@@ -1,0 +1,6 @@
+{
+  "result": "PASS",
+  "details": [
+    ".claude/settings.json: conflict: custom managed runtime hook; resolve in target PR"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "-C",
+    "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\source-89128db",
+    "rev-parse",
+    "89128db6438da86a4a27e083a6d522741a020ebc:.agents/PIPELINE_ADR.md"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wic-89128db-winqa-20261105\\run-89128db",
+  "exit_code": 0,
+  "expected_exit": [
+    0
+  ],
+  "seconds": 0.027,
+  "stdout": "ecb7df04a737797933ec9dc1084a4bd7f8886df8\n",
+  "stderr": "",
+  "stdout_sha256": "39ef21b0b4294a2fe76fc36548fb839a5b110c36dccac671180017d2599d0de2",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,1 @@
+BLOCKED: direct update of protected branch via git push is forbidden: main. Use a working branch/PR; merge remains operator-only.

@@ -1,0 +1,8 @@
+{
+  "result": "PASS",
+  "details": {
+    "actual": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/installed/auto Проект's (QA) space",
+    "expected": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/installed/auto Проект's (QA) space",
+    "printed": "cd '/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/installed/auto Проект'\"'\"'s (QA) space'"
+  }
+}

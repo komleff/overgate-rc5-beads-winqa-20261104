@@ -1,0 +1,8 @@
+{
+  "result": "PASS",
+  "details": {
+    "actual_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project'apostrophe",
+    "expected_pwd": "/d/CodexArtifacts/overgate-rc5-wic-89128db-winqa-20261105/run-89128db/cases/project'apostrophe",
+    "method": "both values from native Git Bash pwd -P, never Windows Path(/c/...).resolve()"
+  }
+}

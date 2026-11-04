@@ -1,0 +1,24 @@
+{
+  "result": "PASS scoped native Windows C1-C5/installed smoke; C6 CI/finalizer separate",
+  "source": "89128db6438da86a4a27e083a6d522741a020ebc",
+  "content_fingerprint": "536044bb778a67a193afeee6aa5a196bcb1ba5bfcef883a0da6e7e6fa96207cd",
+  "passed": [
+    "exact old apostrophe root read",
+    "six-root hint replay and actual execution",
+    "C2 injection/identity/no sentinel",
+    "own canonical recovery under spoofed Git env; foreign denied",
+    "DOS/MSYS aliases C and D",
+    "missing dispatcher",
+    "outside-Git legacy simple recovery and honest guidance",
+    "native root guards/test gate",
+    "auto/bypass rc4.1 installer upgrade with installed native smoke",
+    "custom managed hook conflict before target write",
+    "C5 existing portability/mutation tests"
+  ],
+  "not_run": [
+    "full local verify-reference by independent Windows QA",
+    "live Claude model session",
+    "trusted finalizer/release"
+  ],
+  "external_ci": "see ci-jobs-snapshot.json"
+}

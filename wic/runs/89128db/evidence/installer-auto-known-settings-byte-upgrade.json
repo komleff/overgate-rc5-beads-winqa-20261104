@@ -1,0 +1,8 @@
+{
+  "result": "PASS",
+  "details": {
+    "actual_sha256": "16a4e90872c23afa406b68b82864de5a4c74e44e0c8309b4e6faad8a9f458cac",
+    "expected_sha256": "16a4e90872c23afa406b68b82864de5a4c74e44e0c8309b4e6faad8a9f458cac",
+    "mode": "auto"
+  }
+}

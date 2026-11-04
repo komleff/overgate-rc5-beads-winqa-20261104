@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "details": {
+    "before": {
+      "README.md": "8757e2c05928afb18f42329017c07daf29c547b306a53e06ad794a331f24d402",
+      ".claude\\settings.json": "f556b1ec08143a23807c13427c327f7ea1114411c68cc4b55778f88dff4b8a1e"
+    },
+    "after": {
+      "README.md": "8757e2c05928afb18f42329017c07daf29c547b306a53e06ad794a331f24d402",
+      ".claude\\settings.json": "f556b1ec08143a23807c13427c327f7ea1114411c68cc4b55778f88dff4b8a1e"
+    }
+  }
+}

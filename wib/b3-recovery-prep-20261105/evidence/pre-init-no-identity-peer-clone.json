@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--no-hardlinks",
+    "-c",
+    "core.autocrlf=false",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-recovery-prep-winqa-20261105/cases/pre-init-no-identity/real.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105\\cases\\pre-init-no-identity\\peer"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105",
+  "exit_code": 0,
+  "seconds": 0.083,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105\\cases\\pre-init-no-identity\\peer'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "3409909e385371ad28280b9e02eb23c3b6459e9b0d5088fe69af2ab2f522b08f"
+}

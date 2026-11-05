@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "init",
+    "--initial-branch=main",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105\\seed"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105",
+  "exit_code": 0,
+  "seconds": 0.033,
+  "stdout": "Initialized empty Git repository in D:/CodexArtifacts/overgate-rc5-wib-b3-recovery-prep-winqa-20261105/seed/.git/\n",
+  "stderr": "",
+  "stdout_sha256": "3df8054659af87b69332dbc4d1db206a4be689f23563ca6c15013308c715917b",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

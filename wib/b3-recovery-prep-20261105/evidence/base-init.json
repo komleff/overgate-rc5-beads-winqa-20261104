@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "init",
+    "--bare",
+    "--initial-branch=main",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105\\neutral-origin.git"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105",
+  "exit_code": 0,
+  "seconds": 0.035,
+  "stdout": "Initialized empty Git repository in D:/CodexArtifacts/overgate-rc5-wib-b3-recovery-prep-winqa-20261105/neutral-origin.git/\n",
+  "stderr": "",
+  "stdout_sha256": "e30b6aa8ed6ea4d1c7ca5e74ba02de7dfb4bbe020f9be95300017bdc796ee23b",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

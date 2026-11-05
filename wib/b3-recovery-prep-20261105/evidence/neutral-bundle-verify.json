@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "bundle",
+    "verify",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105\\evidence\\neutral-main.bundle"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105\\neutral-origin.git",
+  "exit_code": 0,
+  "seconds": 0.02,
+  "stdout": "The bundle contains this ref:\ncd3dac9370d5306c7879721e12c5f38fdd9a27c8 refs/heads/main\nThe bundle records a complete history.\nThe bundle uses this hash algorithm: sha1\n",
+  "stderr": "D:/CodexArtifacts/overgate-rc5-wib-b3-recovery-prep-winqa-20261105/evidence/neutral-main.bundle is okay\n",
+  "stdout_sha256": "1b3f4c49faa342c63bffc17cdf2daef5d32b09ba311c83baebeb92f503fb7994",
+  "stderr_sha256": "28cbb6d1fc97d2f1ecab00b230e497c494a4126ee0143dc4036c322fb7b2bc8c"
+}

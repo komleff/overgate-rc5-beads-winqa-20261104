@@ -1,0 +1,14 @@
+{
+  "case": "after-push",
+  "expected_checkpoint": "Interrupt after real remote advancement; preserve R/ledger/receipt and test exact-SHA readback/retry without duplicate mutation",
+  "interruption_mechanism": "NOT SELECTED: bind to forthcoming exact source/API; no candidate executed",
+  "spoof_env": {
+    "GIT_CONFIG_COUNT": "2",
+    "GIT_CONFIG_KEY_0": "remote.origin.url",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wib-b3-recovery-prep-winqa-20261105/cases/after-push/attacker.git",
+    "GIT_CONFIG_KEY_1": "remote.origin.pushurl",
+    "GIT_CONFIG_VALUE_1": "D:/CodexArtifacts/overgate-rc5-wib-b3-recovery-prep-winqa-20261105/cases/after-push/attacker.git"
+  },
+  "synthetic_https_origin": "https://b3-synthetic.example.invalid/project.git",
+  "candidate_status": "NOT RUN"
+}

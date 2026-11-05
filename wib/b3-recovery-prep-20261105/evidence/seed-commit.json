@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "commit",
+    "-m",
+    "fixture: neutral main for B3 recovery preparation"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105\\seed",
+  "exit_code": 0,
+  "seconds": 0.044,
+  "stdout": "[main (root-commit) cd3dac9] fixture: neutral main for B3 recovery preparation\n 1 file changed, 1 insertion(+)\n create mode 100644 README.md\n",
+  "stderr": "",
+  "stdout_sha256": "12f400cba291d923f56f241848e0af036e023fbd1a7062b0373d902dbff28b86",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

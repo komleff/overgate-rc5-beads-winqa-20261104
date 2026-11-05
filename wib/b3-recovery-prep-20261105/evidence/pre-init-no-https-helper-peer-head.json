@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "HEAD"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105\\cases\\pre-init-no-https-helper\\peer",
+  "exit_code": 0,
+  "seconds": 0.019,
+  "stdout": "cd3dac9370d5306c7879721e12c5f38fdd9a27c8\n",
+  "stderr": "",
+  "stdout_sha256": "5088c10c6a325041aacea9fb352a5661a0ac1c80bea6d20aeff902834648716e",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

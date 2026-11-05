@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "ls-files",
+    "-s",
+    "-z"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105\\cases\\after-peer-init\\peer",
+  "exit_code": 0,
+  "seconds": 0.023,
+  "stdout": "100644 71647dd99f1051da728497ccaf44f2ada2e24e7e 0\tREADME.md\u0000",
+  "stderr": "",
+  "stdout_sha256": "9a7f8e1ada9633ba2ee4c2c0b1303ca67a9ed3b36e560d74b4756a9d4ecca79b",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

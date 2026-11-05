@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--bare",
+    "--no-hardlinks",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-publisher-setup\\real.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-publisher-setup\\attacker.git"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.068,
+  "stdout": "",
+  "stderr": "Cloning into bare repository 'D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-publisher-setup\\attacker.git'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "ffecfb2fdcf877ed08c2df24bd291a0f5590c0608daa9d00d79607cb1a36d547"
+}

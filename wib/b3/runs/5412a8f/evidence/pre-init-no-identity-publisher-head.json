@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "HEAD"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\pre-init-no-identity\\publisher",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "1761ab08238d005c6d4d64d3ea5c5f61ee4fd7a3\n",
+  "stderr": "",
+  "stdout_sha256": "2d0da85627cca97fbab31cb690e0e4f31ed55e11a3baf7015cfa2eab4c26de48",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

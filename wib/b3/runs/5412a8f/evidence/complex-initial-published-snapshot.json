@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "show",
+    "5ecc25d571042200a3ef5ad409bfe4accd379210:.beads/issues.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\Проект's (QA) space\\real.git",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.024,
+  "stdout": "{\"_type\":\"issue\",\"id\":\"wibqa-i5n\",\"title\":\"Windows B3 complex-path synthetic actual task\",\"status\":\"in_progress\",\"priority\":2,\"issue_type\":\"task\",\"assignee\":\"agent-5bc90b90-5cfd-4243-baa7-bbcefb50157e\",\"created_at\":\"2026-11-05T03:50:10Z\",\"created_by\":\"agent-5bc90b90-5cfd-4243-baa7-bbcefb50157e\",\"updated_at\":\"2026-11-05T03:50:10Z\",\"started_at\":\"2026-11-05T03:50:10Z\",\"external_ref\":\"intent:activation-create\",\"dependency_count\":0,\"dependent_count\":0,\"comment_count\":0}\n",
+  "stderr": "",
+  "stdout_sha256": "6bc75ff81a1b17f5e20d8d9e4591dd1db2918819dae02f9bf7d9e6488937a644",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

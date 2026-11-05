@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "5412a8f25fe94f2e6c313357e556717469514f14:.claude/tools/run-python.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.027,
+  "stdout": "83eabe5bc3081a954949a9343239d706fede94cc\n",
+  "stderr": "",
+  "stdout_sha256": "e8f196ea3c35e936e07e11316e0e82e1b63ad35126d35961f70873734d2294e2",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

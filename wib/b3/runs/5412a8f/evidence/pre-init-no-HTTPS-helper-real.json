@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--bare",
+    "--branch",
+    "main",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105\\evidence\\neutral-main.bundle",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\pre-init-no-HTTPS-helper\\real.git"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.07,
+  "stdout": "",
+  "stderr": "Cloning into bare repository 'D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\pre-init-no-HTTPS-helper\\real.git'...\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "d3c307cc0b69d35916bd885b761312f1148698a449d78d955e733c12532f6d50"
+}

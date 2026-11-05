@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "diff",
+    "--name-only",
+    "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+    "5412a8f25fe94f2e6c313357e556717469514f14"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.024,
+  "stdout": ".agents/HOW_TO_USE.md\n.agents/INSTALL.md\n.agents/PIPELINE_ADR.md\n.agents/distribution-manifest.json\n.agents/templates/AGENTS.template.md\n.claude/hooks/commit_command_classifier.py\n.claude/settings.json\n.claude/tools/run-python.sh\n.claude/tools/with-timeout.sh\nREADME.md\ndocs/architecture/ADR-INDEX.md\ndocs/plans/2026-11-05-v4.0.0-rc.5-install-activation.md\ndocs/plans/2026-11-05-v4.0.0-rc.5-path-recovery.md\nscripts/bd-activate.py\nscripts/bd-activate.sh\nscripts/bd-apply-intents.sh\nscripts/bd-read.sh\nscripts/check-reference.py\nscripts/install-overgate.py\nscripts/lib/bd-env.sh\nscripts/tests/bd-node-path.test.sh\nscripts/tests/commit-command-classifier.test.sh\nscripts/tests/install-distribution.test.py\nscripts/tests/portability-names.test.py\nscripts/tests/pre-bash-dispatch.test.py\nscripts/tests/publish-pr-comment.test.py\nscripts/tests/python-launcher.test.sh\nscripts/tests/with-timeout-transparency.test.sh\nscripts/verify-reference.sh\n",
+  "stderr": "",
+  "stdout_sha256": "e18598cc1f57d2fed8825f9b3778c2ec7f6356706084866b58e53340223e2bed",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

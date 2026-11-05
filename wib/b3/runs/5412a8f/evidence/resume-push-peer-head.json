@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "HEAD"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-push\\peer",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "97babd7e96025373a1cd5abe89fa6ad4bb480826\n",
+  "stderr": "",
+  "stdout_sha256": "cec84018b125b0081df3b66dd29520e2c14b23c4afd412a27c367a0d4a6a7745",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

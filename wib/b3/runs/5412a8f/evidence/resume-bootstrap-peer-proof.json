@@ -1,0 +1,27 @@
+{
+  "id": "wibqa-c69",
+  "real_R": "95a6fc78072722efab3c59c7a072395fa830f49a",
+  "peer_R": "95a6fc78072722efab3c59c7a072395fa830f49a",
+  "attacker_R": null,
+  "full_object_equal": true,
+  "peer_native_DB_bytes_unchanged": true,
+  "temporary_snapshot_dir": null,
+  "object": {
+    "_type": "issue",
+    "id": "wibqa-c69",
+    "title": "Windows B3 resume-bootstrap synthetic task",
+    "status": "in_progress",
+    "priority": 2,
+    "issue_type": "task",
+    "assignee": "agent-ec0e2312-c10d-4027-bcc8-635475bf497b",
+    "created_at": "2026-11-05T04:00:23Z",
+    "created_by": "agent-ec0e2312-c10d-4027-bcc8-635475bf497b",
+    "updated_at": "2026-11-05T04:00:23Z",
+    "started_at": "2026-11-05T04:00:23Z",
+    "external_ref": "intent:activation-create",
+    "dependency_count": 0,
+    "dependent_count": 0,
+    "comment_count": 0
+  },
+  "issue_records": 1
+}

@@ -1,0 +1,31 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-activate.sh",
+    "--publisher-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/resume-publisher-setup/publisher",
+    "--peer-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/resume-publisher-setup/peer",
+    "--bd-bin",
+    "D:/CodexArtifacts/overgate-rc4-winqa-20261103/tools/bd.exe",
+    "--prefix",
+    "wibqa",
+    "--actor",
+    "agent-047e5e30-df8f-4ffc-b4ba-a26642292850",
+    "--title",
+    "Windows B3 resume-publisher-setup synthetic task",
+    "--work-dir",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/activation-work/resume-publisher-setup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-publisher-setup\\primary",
+  "env_overrides": {
+    "OVERGATE_BD_ACTIVATE_TEST_FAIL_AT": "after-setup"
+  },
+  "exit_code": 1,
+  "expected": null,
+  "seconds": 9.35,
+  "stdout": "",
+  "stderr": "STOP: injected activation stop after after-setup; queue/base/actor retained: {\"actor\": \"agent-047e5e30-df8f-4ffc-b4ba-a26642292850\", \"base\": \"0000000000000000000000000000000000000000\", \"queue\": \"D:\\\\CodexArtifacts\\\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\\\activation-work\\\\resume-publisher-setup\\\\raw-intents.jsonl\", \"queue_sha256\": \"f593799d380a90d9ca4f31e9a6ff33c2866cd7d6e342cd68b5989e7df891808c\"}\r\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "f15d13d3ff7357b8ea3b8be93a2e1fddc45938f771792b6db7641fa5fc1fd621"
+}

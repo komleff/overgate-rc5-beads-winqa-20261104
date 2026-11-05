@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "for-each-ref",
+    "--format=%(refname) %(objectname)"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-push\\attacker.git",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "refs/heads/main 97babd7e96025373a1cd5abe89fa6ad4bb480826\n",
+  "stderr": "",
+  "stdout_sha256": "66d6738d19e3c816dd93510749a45d9a7ae2fb592c07e90c1802cbfa5deed047",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

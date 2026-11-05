@@ -1,0 +1,30 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-activate.sh",
+    "--publisher-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/origin-drift-negative/publisher",
+    "--peer-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/origin-drift-negative/peer",
+    "--bd-bin",
+    "D:/CodexArtifacts/overgate-rc4-winqa-20261103/tools/bd.exe",
+    "--prefix",
+    "wibqa",
+    "--actor",
+    "agent-5bb97283-2387-4c04-87ba-f4bb1f82b638",
+    "--title",
+    "Windows B3 origin-drift-negative synthetic task",
+    "--work-dir",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/activation-work/origin-drift-negative",
+    "--resume"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\origin-drift-negative\\primary",
+  "env_overrides": {},
+  "exit_code": 1,
+  "expected": null,
+  "seconds": 0.764,
+  "stdout": "",
+  "stderr": "STOP: activation checkpoint origin changed; preserve queue and native state\r\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "04b43732339e5775b82000290792181198f677898f6c3bf0f7c326a558655f07"
+}

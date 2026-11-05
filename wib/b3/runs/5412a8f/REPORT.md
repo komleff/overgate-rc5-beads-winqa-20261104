@@ -1,0 +1,44 @@
+# WINDOWS QA → PM / QA EXECUTION B3 `5412a8f` — scoped PASS
+
+Role/model: Windows QA / Codex GPT-6. Exact source `5412a8f25fe94f2e6c313357e556717469514f14`, tree `d4741fe7744ea1da0bd86fba2b1b6bbbe0dff2d4`, base `be8b66e7875ac5843e6f40f6e042593fa2f1ebb2`. Full29-path+1024-byte CONTRACT Content-Fingerprint `e0987f00495fbda3047784afc29c67ec66dae10d568cef2458408754a04d05d2` independently matched; final source clean/HEAD unchanged and current GitHub CONTRACT independently read back byte-equal. Authority PR12#6649142086.
+
+**Completed native Windows B3 packet: scoped PASS. No actual product FAIL observed on this source.** Original80071dd/c6/682 FAIL archives and partial-state ZIP remain immutable. No release/final readiness claim.
+
+| Test case | AC | Method | Result | Evidence |
+|---|---|---|---|---|
+| complex-installed-public-activation | B3 I2/I4/I5/I6 | Actual installed public activation in combined path; real ID/confirmed claim/peer same SHA | PASS | [receipt](evidence/complex-installed-activation-result.json) |
+| complex-public-reader-check-snapshot | B3 I4/I5 | Public installed bd-read in combined root with combined TMPDIR exercises Node reader check/snapshot operand; full peer object and exact R, peer DB unchanged | PASS | [receipt](evidence/complex-initial-peer-proof.json) |
+| complex-native-create-claim-update-close | B3 I2/I4/I5/I6 | Actual installed activation + typed native update/close; real ID/confirmed claim, full object and exact real/peer R; attacker absent | PASS | [receipt](evidence/complex-lifecycle-result.json) |
+| origin-drift-negative | B3 I2/I4/I5 | After peer-init clone real bare, change all3 repo-local fetch+push origins; public --resume refuses before any further DB/control/queue/task write; exact full bytes unchanged | PASS | [receipt](evidence/origin-drift-negative-result.json) |
+| resume-peer-init | B3 I4/I5/I6 | Separate public injected fault then same-args --resume; raw queue/actor/CLI/metadata/store dirs preserved; one real task/confirmed claim; peer exact full object/R; after-push no R advance | PASS | [receipt](evidence/resume-peer-init-result.json) |
+| resume-publisher-setup | B3 I4/I5/I6 | Separate public injected fault then same-args --resume; raw queue/actor/CLI/metadata/store dirs preserved; one real task/confirmed claim; peer exact full object/R; after-push no R advance | PASS | [receipt](evidence/resume-publisher-setup-result.json) |
+| resume-bootstrap | B3 I4/I5/I6 | Separate public injected fault then same-args --resume; raw queue/actor/CLI/metadata/store dirs preserved; one real task/confirmed claim; peer exact full object/R; after-push no R advance | PASS | [receipt](evidence/resume-bootstrap-result.json) |
+| resume-push | B3 I4/I5/I6 | Separate public injected fault then same-args --resume; raw queue/actor/CLI/metadata/store dirs preserved; one real task/confirmed claim; peer exact full object/R; after-push no R advance | PASS | [receipt](evidence/resume-push-result.json) |
+| pre-init-no-identity | B3 I2/I5/I6 | Actual public installed pre-init refusal with private queue retained, before native init/control/task write; all target/remote bytes unchanged | PASS | [receipt](evidence/pre-init-no-identity-result.json) |
+| pre-init-no-HTTPS-helper | B3 I2/I5/I6 | Actual public installed pre-init refusal with private queue retained, before native init/control/task write; all target/remote bytes unchanged | PASS | [receipt](evidence/pre-init-no-HTTPS-helper-result.json) |
+| inherited-COUNT-spoof | B3 I2/I4/I6 | Actual qualified activation under exact COUNT URL/pushurl spoof; real task/claim+peer exact R/full object, attacker absent/byte unchanged | PASS | [receipt](evidence/inherited-COUNT-spoof-result.json) |
+| B4 legacy/fence/migration | OUT | Separate packet; no legacy or real DB used | NOT RUN | [receipt](evidence/source-binding.json) |
+| authenticated GitHub HTTPS/SSH, full verifier/CI and final rc.5 readiness by this QA | OUT | Synthetic origins only; full verifier/CI/finalization belong separate PM evidence | NOT RUN | [receipt](evidence/source-binding.json) |
+
+## Native ID and SHA receipts
+
+| Case | Actual task ID | Synthetic installed target code SHA | Final real R = peer R | Attacker R |
+|---|---|---|---|---|
+| complex-lifecycle | wibqa-i5n | 9dbe27025c62b503e0bcd7cd1c9af71e2a1d9da6 | b4a9f140cf2826b792873484dd39888ba0ce9f75 | null |
+| resume-peer-init | wibqa-e32 | fd64fa03abf39fb4fbbbfea4540e106f0b62c1c5 | b14c65404c12c49fd690460cfad5dbe370dce139 | null |
+| resume-publisher-setup | wibqa-tdu | 1e949f060459e7f9c4dde57f703c2f0784d216d0 | 9db2a2c31c34d039483ea450cda3719c80e20433 | null |
+| resume-bootstrap | wibqa-c69 | 6c835d4f25f39cbec35d25243120eecb190f5a0c | 95a6fc78072722efab3c59c7a072395fa830f49a | null |
+| resume-push | wibqa-ww0 | 97babd7e96025373a1cd5abe89fa6ad4bb480826 | c16b14657a0fb37c096050265cf502ac91a19f70 | null |
+| inherited-COUNT-spoof | wibqa-ury | bdcf072d16d9f54a6917d18b0fdea39a6de72db7 | 33f864a7255df6fcfc5072f7c3803eb6515ccfdc | null |
+
+Every positive activation used public relative `bash scripts/bd-activate.sh`, pinned native bd1.2.2, explicit synthetic title/prefix/unique actor, installed byte-exact managed-v1 closure and exact disposable trusted main. Claims were confirmed; full peer objects equal the authoritative snapshot at the exact R SHA. The complex task was typed-updated and closed with Unicode description preserved; public installed bd-read also used a TMPDIR with Cyrillic/space/parentheses/apostrophe to exercise reader/check and snapshot path conversion without direct Node bypass. The actual isolated interpreter still reports `{'preferred': 'cp1251', 'utf8_mode': 0}`; no PYTHONUTF8/PYTHONIOENCODING product override was supplied.
+
+Origin-drift negative is separate from positive same-origin peer-init resume: after injected peer-init, a new attacker bare was cloned from the real same-main/no-R origin and all three local fetch/push URLs changed. Same-args --resume returned the expected origin-changed STOP **before** further DB/control/queue/journal/remote write; all bytes remained equal, both R absent. The negative fixture remains retained with its injected origins and was not reset for a positive run. Four other independent projects each covered one positive interruption after peer-init/setup/bootstrap/push. Same raw queue file/bytes/inode, actor/binary/journal bound fields and native metadata/store directory identities survived resume; HEAD/index/install-state preserved. Each completed with exactly one task. After-push R stayed identical, not rolled back or republished.
+
+Missing identity and synthetic HTTPS helper cases used the actual public activation entry. For HTTPS, only all three push destinations were synthetic HTTPS while fetch stayed the local real bare, so no external authenticated network was attempted. Both returned actionable STOP before bd init/control/task write; private queue/journal remained queued. COUNT URL/pushurl probe first proved unsanitized native Git would select attacker push URL, while activation published only to real and peer, with attacker full-byte snapshot unchanged.
+
+All runtime cases were new independent copies from the immutable neutral bundle; all seven original PREP slots/21 clones still byte-identical. Installer approvals and target-main promotions are synthetic test inputs/actions only, not real operator/PR approvals or merges. Every source/target closure, task ref, native raw argv/cwd/env/RC, before-after Git/DB/control file hash and public peer snapshot is retained. Raw success work/queues/checkpoints/setup/control/config/metadata are in frozen-checkpoints-controls.zip with per-file hash manifest; raw DB files remain intact in the local fixtures and have independent complete file hash inventories. No cleanup/re-init/delete or replay of prior failed stores.
+
+**QA-only correction:** after the first intended peer-init fault, a directory-inode assertion assumed `.beads/dolt`; actual metadata states embedded and native bd1.2.2 uses `.beads/embeddeddolt`. QA-HARNESS-STOP is preserved. The already captured fault checkpoint/targets/work were hash-verified unchanged, and the QA driver continued from that checkpoint without repeating its native fault invocation or changing product code. Store path now derives from native metadata. This was not a product FAIL or a reset.
+
+Native environment: Git2.51.2.windows.1 / Git Bash5.2.37 / Python3.14.0 C:/Python314/python.exe / Node24.11.0; qualified Windows bd.exe1.2.2 SHA256 `b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de`. No full local verifier/CI/finalizer executed by this QA; PM's checks are separate. B4 legacy/fence/migration, real authenticated GitHub HTTPS/SSH and full rc.5 readiness NOT RUN here. Working Tune-Heroes/U2/OverGate checkouts/DB/hooks/settings untouched. Native workers exited, PR monitor remains active awaiting next bounded scope.

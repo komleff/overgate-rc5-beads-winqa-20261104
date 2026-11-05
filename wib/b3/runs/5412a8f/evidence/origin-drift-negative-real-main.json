@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "HEAD:refs/heads/main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\origin-drift-negative\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.241,
+  "stdout": "",
+  "stderr": "To D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/origin-drift-negative/real.git\n   cd3dac9..73b2e49  HEAD -> main\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "67680cdb29a7b6fef5e26fc7ea656a7b20c62a935d0bc44afba1f4698f302724"
+}

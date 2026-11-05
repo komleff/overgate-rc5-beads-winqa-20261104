@@ -1,0 +1,30 @@
+{
+  "files": {
+    "activation-checkpoint.json": {
+      "sha256": "9a43a89bdb8771f709563df5b54fd25440043bf939aecf7df61e104856356bd2",
+      "bytes": 817,
+      "mode": 438
+    },
+    "raw-intents.jsonl": {
+      "sha256": "14288668d5be6ddcebad4b24a18950ae1350771a5fdff55459d3e4182b01640c",
+      "bytes": 200,
+      "mode": 438
+    }
+  },
+  "journal": {
+    "bound": {
+      "actor": "agent-c7998629-e412-4245-b2f1-9650498ed886",
+      "binary": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+      "head": "1761ab08238d005c6d4d64d3ea5c5f61ee4fd7a3",
+      "origin_sha256": "061c88a767e53a36ec3d479f4e90ff0d7b3b46e87023d686274a1551651a2422",
+      "peer": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\pre-init-no-identity\\peer",
+      "prefix": "wibqa",
+      "primary": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\pre-init-no-identity\\primary",
+      "publisher": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\pre-init-no-identity\\publisher",
+      "raw_sha256": "14288668d5be6ddcebad4b24a18950ae1350771a5fdff55459d3e4182b01640c",
+      "title": "Windows B3 pre-init-no-identity synthetic task"
+    },
+    "stage": "queued",
+    "version": 1
+  }
+}

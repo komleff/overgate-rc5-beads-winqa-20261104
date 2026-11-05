@@ -1,0 +1,24 @@
+{
+  "argv": [
+    "git",
+    "remote",
+    "get-url",
+    "--push",
+    "origin"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\inherited-COUNT-spoof\\primary",
+  "env_overrides": {
+    "GIT_CONFIG_COUNT": "2",
+    "GIT_CONFIG_KEY_0": "remote.origin.url",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/inherited-COUNT-spoof/attacker.git",
+    "GIT_CONFIG_KEY_1": "remote.origin.pushurl",
+    "GIT_CONFIG_VALUE_1": "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/inherited-COUNT-spoof/attacker.git"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/inherited-COUNT-spoof/attacker.git\n",
+  "stderr": "",
+  "stdout_sha256": "d7410c9b1fd415cd1a5113ee893ada07c39a30ebee6a1f2ab4585cdda874756e",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

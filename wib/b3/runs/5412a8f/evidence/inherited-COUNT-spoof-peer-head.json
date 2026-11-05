@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "HEAD"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\inherited-COUNT-spoof\\peer",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.02,
+  "stdout": "bdcf072d16d9f54a6917d18b0fdea39a6de72db7\n",
+  "stderr": "",
+  "stdout_sha256": "24bb25b8632390326d45a09bdce0642163191afb70d37e3e1e5a2048d5db3a26",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

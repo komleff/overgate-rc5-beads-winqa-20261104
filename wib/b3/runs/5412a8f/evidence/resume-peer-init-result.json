@@ -1,0 +1,22 @@
+{
+  "source": "5412a8f25fe94f2e6c313357e556717469514f14",
+  "target": "fd64fa03abf39fb4fbbbfea4540e106f0b62c1c5",
+  "fault": "after-peer-init",
+  "initial_stage": "peer-init",
+  "completed_stage": "complete",
+  "id": "wibqa-e32",
+  "actor": "agent-8f90704f-9fc7-48b6-af0b-a4b9eb86fb7b",
+  "claim_confirmed": true,
+  "published_sha": "b14c65404c12c49fd690460cfad5dbe370dce139",
+  "peer_sha": "b14c65404c12c49fd690460cfad5dbe370dce139",
+  "attacker_R": null,
+  "raw_queue_preserved": true,
+  "raw_queue_sha256": "00417ec4f754b2ae2ac0f133d11d6cfc9aa0b7bf03417c22e6402696bdaf52ce",
+  "raw_queue_inode_preserved": true,
+  "prepared_queue_preserved": false,
+  "metadata_and_store_directory_inode_preserved": true,
+  "same_bound_journal_actor_binary": true,
+  "HEAD_index_install_state_preserved": true,
+  "task_records": 1,
+  "postpush_R_unchanged": false
+}

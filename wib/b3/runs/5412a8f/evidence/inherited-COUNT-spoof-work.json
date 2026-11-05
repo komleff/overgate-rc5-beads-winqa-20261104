@@ -1,0 +1,192 @@
+{
+  "files": {
+    "activation-checkpoint.json": {
+      "sha256": "d2cbc7f9dca8e7f538dc35f11c0f8d390ccff25dca3cd9ff27c90a47b209824b",
+      "bytes": 4181,
+      "mode": 438
+    },
+    "peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "prepared.v2.jsonl": {
+      "sha256": "0f15b9cb04480d507b2e8cda3c652310f15bd696d068677d5005e8cbffed0cf1",
+      "bytes": 623,
+      "mode": 438
+    },
+    "primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "published.json": {
+      "sha256": "2aa134c01fc81a13bfe5d4abdff3f8e9f68aafe724bc42f60449b07dc6c69832",
+      "bytes": 81,
+      "mode": 438
+    },
+    "publisher-setup.json": {
+      "sha256": "39d6a0f416bd8cc3f6a271e3195b87f35878c8b2233c6753844868827c8153b1",
+      "bytes": 11451,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/managed/guard-config.json": {
+      "sha256": "cbc4147cc16d5199c59b89a34c2bc13c45ef2b8666aaa64534794c54d3608336",
+      "bytes": 2006,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/managed/pre-push": {
+      "sha256": "3b2d1c1be0c06cbfc2c99d466a540da73471493c679000b4f8a96436b62a87a1",
+      "bytes": 739,
+      "mode": 438
+    },
+    "publisher-setup.json.artifacts/retired/guard-config.json": {
+      "sha256": "336f000de156bdc0326cb197d82f7301209af76296f094c921aa20b5a0fd3bc2",
+      "bytes": 2004,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/retired/pre-push": {
+      "sha256": "90a0e805482f01cfee28ed1a152e435d265448c058d50584648106ac3d1f6fc3",
+      "bytes": 733,
+      "mode": 438
+    },
+    "publisher-setup.json.artifacts/runtime/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "raw-intents.jsonl": {
+      "sha256": "bda0a150b13b4f04f47762743994d0ceff165ad08dc83c557dd8b229cb5e2d72",
+      "bytes": 201,
+      "mode": 438
+    }
+  },
+  "journal": {
+    "binary_sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+    "bound": {
+      "actor": "agent-91cb22a8-9531-428e-81f6-1f3ea0282885",
+      "binary": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+      "head": "bdcf072d16d9f54a6917d18b0fdea39a6de72db7",
+      "origin_sha256": "be0430379e8fba800d6d61bd935f6f7f759c6d957535d680f20552783999b4b4",
+      "peer": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\inherited-COUNT-spoof\\peer",
+      "prefix": "wibqa",
+      "primary": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\inherited-COUNT-spoof\\primary",
+      "publisher": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\inherited-COUNT-spoof\\publisher",
+      "raw_sha256": "bda0a150b13b4f04f47762743994d0ceff165ad08dc83c557dd8b229cb5e2d72",
+      "title": "Windows B3 inherited-COUNT-spoof synthetic task"
+    },
+    "completed": {
+      "binary_sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+      "claim_confirmed": true,
+      "id": "wibqa-ury",
+      "peer_init": {
+        "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+        "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+        "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+        "head": "bdcf072d16d9f54a6917d18b0fdea39a6de72db7",
+        "index_sha256": "05966f97f0a6da5ecad89990022fc9566ad70e523d36824a6946f2ef6ab161da",
+        "metadata_sha256": "268bf1918b88df980efea4fd0e8730d568947b7d7651fa1670f2f81f5b27d941"
+      },
+      "peer_sha": "33f864a7255df6fcfc5072f7c3803eb6515ccfdc",
+      "primary_init": {
+        "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+        "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+        "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+        "head": "bdcf072d16d9f54a6917d18b0fdea39a6de72db7",
+        "index_sha256": "c02c751958ef049a9fd937dd51d17ad5f97c72ca9a69c4a30986527434d02ab3",
+        "metadata_sha256": "5cb5ec0e5e776cb62144586fc529d13a66524e2e46daf8a6742e539ab015fb08"
+      },
+      "published_sha": "33f864a7255df6fcfc5072f7c3803eb6515ccfdc",
+      "queue_sha256": "bda0a150b13b4f04f47762743994d0ceff165ad08dc83c557dd8b229cb5e2d72",
+      "status": "activated"
+    },
+    "peer_init": {
+      "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "head": "bdcf072d16d9f54a6917d18b0fdea39a6de72db7",
+      "index_sha256": "05966f97f0a6da5ecad89990022fc9566ad70e523d36824a6946f2ef6ab161da",
+      "metadata_sha256": "268bf1918b88df980efea4fd0e8730d568947b7d7651fa1670f2f81f5b27d941"
+    },
+    "prepared_sha256": "0f15b9cb04480d507b2e8cda3c652310f15bd696d068677d5005e8cbffed0cf1",
+    "primary_init": {
+      "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "head": "bdcf072d16d9f54a6917d18b0fdea39a6de72db7",
+      "index_sha256": "c02c751958ef049a9fd937dd51d17ad5f97c72ca9a69c4a30986527434d02ab3",
+      "metadata_sha256": "5cb5ec0e5e776cb62144586fc529d13a66524e2e46daf8a6742e539ab015fb08"
+    },
+    "published": {
+      "claims": [
+        {
+          "actor": "agent-91cb22a8-9531-428e-81f6-1f3ea0282885",
+          "assignee": "agent-91cb22a8-9531-428e-81f6-1f3ea0282885",
+          "confirmed": true,
+          "id": "wibqa-ury",
+          "status": "in_progress"
+        }
+      ],
+      "mutations": 2,
+      "outcomes": [
+        {
+          "intent_id": "activation-create",
+          "payload_hash": "1e0560bd346e54c3c8771c59ccd29dd0baf5266cd82d095c4824b21da03139af",
+          "result": {
+            "handles": {
+              "tmp:first-task": "wibqa-ury"
+            },
+            "ref": "wibqa-ury"
+          }
+        },
+        {
+          "intent_id": "activation-claim",
+          "payload_hash": "97beb97b22a786e21826fa4e1f2e2fd4f06d64dd7159d9985e2095851b1cb301",
+          "result": {
+            "ref": "wibqa-ury"
+          }
+        }
+      ],
+      "published_sha": "33f864a7255df6fcfc5072f7c3803eb6515ccfdc",
+      "queue_hash": "178c1d9d8f5a28ec1cb0e95b891b6a17196624890541bcdf8723e0fd05ba7574",
+      "status": "published"
+    },
+    "stage": "complete",
+    "version": 1
+  }
+}

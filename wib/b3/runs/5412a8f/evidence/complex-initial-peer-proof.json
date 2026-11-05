@@ -1,0 +1,27 @@
+{
+  "id": "wibqa-i5n",
+  "real_R": "5ecc25d571042200a3ef5ad409bfe4accd379210",
+  "peer_R": "5ecc25d571042200a3ef5ad409bfe4accd379210",
+  "attacker_R": null,
+  "full_object_equal": true,
+  "peer_native_DB_bytes_unchanged": true,
+  "temporary_snapshot_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\reader-temp\\Кэш's (QA) space",
+  "object": {
+    "_type": "issue",
+    "id": "wibqa-i5n",
+    "title": "Windows B3 complex-path synthetic actual task",
+    "status": "in_progress",
+    "priority": 2,
+    "issue_type": "task",
+    "assignee": "agent-5bc90b90-5cfd-4243-baa7-bbcefb50157e",
+    "created_at": "2026-11-05T03:50:10Z",
+    "created_by": "agent-5bc90b90-5cfd-4243-baa7-bbcefb50157e",
+    "updated_at": "2026-11-05T03:50:10Z",
+    "started_at": "2026-11-05T03:50:10Z",
+    "external_ref": "intent:activation-create",
+    "dependency_count": 0,
+    "dependent_count": 0,
+    "comment_count": 0
+  },
+  "issue_records": 1
+}

@@ -1,0 +1,23 @@
+{
+  "status": "published",
+  "published_sha": "b4a9f140cf2826b792873484dd39888ba0ce9f75",
+  "queue_hash": "114fc6a9da8e905f1914d90f37edefc40d6e132abe50207287eb7313f8df39ae",
+  "mutations": 2,
+  "outcomes": [
+    {
+      "intent_id": "qa-win-update",
+      "payload_hash": "94dead7f130ab1e88e2a1bd770f3a96567e395a859b0e3a72679d6aded1c772e",
+      "result": {
+        "ref": "wibqa-i5n"
+      }
+    },
+    {
+      "intent_id": "qa-win-close",
+      "payload_hash": "8c84ff5c0ab8048150a56e6c30392362c453417f5037c7c7d3810338a9c14338",
+      "result": {
+        "ref": "wibqa-i5n"
+      }
+    }
+  ],
+  "claims": []
+}

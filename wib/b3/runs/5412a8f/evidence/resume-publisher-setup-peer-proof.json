@@ -1,0 +1,27 @@
+{
+  "id": "wibqa-tdu",
+  "real_R": "9db2a2c31c34d039483ea450cda3719c80e20433",
+  "peer_R": "9db2a2c31c34d039483ea450cda3719c80e20433",
+  "attacker_R": null,
+  "full_object_equal": true,
+  "peer_native_DB_bytes_unchanged": true,
+  "temporary_snapshot_dir": null,
+  "object": {
+    "_type": "issue",
+    "id": "wibqa-tdu",
+    "title": "Windows B3 resume-publisher-setup synthetic task",
+    "status": "in_progress",
+    "priority": 2,
+    "issue_type": "task",
+    "assignee": "agent-047e5e30-df8f-4ffc-b4ba-a26642292850",
+    "created_at": "2026-11-05T03:59:40Z",
+    "created_by": "agent-047e5e30-df8f-4ffc-b4ba-a26642292850",
+    "updated_at": "2026-11-05T03:59:40Z",
+    "started_at": "2026-11-05T03:59:40Z",
+    "external_ref": "intent:activation-create",
+    "dependency_count": 0,
+    "dependent_count": 0,
+    "comment_count": 0
+  },
+  "issue_records": 1
+}

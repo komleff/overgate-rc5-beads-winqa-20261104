@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "for-each-ref",
+    "--format=%(refname) %(objectname)"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\inherited-COUNT-spoof\\attacker.git",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "refs/heads/main bdcf072d16d9f54a6917d18b0fdea39a6de72db7\n",
+  "stderr": "",
+  "stdout_sha256": "120d5e8b20cd098bfdfc52e2b0cf2dffac5b74f96538b5775cb0465cbf33d6f6",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "5412a8f25fe94f2e6c313357e556717469514f14:scripts/tests/bd-node-path.test.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "c5d17a501f440398738ce40d41c14510fd09d402\n",
+  "stderr": "",
+  "stdout_sha256": "8e5a3e130b9928b4360daac95a87d07f937661eae4b094f1ac3fc32e67fc098f",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

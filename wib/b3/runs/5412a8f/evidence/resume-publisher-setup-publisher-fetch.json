@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "fetch",
+    "origin",
+    "main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-publisher-setup\\publisher",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.132,
+  "stdout": "",
+  "stderr": "From D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/resume-publisher-setup/real\n * branch            main       -> FETCH_HEAD\n   cd3dac9..1e949f0  main       -> origin/main\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "a8e8a446085f0216d8e3d43e1f1860af85448dd5e1c486d8c4c26c8cc3983091"
+}

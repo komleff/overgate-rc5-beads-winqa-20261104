@@ -1,0 +1,15 @@
+{
+  "role": "Windows QA",
+  "model": "Codex GPT-6",
+  "time_utc": "2026-11-05T04:06:20.127350+00:00",
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+  "native_bd_sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+  "qualified_native_version": "1.2.2",
+  "public_entry": "bash scripts/bd-activate.sh",
+  "no_product_UTF8_env_override": true,
+  "isolated_python_locale": {
+    "preferred": "cp1251",
+    "utf8_mode": 0
+  }
+}

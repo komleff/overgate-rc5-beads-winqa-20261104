@@ -1,0 +1,30 @@
+{
+  "files": {
+    "activation-checkpoint.json": {
+      "sha256": "55966f374e82f12bc434e1fff08f59a4907df293a9c5f7351ea7fda59f2f0478",
+      "bytes": 833,
+      "mode": 438
+    },
+    "raw-intents.jsonl": {
+      "sha256": "8c1ecbfc34c80350af33752f195ead79719328283ccb0c390dfb8c343f7759e0",
+      "bytes": 204,
+      "mode": 438
+    }
+  },
+  "journal": {
+    "bound": {
+      "actor": "agent-a8a5de0f-63c9-4581-a171-a493aaec43d4",
+      "binary": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+      "head": "9cfc54db871539e2bab01aff51d46221fb571a98",
+      "origin_sha256": "faa8348837c31b11af9a8e8cda48f1256ff7a38bd73ab8dc2b51abeb44d6dfaa",
+      "peer": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\pre-init-no-HTTPS-helper\\peer",
+      "prefix": "wibqa",
+      "primary": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\pre-init-no-HTTPS-helper\\primary",
+      "publisher": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\pre-init-no-HTTPS-helper\\publisher",
+      "raw_sha256": "8c1ecbfc34c80350af33752f195ead79719328283ccb0c390dfb8c343f7759e0",
+      "title": "Windows B3 pre-init-no-HTTPS-helper synthetic task"
+    },
+    "stage": "queued",
+    "version": 1
+  }
+}

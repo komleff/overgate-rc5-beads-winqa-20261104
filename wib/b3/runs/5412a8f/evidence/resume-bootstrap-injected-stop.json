@@ -1,0 +1,31 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-activate.sh",
+    "--publisher-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/resume-bootstrap/publisher",
+    "--peer-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/resume-bootstrap/peer",
+    "--bd-bin",
+    "D:/CodexArtifacts/overgate-rc4-winqa-20261103/tools/bd.exe",
+    "--prefix",
+    "wibqa",
+    "--actor",
+    "agent-ec0e2312-c10d-4027-bcc8-635475bf497b",
+    "--title",
+    "Windows B3 resume-bootstrap synthetic task",
+    "--work-dir",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/activation-work/resume-bootstrap"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-bootstrap\\primary",
+  "env_overrides": {
+    "OVERGATE_BD_ACTIVATE_TEST_FAIL_AT": "after-bootstrap"
+  },
+  "exit_code": 1,
+  "expected": null,
+  "seconds": 10.366,
+  "stdout": "",
+  "stderr": "STOP: injected activation stop after after-bootstrap; queue/base/actor retained: {\"actor\": \"agent-ec0e2312-c10d-4027-bcc8-635475bf497b\", \"base\": \"0000000000000000000000000000000000000000\", \"queue\": \"D:\\\\CodexArtifacts\\\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\\\activation-work\\\\resume-bootstrap\\\\raw-intents.jsonl\", \"queue_sha256\": \"ac0b47eaba39791dc09708e2c7815a246e11c1fefcc870a427b3c617ceb3a8ec\"}\r\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "af639cfae2c7951652c9416784450ca51cb8fa0730801e3d48ec8b3109841192"
+}

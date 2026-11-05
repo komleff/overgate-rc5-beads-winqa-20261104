@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "HEAD"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-bootstrap\\publisher",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "6c835d4f25f39cbec35d25243120eecb190f5a0c\n",
+  "stderr": "",
+  "stdout_sha256": "881a761d8ecb6c9adf447214ad212da4d55d29675fbc1fea5e7949591006e182",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,22 @@
+{
+  "source": "5412a8f25fe94f2e6c313357e556717469514f14",
+  "target": "1e949f060459e7f9c4dde57f703c2f0784d216d0",
+  "fault": "after-setup",
+  "initial_stage": "setup",
+  "completed_stage": "complete",
+  "id": "wibqa-tdu",
+  "actor": "agent-047e5e30-df8f-4ffc-b4ba-a26642292850",
+  "claim_confirmed": true,
+  "published_sha": "9db2a2c31c34d039483ea450cda3719c80e20433",
+  "peer_sha": "9db2a2c31c34d039483ea450cda3719c80e20433",
+  "attacker_R": null,
+  "raw_queue_preserved": true,
+  "raw_queue_sha256": "f593799d380a90d9ca4f31e9a6ff33c2866cd7d6e342cd68b5989e7df891808c",
+  "raw_queue_inode_preserved": true,
+  "prepared_queue_preserved": false,
+  "metadata_and_store_directory_inode_preserved": true,
+  "same_bound_journal_actor_binary": true,
+  "HEAD_index_install_state_preserved": true,
+  "task_records": 1,
+  "postpush_R_unchanged": false
+}

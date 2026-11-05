@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "HEAD:refs/heads/main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\inherited-COUNT-spoof\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.234,
+  "stdout": "",
+  "stderr": "To D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/inherited-COUNT-spoof/real.git\n   cd3dac9..bdcf072  HEAD -> main\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "6ec76fb9cde04d70d7d8e271e1e7c6aadb640bfbf408c05a1cc83a7e3ed51a15"
+}

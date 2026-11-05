@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "refs/heads/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\Проект's (QA) space\\real.git",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.032,
+  "stdout": "5ecc25d571042200a3ef5ad409bfe4accd379210\n",
+  "stderr": "",
+  "stdout_sha256": "19890f349ec19f27228269840cd3cd09f26ffa611f96c0e0ba797c4635cd78c3",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

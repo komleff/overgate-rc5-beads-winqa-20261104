@@ -1,0 +1,6 @@
+{
+  "issue": "QA assumed .beads/dolt but real embedded store is .beads/embeddeddolt per metadata",
+  "candidate_source_changed": false,
+  "native_fault_repeated": false,
+  "next": "continue at captured after-peer-init checkpoint after exact hash verification"
+}

@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "config",
+    "--local",
+    "--get-regexp",
+    "^remote\\.origin\\.(url|pushurl)$"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\origin-drift-negative\\peer",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "remote.origin.url D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/origin-drift-negative/drift-attacker.git\nremote.origin.pushurl D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/origin-drift-negative/drift-attacker.git\n",
+  "stderr": "",
+  "stdout_sha256": "e79b79f5cc90b18881cb67002fde512d1b46c25eb860f27d1a8afe66a5b09936",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "-I",
+    "-B",
+    "-c",
+    "import locale,sys,json;print(json.dumps(dict(preferred=locale.getpreferredencoding(False),utf8_mode=sys.flags.utf8_mode)))"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.039,
+  "stdout": "{\"preferred\": \"cp1251\", \"utf8_mode\": 0}\r\n",
+  "stderr": "",
+  "stdout_sha256": "cd5043432c0c8cbc03db51aa965b002594daa20ad985b574907c43dd36c790b1",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

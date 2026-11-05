@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "5412a8f25fe94f2e6c313357e556717469514f14:scripts/tests/with-timeout-transparency.test.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.023,
+  "stdout": "10bfd81654f77425893b0e1175085f20a3763a57\n",
+  "stderr": "",
+  "stdout_sha256": "21f36267798bf81823f2c0bcdc49d472382c29a1a3dee9ded92a54c0f17ccbca",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

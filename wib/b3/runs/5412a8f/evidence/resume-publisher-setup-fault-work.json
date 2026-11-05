@@ -1,0 +1,122 @@
+{
+  "files": {
+    "activation-checkpoint.json": {
+      "sha256": "c7089034aa9db0edd554011b077c7144efb434680eecd29594212801a6305fc8",
+      "bytes": 1944,
+      "mode": 438
+    },
+    "peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "publisher-setup.json": {
+      "sha256": "88efbdcb07c6b3bdc9589f65a89384ef5afe0379de123ce3451cf1918869e394",
+      "bytes": 11486,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/managed/guard-config.json": {
+      "sha256": "eeb063bef5e186a5ce2f4592396e14b44db07fdc79f460238c40d5c9847f9ae2",
+      "bytes": 2008,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/managed/pre-push": {
+      "sha256": "0029c217627cf840218b40a2eaab5acdf4eafc9e360bf80c1be8b6c5fa03316a",
+      "bytes": 742,
+      "mode": 438
+    },
+    "publisher-setup.json.artifacts/retired/guard-config.json": {
+      "sha256": "e9ed214790102d79d7e3f7dbd44322a754094337eb7fcd6bf55b1b94849cdc1f",
+      "bytes": 2006,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/retired/pre-push": {
+      "sha256": "fe2cbeea6b0f6a1006fc47139e4e89740b133ca1fcf0b946b54d047c68386446",
+      "bytes": 736,
+      "mode": 438
+    },
+    "publisher-setup.json.artifacts/runtime/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "raw-intents.jsonl": {
+      "sha256": "f593799d380a90d9ca4f31e9a6ff33c2866cd7d6e342cd68b5989e7df891808c",
+      "bytes": 202,
+      "mode": 438
+    }
+  },
+  "journal": {
+    "binary_sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+    "bound": {
+      "actor": "agent-047e5e30-df8f-4ffc-b4ba-a26642292850",
+      "binary": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+      "head": "1e949f060459e7f9c4dde57f703c2f0784d216d0",
+      "origin_sha256": "0623cd77f1a78d6931ec04763ef4968b0529a23d14c82949b91608d4c5d72826",
+      "peer": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-publisher-setup\\peer",
+      "prefix": "wibqa",
+      "primary": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-publisher-setup\\primary",
+      "publisher": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-publisher-setup\\publisher",
+      "raw_sha256": "f593799d380a90d9ca4f31e9a6ff33c2866cd7d6e342cd68b5989e7df891808c",
+      "title": "Windows B3 resume-publisher-setup synthetic task"
+    },
+    "peer_init": {
+      "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "head": "1e949f060459e7f9c4dde57f703c2f0784d216d0",
+      "index_sha256": "f97955c3b3719599f09129cf2eec15a388d06530941619e2b16279f86cd3e586",
+      "metadata_sha256": "7421a5f75a88aeef6fa4ebbcf3dfe5bb268ce005ce33ef66c6a9a34613dfac54"
+    },
+    "primary_init": {
+      "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "head": "1e949f060459e7f9c4dde57f703c2f0784d216d0",
+      "index_sha256": "499b000a46aadacac231e134cea987a3c5b54683d83679f53fe0dbab6685984d",
+      "metadata_sha256": "2b2227491c3e0c347fe0c1e228301bfe371831fae98718a4aa490f217e16130f"
+    },
+    "stage": "setup",
+    "version": 1
+  }
+}

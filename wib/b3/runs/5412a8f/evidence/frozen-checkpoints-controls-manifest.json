@@ -1,0 +1,2253 @@
+{
+  "zip_sha256": "611f77a7a5377da9bfd7c2574834bede37048a2eac1d8e1c080e8f809f12f9db",
+  "zip_bytes": 961072,
+  "files": {
+    "activation-work/complex/activation-checkpoint.json": {
+      "sha256": "283481f839e85d769b849e185c8746bb9dd26a02190f68b9dc364d98bb59f617",
+      "bytes": 4263,
+      "mode": 438
+    },
+    "activation-work/complex/peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/complex/prepared.v2.jsonl": {
+      "sha256": "c18c5c63c3fa2672a440cf25f3ad2c9bb3cc7cfa355d7d0ff03d413bd4949582",
+      "bytes": 621,
+      "mode": 438
+    },
+    "activation-work/complex/primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/complex/published.json": {
+      "sha256": "42cc3854b220d4a407fe53093727f3378afef6fb2f4f910998bfbebd2c3337e8",
+      "bytes": 81,
+      "mode": 438
+    },
+    "activation-work/complex/publisher-setup.json": {
+      "sha256": "079f14dc4f5aea829b3d5d1534ef9fe55948daf941fc6f35936f42f665d56fed",
+      "bytes": 11339,
+      "mode": 292
+    },
+    "activation-work/complex/qa-lifecycle.raw.jsonl": {
+      "sha256": "95a3d6493375f7768b298218ebb4e74a41ff4e0d2c287e79923b7413711a23df",
+      "bytes": 251,
+      "mode": 438
+    },
+    "activation-work/complex/qa-lifecycle.v2.jsonl": {
+      "sha256": "802c4f4135e458788a280fd567a75fd5baaa31f258b2de638b2f5cfef9cfec06",
+      "bytes": 922,
+      "mode": 438
+    },
+    "activation-work/complex/raw-intents.jsonl": {
+      "sha256": "24098b839c9bc0335ff4435f21eeae137fad9588ce7e559e3838fc1b842ba0a0",
+      "bytes": 199,
+      "mode": 438
+    },
+    "activation-work/inherited-COUNT-spoof/activation-checkpoint.json": {
+      "sha256": "d2cbc7f9dca8e7f538dc35f11c0f8d390ccff25dca3cd9ff27c90a47b209824b",
+      "bytes": 4181,
+      "mode": 438
+    },
+    "activation-work/inherited-COUNT-spoof/peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/inherited-COUNT-spoof/prepared.v2.jsonl": {
+      "sha256": "0f15b9cb04480d507b2e8cda3c652310f15bd696d068677d5005e8cbffed0cf1",
+      "bytes": 623,
+      "mode": 438
+    },
+    "activation-work/inherited-COUNT-spoof/primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/inherited-COUNT-spoof/published.json": {
+      "sha256": "2aa134c01fc81a13bfe5d4abdff3f8e9f68aafe724bc42f60449b07dc6c69832",
+      "bytes": 81,
+      "mode": 438
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json": {
+      "sha256": "39d6a0f416bd8cc3f6a271e3195b87f35878c8b2233c6753844868827c8153b1",
+      "bytes": 11451,
+      "mode": 292
+    },
+    "activation-work/inherited-COUNT-spoof/raw-intents.jsonl": {
+      "sha256": "bda0a150b13b4f04f47762743994d0ceff165ad08dc83c557dd8b229cb5e2d72",
+      "bytes": 201,
+      "mode": 438
+    },
+    "activation-work/origin-drift-negative/activation-checkpoint.json": {
+      "sha256": "ad833e7ff177a8487e55bd1a686e9cc2789e423534d41846ea63a3f29d5fa1f3",
+      "bytes": 1944,
+      "mode": 438
+    },
+    "activation-work/origin-drift-negative/peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/origin-drift-negative/primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/origin-drift-negative/raw-intents.jsonl": {
+      "sha256": "4db3670f9cb9176a612fc02fbfa4edd554bbac309d1e11fa633df78e39ffdba5",
+      "bytes": 201,
+      "mode": 438
+    },
+    "activation-work/pre-init-no-HTTPS-helper/activation-checkpoint.json": {
+      "sha256": "55966f374e82f12bc434e1fff08f59a4907df293a9c5f7351ea7fda59f2f0478",
+      "bytes": 833,
+      "mode": 438
+    },
+    "activation-work/pre-init-no-HTTPS-helper/raw-intents.jsonl": {
+      "sha256": "8c1ecbfc34c80350af33752f195ead79719328283ccb0c390dfb8c343f7759e0",
+      "bytes": 204,
+      "mode": 438
+    },
+    "activation-work/pre-init-no-identity/activation-checkpoint.json": {
+      "sha256": "9a43a89bdb8771f709563df5b54fd25440043bf939aecf7df61e104856356bd2",
+      "bytes": 817,
+      "mode": 438
+    },
+    "activation-work/pre-init-no-identity/raw-intents.jsonl": {
+      "sha256": "14288668d5be6ddcebad4b24a18950ae1350771a5fdff55459d3e4182b01640c",
+      "bytes": 200,
+      "mode": 438
+    },
+    "activation-work/resume-bootstrap/activation-checkpoint.json": {
+      "sha256": "e8922a700840c3aca1e38f0726c7b3efe70be81865382dab98c96d485dc75eeb",
+      "bytes": 4161,
+      "mode": 438
+    },
+    "activation-work/resume-bootstrap/peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/resume-bootstrap/prepared.v2.jsonl": {
+      "sha256": "4d3e2062cb18c87f16f694594269fa467296dbb470ea9f4d1e1b86aa2f7cea38",
+      "bytes": 618,
+      "mode": 438
+    },
+    "activation-work/resume-bootstrap/primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/resume-bootstrap/published.json": {
+      "sha256": "39460ba2ed2ae547a239b2c0bb79da0d4f56fb57bbefb61e525e40900938b752",
+      "bytes": 81,
+      "mode": 438
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json": {
+      "sha256": "cb9311b0d99820e7c8bf64b62aab79228251395dc3be12b9fb1187fff10ed016",
+      "bytes": 11276,
+      "mode": 292
+    },
+    "activation-work/resume-bootstrap/raw-intents.jsonl": {
+      "sha256": "ac0b47eaba39791dc09708e2c7815a246e11c1fefcc870a427b3c617ceb3a8ec",
+      "bytes": 196,
+      "mode": 438
+    },
+    "activation-work/resume-peer-init/activation-checkpoint.json": {
+      "sha256": "c6ef6040e7b749bb357096ab8bbc610d4488618e8c2cb72c312331cce5f55cf2",
+      "bytes": 4161,
+      "mode": 438
+    },
+    "activation-work/resume-peer-init/peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/resume-peer-init/prepared.v2.jsonl": {
+      "sha256": "80db7da7784f4e76025aebd55662b6ad7df58f34a926c04ba9c7688bd12c2bbf",
+      "bytes": 618,
+      "mode": 438
+    },
+    "activation-work/resume-peer-init/primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/resume-peer-init/published.json": {
+      "sha256": "13462ecf655b26a76ac53189891173059e8d33d162483cde9483d1b11fbc9365",
+      "bytes": 81,
+      "mode": 438
+    },
+    "activation-work/resume-peer-init/publisher-setup.json": {
+      "sha256": "0f75f46501f4af9178442594ad5e20b1983a2b819544d51f6c6bb2f253bb2441",
+      "bytes": 11276,
+      "mode": 292
+    },
+    "activation-work/resume-peer-init/raw-intents.jsonl": {
+      "sha256": "00417ec4f754b2ae2ac0f133d11d6cfc9aa0b7bf03417c22e6402696bdaf52ce",
+      "bytes": 196,
+      "mode": 438
+    },
+    "activation-work/resume-publisher-setup/activation-checkpoint.json": {
+      "sha256": "09e8bc9b02b4a86458d64f715b5aa12833f74c0ba27fa155e36bd5d6963ddd43",
+      "bytes": 4185,
+      "mode": 438
+    },
+    "activation-work/resume-publisher-setup/peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/resume-publisher-setup/prepared.v2.jsonl": {
+      "sha256": "6a474f52c1dedbf4d6c686867a655f6b1520fc4ab4851e3df4f151569fe8e35c",
+      "bytes": 624,
+      "mode": 438
+    },
+    "activation-work/resume-publisher-setup/primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/resume-publisher-setup/published.json": {
+      "sha256": "2716db3adfb12c5b34d356567540c85c42f56080ccd222fac22a8758ea7c8f0e",
+      "bytes": 81,
+      "mode": 438
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json": {
+      "sha256": "88efbdcb07c6b3bdc9589f65a89384ef5afe0379de123ce3451cf1918869e394",
+      "bytes": 11486,
+      "mode": 292
+    },
+    "activation-work/resume-publisher-setup/raw-intents.jsonl": {
+      "sha256": "f593799d380a90d9ca4f31e9a6ff33c2866cd7d6e342cd68b5989e7df891808c",
+      "bytes": 202,
+      "mode": 438
+    },
+    "activation-work/resume-push/activation-checkpoint.json": {
+      "sha256": "f523b6adae4d3b2d3b798c30933ab5592c9e70e1d23521fca2b0abecb03f82c6",
+      "bytes": 4141,
+      "mode": 438
+    },
+    "activation-work/resume-push/peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/resume-push/prepared.v2.jsonl": {
+      "sha256": "063ab9877e4f2a432574cbef67f8815f7df5465ae8909fb81e991afa441dd2ac",
+      "bytes": 613,
+      "mode": 438
+    },
+    "activation-work/resume-push/primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "activation-work/resume-push/published.json": {
+      "sha256": "e5851311e173d762dae27229af6a648e03f1629106f1ee2055e12ccc58815212",
+      "bytes": 81,
+      "mode": 438
+    },
+    "activation-work/resume-push/publisher-setup.json": {
+      "sha256": "6eb6e7574fcaf31e75ac4058f7ca6b92ef0d67239828a5509f09e9a5fe57f224",
+      "bytes": 11101,
+      "mode": 292
+    },
+    "activation-work/resume-push/raw-intents.jsonl": {
+      "sha256": "99658d4a7dab8ae34ea67c60ffe33f2ca36f3f3ab5453e7a419c049852ce26f0",
+      "bytes": 191,
+      "mode": 438
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/managed/guard-config.json": {
+      "sha256": "ef4966df5ab5aafeef506a31717b07e23eedb13c09edea9ef88870799361a9c5",
+      "bytes": 1986,
+      "mode": 292
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/managed/pre-push": {
+      "sha256": "6e90ebaececb393d0f092a57690c39f7b6825db4647d57e19d376671bc44cb5d",
+      "bytes": 709,
+      "mode": 438
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/retired/guard-config.json": {
+      "sha256": "199f2364ec76e8cbf4f8f3e0a57a9a66ecec34f1ffa0f91de52db9efe8bb0e7e",
+      "bytes": 1984,
+      "mode": 292
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/retired/pre-push": {
+      "sha256": "b72a8455ba52f01e88cf894be798c741962886144aca47e9e58215aa250bc33a",
+      "bytes": 703,
+      "mode": 438
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/runtime/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/runtime/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/runtime/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/runtime/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/runtime/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/runtime/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/runtime/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "activation-work/resume-push/publisher-setup.json.artifacts/runtime/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/managed/guard-config.json": {
+      "sha256": "eeb063bef5e186a5ce2f4592396e14b44db07fdc79f460238c40d5c9847f9ae2",
+      "bytes": 2008,
+      "mode": 292
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/managed/pre-push": {
+      "sha256": "0029c217627cf840218b40a2eaab5acdf4eafc9e360bf80c1be8b6c5fa03316a",
+      "bytes": 742,
+      "mode": 438
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/retired/guard-config.json": {
+      "sha256": "e9ed214790102d79d7e3f7dbd44322a754094337eb7fcd6bf55b1b94849cdc1f",
+      "bytes": 2006,
+      "mode": 292
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/retired/pre-push": {
+      "sha256": "fe2cbeea6b0f6a1006fc47139e4e89740b133ca1fcf0b946b54d047c68386446",
+      "bytes": 736,
+      "mode": 438
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/runtime/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/runtime/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/runtime/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/runtime/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/runtime/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/runtime/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/runtime/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "activation-work/resume-publisher-setup/publisher-setup.json.artifacts/runtime/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/managed/guard-config.json": {
+      "sha256": "9afd5784560368ec65d99e27944e5d9f416c2cb62e162217a0970ca1343227fc",
+      "bytes": 1996,
+      "mode": 292
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/managed/pre-push": {
+      "sha256": "00e31034c8eef8519d46d84ffb68622fe51fa3e6c1cf9003634e56b1cb724499",
+      "bytes": 724,
+      "mode": 438
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/retired/guard-config.json": {
+      "sha256": "bb4057b57e5d380dd8a26ce6b1ea00ff4df5b645df28d09d4c1a36819c0e4cfc",
+      "bytes": 1994,
+      "mode": 292
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/retired/pre-push": {
+      "sha256": "237b807f3c3ae7daeb09aad417c29ba57c0afae0d4b1e724a8e9ac08a632e400",
+      "bytes": 718,
+      "mode": 438
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/runtime/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/runtime/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/runtime/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/runtime/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/runtime/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/runtime/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/runtime/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "activation-work/resume-peer-init/publisher-setup.json.artifacts/runtime/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/managed/guard-config.json": {
+      "sha256": "5c69359dbf5d74d50db4d7147a665da594c51d15a34ef23d8e8fb3ad8b46373f",
+      "bytes": 1996,
+      "mode": 292
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/managed/pre-push": {
+      "sha256": "3a010b1ea001dcb7099746ac9b18f7cef503f7c378c4ec142f2b2edf7227d6a0",
+      "bytes": 724,
+      "mode": 438
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/retired/guard-config.json": {
+      "sha256": "c45b7626b13dcbc85a29a673f31c2255901c0be1abf704373e983637a3c0bc06",
+      "bytes": 1994,
+      "mode": 292
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/retired/pre-push": {
+      "sha256": "eaaa8bd8e6fd6022ead699c12a7d5e512d611f3245cbe6061ce6c6f66d7f7ab1",
+      "bytes": 718,
+      "mode": 438
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/runtime/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/runtime/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/runtime/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/runtime/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/runtime/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/runtime/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/runtime/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "activation-work/resume-bootstrap/publisher-setup.json.artifacts/runtime/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/managed/guard-config.json": {
+      "sha256": "cbc4147cc16d5199c59b89a34c2bc13c45ef2b8666aaa64534794c54d3608336",
+      "bytes": 2006,
+      "mode": 292
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/managed/pre-push": {
+      "sha256": "3b2d1c1be0c06cbfc2c99d466a540da73471493c679000b4f8a96436b62a87a1",
+      "bytes": 739,
+      "mode": 438
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/retired/guard-config.json": {
+      "sha256": "336f000de156bdc0326cb197d82f7301209af76296f094c921aa20b5a0fd3bc2",
+      "bytes": 2004,
+      "mode": 292
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/retired/pre-push": {
+      "sha256": "90a0e805482f01cfee28ed1a152e435d265448c058d50584648106ac3d1f6fc3",
+      "bytes": 733,
+      "mode": 438
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/runtime/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/runtime/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/runtime/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/runtime/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/runtime/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/runtime/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/runtime/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "activation-work/inherited-COUNT-spoof/publisher-setup.json.artifacts/runtime/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/managed/guard-config.json": {
+      "sha256": "bdc02565e4c7ca64d74db46dd0e5529658ee952c191c925eb6fb7034def30b03",
+      "bytes": 2014,
+      "mode": 292
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/managed/pre-push": {
+      "sha256": "e9376434276ca449176e1fd67518715bdbff4a1f0494f630d3c758ca50a33e3f",
+      "bytes": 763,
+      "mode": 438
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/retired/guard-config.json": {
+      "sha256": "4edaf4d36f29644c21443d2131bac68d37bddbf7d41ddce980c54112bf66ff71",
+      "bytes": 2012,
+      "mode": 292
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/retired/pre-push": {
+      "sha256": "9d9b7911b5e4332856978d2a5e67e46c864b2aad886499fa52e8e0fd4e9ac05b",
+      "bytes": 757,
+      "mode": 438
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/runtime/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/runtime/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/runtime/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/runtime/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/runtime/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/runtime/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/runtime/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "activation-work/complex/publisher-setup.json.artifacts/runtime/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.beads/metadata.json": {
+      "sha256": "5cb5ec0e5e776cb62144586fc529d13a66524e2e46daf8a6742e539ab015fb08",
+      "bytes": 156,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/primary/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/primary/.git/config": {
+      "sha256": "19827ad8dabbb10882f86b69846f6b731fd4c1e4326759d3e6a1b3a265a745e6",
+      "bytes": 706,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/primary/.git/index": {
+      "sha256": "c02c751958ef049a9fd937dd51d17ad5f97c72ca9a69c4a30986527434d02ab3",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/primary/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/primary/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/primary/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/primary/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "335b1d1ddab5edeefd5e58950695c9e4bc878cb88ce8cac2b3a5c1a6dd143348",
+      "bytes": 122,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "336f000de156bdc0326cb197d82f7301209af76296f094c921aa20b5a0fd3bc2",
+      "bytes": 2004,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "335b1d1ddab5edeefd5e58950695c9e4bc878cb88ce8cac2b3a5c1a6dd143348",
+      "bytes": 122,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/primary/.git/hooks/pre-push": {
+      "sha256": "90a0e805482f01cfee28ed1a152e435d265448c058d50584648106ac3d1f6fc3",
+      "bytes": 733,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/publisher/.git/config": {
+      "sha256": "eed766878e8e33db00dfecb4611ce40a7cc2de62178e4954cfbd43d8ad6cb477",
+      "bytes": 683,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/publisher/.git/index": {
+      "sha256": "0bfe75203bcf68f6f53c483b1d6865d5a2be3198025dbc1de06172c0abaf2e7d",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/publisher/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-managed/active.json": {
+      "sha256": "640e4a2f0d0d6e7635d372a626f20b323b2916c04858355835b9ca9b834d4606",
+      "bytes": 978,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-managed/bootstrap.json": {
+      "sha256": "35935ab9cc2439677d8c531cf6da938e1cd45f8f0c722a55560b5b98cc91519f",
+      "bytes": 531,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-managed/preservation/preservation.json": {
+      "sha256": "1f99916c06a4e321995749fac13142f68a5c4724ad58007ce85d8ae8273605c7",
+      "bytes": 169,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "4dde4f8522118bb9c56dd5110e75d10bcb6bd7dc469ae2584d9c6d8771a7a585",
+      "bytes": 124,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "cbc4147cc16d5199c59b89a34c2bc13c45ef2b8666aaa64534794c54d3608336",
+      "bytes": 2006,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/publisher/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "4dde4f8522118bb9c56dd5110e75d10bcb6bd7dc469ae2584d9c6d8771a7a585",
+      "bytes": 124,
+      "mode": 292
+    },
+    "inherited-COUNT-spoof/publisher/.git/hooks/pre-push": {
+      "sha256": "3b2d1c1be0c06cbfc2c99d466a540da73471493c679000b4f8a96436b62a87a1",
+      "bytes": 739,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/peer/.beads/metadata.json": {
+      "sha256": "268bf1918b88df980efea4fd0e8730d568947b7d7651fa1670f2f81f5b27d941",
+      "bytes": 156,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/peer/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/peer/.git/config": {
+      "sha256": "dbb23a14a24e08ce6a36f2e12e5886db7e5524dd0a4f94733ed693f4dd450d71",
+      "bytes": 700,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/peer/.git/index": {
+      "sha256": "05966f97f0a6da5ecad89990022fc9566ad70e523d36824a6946f2ef6ab161da",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/peer/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "inherited-COUNT-spoof/peer/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "origin-drift-negative/primary/.beads/metadata.json": {
+      "sha256": "e8c019f919ea61ec3e9ca7f0bd29c5d762e82e338f9a399892f83958ce6d52f5",
+      "bytes": 156,
+      "mode": 438
+    },
+    "origin-drift-negative/primary/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "origin-drift-negative/primary/.git/config": {
+      "sha256": "9ee05461123fb94a7dc8c36916ff8393943765b607b3e8caae8657ebe467b1ec",
+      "bytes": 606,
+      "mode": 438
+    },
+    "origin-drift-negative/primary/.git/index": {
+      "sha256": "97efd767dfbbbbad91ad7b6d7ba40229d29744ffbecc850f9e1140e93527c231",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "origin-drift-negative/primary/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "origin-drift-negative/primary/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "origin-drift-negative/primary/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "origin-drift-negative/publisher/.git/config": {
+      "sha256": "980e24c16925460ac2aead4e7430eb51300d6ede3cd946e71bd46549c54781f4",
+      "bytes": 583,
+      "mode": 438
+    },
+    "origin-drift-negative/publisher/.git/index": {
+      "sha256": "96e8a2781cb40c11111529a2d8577322c331b496e1e42d78ca49e8852e2b705e",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "origin-drift-negative/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "origin-drift-negative/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "origin-drift-negative/publisher/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "origin-drift-negative/peer/.beads/metadata.json": {
+      "sha256": "d5340817c3d0c4fc422e8a4fe66bceeef91690a8b1a1f980be7c6a34b4b3758a",
+      "bytes": 156,
+      "mode": 438
+    },
+    "origin-drift-negative/peer/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "origin-drift-negative/peer/.git/config": {
+      "sha256": "c3fb2da82bd1feb005b6122073635c4a79b984446ca3fc1a449f059e6d816206",
+      "bytes": 600,
+      "mode": 438
+    },
+    "origin-drift-negative/peer/.git/index": {
+      "sha256": "e674aeb172bb6d17e379bb1737203e261e1847dae54c52e050ca851aea7f89c8",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "origin-drift-negative/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "origin-drift-negative/peer/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "origin-drift-negative/peer/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/primary/.git/config": {
+      "sha256": "fa93a4b7e4797706950b4287de9e2d7f8a1f3cdf2294a550a79c954d8db80469",
+      "bytes": 513,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/primary/.git/index": {
+      "sha256": "eab1cee29c8eeb5610838adf60175ec8ddc99a9c838db1a0e26249c6257a8d88",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/primary/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/primary/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/primary/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/publisher/.git/config": {
+      "sha256": "db6d8939633f8e6f43ef3b7fd0d09148e0404363b50cf1824384ad810002d452",
+      "bytes": 517,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/publisher/.git/index": {
+      "sha256": "b472487f71897d4004200e9e82c5c1f44757c263aaca5d229bf2292eb8701ea9",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/publisher/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/peer/.git/config": {
+      "sha256": "79028da82a7af2dc467b0b0c890263ed45eb3222fdcb4b1adeb7bd6bc9fcf785",
+      "bytes": 507,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/peer/.git/index": {
+      "sha256": "361703e722b045bcb554bea711c7c7dadb449c31f2200ffa236ac95a5bd8bdc3",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/peer/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "pre-init-no-HTTPS-helper/peer/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "pre-init-no-identity/primary/.git/config": {
+      "sha256": "7133aa953570d5a577171141d2fa79a90bd29d641afec46b962768387873f9ca",
+      "bytes": 449,
+      "mode": 438
+    },
+    "pre-init-no-identity/primary/.git/index": {
+      "sha256": "9ba0f4e7f4207d0e3ee23a4bb4597a3502b4abbb6b2a508a1d9e1f87c91e5872",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "pre-init-no-identity/primary/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "pre-init-no-identity/primary/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "pre-init-no-identity/primary/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "pre-init-no-identity/publisher/.git/config": {
+      "sha256": "82f52d8b261f1ce29b29a3384e5de8b13e5d624c27e4edbfa1292d36256c7be4",
+      "bytes": 373,
+      "mode": 438
+    },
+    "pre-init-no-identity/publisher/.git/index": {
+      "sha256": "1d3cfad61186b1f3b014f4638675307a51446c3956594473d27c7a55622f94aa",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "pre-init-no-identity/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "pre-init-no-identity/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "pre-init-no-identity/publisher/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "pre-init-no-identity/peer/.git/config": {
+      "sha256": "f1949eebbd26638445edadce2a7a6014220b3ccb8f8c72ae3b14fc53545fc9cf",
+      "bytes": 443,
+      "mode": 438
+    },
+    "pre-init-no-identity/peer/.git/index": {
+      "sha256": "d1ee35725f31c5492c9201b7deb6f6ca0c5f99665122104f96daa2bd1f4f6166",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "pre-init-no-identity/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "pre-init-no-identity/peer/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "pre-init-no-identity/peer/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-bootstrap/primary/.beads/metadata.json": {
+      "sha256": "634d6ffe05bc307706d922521905a99226d026a8e92237405091405870fa0a66",
+      "bytes": 156,
+      "mode": 438
+    },
+    "resume-bootstrap/primary/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "resume-bootstrap/primary/.git/config": {
+      "sha256": "847630509fc6068cbcdf9973f5012197f3ee1ebf3bfb2d5e73fd1ed726771609",
+      "bytes": 696,
+      "mode": 438
+    },
+    "resume-bootstrap/primary/.git/index": {
+      "sha256": "9d96e8ab2016cc500c711af2945c880f36b4196b1507e77b4456fec2df867152",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-bootstrap/primary/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-bootstrap/primary/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "resume-bootstrap/primary/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-bootstrap/primary/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "resume-bootstrap/primary/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "resume-bootstrap/primary/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "resume-bootstrap/primary/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "resume-bootstrap/primary/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "resume-bootstrap/primary/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "resume-bootstrap/primary/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "resume-bootstrap/primary/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "resume-bootstrap/primary/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "ddf73bc3699f993f30dd2c5e755bc961f7c38ce5cbf9b43ba30011396b7eb1b3",
+      "bytes": 122,
+      "mode": 292
+    },
+    "resume-bootstrap/primary/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "c45b7626b13dcbc85a29a673f31c2255901c0be1abf704373e983637a3c0bc06",
+      "bytes": 1994,
+      "mode": 292
+    },
+    "resume-bootstrap/primary/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "ddf73bc3699f993f30dd2c5e755bc961f7c38ce5cbf9b43ba30011396b7eb1b3",
+      "bytes": 122,
+      "mode": 292
+    },
+    "resume-bootstrap/primary/.git/hooks/pre-push": {
+      "sha256": "eaaa8bd8e6fd6022ead699c12a7d5e512d611f3245cbe6061ce6c6f66d7f7ab1",
+      "bytes": 718,
+      "mode": 438
+    },
+    "resume-bootstrap/publisher/.git/config": {
+      "sha256": "8fe0ec4dfbfe8ed8af66a9abae65cfd1cb1b2e95fe83c32e988501ab1fde0a2c",
+      "bytes": 673,
+      "mode": 438
+    },
+    "resume-bootstrap/publisher/.git/index": {
+      "sha256": "930dde64fc7b6a0a04fb509f817032a6fbbbdade5ce64f0d2c7f36fbc1e1f4ef",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-bootstrap/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-bootstrap/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "resume-bootstrap/publisher/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-managed/active.json": {
+      "sha256": "b697ff9c2a87c06b7a0470310f83a860c71557081431e0a59c48509e60ac5d45",
+      "bytes": 973,
+      "mode": 438
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-managed/bootstrap.json": {
+      "sha256": "3aba546f5514eedf6034c3cc5f74b74e9b7debe235b136905b7d8866f00e059b",
+      "bytes": 531,
+      "mode": 438
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-managed/preservation/preservation.json": {
+      "sha256": "e4e138f9a3ea079294c90d97d870c98584ff1ee70c3ea3a483def9a729251177",
+      "bytes": 169,
+      "mode": 438
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "b99493f4ac2ac3887ddfbd90e529bd5060486217622034f0cc4f808083981212",
+      "bytes": 124,
+      "mode": 292
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "5c69359dbf5d74d50db4d7147a665da594c51d15a34ef23d8e8fb3ad8b46373f",
+      "bytes": 1996,
+      "mode": 292
+    },
+    "resume-bootstrap/publisher/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "b99493f4ac2ac3887ddfbd90e529bd5060486217622034f0cc4f808083981212",
+      "bytes": 124,
+      "mode": 292
+    },
+    "resume-bootstrap/publisher/.git/hooks/pre-push": {
+      "sha256": "3a010b1ea001dcb7099746ac9b18f7cef503f7c378c4ec142f2b2edf7227d6a0",
+      "bytes": 724,
+      "mode": 438
+    },
+    "resume-bootstrap/peer/.beads/metadata.json": {
+      "sha256": "55b2e4681227c3fbc3774d069c074fbc54594b67223114a98d0916caf4cf5d15",
+      "bytes": 156,
+      "mode": 438
+    },
+    "resume-bootstrap/peer/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "resume-bootstrap/peer/.git/config": {
+      "sha256": "8e4477c7845026506352b745ef0aed1e8dec0d6c9b8d44cc6e00cb88090a3049",
+      "bytes": 690,
+      "mode": 438
+    },
+    "resume-bootstrap/peer/.git/index": {
+      "sha256": "6d3b767a14f8ae723021f802ec3ed85dc928504f1df58c7d365ecacfc5c181aa",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-bootstrap/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-bootstrap/peer/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "resume-bootstrap/peer/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-peer-init/primary/.beads/metadata.json": {
+      "sha256": "52289223bb2f1574358f508fd318796791b1159bda5e4a1d7b6378f8a4ce1c82",
+      "bytes": 156,
+      "mode": 438
+    },
+    "resume-peer-init/primary/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "resume-peer-init/primary/.git/config": {
+      "sha256": "a2dcc5e7c67d5640f6d8f879e8f5a21e6550e56315bba741dc5386eeb86cbc76",
+      "bytes": 696,
+      "mode": 438
+    },
+    "resume-peer-init/primary/.git/index": {
+      "sha256": "2caad16259c616996c0e3580a31e1859b164d77a214173e79d93e5287b7e67d1",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-peer-init/primary/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-peer-init/primary/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "resume-peer-init/primary/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-peer-init/primary/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "resume-peer-init/primary/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "resume-peer-init/primary/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "resume-peer-init/primary/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "resume-peer-init/primary/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "resume-peer-init/primary/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "resume-peer-init/primary/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "resume-peer-init/primary/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "resume-peer-init/primary/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "4db83b5c8784d7c593bf1309303be3eaccdfcdbcbf3ba780884a39ceb24364eb",
+      "bytes": 122,
+      "mode": 292
+    },
+    "resume-peer-init/primary/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "bb4057b57e5d380dd8a26ce6b1ea00ff4df5b645df28d09d4c1a36819c0e4cfc",
+      "bytes": 1994,
+      "mode": 292
+    },
+    "resume-peer-init/primary/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "4db83b5c8784d7c593bf1309303be3eaccdfcdbcbf3ba780884a39ceb24364eb",
+      "bytes": 122,
+      "mode": 292
+    },
+    "resume-peer-init/primary/.git/hooks/pre-push": {
+      "sha256": "237b807f3c3ae7daeb09aad417c29ba57c0afae0d4b1e724a8e9ac08a632e400",
+      "bytes": 718,
+      "mode": 438
+    },
+    "resume-peer-init/publisher/.git/config": {
+      "sha256": "f92610c2dff1ff3514d6cd8cfb0e06e7d29d6a822f492c2a0a33bd5264dfc1ec",
+      "bytes": 673,
+      "mode": 438
+    },
+    "resume-peer-init/publisher/.git/index": {
+      "sha256": "4bb9de6cf84de065f3797edf015eaa29e1e7c62e5588ace704d6517d0d19aa83",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-peer-init/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-peer-init/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "resume-peer-init/publisher/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-managed/active.json": {
+      "sha256": "ae5cb9d56c0e966297eb653705255835f26fdfbf039712c7f3f934fd0f22e45b",
+      "bytes": 973,
+      "mode": 438
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-managed/bootstrap.json": {
+      "sha256": "d3488d0c667db9bea067c0aa8aaba8d3001d33cb47bcd5e8e3cf4c68f4baf691",
+      "bytes": 531,
+      "mode": 438
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-managed/preservation/preservation.json": {
+      "sha256": "bb6018c2e0d7dde00107588bf284e5dca8f84d963516dd386d9e56341e440510",
+      "bytes": 169,
+      "mode": 438
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "8f9c94355687eb7de14a2220d108a4fbebd2cd280549dbab3c9b8ab10706c250",
+      "bytes": 124,
+      "mode": 292
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "9afd5784560368ec65d99e27944e5d9f416c2cb62e162217a0970ca1343227fc",
+      "bytes": 1996,
+      "mode": 292
+    },
+    "resume-peer-init/publisher/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "8f9c94355687eb7de14a2220d108a4fbebd2cd280549dbab3c9b8ab10706c250",
+      "bytes": 124,
+      "mode": 292
+    },
+    "resume-peer-init/publisher/.git/hooks/pre-push": {
+      "sha256": "00e31034c8eef8519d46d84ffb68622fe51fa3e6c1cf9003634e56b1cb724499",
+      "bytes": 724,
+      "mode": 438
+    },
+    "resume-peer-init/peer/.beads/metadata.json": {
+      "sha256": "a70a7ee7fee0e7f6d0bfc39a73d882a4dc939fa9c1563a13701275c44a44e862",
+      "bytes": 156,
+      "mode": 438
+    },
+    "resume-peer-init/peer/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "resume-peer-init/peer/.git/config": {
+      "sha256": "7f77d26c543e1cad07558f4398a0d43439f941e5ce230d44bc71414ca57f7578",
+      "bytes": 690,
+      "mode": 438
+    },
+    "resume-peer-init/peer/.git/index": {
+      "sha256": "69af2844cf68f1bca763f4f976eff3ab6dc9cba74cfc058b8aa2e3878ab38539",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-peer-init/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-peer-init/peer/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "resume-peer-init/peer/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-publisher-setup/primary/.beads/metadata.json": {
+      "sha256": "2b2227491c3e0c347fe0c1e228301bfe371831fae98718a4aa490f217e16130f",
+      "bytes": 156,
+      "mode": 438
+    },
+    "resume-publisher-setup/primary/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "resume-publisher-setup/primary/.git/config": {
+      "sha256": "16df1e91007603917fca25cb49709095bf34080240de08ea0b2d33d2a35515e6",
+      "bytes": 708,
+      "mode": 438
+    },
+    "resume-publisher-setup/primary/.git/index": {
+      "sha256": "499b000a46aadacac231e134cea987a3c5b54683d83679f53fe0dbab6685984d",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-publisher-setup/primary/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-publisher-setup/primary/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "resume-publisher-setup/primary/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-publisher-setup/primary/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "resume-publisher-setup/primary/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "resume-publisher-setup/primary/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "resume-publisher-setup/primary/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "resume-publisher-setup/primary/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "resume-publisher-setup/primary/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "resume-publisher-setup/primary/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "resume-publisher-setup/primary/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "resume-publisher-setup/primary/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "56cd323f46aecc782a48a6953ffcef81ace0f83c5e214564927ea40b9ef0e0c9",
+      "bytes": 122,
+      "mode": 292
+    },
+    "resume-publisher-setup/primary/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "e9ed214790102d79d7e3f7dbd44322a754094337eb7fcd6bf55b1b94849cdc1f",
+      "bytes": 2006,
+      "mode": 292
+    },
+    "resume-publisher-setup/primary/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "56cd323f46aecc782a48a6953ffcef81ace0f83c5e214564927ea40b9ef0e0c9",
+      "bytes": 122,
+      "mode": 292
+    },
+    "resume-publisher-setup/primary/.git/hooks/pre-push": {
+      "sha256": "fe2cbeea6b0f6a1006fc47139e4e89740b133ca1fcf0b946b54d047c68386446",
+      "bytes": 736,
+      "mode": 438
+    },
+    "resume-publisher-setup/publisher/.git/config": {
+      "sha256": "1f25834ef3228f8c0039e59b2f174cd08092b466cf66084b1a6d2f7f7c7874de",
+      "bytes": 685,
+      "mode": 438
+    },
+    "resume-publisher-setup/publisher/.git/index": {
+      "sha256": "c0900a012a5371059ffe4ba64575888cc4c5db5162e38839d815fd29c9fd5200",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-publisher-setup/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-publisher-setup/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "resume-publisher-setup/publisher/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-managed/active.json": {
+      "sha256": "5aeb4ade4fa0b5cf99a4651d9e58c9c1ac3f0675fac176f102fdf2eb457e23e0",
+      "bytes": 979,
+      "mode": 438
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-managed/bootstrap.json": {
+      "sha256": "b237c825a00142aca31bddc1f79e87080d4aaf31bfb9c879fda002cfec5a93fa",
+      "bytes": 531,
+      "mode": 438
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-managed/preservation/preservation.json": {
+      "sha256": "074513749a525c9f5ba146e6a9b2ecf0859434bdbaa2b837b723d32870750085",
+      "bytes": 169,
+      "mode": 438
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "ff21705e916d5f6214dc61e9e316dad9c854ebb6cbfa8308fcf96a9ac33a6c6c",
+      "bytes": 124,
+      "mode": 292
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "eeb063bef5e186a5ce2f4592396e14b44db07fdc79f460238c40d5c9847f9ae2",
+      "bytes": 2008,
+      "mode": 292
+    },
+    "resume-publisher-setup/publisher/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "ff21705e916d5f6214dc61e9e316dad9c854ebb6cbfa8308fcf96a9ac33a6c6c",
+      "bytes": 124,
+      "mode": 292
+    },
+    "resume-publisher-setup/publisher/.git/hooks/pre-push": {
+      "sha256": "0029c217627cf840218b40a2eaab5acdf4eafc9e360bf80c1be8b6c5fa03316a",
+      "bytes": 742,
+      "mode": 438
+    },
+    "resume-publisher-setup/peer/.beads/metadata.json": {
+      "sha256": "7421a5f75a88aeef6fa4ebbcf3dfe5bb268ce005ce33ef66c6a9a34613dfac54",
+      "bytes": 156,
+      "mode": 438
+    },
+    "resume-publisher-setup/peer/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "resume-publisher-setup/peer/.git/config": {
+      "sha256": "ae32497cbf0f4b5267e47c0d680bf15731b9936e90b476db9f9183d668057ae0",
+      "bytes": 702,
+      "mode": 438
+    },
+    "resume-publisher-setup/peer/.git/index": {
+      "sha256": "f97955c3b3719599f09129cf2eec15a388d06530941619e2b16279f86cd3e586",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-publisher-setup/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-publisher-setup/peer/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "resume-publisher-setup/peer/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-push/primary/.beads/metadata.json": {
+      "sha256": "be1bed4254f2e84255ae8f929b46b194bb450d79b4f00c267abff8cb4d5b30dc",
+      "bytes": 156,
+      "mode": 438
+    },
+    "resume-push/primary/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "resume-push/primary/.git/config": {
+      "sha256": "adc646f2d6b5445fb6b863f57408a82f3bb96bf2d2eb9ad497c4249ba2c29ffb",
+      "bytes": 686,
+      "mode": 438
+    },
+    "resume-push/primary/.git/index": {
+      "sha256": "d5ca416e46abb258ba1a1559cbba43b2f5870640a8db939ffb5cdf1286097542",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-push/primary/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-push/primary/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "resume-push/primary/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-push/primary/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "resume-push/primary/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "resume-push/primary/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "resume-push/primary/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "resume-push/primary/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "resume-push/primary/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "resume-push/primary/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "resume-push/primary/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "resume-push/primary/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "c145c4defd021424dd68f0164e983510c4a7d68a39dea6fc4be5161b6cc954a2",
+      "bytes": 122,
+      "mode": 292
+    },
+    "resume-push/primary/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "199f2364ec76e8cbf4f8f3e0a57a9a66ecec34f1ffa0f91de52db9efe8bb0e7e",
+      "bytes": 1984,
+      "mode": 292
+    },
+    "resume-push/primary/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "c145c4defd021424dd68f0164e983510c4a7d68a39dea6fc4be5161b6cc954a2",
+      "bytes": 122,
+      "mode": 292
+    },
+    "resume-push/primary/.git/hooks/pre-push": {
+      "sha256": "b72a8455ba52f01e88cf894be798c741962886144aca47e9e58215aa250bc33a",
+      "bytes": 703,
+      "mode": 438
+    },
+    "resume-push/publisher/.git/config": {
+      "sha256": "09d86ec06ccf9765855b809b5a94072e0e05916f1cb0a323352b979fbc568531",
+      "bytes": 663,
+      "mode": 438
+    },
+    "resume-push/publisher/.git/index": {
+      "sha256": "e2af48c4c80443eb01b5cfe786ee375468f79cb2856658d3cf83df7c2b26eead",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-push/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-push/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "resume-push/publisher/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "resume-push/publisher/.git/overgate-bd-managed/active.json": {
+      "sha256": "3de7d754f277693680df3c7ddc824cc068f6510cd1de08953937158607095952",
+      "bytes": 968,
+      "mode": 438
+    },
+    "resume-push/publisher/.git/overgate-bd-managed/bootstrap.json": {
+      "sha256": "6c5b5e1112549abf07b54010792029340022d632858acdea3fea7979ebf7dad0",
+      "bytes": 531,
+      "mode": 438
+    },
+    "resume-push/publisher/.git/overgate-bd-managed/preservation/preservation.json": {
+      "sha256": "3dc0a62c1b5b81e388e8b855012387ab852cfe530877349ef2ad559a79ecdaf4",
+      "bytes": 169,
+      "mode": 438
+    },
+    "resume-push/publisher/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "resume-push/publisher/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "resume-push/publisher/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "resume-push/publisher/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "resume-push/publisher/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "resume-push/publisher/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "resume-push/publisher/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "resume-push/publisher/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "resume-push/publisher/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "d0fb44267f5d089ece7d2aabc699c556cf81380556dee5c0775d285a9177566d",
+      "bytes": 124,
+      "mode": 292
+    },
+    "resume-push/publisher/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "ef4966df5ab5aafeef506a31717b07e23eedb13c09edea9ef88870799361a9c5",
+      "bytes": 1986,
+      "mode": 292
+    },
+    "resume-push/publisher/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "d0fb44267f5d089ece7d2aabc699c556cf81380556dee5c0775d285a9177566d",
+      "bytes": 124,
+      "mode": 292
+    },
+    "resume-push/publisher/.git/hooks/pre-push": {
+      "sha256": "6e90ebaececb393d0f092a57690c39f7b6825db4647d57e19d376671bc44cb5d",
+      "bytes": 709,
+      "mode": 438
+    },
+    "resume-push/peer/.beads/metadata.json": {
+      "sha256": "3a7b31fe48115618d396dc74e5ebef4cd5ede43045e2bb82d0827da1120800ff",
+      "bytes": 156,
+      "mode": 438
+    },
+    "resume-push/peer/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "resume-push/peer/.git/config": {
+      "sha256": "4f470451fc30fd58fd6153788c3f5ef8212b2e787bbe49c46ab77225f7cdc2ab",
+      "bytes": 680,
+      "mode": 438
+    },
+    "resume-push/peer/.git/index": {
+      "sha256": "3767376b68611d05bc13814ab2c3ab38c1473575e9fbb0c064318d41b80a7874",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "resume-push/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "resume-push/peer/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "resume-push/peer/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "Проект's (QA) space/primary/.beads/metadata.json": {
+      "sha256": "b9c6eccaf6474735d24d0c659f70058deecdf9561f1beb8ef566a3c066497310",
+      "bytes": 156,
+      "mode": 438
+    },
+    "Проект's (QA) space/primary/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "Проект's (QA) space/primary/.git/config": {
+      "sha256": "2b7b33d253c1ee1104f70c8b0614505c1ad9c600efb5236b25227a420c84a8a7",
+      "bytes": 714,
+      "mode": 438
+    },
+    "Проект's (QA) space/primary/.git/index": {
+      "sha256": "d0552e0a8ee93f300257c4c95b17f0f325dc9d67887254728963751a5f9b950c",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "Проект's (QA) space/primary/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "Проект's (QA) space/primary/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "Проект's (QA) space/primary/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "Проект's (QA) space/primary/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "Проект's (QA) space/primary/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "Проект's (QA) space/primary/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "Проект's (QA) space/primary/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "Проект's (QA) space/primary/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "Проект's (QA) space/primary/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "Проект's (QA) space/primary/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "Проект's (QA) space/primary/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "Проект's (QA) space/primary/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "c0f7c73dad562eb89adf368e23b0aa3057ef89fc8a1b70131ae6c9c12fe9a7a5",
+      "bytes": 122,
+      "mode": 292
+    },
+    "Проект's (QA) space/primary/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "4edaf4d36f29644c21443d2131bac68d37bddbf7d41ddce980c54112bf66ff71",
+      "bytes": 2012,
+      "mode": 292
+    },
+    "Проект's (QA) space/primary/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "c0f7c73dad562eb89adf368e23b0aa3057ef89fc8a1b70131ae6c9c12fe9a7a5",
+      "bytes": 122,
+      "mode": 292
+    },
+    "Проект's (QA) space/primary/.git/hooks/pre-push": {
+      "sha256": "9d9b7911b5e4332856978d2a5e67e46c864b2aad886499fa52e8e0fd4e9ac05b",
+      "bytes": 757,
+      "mode": 438
+    },
+    "Проект's (QA) space/publisher/.git/config": {
+      "sha256": "5fe84fe612833673874c6f85f9b6073d90a664aef1451ab98edde04ae9c71693",
+      "bytes": 691,
+      "mode": 438
+    },
+    "Проект's (QA) space/publisher/.git/index": {
+      "sha256": "dae1f0f0a5a69d3cd4c9b9dcd1ba8b0fef954fa285eb4bcf86b2540911d70656",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "Проект's (QA) space/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "Проект's (QA) space/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "Проект's (QA) space/publisher/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-managed/active.json": {
+      "sha256": "24f5a45931917af014011913e3f5eb8c3ca7d8ddc98e9e82c54691347186a752",
+      "bytes": 1277,
+      "mode": 438
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-managed/bootstrap.json": {
+      "sha256": "7693ab5725383ce67b47bd09cf37386490d988c221997e1eb641932d77970d49",
+      "bytes": 531,
+      "mode": 438
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-managed/preservation/preservation.json": {
+      "sha256": "ad6afd52f3792c4a386ed484a6f51b4cfb8c5896dfc033d0be92f63e6db644e5",
+      "bytes": 169,
+      "mode": 438
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-publisher-control/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-publisher-control/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-publisher-control/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-publisher-control/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-publisher-control/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-publisher-control/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-publisher-control/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-publisher-control/control-plan.json": {
+      "sha256": "fffdcad4e4b342f1642760862da8dbdf960f646d026da59255c365447cc604bf",
+      "bytes": 124,
+      "mode": 292
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-publisher-control/guard-config.json": {
+      "sha256": "bdc02565e4c7ca64d74db46dd0e5529658ee952c191c925eb6fb7034def30b03",
+      "bytes": 2014,
+      "mode": 292
+    },
+    "Проект's (QA) space/publisher/.git/overgate-bd-publisher-control/installed.json": {
+      "sha256": "fffdcad4e4b342f1642760862da8dbdf960f646d026da59255c365447cc604bf",
+      "bytes": 124,
+      "mode": 292
+    },
+    "Проект's (QA) space/publisher/.git/hooks/pre-push": {
+      "sha256": "e9376434276ca449176e1fd67518715bdbff4a1f0494f630d3c758ca50a33e3f",
+      "bytes": 763,
+      "mode": 438
+    },
+    "Проект's (QA) space/peer/.beads/metadata.json": {
+      "sha256": "0699c7f43554982f083e9091b8b3f58fc3b2b7e0fb43b90f6695a6722239a2a0",
+      "bytes": 156,
+      "mode": 438
+    },
+    "Проект's (QA) space/peer/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "Проект's (QA) space/peer/.git/config": {
+      "sha256": "2c583c7ccfe788c6cce0085c805871677d5f1be8d4eefb6b541814147fa204ea",
+      "bytes": 708,
+      "mode": 438
+    },
+    "Проект's (QA) space/peer/.git/index": {
+      "sha256": "74a3a319ed5747f20c16ffa2b00005f5d8472826df6d552951d577223bdf3f29",
+      "bytes": 10274,
+      "mode": 438
+    },
+    "Проект's (QA) space/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "Проект's (QA) space/peer/.git/info/exclude": {
+      "sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "bytes": 456,
+      "mode": 438
+    },
+    "Проект's (QA) space/peer/.overgate/install-state.json": {
+      "sha256": "1bb72106774620331f7bfad76931bf2027373c97cc15d9b7f2d3df13e9812a48",
+      "bytes": 14075,
+      "mode": 438
+    }
+  },
+  "every_byte_verified": true,
+  "raw_native_DB_files": "retained in local fixtures; full independent per-file before-after hashes in evidence; empty native exports/checkpoint metadata/queue/control included"
+}

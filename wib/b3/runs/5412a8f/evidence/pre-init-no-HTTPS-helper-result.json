@@ -1,0 +1,13 @@
+{
+  "source": "5412a8f25fe94f2e6c313357e556717469514f14",
+  "target": "9cfc54db871539e2bab01aff51d46221fb571a98",
+  "exit_code": 1,
+  "actionable_reason": "publisher HTTPS authentication unavailable",
+  "before_init_control_task_write": true,
+  "all_target_remote_bytes_equal": true,
+  "real_R": null,
+  "attacker_R": null,
+  "private_queue_retained": true,
+  "journal_stage": "queued",
+  "actor": "agent-a8a5de0f-63c9-4581-a171-a493aaec43d4"
+}

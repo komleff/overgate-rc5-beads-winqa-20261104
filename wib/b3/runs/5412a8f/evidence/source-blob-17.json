@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "5412a8f25fe94f2e6c313357e556717469514f14:scripts/check-reference.py"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "95da02ad3d2e0f2ecf14080a749aaa4fb36c88cf\n",
+  "stderr": "",
+  "stdout_sha256": "13405de4dc7b52119a7a5cc92293345f09ab5a659c7cefdb070323f2287cd185",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,5 @@
+{
+  "native_fault_repeated": false,
+  "all_captured_target_work_bytes_equal": true,
+  "reason": "QA store path now follows metadata dolt_mode=embedded rather than hardcoded dolt directory"
+}

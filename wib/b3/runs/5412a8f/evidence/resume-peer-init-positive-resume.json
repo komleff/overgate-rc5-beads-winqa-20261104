@@ -1,0 +1,30 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-activate.sh",
+    "--publisher-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/resume-peer-init/publisher",
+    "--peer-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/resume-peer-init/peer",
+    "--bd-bin",
+    "D:/CodexArtifacts/overgate-rc4-winqa-20261103/tools/bd.exe",
+    "--prefix",
+    "wibqa",
+    "--actor",
+    "agent-8f90704f-9fc7-48b6-af0b-a4b9eb86fb7b",
+    "--title",
+    "Windows B3 resume-peer-init synthetic task",
+    "--work-dir",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/activation-work/resume-peer-init",
+    "--resume"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-peer-init\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": null,
+  "seconds": 13.984,
+  "stdout": "{\"binary_sha256\": \"b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de\", \"claim_confirmed\": true, \"id\": \"wibqa-e32\", \"peer_init\": {\"config_sha256\": \"129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c\", \"git_exclude_after_sha256\": \"7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049\", \"git_exclude_before_sha256\": \"6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1\", \"head\": \"fd64fa03abf39fb4fbbbfea4540e106f0b62c1c5\", \"index_sha256\": \"69af2844cf68f1bca763f4f976eff3ab6dc9cba74cfc058b8aa2e3878ab38539\", \"metadata_sha256\": \"a70a7ee7fee0e7f6d0bfc39a73d882a4dc939fa9c1563a13701275c44a44e862\"}, \"peer_sha\": \"b14c65404c12c49fd690460cfad5dbe370dce139\", \"primary_init\": {\"config_sha256\": \"129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c\", \"git_exclude_after_sha256\": \"7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049\", \"git_exclude_before_sha256\": \"6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1\", \"head\": \"fd64fa03abf39fb4fbbbfea4540e106f0b62c1c5\", \"index_sha256\": \"2caad16259c616996c0e3580a31e1859b164d77a214173e79d93e5287b7e67d1\", \"metadata_sha256\": \"52289223bb2f1574358f508fd318796791b1159bda5e4a1d7b6378f8a4ce1c82\"}, \"published_sha\": \"b14c65404c12c49fd690460cfad5dbe370dce139\", \"queue_sha256\": \"00417ec4f754b2ae2ac0f133d11d6cfc9aa0b7bf03417c22e6402696bdaf52ce\", \"status\": \"activated\"}\r\n",
+  "stderr": "",
+  "stdout_sha256": "0428a56c6383a847010bb4b25e9bd831665e355eb7805d14d0c1d07187afb56f",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

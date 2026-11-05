@@ -1,0 +1,29 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-activate.sh",
+    "--publisher-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/pre-init-no-identity/publisher",
+    "--peer-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/pre-init-no-identity/peer",
+    "--bd-bin",
+    "D:/CodexArtifacts/overgate-rc4-winqa-20261103/tools/bd.exe",
+    "--prefix",
+    "wibqa",
+    "--actor",
+    "agent-c7998629-e412-4245-b2f1-9650498ed886",
+    "--title",
+    "Windows B3 pre-init-no-identity synthetic task",
+    "--work-dir",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/activation-work/pre-init-no-identity"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\pre-init-no-identity\\primary",
+  "env_overrides": {},
+  "exit_code": 1,
+  "expected": null,
+  "seconds": 1.976,
+  "stdout": "",
+  "stderr": "STOP: publisher Git identity unavailable under isolated config; set repo-local user.name/user.email or explicit service author/committer identity; queue/base/actor retained: {\"actor\": \"agent-c7998629-e412-4245-b2f1-9650498ed886\", \"base\": \"0000000000000000000000000000000000000000\", \"queue\": \"D:\\\\CodexArtifacts\\\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\\\activation-work\\\\pre-init-no-identity\\\\raw-intents.jsonl\", \"queue_sha256\": \"14288668d5be6ddcebad4b24a18950ae1350771a5fdff55459d3e4182b01640c\"}\r\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "d43ed3f54b3c58167682a9fb2a7c1a1ad87b1f18fb9148d9a8b13e9f701c4ada"
+}

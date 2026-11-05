@@ -1,0 +1,23 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-apply-intents.sh",
+    "--prepare",
+    "--base",
+    "5ecc25d571042200a3ef5ad409bfe4accd379210",
+    "--actor",
+    "agent-5bc90b90-5cfd-4243-baa7-bbcefb50157e",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\activation-work\\complex\\qa-lifecycle.v2.jsonl",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\activation-work\\complex\\qa-lifecycle.raw.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\Проект's (QA) space\\publisher",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 1.356,
+  "stdout": "{\"status\":\"prepared\",\"base\":\"5ecc25d571042200a3ef5ad409bfe4accd379210\",\"actor\":\"agent-5bc90b90-5cfd-4243-baa7-bbcefb50157e\",\"output\":\"D:\\\\CodexArtifacts\\\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\\\activation-work\\\\complex\\\\qa-lifecycle.v2.jsonl\",\"operations\":2,\"payload_hashes\":[\"94dead7f130ab1e88e2a1bd770f3a96567e395a859b0e3a72679d6aded1c772e\",\"8c84ff5c0ab8048150a56e6c30392362c453417f5037c7c7d3810338a9c14338\"]}\n",
+  "stderr": "",
+  "stdout_sha256": "ba37b324fd525ad2787ba18114fb6d0859ef1a260771c843abbe5e5a9eb353dc",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

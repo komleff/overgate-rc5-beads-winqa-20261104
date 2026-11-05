@@ -1,0 +1,27 @@
+{
+  "id": "wibqa-e32",
+  "real_R": "b14c65404c12c49fd690460cfad5dbe370dce139",
+  "peer_R": "b14c65404c12c49fd690460cfad5dbe370dce139",
+  "attacker_R": null,
+  "full_object_equal": true,
+  "peer_native_DB_bytes_unchanged": true,
+  "temporary_snapshot_dir": null,
+  "object": {
+    "_type": "issue",
+    "id": "wibqa-e32",
+    "title": "Windows B3 resume-peer-init synthetic task",
+    "status": "in_progress",
+    "priority": 2,
+    "issue_type": "task",
+    "assignee": "agent-8f90704f-9fc7-48b6-af0b-a4b9eb86fb7b",
+    "created_at": "2026-11-05T03:58:57Z",
+    "created_by": "agent-8f90704f-9fc7-48b6-af0b-a4b9eb86fb7b",
+    "updated_at": "2026-11-05T03:58:57Z",
+    "started_at": "2026-11-05T03:58:57Z",
+    "external_ref": "intent:activation-create",
+    "dependency_count": 0,
+    "dependent_count": 0,
+    "comment_count": 0
+  },
+  "issue_records": 1
+}

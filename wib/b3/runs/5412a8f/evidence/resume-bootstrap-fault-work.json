@@ -1,0 +1,122 @@
+{
+  "files": {
+    "activation-checkpoint.json": {
+      "sha256": "bf99d5ffb296db56bb87f77e18ccd35eb0a1e46e0299ea2117e558309e22cda3",
+      "bytes": 1927,
+      "mode": 438
+    },
+    "peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "publisher-setup.json": {
+      "sha256": "cb9311b0d99820e7c8bf64b62aab79228251395dc3be12b9fb1187fff10ed016",
+      "bytes": 11276,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/managed/guard-config.json": {
+      "sha256": "5c69359dbf5d74d50db4d7147a665da594c51d15a34ef23d8e8fb3ad8b46373f",
+      "bytes": 1996,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/managed/pre-push": {
+      "sha256": "3a010b1ea001dcb7099746ac9b18f7cef503f7c378c4ec142f2b2edf7227d6a0",
+      "bytes": 724,
+      "mode": 438
+    },
+    "publisher-setup.json.artifacts/retired/guard-config.json": {
+      "sha256": "c45b7626b13dcbc85a29a673f31c2255901c0be1abf704373e983637a3c0bc06",
+      "bytes": 1994,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/retired/pre-push": {
+      "sha256": "eaaa8bd8e6fd6022ead699c12a7d5e512d611f3245cbe6061ce6c6f66d7f7ab1",
+      "bytes": 718,
+      "mode": 438
+    },
+    "publisher-setup.json.artifacts/runtime/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "raw-intents.jsonl": {
+      "sha256": "ac0b47eaba39791dc09708e2c7815a246e11c1fefcc870a427b3c617ceb3a8ec",
+      "bytes": 196,
+      "mode": 438
+    }
+  },
+  "journal": {
+    "binary_sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+    "bound": {
+      "actor": "agent-ec0e2312-c10d-4027-bcc8-635475bf497b",
+      "binary": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+      "head": "6c835d4f25f39cbec35d25243120eecb190f5a0c",
+      "origin_sha256": "8bc676d39a055d38a87cb341c6c928aee082417a83df854af51f517270782467",
+      "peer": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-bootstrap\\peer",
+      "prefix": "wibqa",
+      "primary": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-bootstrap\\primary",
+      "publisher": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-bootstrap\\publisher",
+      "raw_sha256": "ac0b47eaba39791dc09708e2c7815a246e11c1fefcc870a427b3c617ceb3a8ec",
+      "title": "Windows B3 resume-bootstrap synthetic task"
+    },
+    "peer_init": {
+      "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "head": "6c835d4f25f39cbec35d25243120eecb190f5a0c",
+      "index_sha256": "6d3b767a14f8ae723021f802ec3ed85dc928504f1df58c7d365ecacfc5c181aa",
+      "metadata_sha256": "55b2e4681227c3fbc3774d069c074fbc54594b67223114a98d0916caf4cf5d15"
+    },
+    "primary_init": {
+      "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "head": "6c835d4f25f39cbec35d25243120eecb190f5a0c",
+      "index_sha256": "9d96e8ab2016cc500c711af2945c880f36b4196b1507e77b4456fec2df867152",
+      "metadata_sha256": "634d6ffe05bc307706d922521905a99226d026a8e92237405091405870fa0a66"
+    },
+    "stage": "bootstrapped",
+    "version": 1
+  }
+}

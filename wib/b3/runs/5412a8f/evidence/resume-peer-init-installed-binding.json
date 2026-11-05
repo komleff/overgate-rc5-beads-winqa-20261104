@@ -1,0 +1,99 @@
+{
+  "source": "5412a8f25fe94f2e6c313357e556717469514f14",
+  "target": "fd64fa03abf39fb4fbbbfea4540e106f0b62c1c5",
+  "paths": {
+    "scripts/bd-read.sh": {
+      "source": "754c5c2ac820dc0538c611c32615ceec478024af327720b9e574f367a59d80d8",
+      "installed": "754c5c2ac820dc0538c611c32615ceec478024af327720b9e574f367a59d80d8"
+    },
+    "scripts/bd-wt.sh": {
+      "source": "26a1e79e8b8806faaaaa70d59687f02a6f5f865b3c73616c8336321d3e027f42",
+      "installed": "26a1e79e8b8806faaaaa70d59687f02a6f5f865b3c73616c8336321d3e027f42"
+    },
+    "scripts/lib/bd-env.sh": {
+      "source": "38e633153f2913efafca7e6833897ce113edd205020e28095ebdff7e6c44a8f2",
+      "installed": "38e633153f2913efafca7e6833897ce113edd205020e28095ebdff7e6c44a8f2"
+    },
+    "scripts/lib/bd-read-engine.mjs": {
+      "source": "df581a2d632230de1f78015c03f840cd07296218840207d9ec76525a3289498b",
+      "installed": "df581a2d632230de1f78015c03f840cd07296218840207d9ec76525a3289498b"
+    },
+    "scripts/bd-apply-intents.sh": {
+      "source": "371bb872d9d16365bf87ac59fdffe96f846ae715d189b57dca70b9f9ee6a9bf1",
+      "installed": "371bb872d9d16365bf87ac59fdffe96f846ae715d189b57dca70b9f9ee6a9bf1"
+    },
+    "scripts/bd-activate.sh": {
+      "source": "279efed87b790eccc5bd38eabd0ddf624356de4acaa6482fd4cb122df7418cb8",
+      "installed": "279efed87b790eccc5bd38eabd0ddf624356de4acaa6482fd4cb122df7418cb8"
+    },
+    "scripts/bd-activate.py": {
+      "source": "8e9c8858a97284c0c4dfda870d96cdbd0890c2ca7c0cf912862b411c6142567d",
+      "installed": "8e9c8858a97284c0c4dfda870d96cdbd0890c2ca7c0cf912862b411c6142567d"
+    },
+    "scripts/bd-publisher-setup.mjs": {
+      "source": "48c020f068169e8df5d08d5e4623a1d42cbdd593312f114dbc1b82795b074040",
+      "installed": "48c020f068169e8df5d08d5e4623a1d42cbdd593312f114dbc1b82795b074040"
+    },
+    "scripts/lib/bd-publisher-push-guard.mjs": {
+      "source": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "installed": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde"
+    },
+    "scripts/lib/bd-managed-cli.mjs": {
+      "source": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "installed": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5"
+    },
+    "scripts/lib/bd-managed-contract.mjs": {
+      "source": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "installed": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e"
+    },
+    "scripts/lib/bd-managed-entry.mjs": {
+      "source": "b82c7bb733cbd33255840aee747a0b5f8dfe04f11a4e1e46da304314863b4dab",
+      "installed": "b82c7bb733cbd33255840aee747a0b5f8dfe04f11a4e1e46da304314863b4dab"
+    },
+    "scripts/lib/bd-git-environment.mjs": {
+      "source": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "installed": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99"
+    },
+    "scripts/lib/bd-managed-git.mjs": {
+      "source": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "installed": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad"
+    },
+    "scripts/lib/bd-managed-journal.mjs": {
+      "source": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "installed": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d"
+    },
+    "scripts/lib/bd-managed-project.mjs": {
+      "source": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "installed": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af"
+    },
+    "scripts/lib/bd-managed-read-check.mjs": {
+      "source": "427927f80aa2c22a1fed99998454418637e6f1c83d4edc33ec07a5162dfb8990",
+      "installed": "427927f80aa2c22a1fed99998454418637e6f1c83d4edc33ec07a5162dfb8990"
+    },
+    "scripts/lib/bd-managed-transaction.mjs": {
+      "source": "2f4fad6f23be205a2a3e77dc29f07b2bd81c6320c80c6bb9abc7cc4703d4f420",
+      "installed": "2f4fad6f23be205a2a3e77dc29f07b2bd81c6320c80c6bb9abc7cc4703d4f420"
+    },
+    "scripts/lib/bd-snapshot.mjs": {
+      "source": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "installed": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e"
+    },
+    "scripts/bd-sync-common.sh": {
+      "source": "241b948140b737f36a4e6bb17cfc9452feae6fc2b4ee44cf50b8fd470d9c2c87",
+      "installed": "241b948140b737f36a4e6bb17cfc9452feae6fc2b4ee44cf50b8fd470d9c2c87"
+    },
+    "scripts/bd-sync-export.sh": {
+      "source": "2ea17c30c38cabe513f52d1db0576bc755f65f0913faf387c790bc45043279cc",
+      "installed": "2ea17c30c38cabe513f52d1db0576bc755f65f0913faf387c790bc45043279cc"
+    },
+    "scripts/bd-sync-restore.sh": {
+      "source": "fea2109bd34c5cc49cea8159a203aee1d220c8b121f494d11f481b5ab11d80ff",
+      "installed": "fea2109bd34c5cc49cea8159a203aee1d220c8b121f494d11f481b5ab11d80ff"
+    },
+    "scripts/bd-bootstrap.sh": {
+      "source": "c37526d351cce7a56922221c47dd6d75d1a6c8178601256e369a684d6a8c4828",
+      "installed": "c37526d351cce7a56922221c47dd6d75d1a6c8178601256e369a684d6a8c4828"
+    }
+  },
+  "all_local_DB_absent": true
+}

@@ -1,0 +1,7 @@
+Plan + Verification Contract: docs/plans/2026-11-05-v4.0.0-rc.5-install-activation.md v0.1, blob 5dedca627bf31916b871d85e88c4906551aaf576; B1–B6, named risks I1–I7, rollback.
+Source: docs/plans/2026-11-03-v4.0.0-rc.5-beads.md §3 WI-B, AC1/2/7/8/9/10; WI-A PR #14 is prerequisite.
+Mode: CRITICAL — installer protocol switch, shared task authority, data-loss and rollback risk.
+Acceptance: byte-exact managed closure; pre-write local/remote/pending inventory; fresh install PR without Beads write; post-merge trusted-main activation with real ID/claim/published SHA/peer read-back; legacy preservation and explicit switch; --no-beads, project-owned files and rollback retained.
+OUT: automatic real U2/Toon/OverGate DB migration, PR-branch Beads write, WI-A publisher internals, WI-C Bash recovery, routine operator task application.
+Release: WI-B acceptance + native Win/Mac/Linux installed QA + final exact-HEAD checks; overall rc.5 after WI-A/B/C and operator merge; PM publishes prerelease, stable Latest unchanged.
+

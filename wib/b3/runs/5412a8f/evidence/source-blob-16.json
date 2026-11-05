@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "5412a8f25fe94f2e6c313357e556717469514f14:scripts/bd-read.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.023,
+  "stdout": "c54844a0bc57b1fd5c1df37d0a8dea0b6edab13e\n",
+  "stderr": "",
+  "stdout_sha256": "0ca441d9eb5becb83eec40feb36cbf5f69bef438ae3e3b907191cde861241aa5",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

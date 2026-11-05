@@ -1,0 +1,132 @@
+{
+  "source": "5412a8f25fe94f2e6c313357e556717469514f14",
+  "target": "9dbe27025c62b503e0bcd7cd1c9af71e2a1d9da6",
+  "literal_root": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\Проект's (QA) space",
+  "invocation": [
+    "bash",
+    "scripts/bd-activate.sh",
+    "--publisher-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/Проект's (QA) space/publisher",
+    "--peer-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/Проект's (QA) space/peer",
+    "--bd-bin",
+    "D:/CodexArtifacts/overgate-rc4-winqa-20261103/tools/bd.exe",
+    "--prefix",
+    "wibqa",
+    "--actor",
+    "agent-5bc90b90-5cfd-4243-baa7-bbcefb50157e",
+    "--title",
+    "Windows B3 complex-path synthetic actual task",
+    "--work-dir",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/activation-work/complex"
+  ],
+  "exit_code": 0,
+  "refs": {
+    "real": "refs/heads/beads-backup 5ecc25d571042200a3ef5ad409bfe4accd379210\nrefs/heads/main 9dbe27025c62b503e0bcd7cd1c9af71e2a1d9da6\n",
+    "attacker": "refs/heads/main 9dbe27025c62b503e0bcd7cd1c9af71e2a1d9da6\n",
+    "peer": "refs/heads/main 9dbe27025c62b503e0bcd7cd1c9af71e2a1d9da6\nrefs/remotes/origin/HEAD 9dbe27025c62b503e0bcd7cd1c9af71e2a1d9da6\nrefs/remotes/origin/beads-backup 5ecc25d571042200a3ef5ad409bfe4accd379210\nrefs/remotes/origin/main 9dbe27025c62b503e0bcd7cd1c9af71e2a1d9da6\n"
+  },
+  "work_files": {
+    "activation-checkpoint.json": {
+      "sha256": "283481f839e85d769b849e185c8746bb9dd26a02190f68b9dc364d98bb59f617",
+      "bytes": 4263,
+      "mode": 438
+    },
+    "peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "prepared.v2.jsonl": {
+      "sha256": "c18c5c63c3fa2672a440cf25f3ad2c9bb3cc7cfa355d7d0ff03d413bd4949582",
+      "bytes": 621,
+      "mode": 438
+    },
+    "primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "published.json": {
+      "sha256": "42cc3854b220d4a407fe53093727f3378afef6fb2f4f910998bfbebd2c3337e8",
+      "bytes": 81,
+      "mode": 438
+    },
+    "publisher-setup.json": {
+      "sha256": "079f14dc4f5aea829b3d5d1534ef9fe55948daf941fc6f35936f42f665d56fed",
+      "bytes": 11339,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/managed/guard-config.json": {
+      "sha256": "bdc02565e4c7ca64d74db46dd0e5529658ee952c191c925eb6fb7034def30b03",
+      "bytes": 2014,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/managed/pre-push": {
+      "sha256": "e9376434276ca449176e1fd67518715bdbff4a1f0494f630d3c758ca50a33e3f",
+      "bytes": 763,
+      "mode": 438
+    },
+    "publisher-setup.json.artifacts/retired/guard-config.json": {
+      "sha256": "4edaf4d36f29644c21443d2131bac68d37bddbf7d41ddce980c54112bf66ff71",
+      "bytes": 2012,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/retired/pre-push": {
+      "sha256": "9d9b7911b5e4332856978d2a5e67e46c864b2aad886499fa52e8e0fd4e9ac05b",
+      "bytes": 757,
+      "mode": 438
+    },
+    "publisher-setup.json.artifacts/runtime/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "raw-intents.jsonl": {
+      "sha256": "24098b839c9bc0335ff4435f21eeae137fad9588ce7e559e3838fc1b842ba0a0",
+      "bytes": 199,
+      "mode": 438
+    }
+  },
+  "local_DB_present": {
+    "primary": true,
+    "publisher": false,
+    "peer": true
+  },
+  "before_after_equal": false
+}

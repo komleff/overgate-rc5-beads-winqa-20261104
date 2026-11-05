@@ -1,0 +1,20 @@
+{
+  "source": "5412a8f25fe94f2e6c313357e556717469514f14",
+  "target": "bdcf072d16d9f54a6917d18b0fdea39a6de72db7",
+  "id": "wibqa-ury",
+  "actor": "agent-91cb22a8-9531-428e-81f6-1f3ea0282885",
+  "claims_confirmed": true,
+  "real_R": "33f864a7255df6fcfc5072f7c3803eb6515ccfdc",
+  "peer_R": "33f864a7255df6fcfc5072f7c3803eb6515ccfdc",
+  "attacker_R": null,
+  "attacker_all_bytes_unchanged": true,
+  "raw_pushurl_spoof_proved": true,
+  "full_peer_object_equal": true,
+  "override": {
+    "GIT_CONFIG_COUNT": "2",
+    "GIT_CONFIG_KEY_0": "remote.origin.url",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/inherited-COUNT-spoof/attacker.git",
+    "GIT_CONFIG_KEY_1": "remote.origin.pushurl",
+    "GIT_CONFIG_VALUE_1": "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/inherited-COUNT-spoof/attacker.git"
+  }
+}

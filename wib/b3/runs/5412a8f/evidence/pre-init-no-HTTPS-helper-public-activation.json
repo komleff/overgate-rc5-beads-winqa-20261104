@@ -1,0 +1,29 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-activate.sh",
+    "--publisher-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/pre-init-no-HTTPS-helper/publisher",
+    "--peer-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/cases/pre-init-no-HTTPS-helper/peer",
+    "--bd-bin",
+    "D:/CodexArtifacts/overgate-rc4-winqa-20261103/tools/bd.exe",
+    "--prefix",
+    "wibqa",
+    "--actor",
+    "agent-a8a5de0f-63c9-4581-a171-a493aaec43d4",
+    "--title",
+    "Windows B3 pre-init-no-HTTPS-helper synthetic task",
+    "--work-dir",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-5412a8f-winqa-20261105/activation-work/pre-init-no-HTTPS-helper"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\pre-init-no-HTTPS-helper\\primary",
+  "env_overrides": {},
+  "exit_code": 1,
+  "expected": null,
+  "seconds": 2.075,
+  "stdout": "",
+  "stderr": "STOP: publisher HTTPS authentication unavailable under isolated config; configure a trusted repo-local credential.helper or use SSH agent origin; queue/base/actor retained: {\"actor\": \"agent-a8a5de0f-63c9-4581-a171-a493aaec43d4\", \"base\": \"0000000000000000000000000000000000000000\", \"queue\": \"D:\\\\CodexArtifacts\\\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\\\activation-work\\\\pre-init-no-HTTPS-helper\\\\raw-intents.jsonl\", \"queue_sha256\": \"8c1ecbfc34c80350af33752f195ead79719328283ccb0c390dfb8c343f7759e0\"}\r\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "275ffc5d7999c45a2daf337196aac2e8249d99a2189423d4f92893d676090951"
+}

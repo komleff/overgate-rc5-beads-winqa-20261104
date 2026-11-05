@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-apply-intents.sh",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\activation-work\\complex\\qa-lifecycle.v2.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\Проект's (QA) space\\publisher",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 6.436,
+  "stdout": "{\"status\":\"published\",\"published_sha\":\"b4a9f140cf2826b792873484dd39888ba0ce9f75\",\"queue_hash\":\"114fc6a9da8e905f1914d90f37edefc40d6e132abe50207287eb7313f8df39ae\",\"mutations\":2,\"outcomes\":[{\"intent_id\":\"qa-win-update\",\"payload_hash\":\"94dead7f130ab1e88e2a1bd770f3a96567e395a859b0e3a72679d6aded1c772e\",\"result\":{\"ref\":\"wibqa-i5n\"}},{\"intent_id\":\"qa-win-close\",\"payload_hash\":\"8c84ff5c0ab8048150a56e6c30392362c453417f5037c7c7d3810338a9c14338\",\"result\":{\"ref\":\"wibqa-i5n\"}}],\"claims\":[]}\n",
+  "stderr": "Warning: failed to commit beads files: exit status 128\n\n⚠ No Dolt remote configured\n  Issues are stored in local Dolt. .beads/issues.jsonl is an export,\n  not cross-machine sync or the source of truth.\n  To enable durable sync, add a git origin and then run:\n    bd dolt push\nExported 1 issues to C:\\Users\\komle\\AppData\\Local\\Temp\\overgate-bd-managed-1vMVJ3\\evidence\\export-1.jsonl\nExported 1 issues to C:\\Users\\komle\\AppData\\Local\\Temp\\overgate-bd-managed-1vMVJ3\\evidence\\export-2.jsonl\n",
+  "stdout_sha256": "cbdebf513ba8eaac372ca413d122fd39a9218aa3dff1f6a2a799d50894a902c1",
+  "stderr_sha256": "f5b8ad19c48885932f4e72c8ee4a00034b9d248371800d4e7616bc6821770841"
+}

@@ -1,0 +1,57 @@
+{
+  "files": {
+    "activation-checkpoint.json": {
+      "sha256": "ad833e7ff177a8487e55bd1a686e9cc2789e423534d41846ea63a3f29d5fa1f3",
+      "bytes": 1944,
+      "mode": 438
+    },
+    "peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "raw-intents.jsonl": {
+      "sha256": "4db3670f9cb9176a612fc02fbfa4edd554bbac309d1e11fa633df78e39ffdba5",
+      "bytes": 201,
+      "mode": 438
+    }
+  },
+  "journal": {
+    "binary_sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+    "bound": {
+      "actor": "agent-5bb97283-2387-4c04-87ba-f4bb1f82b638",
+      "binary": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+      "head": "73b2e4933f070aece62d074ac929bd6898437d32",
+      "origin_sha256": "ac88e17b64ccf252174b8b07eceb85df17ba6dda220ee14a5c2058911d7c317c",
+      "peer": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\origin-drift-negative\\peer",
+      "prefix": "wibqa",
+      "primary": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\origin-drift-negative\\primary",
+      "publisher": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\origin-drift-negative\\publisher",
+      "raw_sha256": "4db3670f9cb9176a612fc02fbfa4edd554bbac309d1e11fa633df78e39ffdba5",
+      "title": "Windows B3 origin-drift-negative synthetic task"
+    },
+    "peer_init": {
+      "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "head": "73b2e4933f070aece62d074ac929bd6898437d32",
+      "index_sha256": "e674aeb172bb6d17e379bb1737203e261e1847dae54c52e050ca851aea7f89c8",
+      "metadata_sha256": "d5340817c3d0c4fc422e8a4fe66bceeef91690a8b1a1f980be7c6a34b4b3758a"
+    },
+    "primary_init": {
+      "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "head": "73b2e4933f070aece62d074ac929bd6898437d32",
+      "index_sha256": "97efd767dfbbbbad91ad7b6d7ba40229d29744ffbecc850f9e1140e93527c231",
+      "metadata_sha256": "e8c019f919ea61ec3e9ca7f0bd29c5d762e82e338f9a399892f83958ce6d52f5"
+    },
+    "stage": "peer-init",
+    "version": 1
+  }
+}

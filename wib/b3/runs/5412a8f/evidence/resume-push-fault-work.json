@@ -1,0 +1,162 @@
+{
+  "files": {
+    "activation-checkpoint.json": {
+      "sha256": "db53456690eef0fda6c6e3305f84b1ee63c6397b1bd795e2fc9500931f0296de",
+      "bytes": 2739,
+      "mode": 438
+    },
+    "peer-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "prepared.v2.jsonl": {
+      "sha256": "063ab9877e4f2a432574cbef67f8815f7df5465ae8909fb81e991afa441dd2ac",
+      "bytes": 613,
+      "mode": 438
+    },
+    "primary-empty.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "publisher-setup.json": {
+      "sha256": "6eb6e7574fcaf31e75ac4058f7ca6b92ef0d67239828a5509f09e9a5fe57f224",
+      "bytes": 11101,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/managed/guard-config.json": {
+      "sha256": "ef4966df5ab5aafeef506a31717b07e23eedb13c09edea9ef88870799361a9c5",
+      "bytes": 1986,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/managed/pre-push": {
+      "sha256": "6e90ebaececb393d0f092a57690c39f7b6825db4647d57e19d376671bc44cb5d",
+      "bytes": 709,
+      "mode": 438
+    },
+    "publisher-setup.json.artifacts/retired/guard-config.json": {
+      "sha256": "199f2364ec76e8cbf4f8f3e0a57a9a66ecec34f1ffa0f91de52db9efe8bb0e7e",
+      "bytes": 1984,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/retired/pre-push": {
+      "sha256": "b72a8455ba52f01e88cf894be798c741962886144aca47e9e58215aa250bc33a",
+      "bytes": 703,
+      "mode": 438
+    },
+    "publisher-setup.json.artifacts/runtime/bd-git-environment.mjs": {
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "bytes": 833,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-cli.mjs": {
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "bytes": 19581,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-contract.mjs": {
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "bytes": 20111,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-git.mjs": {
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "bytes": 9467,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-journal.mjs": {
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "bytes": 17564,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-managed-project.mjs": {
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "bytes": 4111,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-publisher-push-guard.mjs": {
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "bytes": 7629,
+      "mode": 292
+    },
+    "publisher-setup.json.artifacts/runtime/bd-snapshot.mjs": {
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "bytes": 6526,
+      "mode": 292
+    },
+    "raw-intents.jsonl": {
+      "sha256": "99658d4a7dab8ae34ea67c60ffe33f2ca36f3f3ab5453e7a419c049852ce26f0",
+      "bytes": 191,
+      "mode": 438
+    }
+  },
+  "journal": {
+    "binary_sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+    "bound": {
+      "actor": "agent-f66d3a98-6437-4bcf-a83b-76954ce81d48",
+      "binary": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+      "head": "97babd7e96025373a1cd5abe89fa6ad4bb480826",
+      "origin_sha256": "24974462fc67cd955492f9f0e6420853b8340bd177a75fff0a80b34325f3adb6",
+      "peer": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-push\\peer",
+      "prefix": "wibqa",
+      "primary": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-push\\primary",
+      "publisher": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-5412a8f-winqa-20261105\\cases\\resume-push\\publisher",
+      "raw_sha256": "99658d4a7dab8ae34ea67c60ffe33f2ca36f3f3ab5453e7a419c049852ce26f0",
+      "title": "Windows B3 resume-push synthetic task"
+    },
+    "peer_init": {
+      "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "head": "97babd7e96025373a1cd5abe89fa6ad4bb480826",
+      "index_sha256": "3767376b68611d05bc13814ab2c3ab38c1473575e9fbb0c064318d41b80a7874",
+      "metadata_sha256": "3a7b31fe48115618d396dc74e5ebef4cd5ede43045e2bb82d0827da1120800ff"
+    },
+    "prepared_sha256": "063ab9877e4f2a432574cbef67f8815f7df5465ae8909fb81e991afa441dd2ac",
+    "primary_init": {
+      "config_sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "git_exclude_after_sha256": "7b8829ab784ca854e490c7bfde9f42032768c1b65e5a13bdb67fab8825c11049",
+      "git_exclude_before_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "head": "97babd7e96025373a1cd5abe89fa6ad4bb480826",
+      "index_sha256": "d5ca416e46abb258ba1a1559cbba43b2f5870640a8db939ffb5cdf1286097542",
+      "metadata_sha256": "be1bed4254f2e84255ae8f929b46b194bb450d79b4f00c267abff8cb4d5b30dc"
+    },
+    "published": {
+      "claims": [
+        {
+          "actor": "agent-f66d3a98-6437-4bcf-a83b-76954ce81d48",
+          "assignee": "agent-f66d3a98-6437-4bcf-a83b-76954ce81d48",
+          "confirmed": true,
+          "id": "wibqa-ww0",
+          "status": "in_progress"
+        }
+      ],
+      "mutations": 2,
+      "outcomes": [
+        {
+          "intent_id": "activation-create",
+          "payload_hash": "04234d4188d5324cccb81fb0be3241b0d9975551eb048c48c0cbd2d0d16770cf",
+          "result": {
+            "handles": {
+              "tmp:first-task": "wibqa-ww0"
+            },
+            "ref": "wibqa-ww0"
+          }
+        },
+        {
+          "intent_id": "activation-claim",
+          "payload_hash": "edd2e6fa8a94dbac3eabb33efb4cf8daf8e06805f5240ff2a9c7966fd31486ac",
+          "result": {
+            "ref": "wibqa-ww0"
+          }
+        }
+      ],
+      "published_sha": "c16b14657a0fb37c096050265cf502ac91a19f70",
+      "queue_hash": "5810d4615f066181ae75973264242bdf6f6dbcd824af672e7370ae0370e9f234",
+      "status": "published"
+    },
+    "stage": "published",
+    "version": 1
+  }
+}

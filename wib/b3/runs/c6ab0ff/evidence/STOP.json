@@ -1,0 +1,5 @@
+{
+  "source": "c6ab0ffb45ec14abf58d0e930d64c220cee73658",
+  "error": "first actual product FAIL: complex-installed activation RC1 STOP: trusted root mismatch\r\n",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\CodexArtifacts\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\common.py\", line 34, in guard\n    try:main()\n        ~~~~^^\n  File \"D:\\CodexArtifacts\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\complex_first.py\", line 12, in main\n    raise AssertionError('first actual product FAIL: '+n+' activation RC'+str(q.returncode)+' '+q.stderr.decode('utf-8','replace'))\nAssertionError: first actual product FAIL: complex-installed activation RC1 STOP: trusted root mismatch\r\n\n"
+}

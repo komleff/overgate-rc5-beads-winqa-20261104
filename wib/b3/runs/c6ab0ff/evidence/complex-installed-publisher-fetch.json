@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "fetch",
+    "origin",
+    "main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\cases\\Проект's (QA) space\\publisher",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.133,
+  "stdout": "",
+  "stderr": "From D:/CodexArtifacts/overgate-rc5-wib-b3-c6ab0ff-winqa-20261105/cases/Проект's (QA) space/real\n * branch            main       -> FETCH_HEAD\n   cd3dac9..e5290bc  main       -> origin/main\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "72658d9c7feb55a32a20ba8754672f7611a70ca43b25cb0759ae9331a4341d94"
+}

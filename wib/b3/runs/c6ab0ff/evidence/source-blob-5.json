@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "c6ab0ffb45ec14abf58d0e930d64c220cee73658:.claude/hooks/commit_command_classifier.py"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "f4a8e8d2b43d00a517081542bbdf6e49f4c2ab6b\n",
+  "stderr": "",
+  "stdout_sha256": "fa49bf1853affff303180ec9aef0dea394e5ea77fdca2e37a7d01c0681de7fdb",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

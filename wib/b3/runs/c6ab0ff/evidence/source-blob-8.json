@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "c6ab0ffb45ec14abf58d0e930d64c220cee73658:.claude/tools/with-timeout.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.024,
+  "stdout": "ff65ff64d54b3734ef95088dbc0999d4824e6941\n",
+  "stderr": "",
+  "stdout_sha256": "3c059aef3439dd28a1a6b283711f21bb24ac4d36e02a6fd66c4f81ca994612e0",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

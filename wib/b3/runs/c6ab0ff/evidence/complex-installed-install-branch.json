@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "switch",
+    "-c",
+    "qa/install-fixture"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\cases\\Проект's (QA) space\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.037,
+  "stdout": "",
+  "stderr": "Switched to a new branch 'qa/install-fixture'\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "825217b95caf9f8e6d6c6f6401f3464522d630ac734c0418da6d1d8f425f868c"
+}

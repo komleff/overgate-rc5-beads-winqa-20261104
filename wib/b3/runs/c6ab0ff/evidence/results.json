@@ -1,0 +1,79 @@
+[
+  {
+    "case": "complex-installed-public-activation",
+    "ac": "B3 I2/I4/I5/I6",
+    "result": "FAIL",
+    "method": "Actual installed public relative Git Bash activation in required combined Windows path; stop at first actual product failure",
+    "evidence": "complex-installed-activation.json"
+  },
+  {
+    "case": "origin-drift negative after peer-init",
+    "ac": "B3 / boundary",
+    "result": "NOT RUN",
+    "method": "Stopped at first actual product FAIL on fresh required complex-path case; no further candidate execution",
+    "evidence": "complex-installed-activation-state.json"
+  },
+  {
+    "case": "positive same-origin after-peer-init resume",
+    "ac": "B3 / boundary",
+    "result": "NOT RUN",
+    "method": "Stopped at first actual product FAIL on fresh required complex-path case; no further candidate execution",
+    "evidence": "complex-installed-activation-state.json"
+  },
+  {
+    "case": "after-publisher-setup resume",
+    "ac": "B3 / boundary",
+    "result": "NOT RUN",
+    "method": "Stopped at first actual product FAIL on fresh required complex-path case; no further candidate execution",
+    "evidence": "complex-installed-activation-state.json"
+  },
+  {
+    "case": "after-bootstrap resume",
+    "ac": "B3 / boundary",
+    "result": "NOT RUN",
+    "method": "Stopped at first actual product FAIL on fresh required complex-path case; no further candidate execution",
+    "evidence": "complex-installed-activation-state.json"
+  },
+  {
+    "case": "after-push resume",
+    "ac": "B3 / boundary",
+    "result": "NOT RUN",
+    "method": "Stopped at first actual product FAIL on fresh required complex-path case; no further candidate execution",
+    "evidence": "complex-installed-activation-state.json"
+  },
+  {
+    "case": "pre-init missing identity",
+    "ac": "B3 / boundary",
+    "result": "NOT RUN",
+    "method": "Stopped at first actual product FAIL on fresh required complex-path case; no further candidate execution",
+    "evidence": "complex-installed-activation-state.json"
+  },
+  {
+    "case": "pre-init no HTTPS helper",
+    "ac": "B3 / boundary",
+    "result": "NOT RUN",
+    "method": "Stopped at first actual product FAIL on fresh required complex-path case; no further candidate execution",
+    "evidence": "complex-installed-activation-state.json"
+  },
+  {
+    "case": "wrong-remote COUNT",
+    "ac": "B3 / boundary",
+    "result": "NOT RUN",
+    "method": "Stopped at first actual product FAIL on fresh required complex-path case; no further candidate execution",
+    "evidence": "complex-installed-activation-state.json"
+  },
+  {
+    "case": "create-claim-update-close peer lifecycle",
+    "ac": "B3 / boundary",
+    "result": "NOT RUN",
+    "method": "Stopped at first actual product FAIL on fresh required complex-path case; no further candidate execution",
+    "evidence": "complex-installed-activation-state.json"
+  },
+  {
+    "case": "B4 / authenticated GitHub HTTPS SSH",
+    "ac": "B3 / boundary",
+    "result": "NOT RUN",
+    "method": "Stopped at first actual product FAIL on fresh required complex-path case; no further candidate execution",
+    "evidence": "complex-installed-activation-state.json"
+  }
+]

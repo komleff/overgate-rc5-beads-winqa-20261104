@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "C:\\Python314\\python.exe",
+    "-I",
+    "-B",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\read_only_encoding_probe.py",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\cases\\Проект's (QA) space\\primary"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\cases\\Проект's (QA) space\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.096,
+  "stdout": "{\"actual_root\": \"D:\\\\CodexArtifacts\\\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\\\cases\\\\\\u041f\\u0440\\u043e\\u0435\\u043a\\u0442's (QA) space\\\\primary\", \"argv\": [\"git\", \"-C\", \"D:\\\\CodexArtifacts\\\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\\\cases\\\\\\u041f\\u0440\\u043e\\u0435\\u043a\\u0442's (QA) space\\\\primary\", \"rev-parse\", \"--show-toplevel\"], \"decoded_default_text\": \"D:/CodexArtifacts/overgate-rc5-wib-b3-c6ab0ff-winqa-20261105/cases/\\u0420\\u045f\\u0421\\u0402\\u0420\\u0455\\u0420\\u00b5\\u0420\\u0454\\u0421\\u201a's (QA) space/primary\", \"decoded_utf8\": \"D:/CodexArtifacts/overgate-rc5-wib-b3-c6ab0ff-winqa-20261105/cases/\\u041f\\u0440\\u043e\\u0435\\u043a\\u0442's (QA) space/primary\", \"default_text_path_equals_root\": false, \"locale_encoding\": \"cp1251\", \"method\": \"read-only native isolated Python/Git encoding diagnostic; no candidate source imported or executed\", \"preferred_encoding\": \"cp1251\", \"python\": \"C:\\\\Python314\\\\python.exe\", \"raw_stdout_hex\": \"443a2f436f6465784172746966616374732f6f766572676174652d7263352d7769622d62332d633661623066662d77696e71612d32303236313130352f63617365732fd09fd180d0bed0b5d0bad182277320285141292073706163652f7072696d6172790a\", \"utf8_mode\": 0, \"utf8_path_equals_root\": true}\r\n",
+  "stderr": "",
+  "stdout_sha256": "6068cd150d30cf66592711f448e15ad53cf19addcfda5049cb1f092c71b85f18",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

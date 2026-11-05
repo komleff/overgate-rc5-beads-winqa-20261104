@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "for-each-ref",
+    "--format=%(refname) %(objectname)"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-c6ab0ff-winqa-20261105\\cases\\Проект's (QA) space\\peer",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.02,
+  "stdout": "refs/heads/main e5290bce1a272df55612ab0f9246c6bdd08def24\nrefs/remotes/origin/HEAD e5290bce1a272df55612ab0f9246c6bdd08def24\nrefs/remotes/origin/main e5290bce1a272df55612ab0f9246c6bdd08def24\n",
+  "stderr": "",
+  "stdout_sha256": "c8b0a4882337460edb9aa1f06a2b54dd31c686c5e8d56fa67e61671e07143034",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

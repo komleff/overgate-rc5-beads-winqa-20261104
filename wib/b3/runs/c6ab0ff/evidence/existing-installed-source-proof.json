@@ -1,0 +1,17 @@
+{
+  "scripts/bd-activate.sh": {
+    "installed_exists": true,
+    "installed_sha256": "279efed87b790eccc5bd38eabd0ddf624356de4acaa6482fd4cb122df7418cb8",
+    "source_sha256": "279efed87b790eccc5bd38eabd0ddf624356de4acaa6482fd4cb122df7418cb8"
+  },
+  "scripts/bd-activate.py": {
+    "installed_exists": true,
+    "installed_sha256": "2461940debf06e7f07ea1ac948a82e9a9ab14a56dd9958230ae8fda23b7c1a69",
+    "source_sha256": "2461940debf06e7f07ea1ac948a82e9a9ab14a56dd9958230ae8fda23b7c1a69"
+  },
+  ".claude/tools/run-python.sh": {
+    "installed_exists": true,
+    "installed_sha256": "9c66b06e59f15a990ae3f5e39f98867ad0877c5a60be0f099bac6c2a19a50f74",
+    "source_sha256": "9c66b06e59f15a990ae3f5e39f98867ad0877c5a60be0f099bac6c2a19a50f74"
+  }
+}

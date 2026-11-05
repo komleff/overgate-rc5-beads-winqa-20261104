@@ -1,0 +1,23 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--single-branch",
+    "--branch",
+    "main",
+    "--no-hardlinks",
+    "-c",
+    "core.autocrlf=false",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b1\\real.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b1\\b1-parameters-url-bd-wt"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.123,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b1\\b1-parameters-url-bd-wt'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "0a8436d87bde9d4d93d24009b4c9dd0842d203d4105862d7f79702f1c18db912"
+}

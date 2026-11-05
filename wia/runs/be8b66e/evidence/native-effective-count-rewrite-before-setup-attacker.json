@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "for-each-ref",
+    "--format=%(refname) %(objectname)"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-count-rewrite\\attacker.git",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "refs/heads/main f3ba7cf4bb022d0cd5b012278ac970f6e8a77bcd\n",
+  "stderr": "",
+  "stdout_sha256": "e46c73063ee5943e5008a8cdeea041bb0e783f1406be32a8236d974efe30d842",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

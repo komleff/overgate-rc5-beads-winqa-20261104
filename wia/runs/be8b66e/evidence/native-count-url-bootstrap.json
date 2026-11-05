@@ -1,0 +1,23 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\publisher\\scripts\\bd-apply-intents.sh",
+    "--bootstrap",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\publisher\\.git\\overgate-bd-managed\\preservation\\preservation.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\publisher",
+  "env_overrides": {
+    "GIT_CONFIG_COUNT": "2",
+    "GIT_CONFIG_KEY_0": "remote.origin.url",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git",
+    "GIT_CONFIG_KEY_1": "remote.origin.pushurl",
+    "GIT_CONFIG_VALUE_1": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.75,
+  "stdout": "{\"status\":\"bootstrapped\",\"base\":\"0000000000000000000000000000000000000000\",\"actor\":\"agent-97e339db-0f0e-4d80-a16d-2c314b180141\",\"outcome\":\"verified-absent\",\"legacy_store\":\"untouched\"}\n",
+  "stderr": "",
+  "stdout_sha256": "fe4924ca2b443147e873642f8b66daad79ea3f25910f9ebb9e326e270de5c23e",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

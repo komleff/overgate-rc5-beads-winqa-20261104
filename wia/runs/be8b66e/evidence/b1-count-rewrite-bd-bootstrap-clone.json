@@ -1,0 +1,23 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--single-branch",
+    "--branch",
+    "main",
+    "--no-hardlinks",
+    "-c",
+    "core.autocrlf=false",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b1\\real.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b1\\b1-count-rewrite-bd-bootstrap"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.12,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b1\\b1-count-rewrite-bd-bootstrap'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "5ddc1681b99a65880e6caf7bb8dfca7d9303afe2504a112952f1f914ce4ad0df"
+}

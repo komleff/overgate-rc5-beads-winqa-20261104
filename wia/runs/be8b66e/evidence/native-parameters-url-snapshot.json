@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "show",
+    "f496d08998478dcf136ec0555c919604753b8034:.beads/issues.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "{\"_type\":\"issue\",\"id\":\"wqa-imj\",\"title\":\"Windows wrong-remote parameters-url — synthetic task\",\"description\":\"Native pinned Windows source; publish only to real origin.\\nКириллица\",\"status\":\"in_progress\",\"priority\":2,\"issue_type\":\"task\",\"assignee\":\"agent-6ab19ca6-fcd2-4c66-a2b6-a50c7c3b11a3\",\"created_at\":\"2026-11-05T00:19:06Z\",\"created_by\":\"agent-6ab19ca6-fcd2-4c66-a2b6-a50c7c3b11a3\",\"updated_at\":\"2026-11-05T00:19:07Z\",\"started_at\":\"2026-11-05T00:19:07Z\",\"external_ref\":\"intent:native-parameters-url-create\",\"metadata\":{\"case\":\"parameters-url\",\"typed\":[1,true,null]},\"labels\":[\"synthetic\",\"windows-qa\"],\"dependency_count\":0,\"dependent_count\":0,\"comment_count\":0}\n",
+  "stderr": "",
+  "stdout_sha256": "2950b7b0af8cc6fcb084b8e04299b5aa3898ba1f05cf650206348e38fd11d61f",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+  "exit_code": 6,
+  "no_node_call": true,
+  "no_DB": true,
+  "all_bytes_unchanged": true,
+  "dirty_module_sha256": "1b956d1728b7268e504b8bb1dd56da1361bfc274546d7c0fe76bbb63832c5283",
+  "qa_correction": "tracked .beads config/metadata are not an embedded DB; original native call and snapshots reused without rerun"
+}

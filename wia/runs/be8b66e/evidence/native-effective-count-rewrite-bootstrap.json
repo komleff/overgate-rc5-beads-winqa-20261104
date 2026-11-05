@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-count-rewrite\\publisher\\scripts\\bd-apply-intents.sh",
+    "--bootstrap",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-count-rewrite\\publisher\\.git\\overgate-bd-managed\\preservation\\preservation.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-count-rewrite\\publisher",
+  "env_overrides": {
+    "GIT_CONFIG_COUNT": "1",
+    "GIT_CONFIG_KEY_0": "url.D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-effective-count-rewrite/attacker.git.insteadOf",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-effective-count-rewrite/real.git"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.864,
+  "stdout": "{\"status\":\"bootstrapped\",\"base\":\"0000000000000000000000000000000000000000\",\"actor\":\"agent-9ad2f261-903b-4133-8b33-025d46a3cb6f\",\"outcome\":\"verified-absent\",\"legacy_store\":\"untouched\"}\n",
+  "stderr": "",
+  "stdout_sha256": "2b6e942c3d2ce01738baa264ce5376c9c226a5bf597756f3b1f8cf697456e892",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

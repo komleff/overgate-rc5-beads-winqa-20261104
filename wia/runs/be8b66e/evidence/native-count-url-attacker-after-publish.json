@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "for-each-ref",
+    "--format=%(refname) %(objectname)"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\attacker-origin.git",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.02,
+  "stdout": "refs/heads/main ec95d91dda3f26386d80cbcf0a261eb5641e73be\n",
+  "stderr": "",
+  "stdout_sha256": "c9e62c9e632388a2d0f970853da10f1dd13a8b009525d52329fc61fa9c12ac32",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

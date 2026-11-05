@@ -1,0 +1,326 @@
+{
+  "source": "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+  "target": "ec95d91dda3f26386d80cbcf0a261eb5641e73be",
+  "paths": {
+    ".claude/tools/README.md": {
+      "source": "d968827a0e3f941b4671e4b5fb0aa4b6024122458a80abc9bf864e089e638ada",
+      "installed": "d968827a0e3f941b4671e4b5fb0aa4b6024122458a80abc9bf864e089e638ada"
+    },
+    ".claude/tools/codex-account-switch.ps1": {
+      "source": "58da965fd6be6bae7e7ee6c53f5b7cb745b8f79e5f05ba5e7194132593ae2939",
+      "installed": "58da965fd6be6bae7e7ee6c53f5b7cb745b8f79e5f05ba5e7194132593ae2939"
+    },
+    ".claude/tools/openai-review.mjs": {
+      "source": "8a834f0a62e558a1c5f5c89faf7346b2bb44f28dcc1bf3da0cd816e6e143ddcc",
+      "installed": "8a834f0a62e558a1c5f5c89faf7346b2bb44f28dcc1bf3da0cd816e6e143ddcc"
+    },
+    ".claude/tools/package-lock.json": {
+      "source": "a025e6d926c518f161fcd64dff7dee4c22b9a952b5742940db444ae5cc75d326",
+      "installed": "a025e6d926c518f161fcd64dff7dee4c22b9a952b5742940db444ae5cc75d326"
+    },
+    ".claude/tools/package.json": {
+      "source": "4d71ac1c199ce6cbe3b9ac313427f40cb349a4f56a2e930ef82737c542bc207f",
+      "installed": "4d71ac1c199ce6cbe3b9ac313427f40cb349a4f56a2e930ef82737c542bc207f"
+    },
+    ".claude/tools/publish-pr-comment.py": {
+      "source": "a19b837c1fe07cf5d4432ad310c9bce6afec0933fb4d46f1ec609f040389f0bd",
+      "installed": "a19b837c1fe07cf5d4432ad310c9bce6afec0933fb4d46f1ec609f040389f0bd"
+    },
+    ".claude/tools/run-python.sh": {
+      "source": "6b174974380f2e3c76ea06cb3e89d1811aeddd3d5258db9c4343cd180217d1a8",
+      "installed": "6b174974380f2e3c76ea06cb3e89d1811aeddd3d5258db9c4343cd180217d1a8"
+    },
+    ".claude/tools/smoke-test.mjs": {
+      "source": "75bc58d7d060d01c136084ea85e9f367bc3261a0c8e22a9fc6aee22202747737",
+      "installed": "75bc58d7d060d01c136084ea85e9f367bc3261a0c8e22a9fc6aee22202747737"
+    },
+    ".claude/tools/with-timeout.sh": {
+      "source": "0b3ee3dab6b65e1bc5d7a5b854fa567b9d962c1d993f0ddfcce8e3f817c5d717",
+      "installed": "0b3ee3dab6b65e1bc5d7a5b854fa567b9d962c1d993f0ddfcce8e3f817c5d717"
+    },
+    "scripts/bd-apply-intents.sh": {
+      "source": "8ac5ebd60c45817cde344770330f7900014ec6c7889bd0e14691335c12e058c4",
+      "installed": "8ac5ebd60c45817cde344770330f7900014ec6c7889bd0e14691335c12e058c4"
+    },
+    "scripts/bd-bootstrap.sh": {
+      "source": "c37526d351cce7a56922221c47dd6d75d1a6c8178601256e369a684d6a8c4828",
+      "installed": "c37526d351cce7a56922221c47dd6d75d1a6c8178601256e369a684d6a8c4828"
+    },
+    "scripts/bd-publisher-setup.mjs": {
+      "source": "48c020f068169e8df5d08d5e4623a1d42cbdd593312f114dbc1b82795b074040",
+      "installed": "48c020f068169e8df5d08d5e4623a1d42cbdd593312f114dbc1b82795b074040"
+    },
+    "scripts/bd-read.sh": {
+      "source": "ac422fbe8675770e2e8dd64f247896d73ace877b00b9cf4af3a2dac5382f9e83",
+      "installed": "ac422fbe8675770e2e8dd64f247896d73ace877b00b9cf4af3a2dac5382f9e83"
+    },
+    "scripts/bd-sync-common.sh": {
+      "source": "241b948140b737f36a4e6bb17cfc9452feae6fc2b4ee44cf50b8fd470d9c2c87",
+      "installed": "241b948140b737f36a4e6bb17cfc9452feae6fc2b4ee44cf50b8fd470d9c2c87"
+    },
+    "scripts/bd-sync-export.sh": {
+      "source": "2ea17c30c38cabe513f52d1db0576bc755f65f0913faf387c790bc45043279cc",
+      "installed": "2ea17c30c38cabe513f52d1db0576bc755f65f0913faf387c790bc45043279cc"
+    },
+    "scripts/bd-sync-restore.sh": {
+      "source": "fea2109bd34c5cc49cea8159a203aee1d220c8b121f494d11f481b5ab11d80ff",
+      "installed": "fea2109bd34c5cc49cea8159a203aee1d220c8b121f494d11f481b5ab11d80ff"
+    },
+    "scripts/bd-wt.sh": {
+      "source": "26a1e79e8b8806faaaaa70d59687f02a6f5f865b3c73616c8336321d3e027f42",
+      "installed": "26a1e79e8b8806faaaaa70d59687f02a6f5f865b3c73616c8336321d3e027f42"
+    },
+    "scripts/check-reference.py": {
+      "source": "d7b56fb44d4ed9ca9717d07680fb7c866f5b1651ba647f33cbb49104b592714a",
+      "installed": "d7b56fb44d4ed9ca9717d07680fb7c866f5b1651ba647f33cbb49104b592714a"
+    },
+    "scripts/install-overgate.py": {
+      "source": "a3cbafd0c1e9f87230e544d31a5d68a186ac8a6711ae963c7a7f224dff7119cd",
+      "installed": "a3cbafd0c1e9f87230e544d31a5d68a186ac8a6711ae963c7a7f224dff7119cd"
+    },
+    "scripts/lib/bd-env.sh": {
+      "source": "66765b3edd608b5ff10f0873d229d0acf0bcb5c13ed148d5705815312e36b915",
+      "installed": "66765b3edd608b5ff10f0873d229d0acf0bcb5c13ed148d5705815312e36b915"
+    },
+    "scripts/lib/bd-git-environment.mjs": {
+      "source": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "installed": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99"
+    },
+    "scripts/lib/bd-managed-cli.mjs": {
+      "source": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "installed": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5"
+    },
+    "scripts/lib/bd-managed-contract.mjs": {
+      "source": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "installed": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e"
+    },
+    "scripts/lib/bd-managed-entry.mjs": {
+      "source": "b82c7bb733cbd33255840aee747a0b5f8dfe04f11a4e1e46da304314863b4dab",
+      "installed": "b82c7bb733cbd33255840aee747a0b5f8dfe04f11a4e1e46da304314863b4dab"
+    },
+    "scripts/lib/bd-managed-git.mjs": {
+      "source": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "installed": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad"
+    },
+    "scripts/lib/bd-managed-journal.mjs": {
+      "source": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "installed": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d"
+    },
+    "scripts/lib/bd-managed-project.mjs": {
+      "source": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "installed": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af"
+    },
+    "scripts/lib/bd-managed-read-check.mjs": {
+      "source": "427927f80aa2c22a1fed99998454418637e6f1c83d4edc33ec07a5162dfb8990",
+      "installed": "427927f80aa2c22a1fed99998454418637e6f1c83d4edc33ec07a5162dfb8990"
+    },
+    "scripts/lib/bd-managed-transaction.mjs": {
+      "source": "2f4fad6f23be205a2a3e77dc29f07b2bd81c6320c80c6bb9abc7cc4703d4f420",
+      "installed": "2f4fad6f23be205a2a3e77dc29f07b2bd81c6320c80c6bb9abc7cc4703d4f420"
+    },
+    "scripts/lib/bd-publisher-push-guard.mjs": {
+      "source": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "installed": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde"
+    },
+    "scripts/lib/bd-read-engine.mjs": {
+      "source": "df581a2d632230de1f78015c03f840cd07296218840207d9ec76525a3289498b",
+      "installed": "df581a2d632230de1f78015c03f840cd07296218840207d9ec76525a3289498b"
+    },
+    "scripts/lib/bd-snapshot.mjs": {
+      "source": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "installed": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e"
+    },
+    "scripts/og-init-memory-bank.sh": {
+      "source": "5340a1b4e174610d13d6f490bdb14fd90c7192a655f33164aaf29d1fb15f5c79",
+      "installed": "5340a1b4e174610d13d6f490bdb14fd90c7192a655f33164aaf29d1fb15f5c79"
+    },
+    "scripts/og-protect-main.sh": {
+      "source": "a4e7d41be216f50c2fb793947e45a6e1f7e5bf467f4d60359f964490def0c275",
+      "installed": "a4e7d41be216f50c2fb793947e45a6e1f7e5bf467f4d60359f964490def0c275"
+    },
+    "scripts/test-bd-sync.sh": {
+      "source": "da255250a136880dae5956be5d274a805b555318b9216c05de63aadc6935fb7a",
+      "installed": "da255250a136880dae5956be5d274a805b555318b9216c05de63aadc6935fb7a"
+    },
+    "scripts/tests/activation-routing.test.sh": {
+      "source": "946bee0d95ce20a90c3ccef2eac3f920a8216741ad49c3c442631f958a55bbae",
+      "installed": "946bee0d95ce20a90c3ccef2eac3f920a8216741ad49c3c442631f958a55bbae"
+    },
+    "scripts/tests/bd-bootstrap-native.test.py": {
+      "source": "a1388da0d02c3508dc1b8b8e9a0896f2b54294a8c8fbcf8cbbba00c35a67ba9b",
+      "installed": "a1388da0d02c3508dc1b8b8e9a0896f2b54294a8c8fbcf8cbbba00c35a67ba9b"
+    },
+    "scripts/tests/bd-linux-native-proof.test.mjs": {
+      "source": "1c719cccbd517a6ffe9eca48136de2da8b8e27e95f04b595d7f39b15eed6bc7d",
+      "installed": "1c719cccbd517a6ffe9eca48136de2da8b8e27e95f04b595d7f39b15eed6bc7d"
+    },
+    "scripts/tests/bd-managed-prefix.test.mjs": {
+      "source": "3d9c2617266c91eddbca36ad7a8c6b6303b9497c017d85c2b305882ae4cf8b84",
+      "installed": "3d9c2617266c91eddbca36ad7a8c6b6303b9497c017d85c2b305882ae4cf8b84"
+    },
+    "scripts/tests/bd-managed-routes.test.mjs": {
+      "source": "b21f5b5e03f27fe30a1dab0b2e4c01de68e9c994f9d87db74981c0235b6327bc",
+      "installed": "b21f5b5e03f27fe30a1dab0b2e4c01de68e9c994f9d87db74981c0235b6327bc"
+    },
+    "scripts/tests/bd-managed-snapshot.test.mjs": {
+      "source": "fceaa3c63446cf77da82e696083a4c2f3972064025413f8ae33e5fb8d9505e32",
+      "installed": "fceaa3c63446cf77da82e696083a4c2f3972064025413f8ae33e5fb8d9505e32"
+    },
+    "scripts/tests/bd-managed-two-clone.test.mjs": {
+      "source": "1431386583507d2e8f059f793e3b7a01ce42c5b4dc1183ddf6a8374843628242",
+      "installed": "1431386583507d2e8f059f793e3b7a01ce42c5b4dc1183ddf6a8374843628242"
+    },
+    "scripts/tests/bd-publisher-guard.test.mjs": {
+      "source": "1a8643bb23b8caea6f7ba82bb7ed30254e0e8ad780bf52e1bcc5ac4eefa6028b",
+      "installed": "1a8643bb23b8caea6f7ba82bb7ed30254e0e8ad780bf52e1bcc5ac4eefa6028b"
+    },
+    "scripts/tests/bd-publisher-setup.test.mjs": {
+      "source": "6f5d29db5c19133b49eb143c6e9f2825998bf4ea50b2edf0c5bb94aa626df416",
+      "installed": "6f5d29db5c19133b49eb143c6e9f2825998bf4ea50b2edf0c5bb94aa626df416"
+    },
+    "scripts/tests/bd-read.test.sh": {
+      "source": "b806fe2d064b8b9166b16b57d357239b0a06691c9ff0a505058c5f4142987604",
+      "installed": "b806fe2d064b8b9166b16b57d357239b0a06691c9ff0a505058c5f4142987604"
+    },
+    "scripts/tests/bd-wt.test.sh": {
+      "source": "4b3d8ddd4272da9baaded5952abd4108ec4436a6616853f4841223f9abe06a30",
+      "installed": "4b3d8ddd4272da9baaded5952abd4108ec4436a6616853f4841223f9abe06a30"
+    },
+    "scripts/tests/check-reference.test.py": {
+      "source": "576aecafdcfd1c4c49e013d0f9dc0955709986d7c8ab12ce92eb922035796e49",
+      "installed": "576aecafdcfd1c4c49e013d0f9dc0955709986d7c8ab12ce92eb922035796e49"
+    },
+    "scripts/tests/commit-command-classifier.test.sh": {
+      "source": "5aceb630f85c79fb730712785ecf9dc9b3d3e4c2087158a7cc707f4097563269",
+      "installed": "5aceb630f85c79fb730712785ecf9dc9b3d3e4c2087158a7cc707f4097563269"
+    },
+    "scripts/tests/commit-gate.test.py": {
+      "source": "f418c3a2cc49593d7588e9e49e9504ec27b7a58585a20e7821906bd5000ff267",
+      "installed": "f418c3a2cc49593d7588e9e49e9504ec27b7a58585a20e7821906bd5000ff267"
+    },
+    "scripts/tests/finalize-gate-script.test.sh": {
+      "source": "42d1fe8a7ede0e2b935f49765b81bcb0f0da49b570eeb6435f5d2c980a2251e8",
+      "installed": "42d1fe8a7ede0e2b935f49765b81bcb0f0da49b570eeb6435f5d2c980a2251e8"
+    },
+    "scripts/tests/finalize-no-beads.test.py": {
+      "source": "6a18bf23509454a2c5570c5b6058bf04d590d24169b58428373058522ac108ee",
+      "installed": "6a18bf23509454a2c5570c5b6058bf04d590d24169b58428373058522ac108ee"
+    },
+    "scripts/tests/finalize-triage-parse.test.sh": {
+      "source": "4bd5238bd06b40e9aaaef4f53c8cf7b3cdd540927d2803dd4924d9a0e314ed49",
+      "installed": "4bd5238bd06b40e9aaaef4f53c8cf7b3cdd540927d2803dd4924d9a0e314ed49"
+    },
+    "scripts/tests/fixtures/issues-nodeps.jsonl": {
+      "source": "2490de1e58c017a390e5415a9dce48c783bba31a08da75cae3ffb68f97cf7a10",
+      "installed": "2490de1e58c017a390e5415a9dce48c783bba31a08da75cae3ffb68f97cf7a10"
+    },
+    "scripts/tests/fixtures/issues.jsonl": {
+      "source": "570a98dbca551c3f4f0dfd97c86b054cf82b6da650a43204e6dfadeff0441f08",
+      "installed": "570a98dbca551c3f4f0dfd97c86b054cf82b6da650a43204e6dfadeff0441f08"
+    },
+    "scripts/tests/gate-arithmetic-expansion.test.sh": {
+      "source": "e86f3b284bc06ef79b688a089b21849aae3ecb5ac7dbf07587ac05b2f92e6ea5",
+      "installed": "e86f3b284bc06ef79b688a089b21849aae3ecb5ac7dbf07587ac05b2f92e6ea5"
+    },
+    "scripts/tests/gate-heredoc-delimiter.test.sh": {
+      "source": "f2bc7ef724cc243eb610fa00f4a9aa986d67f3a0ca9fdc5acda38c65c4b89525",
+      "installed": "f2bc7ef724cc243eb610fa00f4a9aa986d67f3a0ca9fdc5acda38c65c4b89525"
+    },
+    "scripts/tests/gate-line-continuation-parity.test.sh": {
+      "source": "e268783923a3f4764a80bdef00d2ddaba48fa757e19e34f079225420a4497e45",
+      "installed": "e268783923a3f4764a80bdef00d2ddaba48fa757e19e34f079225420a4497e45"
+    },
+    "scripts/tests/install-distribution.test.py": {
+      "source": "41339570cc2e4afeb3ef5af0b440e06848f3381d79c8fc00f4c595b6811942f0",
+      "installed": "41339570cc2e4afeb3ef5af0b440e06848f3381d79c8fc00f4c595b6811942f0"
+    },
+    "scripts/tests/install-helpers.test.py": {
+      "source": "bb28fca38e449d6e95bad142d981b30442167f4ee3a7c1252c5e9b345703376e",
+      "installed": "bb28fca38e449d6e95bad142d981b30442167f4ee3a7c1252c5e9b345703376e"
+    },
+    "scripts/tests/lib/assert.sh": {
+      "source": "b6cf2d26c97cd829bf11217b99d773442ac5811296bc69633351f670c8b9f468",
+      "installed": "b6cf2d26c97cd829bf11217b99d773442ac5811296bc69633351f670c8b9f468"
+    },
+    "scripts/tests/lib/bd-stub.mjs": {
+      "source": "f781ae71e7a811be6ccc6da888015b38d35b1da9f7f2db03e25fc3e03d5f5bfc",
+      "installed": "f781ae71e7a811be6ccc6da888015b38d35b1da9f7f2db03e25fc3e03d5f5bfc"
+    },
+    "scripts/tests/lib/claude_hooks.py": {
+      "source": "6ea3fa9d646a9bf5a493cd4b92d226ec01a67edd9e0ddf029fec90a724672b37",
+      "installed": "6ea3fa9d646a9bf5a493cd4b92d226ec01a67edd9e0ddf029fec90a724672b37"
+    },
+    "scripts/tests/lib/seed-claude-hooks.sh": {
+      "source": "c51115852a35d59c4e299ab9de49afad40eac1a7d72e32213870b25a1f7d1a68",
+      "installed": "c51115852a35d59c4e299ab9de49afad40eac1a7d72e32213870b25a1f7d1a68"
+    },
+    "scripts/tests/merge-gate-parse-budget.test.sh": {
+      "source": "86e8d208f247e469e4d3a05b7cfa2e66c1be6958ee1d805e3298b6b2d8f66cfb",
+      "installed": "86e8d208f247e469e4d3a05b7cfa2e66c1be6958ee1d805e3298b6b2d8f66cfb"
+    },
+    "scripts/tests/merge-gate-parse-completeness.test.sh": {
+      "source": "c6be9869520b79dfe76ede29c0b86748e4896608eb8c7355084c8f3340e8f18f",
+      "installed": "c6be9869520b79dfe76ede29c0b86748e4896608eb8c7355084c8f3340e8f18f"
+    },
+    "scripts/tests/merge-gate-parse-complexity.test.py": {
+      "source": "fc146d13dc2075a39fc04ad5046b2712d5d13697bbc2acd30379739d5468ed83",
+      "installed": "fc146d13dc2075a39fc04ad5046b2712d5d13697bbc2acd30379739d5468ed83"
+    },
+    "scripts/tests/merge-gate-script-run-parity.test.sh": {
+      "source": "79c781c9b8e34dbf4772d5eddc05b5062a15463790e8b1f5e2c9e63e886e9659",
+      "installed": "79c781c9b8e34dbf4772d5eddc05b5062a15463790e8b1f5e2c9e63e886e9659"
+    },
+    "scripts/tests/module-resolution-closure.test.sh": {
+      "source": "4218d526ef5fda24105deed88e640cde8f110ea4e5c1ecbfff6b0798d9cd5b97",
+      "installed": "4218d526ef5fda24105deed88e640cde8f110ea4e5c1ecbfff6b0798d9cd5b97"
+    },
+    "scripts/tests/pre-bash-dispatch.test.py": {
+      "source": "af1a3c985d5c3df8207c0ce22030b24381a1ed2103c084325955a5be8a07ad21",
+      "installed": "af1a3c985d5c3df8207c0ce22030b24381a1ed2103c084325955a5be8a07ad21"
+    },
+    "scripts/tests/publish-pr-comment.test.py": {
+      "source": "195f66cc320de13bf07abccb26a75a1618798e1d382bed49e14b381e07cb7fc9",
+      "installed": "195f66cc320de13bf07abccb26a75a1618798e1d382bed49e14b381e07cb7fc9"
+    },
+    "scripts/tests/python-launcher.test.sh": {
+      "source": "8ff4151d8cc479fd4be996b69963ebcb3dab01928eb2ad04614db00c9708690a",
+      "installed": "8ff4151d8cc479fd4be996b69963ebcb3dab01928eb2ad04614db00c9708690a"
+    },
+    "scripts/tests/readiness-declaration-corpus.test.py": {
+      "source": "11ebd9a6cb5b685e06d212eb07cd3f1e0c4b06075a6369dd2d08c71974109878",
+      "installed": "11ebd9a6cb5b685e06d212eb07cd3f1e0c4b06075a6369dd2d08c71974109878"
+    },
+    "scripts/tests/readiness-policy-complexity.test.py": {
+      "source": "8fd82cbfd066fa8d64f0dbc984a4d6429fcccf53d61b54362023a342c458b0fe",
+      "installed": "8fd82cbfd066fa8d64f0dbc984a4d6429fcccf53d61b54362023a342c458b0fe"
+    },
+    "scripts/tests/reference-closure.test.py": {
+      "source": "a30f7e2b475930b7c74e3ebb12dbe43ab8d362c8d2be220fb2f6c501ffc55bc0",
+      "installed": "a30f7e2b475930b7c74e3ebb12dbe43ab8d362c8d2be220fb2f6c501ffc55bc0"
+    },
+    "scripts/tests/repository-mutation-guard.test.sh": {
+      "source": "fe92b3e267363ebe4f6d4487fc6372d3be12efe37514f3c2234995b6fcd65faa",
+      "installed": "fe92b3e267363ebe4f6d4487fc6372d3be12efe37514f3c2234995b6fcd65faa"
+    },
+    "scripts/tests/shell-grammar-single-source.test.sh": {
+      "source": "58c97b0fa0e6ccf7ab8d54e15221cbfae5cfd41efd018ac07acd80862972331a",
+      "installed": "58c97b0fa0e6ccf7ab8d54e15221cbfae5cfd41efd018ac07acd80862972331a"
+    },
+    "scripts/tests/shell-nonascii-expansion.test.py": {
+      "source": "7f8835aff43b22c1cd5b3169261db40a1dc64996655857f77c3326372f29a62c",
+      "installed": "7f8835aff43b22c1cd5b3169261db40a1dc64996655857f77c3326372f29a62c"
+    },
+    "scripts/tests/with-timeout-transparency.test.sh": {
+      "source": "ef45a3ddf2eb40eaad33cbdea8bba0cef6e51431ab51de0c7949b0b7b3e0dd91",
+      "installed": "ef45a3ddf2eb40eaad33cbdea8bba0cef6e51431ab51de0c7949b0b7b3e0dd91"
+    },
+    "scripts/tests/with-timeout.test.sh": {
+      "source": "a83db4d8c6cbc4851a04bddc998901dab64c5f0ba9f81903cafc26c348d6e067",
+      "installed": "a83db4d8c6cbc4851a04bddc998901dab64c5f0ba9f81903cafc26c348d6e067"
+    },
+    "scripts/verify-reference.sh": {
+      "source": "ee2b91edbac1a9accdd1e17d47f674680fc258d4cffeda18d2ea043f5b71bc41",
+      "installed": "ee2b91edbac1a9accdd1e17d47f674680fc258d4cffeda18d2ea043f5b71bc41"
+    }
+  }
+}

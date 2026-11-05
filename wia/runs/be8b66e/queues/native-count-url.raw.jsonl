@@ -1,0 +1,2 @@
+{"intent_id": "native-count-url-create", "op": "create", "handle": "tmp:task", "title": "Windows wrong-remote count-url — synthetic task", "type": "task", "priority": 2, "description": "Native pinned Windows source; publish only to real origin.\nКириллица", "labels": ["windows-qa", "synthetic"], "metadata": {"case": "count-url", "typed": [1, true, null]}}
+{"intent_id": "native-count-url-claim", "op": "claim", "ref": "tmp:task"}

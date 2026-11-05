@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2:scripts/bd-sync-restore.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "cd60b20829df93453ce8df0a9473ed413068cd69\n",
+  "stderr": "",
+  "stdout_sha256": "be724d40383f916a5905241f9b6d06e8df792e22991bfaf177dbfda2f9259b73",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

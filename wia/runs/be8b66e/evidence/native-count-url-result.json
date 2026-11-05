@@ -1,0 +1,22 @@
+{
+  "source": "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+  "target_fixture_head": "ec95d91dda3f26386d80cbcf0a261eb5641e73be",
+  "actor": "agent-97e339db-0f0e-4d80-a16d-2c314b180141",
+  "actual_id": "wqa-4nr",
+  "claims_confirmed": true,
+  "published_sha": "1b811ea76670b1f0105abba607cf01d551184695",
+  "real_R": "1b811ea76670b1f0105abba607cf01d551184695",
+  "peer_R": "1b811ea76670b1f0105abba607cf01d551184695",
+  "attacker_R": null,
+  "peer_full_object_equal": true,
+  "attacker_full_bytes_unchanged": true,
+  "normal_registered_shell_route": true,
+  "override": {
+    "GIT_CONFIG_COUNT": "2",
+    "GIT_CONFIG_KEY_0": "remote.origin.url",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git",
+    "GIT_CONFIG_KEY_1": "remote.origin.pushurl",
+    "GIT_CONFIG_VALUE_1": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git"
+  },
+  "auth_route": "actual local bare transport with repo-local identity/helper; authenticated HTTPS push NOT RUN"
+}

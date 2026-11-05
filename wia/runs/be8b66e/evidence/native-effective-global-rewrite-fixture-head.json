@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "HEAD"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-global-rewrite\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.027,
+  "stdout": "df346243f20066cf2a03267f13e87316e8c994de\n",
+  "stderr": "",
+  "stdout_sha256": "c5a947c4982414dccb6f0a1074100f14cbfe9fe2c9eefbb84811a1da36492a03",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

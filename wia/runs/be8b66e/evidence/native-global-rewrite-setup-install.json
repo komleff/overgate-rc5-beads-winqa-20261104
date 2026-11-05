@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "node",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-global-rewrite\\publisher\\scripts\\bd-publisher-setup.mjs",
+    "--install",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-global-rewrite-setup.plan.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-global-rewrite\\publisher",
+  "env_overrides": {
+    "GIT_CONFIG_GLOBAL": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-global-rewrite-global-rewrite.config"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 2.453,
+  "stdout": "INSTALL plan 69dafb5c9f170e7539c273f046991c95481a548c756462f31a3234cecd0edc66\n",
+  "stderr": "",
+  "stdout_sha256": "e3208c71dc4f71acc79feefcd756b124e76badd1e9763fcbd54ffb848c91042a",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

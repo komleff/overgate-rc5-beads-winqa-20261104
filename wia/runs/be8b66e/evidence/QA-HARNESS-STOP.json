@@ -1,0 +1,5 @@
+{
+  "source": "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+  "error": "b2-dirty-worktree Node/task write",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\common.py\", line 34, in guard\n    try:main()\n        ~~~~^^\n  File \"D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\b2_auth.py\", line 15, in main\n    assert not log.exists() and not (pub/'.beads').exists(),n+' Node/task write'\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: b2-dirty-worktree Node/task write\n"
+}

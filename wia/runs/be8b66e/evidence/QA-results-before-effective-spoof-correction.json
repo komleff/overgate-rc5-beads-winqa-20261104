@@ -1,0 +1,205 @@
+[
+  {
+    "case": "b1-count-url-bd-wt",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-count-url-bd-wt-result.json"
+  },
+  {
+    "case": "b1-count-url-bd-sync-export",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-count-url-bd-sync-export-result.json"
+  },
+  {
+    "case": "b1-count-url-bd-sync-restore",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-count-url-bd-sync-restore-result.json"
+  },
+  {
+    "case": "b1-count-url-bd-bootstrap",
+    "ac": "AC6/AC9 B1",
+    "result": "NOT RUN",
+    "method": "QA invocation used absolute Windows backslash script operand; BASH_SOURCE path resolved wrong directory before security preflight; not a product security result",
+    "evidence": "b1-count-url-bd-bootstrap-result.json"
+  },
+  {
+    "case": "b1-parameters-url-bd-wt",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-parameters-url-bd-wt-result.json"
+  },
+  {
+    "case": "b1-parameters-url-bd-sync-export",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-parameters-url-bd-sync-export-result.json"
+  },
+  {
+    "case": "b1-parameters-url-bd-sync-restore",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-parameters-url-bd-sync-restore-result.json"
+  },
+  {
+    "case": "b1-parameters-url-bd-bootstrap",
+    "ac": "AC6/AC9 B1",
+    "result": "NOT RUN",
+    "method": "QA invocation used absolute Windows backslash script operand; BASH_SOURCE path resolved wrong directory before security preflight; not a product security result",
+    "evidence": "b1-parameters-url-bd-bootstrap-result.json"
+  },
+  {
+    "case": "b1-count-rewrite-bd-wt",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-count-rewrite-bd-wt-result.json"
+  },
+  {
+    "case": "b1-count-rewrite-bd-sync-export",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-count-rewrite-bd-sync-export-result.json"
+  },
+  {
+    "case": "b1-count-rewrite-bd-sync-restore",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-count-rewrite-bd-sync-restore-result.json"
+  },
+  {
+    "case": "b1-count-rewrite-bd-bootstrap",
+    "ac": "AC6/AC9 B1",
+    "result": "NOT RUN",
+    "method": "QA invocation used absolute Windows backslash script operand; BASH_SOURCE path resolved wrong directory before security preflight; not a product security result",
+    "evidence": "b1-count-rewrite-bd-bootstrap-result.json"
+  },
+  {
+    "case": "b1-global-rewrite-bd-wt",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-global-rewrite-bd-wt-result.json"
+  },
+  {
+    "case": "b1-global-rewrite-bd-sync-export",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-global-rewrite-bd-sync-export-result.json"
+  },
+  {
+    "case": "b1-global-rewrite-bd-sync-restore",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Fresh unregistered/no-cache native Git Bash refusal; logging fake bd never invoked; remote/task/config/index/hooks unchanged; Git fetch cache changes recorded",
+    "evidence": "b1-global-rewrite-bd-sync-restore-result.json"
+  },
+  {
+    "case": "b1-global-rewrite-bd-bootstrap",
+    "ac": "AC6/AC9 B1",
+    "result": "NOT RUN",
+    "method": "QA invocation used absolute Windows backslash script operand; BASH_SOURCE path resolved wrong directory before security preflight; not a product security result",
+    "evidence": "b1-global-rewrite-bd-bootstrap-result.json"
+  },
+  {
+    "case": "b2-dirty-worktree",
+    "ac": "AC6/AC9 B2",
+    "result": "PASS",
+    "method": "Already captured native shell RC6/no fake Node; full before-after equal; read-only QA correction distinguishes tracked metadata from DB",
+    "evidence": "b2-dirty-worktree-result.json"
+  },
+  {
+    "case": "b2-dirty-staged",
+    "ac": "AC6/AC9 B2",
+    "result": "PASS",
+    "method": "Native shell actual RC6 before logging fake Node; tracked dirty sanitizer retained, task/remote bytes unchanged; explicit saved-byte restoration",
+    "evidence": "b2-dirty-staged-result.json"
+  },
+  {
+    "case": "missing-repo-local-identity",
+    "ac": "AC6/AC9 B3",
+    "result": "PASS",
+    "method": "Actual native setup CLI actionable STOP before plan/control/DB/remote write; explicit absent local/service identity",
+    "evidence": "missing-identity-actual.json"
+  },
+  {
+    "case": "missing-HTTPS-local-helper",
+    "ac": "AC6/AC9 B3",
+    "result": "PASS",
+    "method": "Exact candidate exported auth preflight with synthetic HTTPS push URL rejects before setup writes; no external network or authenticated push",
+    "evidence": "https-auth-missing-helper.json"
+  },
+  {
+    "case": "synthetic-local-credential-helper",
+    "ac": "AC6/AC9 B3",
+    "result": "PASS",
+    "method": "Candidate clean Git env + actual native git credential fill uses owned repo-local helper; global spoof excluded; no external write",
+    "evidence": "auth-helper-result.json"
+  },
+  {
+    "case": "native-count-url",
+    "ac": "AC6/AC9 B3",
+    "result": "PASS",
+    "method": "Native qualified setup/bootstrap + normal shell create/claim/publish + full-object peer under isolated inherited spoof; real/peer same R, attacker absent/byte unchanged",
+    "evidence": "native-count-url-result.json"
+  },
+  {
+    "case": "native-parameters-url",
+    "ac": "AC6/AC9 B3",
+    "result": "PASS",
+    "method": "Native qualified setup/bootstrap + normal shell create/claim/publish + full-object peer under isolated inherited spoof; real/peer same R, attacker absent/byte unchanged",
+    "evidence": "native-parameters-url-result.json"
+  },
+  {
+    "case": "native-global-rewrite",
+    "ac": "AC6/AC9 B3",
+    "result": "PASS",
+    "method": "Native qualified setup/bootstrap + normal shell create/claim/publish + full-object peer under isolated inherited spoof; real/peer same R, attacker absent/byte unchanged",
+    "evidence": "native-global-rewrite-result.json"
+  },
+  {
+    "case": "native-count-rewrite",
+    "ac": "AC6/AC9 B3",
+    "result": "PASS",
+    "method": "Native qualified setup/bootstrap + normal shell create/claim/publish + full-object peer under isolated inherited spoof; real/peer same R, attacker absent/byte unchanged",
+    "evidence": "native-count-rewrite-result.json"
+  },
+  {
+    "case": "b1-bootstrap-relative-count-url",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Actual relative shell entry reaches remote-state STOP; synthetic version probe only, zero task/init/import/export calls; full target/Git/remote bytes unchanged",
+    "evidence": "b1-bootstrap-relative-count-url-result.json"
+  },
+  {
+    "case": "b1-bootstrap-relative-parameters-url",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Actual relative shell entry reaches remote-state STOP; synthetic version probe only, zero task/init/import/export calls; full target/Git/remote bytes unchanged",
+    "evidence": "b1-bootstrap-relative-parameters-url-result.json"
+  },
+  {
+    "case": "b1-bootstrap-relative-count-rewrite",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Actual relative shell entry reaches remote-state STOP; synthetic version probe only, zero task/init/import/export calls; full target/Git/remote bytes unchanged",
+    "evidence": "b1-bootstrap-relative-count-rewrite-result.json"
+  },
+  {
+    "case": "b1-bootstrap-relative-global-rewrite",
+    "ac": "AC6/AC9 B1",
+    "result": "PASS",
+    "method": "Actual relative shell entry reaches remote-state STOP; synthetic version probe only, zero task/init/import/export calls; full target/Git/remote bytes unchanged",
+    "evidence": "b1-bootstrap-relative-global-rewrite-result.json"
+  }
+]

@@ -1,0 +1,7 @@
+Plan + Verification Contract: docs/plans/2026-11-03-v4.0.0-rc.5-beads.md v0.1, blob ceefa86186c62b4c754a59841710128a1ee9bbce; AC1-AC10, named risks R1-R8, rollback and WI-A/B/C boundaries.
+Base: OverGate rc.4 PR #12 de55285687f673f85516e1d173940a6c491010b0 at planning time; rc.4 acceptance/merge precedes rc.5 release.
+Mode: CRITICAL — shared Beads publication, persistence, migration and installer governance.
+Implementation: Draft plan and independent PLAN_READY before code; one Developer per WI, independent QA and scoped Code Review, trusted finalization on final HEAD.
+Acceptance: generic typed operations, actual IDs/claim/published SHA/read-back; non-force multi-checkout publication; full-object preservation; fresh trusted activation after install merge; fail-closed existing state; qualified native Win/Mac/Linux writer; --no-beads and installer rollback invariants.
+OUT: U2 product/task state, U2-specific prefixes/config/fingerprints/recovery exception, direct Dolt writes, automatic real migration, PR-branch publisher activation, operator routine task application, rc.4 WI-1 reimplementation.
+Release: v4.0.0-rc.5 after WI-A/B/C acceptance, exact-HEAD regression, trusted finalize and operator merge; prerelease=true, make_latest=false.

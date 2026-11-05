@@ -1,0 +1,8 @@
+{
+  "source": "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+  "helper_invoked": true,
+  "helper_log_sha256": "6ff77efe3bb872126bf5c3c626201da48931d8b2ee7a86a3e89821208a3316c1",
+  "synthetic_only": true,
+  "authenticated_push": "NOT RUN",
+  "global_helper_excluded": true
+}

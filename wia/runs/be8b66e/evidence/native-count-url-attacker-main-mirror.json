@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\attacker-origin.git",
+    "HEAD:refs/heads/main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.353,
+  "stdout": "",
+  "stderr": "To D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\attacker-origin.git\n   ac649bf..ec95d91  HEAD -> main\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "68c6f27caf01a580e7db5742127d30f29a7118e4fc0bf6cd7a6ed10db6e74da0"
+}

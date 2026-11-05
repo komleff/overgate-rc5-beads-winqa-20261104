@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "git",
+    "ls-remote",
+    "--heads",
+    "origin",
+    "refs/heads/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b1\\b1-effective-global-rewrite-bd-sync-restore",
+  "env_overrides": {
+    "GIT_CONFIG_GLOBAL": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\b1-effective-global.config"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.05,
+  "stdout": "",
+  "stderr": "",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

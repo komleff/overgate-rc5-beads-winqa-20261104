@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2:scripts/bd-sync-common.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "5f2b1a8255cc5dfff5355114d00737028ecb2379\n",
+  "stderr": "",
+  "stdout_sha256": "f6c5b9d7d674e3ed0ceb1157bdb8b29a9a39ae509eb97fd6b705f149ac8e6c0e",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

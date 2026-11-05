@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\publisher\\scripts\\bd-apply-intents.sh",
+    "--read-state"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\publisher",
+  "env_overrides": {
+    "GIT_CONFIG_COUNT": "2",
+    "GIT_CONFIG_KEY_0": "remote.origin.url",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git",
+    "GIT_CONFIG_KEY_1": "remote.origin.pushurl",
+    "GIT_CONFIG_VALUE_1": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.718,
+  "stdout": "{\"status\":\"validated\",\"R\":\"0000000000000000000000000000000000000000\",\"records\":0,\"managed\":false,\"legacy_store\":\"untouched\"}\n",
+  "stderr": "",
+  "stdout_sha256": "4efaf5b947851d4fe5b72ccd590af2bd32d9fbcae6b363f6d76206e5a03a85bd",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

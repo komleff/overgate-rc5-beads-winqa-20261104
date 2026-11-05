@@ -1,0 +1,25 @@
+{
+  "argv": [
+    "node",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher\\scripts\\bd-publisher-setup.mjs",
+    "--primary-root",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\primary",
+    "--publisher-root",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher",
+    "--qualified-cli",
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher",
+  "env_overrides": {
+    "GIT_CONFIG_PARAMETERS": "'remote.origin.url=D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-parameters-url/attacker.git' 'remote.origin.pushurl=D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-parameters-url/attacker.git'"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 2.282,
+  "stdout": "PREPARE plan 39bedba6395bdc3414834904d1b527ce7ea123824d8d34e3c2215b38d311d818\n",
+  "stderr": "",
+  "stdout_sha256": "ce10c6aa90b3865a2ca7cafbdbc488df1aa3c641be0bd92a4e1310ecd4b69538",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

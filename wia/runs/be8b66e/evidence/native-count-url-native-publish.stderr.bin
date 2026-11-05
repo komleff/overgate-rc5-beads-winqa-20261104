@@ -1,0 +1,9 @@
+Warning: failed to commit beads files: exit status 128
+
+⚠ No Dolt remote configured
+  Issues are stored in local Dolt. .beads/issues.jsonl is an export,
+  not cross-machine sync or the source of truth.
+  To enable durable sync, add a git origin and then run:
+    bd dolt push
+Exported 0 issues to C:\Users\komle\AppData\Local\Temp\overgate-bd-managed-Bb5kU2\evidence\export-1.jsonl
+Exported 1 issues to C:\Users\komle\AppData\Local\Temp\overgate-bd-managed-Bb5kU2\evidence\export-2.jsonl

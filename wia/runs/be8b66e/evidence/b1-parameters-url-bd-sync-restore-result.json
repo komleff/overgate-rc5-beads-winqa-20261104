@@ -1,0 +1,14 @@
+{
+  "source": "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+  "exit_code": 1,
+  "real_R": "37a7d061bba28944163dfd4115aadd3c6552f659",
+  "attacker_R": null,
+  "no_bd_call": true,
+  "task_config_index_hooks_unchanged": true,
+  "remote_byte_unchanged": true,
+  "observed_git_read_cache_changes": [
+    ".git/refs/remotes/origin/beads-backup",
+    ".git/FETCH_HEAD",
+    ".git/logs/refs/remotes/origin/beads-backup"
+  ]
+}

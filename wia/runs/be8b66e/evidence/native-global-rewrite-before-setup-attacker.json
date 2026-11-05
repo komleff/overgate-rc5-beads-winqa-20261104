@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "for-each-ref",
+    "--format=%(refname) %(objectname)"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-global-rewrite\\attacker.git",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "refs/heads/main d0b238207cb134dddc23c8b4d45237f5961641af\n",
+  "stderr": "",
+  "stdout_sha256": "4abfff806a052e929de21cc466bb9f60a1b81903d31bcd9b90802ea4ffb16f00",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

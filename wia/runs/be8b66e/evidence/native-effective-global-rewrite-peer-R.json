@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "refs/remotes/origin/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-global-rewrite\\peer",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "9feb692f2c11a0f104d7342aec425a744a01c292\n",
+  "stderr": "",
+  "stdout_sha256": "b4f1e508ca07dabe99f6cb8fb987b0460fd10b1c566d4a4324e07e3d106acd39",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

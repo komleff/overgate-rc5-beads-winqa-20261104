@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-count-rewrite\\peer\\scripts\\bd-read.sh",
+    "show",
+    "wqa-cjw",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-count-rewrite\\peer",
+  "env_overrides": {
+    "GIT_CONFIG_COUNT": "1",
+    "GIT_CONFIG_KEY_0": "url.D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-count-rewrite/attacker.git.insteadOf",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-count-rewrite/real.git"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.551,
+  "stdout": "{\"_type\":\"issue\",\"id\":\"wqa-cjw\",\"title\":\"Windows wrong-remote count-rewrite — synthetic task\",\"description\":\"Native pinned Windows source; publish only to real origin.\\nКириллица\",\"status\":\"in_progress\",\"priority\":2,\"issue_type\":\"task\",\"assignee\":\"agent-1463cea6-c593-44a0-b803-69191c7d581a\",\"created_at\":\"2026-11-05T00:19:46Z\",\"created_by\":\"agent-1463cea6-c593-44a0-b803-69191c7d581a\",\"updated_at\":\"2026-11-05T00:19:46Z\",\"started_at\":\"2026-11-05T00:19:46Z\",\"external_ref\":\"intent:native-count-rewrite-create\",\"metadata\":{\"case\":\"count-rewrite\",\"typed\":[1,true,null]},\"labels\":[\"synthetic\",\"windows-qa\"],\"dependency_count\":0,\"dependent_count\":0,\"comment_count\":0}\n",
+  "stderr": "",
+  "stdout_sha256": "c3db0dde082f98b788045891ad75aac591ca3f073632bbc1f34bd4d4c8710d1c",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

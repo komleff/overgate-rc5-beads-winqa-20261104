@@ -1,0 +1,10 @@
+{
+  "role": "Windows QA",
+  "model": "Codex GPT-6",
+  "time_utc": "2026-11-05T00:25:32.071611+00:00",
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+  "BD_BIN": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+  "bd_sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+  "runtime_source": "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2"
+}

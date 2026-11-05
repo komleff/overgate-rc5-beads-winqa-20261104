@@ -1,0 +1,20 @@
+{
+  "source": "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+  "target_fixture_head": "544532a4c0659ab4dadbf0912c8ce4923a58ae17",
+  "actor": "agent-1463cea6-c593-44a0-b803-69191c7d581a",
+  "actual_id": "wqa-cjw",
+  "claims_confirmed": true,
+  "published_sha": "76f1159c1d79db71b1db82a67429a2b0db239211",
+  "real_R": "76f1159c1d79db71b1db82a67429a2b0db239211",
+  "peer_R": "76f1159c1d79db71b1db82a67429a2b0db239211",
+  "attacker_R": null,
+  "peer_full_object_equal": true,
+  "attacker_full_bytes_unchanged": true,
+  "normal_registered_shell_route": true,
+  "override": {
+    "GIT_CONFIG_COUNT": "1",
+    "GIT_CONFIG_KEY_0": "url.D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-count-rewrite/attacker.git.insteadOf",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-count-rewrite/real.git"
+  },
+  "auth_route": "actual local bare transport with repo-local identity/helper; authenticated HTTPS push NOT RUN"
+}

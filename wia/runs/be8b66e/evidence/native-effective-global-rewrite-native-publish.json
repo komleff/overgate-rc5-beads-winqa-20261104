@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-global-rewrite\\publisher\\scripts\\bd-apply-intents.sh",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\queues\\native-effective-global-rewrite.v2.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-global-rewrite\\publisher",
+  "env_overrides": {
+    "GIT_CONFIG_GLOBAL": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-effective-global-rewrite-global-rewrite.config"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 4.995,
+  "stdout": "{\"status\":\"published\",\"published_sha\":\"9feb692f2c11a0f104d7342aec425a744a01c292\",\"queue_hash\":\"5cd54659c54819c80ce4aebb68f1d07623f60467f4de4604c0b72eb6e6a8a01d\",\"mutations\":2,\"outcomes\":[{\"intent_id\":\"native-effective-global-rewrite-create\",\"payload_hash\":\"7b6b26b2e12211cf9ea6d606b9687e6fb50526c12d0e1617ac80c4e0b5de2060\",\"result\":{\"handles\":{\"tmp:task\":\"wqa-4f1\"},\"ref\":\"wqa-4f1\"}},{\"intent_id\":\"native-effective-global-rewrite-claim\",\"payload_hash\":\"a9b4f6c3ea2e669283f755095763e2187b944317972b0c4a9fb861f6c0d7c9ec\",\"result\":{\"ref\":\"wqa-4f1\"}}],\"claims\":[{\"id\":\"wqa-4f1\",\"actor\":\"agent-35174c67-a517-4235-a1f1-c8e4230967e8\",\"status\":\"in_progress\",\"assignee\":\"agent-35174c67-a517-4235-a1f1-c8e4230967e8\",\"confirmed\":true}]}\n",
+  "stderr": "Warning: failed to commit beads files: exit status 128\n\n⚠ No Dolt remote configured\n  Issues are stored in local Dolt. .beads/issues.jsonl is an export,\n  not cross-machine sync or the source of truth.\n  To enable durable sync, add a git origin and then run:\n    bd dolt push\nExported 0 issues to C:\\Users\\komle\\AppData\\Local\\Temp\\overgate-bd-managed-EyDu6D\\evidence\\export-1.jsonl\nExported 1 issues to C:\\Users\\komle\\AppData\\Local\\Temp\\overgate-bd-managed-EyDu6D\\evidence\\export-2.jsonl\n",
+  "stdout_sha256": "89e3a30c9a16d9db59358264ca9806ea5c244d53364dc1c93ec9690b717ef095",
+  "stderr_sha256": "abbf75abf50555e4fbe5753aab49d77a30a516d95854babe50c44a5f0510c972"
+}

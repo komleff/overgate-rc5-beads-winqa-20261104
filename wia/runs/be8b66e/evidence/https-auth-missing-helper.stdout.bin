@@ -1,0 +1,1 @@
+{"method":"candidate exported auth preflight integration","result":"refused","error":"publisher HTTPS authentication unavailable under isolated config; configure a trusted repo-local credential.helper or use SSH agent origin","externalNetwork":false}

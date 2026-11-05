@@ -1,0 +1,1 @@
+bd-publisher-setup: publisher Git identity unavailable under isolated config; set repo-local user.name/user.email or explicit service author/committer identity

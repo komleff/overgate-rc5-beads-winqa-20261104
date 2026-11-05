@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2:.agents/templates/AGENTS.template.md"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "e957da5f0decb085a9060df69790e87057e7176e\n",
+  "stderr": "",
+  "stdout_sha256": "9d504cd71a2b207f1f44d180487192b3cb515e2bc181f8b01113dd0bd6ec30c3",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

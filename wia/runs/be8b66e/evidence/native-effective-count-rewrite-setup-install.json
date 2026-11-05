@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "node",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-count-rewrite\\publisher\\scripts\\bd-publisher-setup.mjs",
+    "--install",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-effective-count-rewrite-setup.plan.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-count-rewrite\\publisher",
+  "env_overrides": {
+    "GIT_CONFIG_COUNT": "1",
+    "GIT_CONFIG_KEY_0": "url.D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-effective-count-rewrite/attacker.git.insteadOf",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-effective-count-rewrite/real.git"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 2.491,
+  "stdout": "INSTALL plan 9443a19ccc9b51a7ba27ab9a5fc27c2b2ec018a297117d4c9adf2782055b45ee\n",
+  "stderr": "",
+  "stdout_sha256": "37dfe4a72f38b80dc4ece5fe31db32b954f1bae5c9c91361f59b1b86d745e995",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

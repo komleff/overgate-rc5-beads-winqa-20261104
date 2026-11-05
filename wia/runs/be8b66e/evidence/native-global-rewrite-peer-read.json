@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-global-rewrite\\peer\\scripts\\bd-read.sh",
+    "show",
+    "wqa-chx",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-global-rewrite\\peer",
+  "env_overrides": {
+    "GIT_CONFIG_GLOBAL": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-global-rewrite-global-rewrite.config"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.555,
+  "stdout": "{\"_type\":\"issue\",\"id\":\"wqa-chx\",\"title\":\"Windows wrong-remote global-rewrite — synthetic task\",\"description\":\"Native pinned Windows source; publish only to real origin.\\nКириллица\",\"status\":\"in_progress\",\"priority\":2,\"issue_type\":\"task\",\"assignee\":\"agent-ed189daf-0a64-42f5-b20d-70683465327c\",\"created_at\":\"2026-11-05T00:19:26Z\",\"created_by\":\"agent-ed189daf-0a64-42f5-b20d-70683465327c\",\"updated_at\":\"2026-11-05T00:19:27Z\",\"started_at\":\"2026-11-05T00:19:27Z\",\"external_ref\":\"intent:native-global-rewrite-create\",\"metadata\":{\"case\":\"global-rewrite\",\"typed\":[1,true,null]},\"labels\":[\"synthetic\",\"windows-qa\"],\"dependency_count\":0,\"dependent_count\":0,\"comment_count\":0}\n",
+  "stderr": "",
+  "stdout_sha256": "96a10ce61ef44a78f24bc059f006a14639f73640fe415647b7c1133933804521",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,34 @@
+{
+  "status": "published",
+  "published_sha": "76f1159c1d79db71b1db82a67429a2b0db239211",
+  "queue_hash": "b561dfaf76bc0733b7f7349cb91f102b929a55267a0edb5d67eeb436306a6967",
+  "mutations": 2,
+  "outcomes": [
+    {
+      "intent_id": "native-count-rewrite-create",
+      "payload_hash": "f3479cab3ab2144ca6953bc091e931473ba71a83d85d600f922029880593290a",
+      "result": {
+        "handles": {
+          "tmp:task": "wqa-cjw"
+        },
+        "ref": "wqa-cjw"
+      }
+    },
+    {
+      "intent_id": "native-count-rewrite-claim",
+      "payload_hash": "2ce7b9dea6a74ec82c2072eaa86b156c809203db41b60f77830ef62fbce2597a",
+      "result": {
+        "ref": "wqa-cjw"
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "wqa-cjw",
+      "actor": "agent-1463cea6-c593-44a0-b803-69191c7d581a",
+      "status": "in_progress",
+      "assignee": "agent-1463cea6-c593-44a0-b803-69191c7d581a",
+      "confirmed": true
+    }
+  ]
+}

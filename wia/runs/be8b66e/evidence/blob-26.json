@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2:scripts/lib/bd-managed-transaction.mjs"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "071c2c752a09aa9f5194fdaa5f333153c4b8db4d\n",
+  "stderr": "",
+  "stdout_sha256": "ca8dcacbc3f3eda5ab97d0e3f6730a78ffcc3f6dd0d8b5688523eb35f87ad9d0",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "HEAD:refs/heads/main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-global-rewrite\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.354,
+  "stdout": "",
+  "stderr": "To D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-effective-global-rewrite/real.git\n   ac649bf..df34624  HEAD -> main\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "9bdd8b65d12cd6ef82c6d93434c91567e35bd9741a10d876563b70a8cd41907c"
+}

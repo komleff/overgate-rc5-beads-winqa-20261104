@@ -1,0 +1,6 @@
+#!/bin/sh
+input=$(mktemp 'D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/publisher/.git/overgate-bd-publisher-control/pre-push-input.XXXXXX') || exit 1
+trap 'rm -f "$input"' EXIT HUP INT TERM
+cat > "$input" || exit 1
+'D:/Program Files/nodejs/node.exe' 'D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/publisher/.git/overgate-bd-publisher-control/bd-publisher-push-guard.mjs' --config 'D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/publisher/.git/overgate-bd-publisher-control/guard-config.json' --config-sha256 '9fe1a69a9bcc5292bda63fddbc066b8a842e724e831ce0e8a4fd556a1290ed02' --input "$input" || exit $?
+exit 0

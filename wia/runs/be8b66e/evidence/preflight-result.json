@@ -1,0 +1,9 @@
+{
+  "source": "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+  "fingerprint": "414e563edc38f0286382bc1fc4e2c581cf4c7f2d4aa9695dbd802b2a0bf1190c",
+  "frozen_fixture_drift": false,
+  "real_R": null,
+  "attacker_R": null,
+  "local_DB_queues_receipts_absent": true,
+  "native_bd_sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de"
+}

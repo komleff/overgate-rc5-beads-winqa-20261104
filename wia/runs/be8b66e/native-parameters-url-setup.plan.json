@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "preparedAt": "2026-11-05T00:18:57.306Z",
+  "output": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json",
+  "artifactsRoot": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts",
+  "nodeExec": "D:\\Program Files\\nodejs\\node.exe",
+  "qualifiedCli": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+  "qualifiedCliSha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+  "publisherHead": "60e8c419a0ba413c0166dc5d37bad7c1a3863de3",
+  "origin": {
+    "fetch": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\real.git",
+    "push": [
+      "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\real.git"
+    ]
+  },
+  "sourcePins": {
+    "scripts/bd-apply-intents.sh": "8ac5ebd60c45817cde344770330f7900014ec6c7889bd0e14691335c12e058c4",
+    "scripts/bd-publisher-setup.mjs": "48c020f068169e8df5d08d5e4623a1d42cbdd593312f114dbc1b82795b074040",
+    "scripts/bd-sync-export.sh": "2ea17c30c38cabe513f52d1db0576bc755f65f0913faf387c790bc45043279cc",
+    "scripts/bd-wt.sh": "26a1e79e8b8806faaaaa70d59687f02a6f5f865b3c73616c8336321d3e027f42",
+    "scripts/lib/bd-env.sh": "66765b3edd608b5ff10f0873d229d0acf0bcb5c13ed148d5705815312e36b915",
+    "scripts/lib/bd-publisher-push-guard.mjs": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+    "scripts/lib/bd-managed-entry.mjs": "b82c7bb733cbd33255840aee747a0b5f8dfe04f11a4e1e46da304314863b4dab",
+    "scripts/lib/bd-managed-cli.mjs": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+    "scripts/lib/bd-managed-contract.mjs": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+    "scripts/lib/bd-managed-journal.mjs": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+    "scripts/lib/bd-managed-transaction.mjs": "2f4fad6f23be205a2a3e77dc29f07b2bd81c6320c80c6bb9abc7cc4703d4f420",
+    "scripts/lib/bd-managed-git.mjs": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+    "scripts/lib/bd-managed-project.mjs": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+    "scripts/lib/bd-snapshot.mjs": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+    "scripts/lib/bd-git-environment.mjs": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99"
+  },
+  "runtime": {
+    "bd-publisher-push-guard.mjs": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\runtime\\bd-publisher-push-guard.mjs",
+      "sha256": "1f144f4a5151cc21a3c9eb3e405721040edc560b38d3b47c5b87323b0a900fde",
+      "mode": 292
+    },
+    "bd-managed-cli.mjs": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\runtime\\bd-managed-cli.mjs",
+      "sha256": "8c5e9dcf2d30f7b52fee3fe31cb50b2d3ce7b73e6d75929719abd03008b2f2c5",
+      "mode": 292
+    },
+    "bd-managed-git.mjs": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\runtime\\bd-managed-git.mjs",
+      "sha256": "75bb062f77fd628de9571ce5bb8f24fe89e14aa7d8e3cb315fd898b40e4839ad",
+      "mode": 292
+    },
+    "bd-managed-contract.mjs": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\runtime\\bd-managed-contract.mjs",
+      "sha256": "10d32514c08d15d15b6597a9b1ee1ccda218f2363e273f406bf61e55eb38437e",
+      "mode": 292
+    },
+    "bd-managed-journal.mjs": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\runtime\\bd-managed-journal.mjs",
+      "sha256": "f4adda972ea97820b8190a35a5adc56469210127d4777d2ec0c1952d02e4505d",
+      "mode": 292
+    },
+    "bd-managed-project.mjs": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\runtime\\bd-managed-project.mjs",
+      "sha256": "3c0f76aea9902fe2adf88704481c5abc890cab92a78749d7d829ef5eaaf3a1af",
+      "mode": 292
+    },
+    "bd-snapshot.mjs": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\runtime\\bd-snapshot.mjs",
+      "sha256": "fa6ee46f735ce97e1cb5748cae53248508cea9db186e8d67d36377e41d6a8c7e",
+      "mode": 292
+    },
+    "bd-git-environment.mjs": {
+      "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\runtime\\bd-git-environment.mjs",
+      "sha256": "a5aab6734c05c5b4732a06f246621222fa545899dc526bb123f12dc6fea25e99",
+      "mode": 292
+    }
+  },
+  "targets": {
+    "primary": {
+      "mode": "retired",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\primary",
+      "gitDir": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\primary\\.git",
+      "configPath": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\primary\\.git\\config",
+      "sourceHooksDir": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\primary\\.git\\hooks",
+      "sourceHookPath": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\primary\\.git\\hooks\\pre-push",
+      "managedHooksDir": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\primary\\.git\\hooks",
+      "transitionHooksPath": false,
+      "hookPath": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\primary\\.git\\hooks\\pre-push",
+      "controlDir": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\primary\\.git\\overgate-bd-publisher-control",
+      "savedOriginal": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\primary\\.git\\overgate-bd-publisher-control\\saved-pre-push",
+      "originalActive": false,
+      "sourceInventory": null,
+      "expected": {
+        "head": "60e8c419a0ba413c0166dc5d37bad7c1a3863de3",
+        "indexSha256": "4264fd5ae90fa4dcc5a6f34de902ef5633d0bf63d9cfa75872fa4b02354101ed",
+        "statusSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "hook": null,
+        "configSha256": "af41343a60e1160dd2dcef82b509e7ea4097149b7aeffdd201ebaa2bc209cff3",
+        "hooksPath": null,
+        "registration": {
+          "owned": {
+            "overgate.beadsPublisher": [],
+            "overgate.beadsCli": [],
+            "overgate.beadsPrefix": [],
+            "core.hooksPath": []
+          },
+          "foreignSha256": "8ca30f369bc9ca8c351ed98c09293bed430171bae11a9055f9912ffa613cde5c"
+        }
+      },
+      "artifacts": {
+        "hook": {
+          "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\retired\\pre-push",
+          "sha256": "9efa616e29c973cf899b75a51f7f1d68d08beea53f8991495375f4bff08c6bb3",
+          "mode": 438
+        },
+        "config": {
+          "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\retired\\guard-config.json",
+          "sha256": "28e2ec7e7cb6ed0e11de1475b103c037be6ab1f3a2f770627938c46eb7c34f45",
+          "mode": 292
+        },
+        "original": null,
+        "forwarders": {}
+      }
+    },
+    "publisher": {
+      "mode": "managed",
+      "root": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher",
+      "gitDir": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher\\.git",
+      "configPath": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher\\.git\\config",
+      "sourceHooksDir": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher\\.git\\hooks",
+      "sourceHookPath": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher\\.git\\hooks\\pre-push",
+      "managedHooksDir": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher\\.git\\hooks",
+      "transitionHooksPath": false,
+      "hookPath": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher\\.git\\hooks\\pre-push",
+      "controlDir": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher\\.git\\overgate-bd-publisher-control",
+      "savedOriginal": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher\\.git\\overgate-bd-publisher-control\\saved-pre-push",
+      "originalActive": false,
+      "sourceInventory": null,
+      "expected": {
+        "head": "60e8c419a0ba413c0166dc5d37bad7c1a3863de3",
+        "indexSha256": "4264fd5ae90fa4dcc5a6f34de902ef5633d0bf63d9cfa75872fa4b02354101ed",
+        "statusSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "hook": null,
+        "configSha256": "9e3a93266d36d4eadaa4dd0b80812b940698bd247f28e63c40c45ecb35661895",
+        "hooksPath": null,
+        "registration": {
+          "owned": {
+            "overgate.beadsPublisher": [],
+            "overgate.beadsCli": [],
+            "overgate.beadsPrefix": [],
+            "core.hooksPath": []
+          },
+          "foreignSha256": "c633b88ee9c9bc25989e3227f2f6072373b584febc2c0048ebcb98d10aa974ae"
+        }
+      },
+      "artifacts": {
+        "hook": {
+          "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\managed\\pre-push",
+          "sha256": "aa2890175540ba3e6dd7ad70585ddda77b1f9704c48bdeb403aef409d5643525",
+          "mode": 438
+        },
+        "config": {
+          "path": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-parameters-url-setup.plan.json.artifacts\\managed\\guard-config.json",
+          "sha256": "29887f03cadf9a0477cfcbecac9120739420589545ce85fdc934ac25d4837e4f",
+          "mode": 292
+        },
+        "original": null,
+        "forwarders": {}
+      }
+    }
+  },
+  "registration": {
+    "publisher": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-parameters-url\\publisher",
+    "cli": "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "prefix": "wqa"
+  },
+  "rollback": "No automatic rollback. Saved originals are exposed; after protocol activation legacy publication must not be restored.",
+  "planId": "39bedba6395bdc3414834904d1b527ce7ea123824d8d34e3c2215b38d311d818"
+}

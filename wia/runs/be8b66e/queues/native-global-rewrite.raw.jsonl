@@ -1,0 +1,2 @@
+{"intent_id": "native-global-rewrite-create", "op": "create", "handle": "tmp:task", "title": "Windows wrong-remote global-rewrite — synthetic task", "type": "task", "priority": 2, "description": "Native pinned Windows source; publish only to real origin.\nКириллица", "labels": ["windows-qa", "synthetic"], "metadata": {"case": "global-rewrite", "typed": [1, true, null]}}
+{"intent_id": "native-global-rewrite-claim", "op": "claim", "ref": "tmp:task"}

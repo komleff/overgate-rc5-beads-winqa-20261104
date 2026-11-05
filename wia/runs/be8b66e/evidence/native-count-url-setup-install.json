@@ -1,0 +1,23 @@
+{
+  "argv": [
+    "node",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\publisher\\scripts\\bd-publisher-setup.mjs",
+    "--install",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-count-url-setup.plan.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\publisher",
+  "env_overrides": {
+    "GIT_CONFIG_COUNT": "2",
+    "GIT_CONFIG_KEY_0": "remote.origin.url",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git",
+    "GIT_CONFIG_KEY_1": "remote.origin.pushurl",
+    "GIT_CONFIG_VALUE_1": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 2.462,
+  "stdout": "INSTALL plan e669f2d128c568599c6d4153e8492e811ceb4fb40fdeea7153e81c77f1227fb4\n",
+  "stderr": "",
+  "stdout_sha256": "4775afd9f644c41f50fa3d0a002c46999a713731b57b54dba31b65dc17d1da11",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

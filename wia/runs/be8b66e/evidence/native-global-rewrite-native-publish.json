@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-global-rewrite\\publisher\\scripts\\bd-apply-intents.sh",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\queues\\native-global-rewrite.v2.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-global-rewrite\\publisher",
+  "env_overrides": {
+    "GIT_CONFIG_GLOBAL": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\native-global-rewrite-global-rewrite.config"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 5.083,
+  "stdout": "{\"status\":\"published\",\"published_sha\":\"c1490ce753674d8b61a3095b0a504985de2c32d3\",\"queue_hash\":\"3c7b945e90e0ce70e62ddf9ea6663e54f31e65aa091f59545c42b7e8e7bba7ce\",\"mutations\":2,\"outcomes\":[{\"intent_id\":\"native-global-rewrite-create\",\"payload_hash\":\"9de59c8b87b962d85eb155c7e99ff5664696565c827429172934527b686132c3\",\"result\":{\"handles\":{\"tmp:task\":\"wqa-chx\"},\"ref\":\"wqa-chx\"}},{\"intent_id\":\"native-global-rewrite-claim\",\"payload_hash\":\"8409405943ae0cc034839fc380fbff8de12c370795d9658e00b0f5ce8cb0fff0\",\"result\":{\"ref\":\"wqa-chx\"}}],\"claims\":[{\"id\":\"wqa-chx\",\"actor\":\"agent-ed189daf-0a64-42f5-b20d-70683465327c\",\"status\":\"in_progress\",\"assignee\":\"agent-ed189daf-0a64-42f5-b20d-70683465327c\",\"confirmed\":true}]}\n",
+  "stderr": "Warning: failed to commit beads files: exit status 128\n\n⚠ No Dolt remote configured\n  Issues are stored in local Dolt. .beads/issues.jsonl is an export,\n  not cross-machine sync or the source of truth.\n  To enable durable sync, add a git origin and then run:\n    bd dolt push\nExported 0 issues to C:\\Users\\komle\\AppData\\Local\\Temp\\overgate-bd-managed-pDL2t6\\evidence\\export-1.jsonl\nExported 1 issues to C:\\Users\\komle\\AppData\\Local\\Temp\\overgate-bd-managed-pDL2t6\\evidence\\export-2.jsonl\n",
+  "stdout_sha256": "2ba5a6f22a594723ebd8b8317e0ecee6995faffe09db96615db8677940cd2ea6",
+  "stderr_sha256": "950a87686f286507a7f3a2ed582ed63c55f0e0c48a4555e41e89e77e85f951cf"
+}

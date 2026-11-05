@@ -1,0 +1,24 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\peer\\scripts\\bd-read.sh",
+    "show",
+    "wqa-4nr",
+    "--json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-remote-winqa-20261105\\peer",
+  "env_overrides": {
+    "GIT_CONFIG_COUNT": "2",
+    "GIT_CONFIG_KEY_0": "remote.origin.url",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git",
+    "GIT_CONFIG_KEY_1": "remote.origin.pushurl",
+    "GIT_CONFIG_VALUE_1": "D:/CodexArtifacts/overgate-rc5-wia-remote-winqa-20261105/attacker-origin.git"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.559,
+  "stdout": "{\"_type\":\"issue\",\"id\":\"wqa-4nr\",\"title\":\"Windows wrong-remote count-url — synthetic task\",\"description\":\"Native pinned Windows source; publish only to real origin.\\nКириллица\",\"status\":\"in_progress\",\"priority\":2,\"issue_type\":\"task\",\"assignee\":\"agent-97e339db-0f0e-4d80-a16d-2c314b180141\",\"created_at\":\"2026-11-05T00:18:46Z\",\"created_by\":\"agent-97e339db-0f0e-4d80-a16d-2c314b180141\",\"updated_at\":\"2026-11-05T00:18:47Z\",\"started_at\":\"2026-11-05T00:18:47Z\",\"external_ref\":\"intent:native-count-url-create\",\"metadata\":{\"case\":\"count-url\",\"typed\":[1,true,null]},\"labels\":[\"synthetic\",\"windows-qa\"],\"dependency_count\":0,\"dependent_count\":0,\"comment_count\":0}\n",
+  "stderr": "",
+  "stdout_sha256": "486257f81197e98b64002247b4477aacc23f8f8ce2ea83ee99ba3ee63de2bb9f",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,13 @@
+{
+  "override": {
+    "GIT_CONFIG_COUNT": "2",
+    "GIT_CONFIG_KEY_0": "remote.origin.url",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/b1/attacker.git",
+    "GIT_CONFIG_KEY_1": "remote.origin.pushurl",
+    "GIT_CONFIG_VALUE_1": "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/b1/attacker.git"
+  },
+  "raw_ls_remote": "37a7d061bba28944163dfd4115aadd3c6552f659\trefs/heads/beads-backup\n",
+  "real_R": "37a7d061bba28944163dfd4115aadd3c6552f659",
+  "attacker_R": null,
+  "effective_fetch_redirected": false
+}

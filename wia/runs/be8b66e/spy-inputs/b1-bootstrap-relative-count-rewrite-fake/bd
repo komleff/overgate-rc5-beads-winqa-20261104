@@ -1,0 +1,4 @@
+#!/bin/sh
+if [ "$1" = --version ]; then echo version >> "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/b1/b1-bootstrap-relative-count-rewrite-fake/version-only.log"; echo "bd version 1.2.2 (synthetic-version-probe)"; exit 0; fi
+echo "$*" >> "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/b1/b1-bootstrap-relative-count-rewrite-fake/forbidden-call.log"
+exit 93

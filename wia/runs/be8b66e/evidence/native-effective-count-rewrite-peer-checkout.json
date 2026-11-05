@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "git",
+    "-c",
+    "core.autocrlf=false",
+    "checkout",
+    "-B",
+    "main",
+    "origin/main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-count-rewrite\\peer",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.076,
+  "stdout": "branch 'main' set up to track 'origin/main'.\nYour branch is up to date with 'origin/main'.\n",
+  "stderr": "Reset branch 'main'\n",
+  "stdout_sha256": "e958d15d102523eccc630d3d6dd70d58a0df32793fea04fdc03f92851f959c44",
+  "stderr_sha256": "ee5b8b6bd6d0e5588fb81351622148a793f036c58ff5f07f69432048bbd93813"
+}

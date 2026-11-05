@@ -1,0 +1,27 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-count-rewrite\\publisher\\scripts\\bd-apply-intents.sh",
+    "--prepare",
+    "--base",
+    "0000000000000000000000000000000000000000",
+    "--actor",
+    "agent-9ad2f261-903b-4133-8b33-025d46a3cb6f",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\queues\\native-effective-count-rewrite.v2.jsonl",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\queues\\native-effective-count-rewrite.raw.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-effective-count-rewrite\\publisher",
+  "env_overrides": {
+    "GIT_CONFIG_COUNT": "1",
+    "GIT_CONFIG_KEY_0": "url.D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-effective-count-rewrite/attacker.git.insteadOf",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-effective-count-rewrite/real.git"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.75,
+  "stdout": "{\"status\":\"prepared\",\"base\":\"0000000000000000000000000000000000000000\",\"actor\":\"agent-9ad2f261-903b-4133-8b33-025d46a3cb6f\",\"output\":\"D:\\\\CodexArtifacts\\\\overgate-rc5-wia-be8b66e-winqa-20261105\\\\queues\\\\native-effective-count-rewrite.v2.jsonl\",\"operations\":2,\"payload_hashes\":[\"1858c9fa8fd2f5eaf048f316b4e373ada6ebd61c9232c5612f2ff31ea3067b14\",\"50bb51e2bebd3c6e5667cb060955011b955878dc70a35795111732bbfc2460fa\"]}\n",
+  "stderr": "",
+  "stdout_sha256": "6c72e7d7f6687b1fb6fa5eb5bcbc02c677b0f6560f3ce130895eabb5ea02fa95",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

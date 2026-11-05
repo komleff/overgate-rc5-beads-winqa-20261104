@@ -1,0 +1,3 @@
+#!/bin/sh
+echo invoked > "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/b2-auth/b2-dirty-worktree-node/node-called.log"
+exit 97

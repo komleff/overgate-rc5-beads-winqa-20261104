@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-count-rewrite\\publisher\\scripts\\bd-apply-intents.sh",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\queues\\native-count-rewrite.v2.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-count-rewrite\\publisher",
+  "env_overrides": {
+    "GIT_CONFIG_COUNT": "1",
+    "GIT_CONFIG_KEY_0": "url.D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-count-rewrite/attacker.git.insteadOf",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/native-count-rewrite/real.git"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 4.964,
+  "stdout": "{\"status\":\"published\",\"published_sha\":\"76f1159c1d79db71b1db82a67429a2b0db239211\",\"queue_hash\":\"b561dfaf76bc0733b7f7349cb91f102b929a55267a0edb5d67eeb436306a6967\",\"mutations\":2,\"outcomes\":[{\"intent_id\":\"native-count-rewrite-create\",\"payload_hash\":\"f3479cab3ab2144ca6953bc091e931473ba71a83d85d600f922029880593290a\",\"result\":{\"handles\":{\"tmp:task\":\"wqa-cjw\"},\"ref\":\"wqa-cjw\"}},{\"intent_id\":\"native-count-rewrite-claim\",\"payload_hash\":\"2ce7b9dea6a74ec82c2072eaa86b156c809203db41b60f77830ef62fbce2597a\",\"result\":{\"ref\":\"wqa-cjw\"}}],\"claims\":[{\"id\":\"wqa-cjw\",\"actor\":\"agent-1463cea6-c593-44a0-b803-69191c7d581a\",\"status\":\"in_progress\",\"assignee\":\"agent-1463cea6-c593-44a0-b803-69191c7d581a\",\"confirmed\":true}]}\n",
+  "stderr": "Warning: failed to commit beads files: exit status 128\n\n⚠ No Dolt remote configured\n  Issues are stored in local Dolt. .beads/issues.jsonl is an export,\n  not cross-machine sync or the source of truth.\n  To enable durable sync, add a git origin and then run:\n    bd dolt push\nExported 0 issues to C:\\Users\\komle\\AppData\\Local\\Temp\\overgate-bd-managed-aoQTlw\\evidence\\export-1.jsonl\nExported 1 issues to C:\\Users\\komle\\AppData\\Local\\Temp\\overgate-bd-managed-aoQTlw\\evidence\\export-2.jsonl\n",
+  "stdout_sha256": "7f2465178c784df8b2ed27921543d829916bc0f27966865e5e9884d9c2c3349a",
+  "stderr_sha256": "4e16c1f8f5d7a045c56634e2a5ae3474b1416317af26a2b471bb5de0eca79105"
+}

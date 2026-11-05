@@ -1,0 +1,11 @@
+{
+  "source": "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+  "invocation": "bash scripts/bd-bootstrap.sh",
+  "exit_code": 1,
+  "version_only_called": true,
+  "task_init_export_import_calls": false,
+  "all_bytes_unchanged": true,
+  "real_R": "37a7d061bba28944163dfd4115aadd3c6552f659",
+  "attacker_R": null,
+  "fixture_correction": "new fresh clone, exact launcher+manifest present; original raw invocation failures preserved and marked NOT RUN"
+}

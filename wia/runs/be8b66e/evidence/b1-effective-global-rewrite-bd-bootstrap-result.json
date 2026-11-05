@@ -1,0 +1,11 @@
+{
+  "source": "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+  "exit_code": 1,
+  "raw_git_spoof_effective": true,
+  "real_R": "37a7d061bba28944163dfd4115aadd3c6552f659",
+  "attacker_R": null,
+  "no_task_init_export_import": true,
+  "version_probe_only": true,
+  "remote_task_config_index_hooks_unchanged": true,
+  "git_fetch_cache_changes": []
+}

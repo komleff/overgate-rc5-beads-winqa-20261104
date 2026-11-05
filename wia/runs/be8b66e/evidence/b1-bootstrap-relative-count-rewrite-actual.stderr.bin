@@ -1,0 +1,1 @@
+STOP: remote Beads state exists; fresh init would create competing local state; snapshot not published by bootstrap

@@ -1,0 +1,23 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--sandbox",
+    "init",
+    "--prefix",
+    "wqa",
+    "--skip-agents",
+    "--skip-hooks",
+    "--non-interactive",
+    "--remote",
+    ""
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\native-count-rewrite\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 1.633,
+  "stdout": "  Repository ID: 4ba46c44\n  Clone ID: 25aaebe1a3d2bbb0\n  ✓ Committed beads files to git\n\n✓ bd initialized successfully!\n\n  Backend: dolt\n  Mode: embedded\n  Database: wqa\n  Issue prefix: wqa\n  Issues will be named: wqa-<hash> (e.g., wqa-a3f2dd)\n\nRun bd quickstart to get started.\n\n",
+  "stderr": "",
+  "stdout_sha256": "0e438e016af7bc14e6a513e8c11265777570d776a94b477d7c8b9b42af503609",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

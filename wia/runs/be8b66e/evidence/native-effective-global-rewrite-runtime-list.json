@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "git",
+    "ls-tree",
+    "-r",
+    "--name-only",
+    "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2",
+    "--",
+    "scripts",
+    ".claude/tools"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": ".claude/tools/README.md\n.claude/tools/codex-account-switch.ps1\n.claude/tools/openai-review.mjs\n.claude/tools/package-lock.json\n.claude/tools/package.json\n.claude/tools/publish-pr-comment.py\n.claude/tools/run-python.sh\n.claude/tools/smoke-test.mjs\n.claude/tools/with-timeout.sh\nscripts/bd-apply-intents.sh\nscripts/bd-bootstrap.sh\nscripts/bd-publisher-setup.mjs\nscripts/bd-read.sh\nscripts/bd-sync-common.sh\nscripts/bd-sync-export.sh\nscripts/bd-sync-restore.sh\nscripts/bd-wt.sh\nscripts/check-reference.py\nscripts/install-overgate.py\nscripts/lib/bd-env.sh\nscripts/lib/bd-git-environment.mjs\nscripts/lib/bd-managed-cli.mjs\nscripts/lib/bd-managed-contract.mjs\nscripts/lib/bd-managed-entry.mjs\nscripts/lib/bd-managed-git.mjs\nscripts/lib/bd-managed-journal.mjs\nscripts/lib/bd-managed-project.mjs\nscripts/lib/bd-managed-read-check.mjs\nscripts/lib/bd-managed-transaction.mjs\nscripts/lib/bd-publisher-push-guard.mjs\nscripts/lib/bd-read-engine.mjs\nscripts/lib/bd-snapshot.mjs\nscripts/og-init-memory-bank.sh\nscripts/og-protect-main.sh\nscripts/test-bd-sync.sh\nscripts/tests/activation-routing.test.sh\nscripts/tests/bd-bootstrap-native.test.py\nscripts/tests/bd-linux-native-proof.test.mjs\nscripts/tests/bd-managed-prefix.test.mjs\nscripts/tests/bd-managed-routes.test.mjs\nscripts/tests/bd-managed-snapshot.test.mjs\nscripts/tests/bd-managed-two-clone.test.mjs\nscripts/tests/bd-publisher-guard.test.mjs\nscripts/tests/bd-publisher-setup.test.mjs\nscripts/tests/bd-read.test.sh\nscripts/tests/bd-wt.test.sh\nscripts/tests/check-reference.test.py\nscripts/tests/commit-command-classifier.test.sh\nscripts/tests/commit-gate.test.py\nscripts/tests/finalize-gate-script.test.sh\nscripts/tests/finalize-no-beads.test.py\nscripts/tests/finalize-triage-parse.test.sh\nscripts/tests/fixtures/issues-nodeps.jsonl\nscripts/tests/fixtures/issues.jsonl\nscripts/tests/gate-arithmetic-expansion.test.sh\nscripts/tests/gate-heredoc-delimiter.test.sh\nscripts/tests/gate-line-continuation-parity.test.sh\nscripts/tests/install-distribution.test.py\nscripts/tests/install-helpers.test.py\nscripts/tests/lib/assert.sh\nscripts/tests/lib/bd-stub.mjs\nscripts/tests/lib/claude_hooks.py\nscripts/tests/lib/seed-claude-hooks.sh\nscripts/tests/merge-gate-parse-budget.test.sh\nscripts/tests/merge-gate-parse-completeness.test.sh\nscripts/tests/merge-gate-parse-complexity.test.py\nscripts/tests/merge-gate-script-run-parity.test.sh\nscripts/tests/module-resolution-closure.test.sh\nscripts/tests/pre-bash-dispatch.test.py\nscripts/tests/publish-pr-comment.test.py\nscripts/tests/python-launcher.test.sh\nscripts/tests/readiness-declaration-corpus.test.py\nscripts/tests/readiness-policy-complexity.test.py\nscripts/tests/reference-closure.test.py\nscripts/tests/repository-mutation-guard.test.sh\nscripts/tests/shell-grammar-single-source.test.sh\nscripts/tests/shell-nonascii-expansion.test.py\nscripts/tests/with-timeout-transparency.test.sh\nscripts/tests/with-timeout.test.sh\nscripts/verify-reference.sh\n",
+  "stderr": "",
+  "stdout_sha256": "ce4d9d312aa3963748b09929595045319c7ce48b30914005066dcefd8a98d036",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

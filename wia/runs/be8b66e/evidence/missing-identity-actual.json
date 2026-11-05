@@ -1,0 +1,23 @@
+{
+  "argv": [
+    "node",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b2-auth\\identity-publisher\\scripts\\bd-publisher-setup.mjs",
+    "--primary-root",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b2-auth\\identity-primary",
+    "--publisher-root",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b2-auth\\identity-publisher",
+    "--qualified-cli",
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\missing-identity-plan.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b2-auth\\identity-publisher",
+  "env_overrides": {},
+  "exit_code": 1,
+  "expected": 1,
+  "seconds": 0.733,
+  "stdout": "",
+  "stderr": "bd-publisher-setup: publisher Git identity unavailable under isolated config; set repo-local user.name/user.email or explicit service author/committer identity\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "0c04f4f9eb2a133e3c235b62247c55d326f1b6760ab108339394fbbc6bffb771"
+}

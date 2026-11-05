@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "be8b66e7875ac5843e6f40f6e042593fa2f1ebb2:scripts/tests/bd-wt.test.sh"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "40a4f082d2c0c4fc83ac3215a19de7b0dc5bc6f0\n",
+  "stderr": "",
+  "stdout_sha256": "42d2585dd9008922d3ea904cb918681ccee33bac034eca0df6d1ae34e08a2713",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

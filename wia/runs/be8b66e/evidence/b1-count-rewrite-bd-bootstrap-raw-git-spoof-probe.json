@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "git",
+    "ls-remote",
+    "--heads",
+    "origin",
+    "refs/heads/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wia-be8b66e-winqa-20261105\\cases\\b1\\b1-count-rewrite-bd-bootstrap",
+  "env_overrides": {
+    "GIT_CONFIG_COUNT": "1",
+    "GIT_CONFIG_KEY_0": "url.D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/b1/attacker.git.insteadOf",
+    "GIT_CONFIG_VALUE_0": "D:/CodexArtifacts/overgate-rc5-wia-be8b66e-winqa-20261105/cases/b1/real.git"
+  },
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.047,
+  "stdout": "37a7d061bba28944163dfd4115aadd3c6552f659\trefs/heads/beads-backup\n",
+  "stderr": "",
+  "stdout_sha256": "caac23bf62ad745ae78efc0f8e051f49226704d6fea5262008c0cbc1b6a56685",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "6826dccad5691cb41c3d749e25de5a41d13a299c:scripts/bd-activate.py"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.025,
+  "stdout": "67741b70eb89aa9bb85c05506ccc317ac27047dc\n",
+  "stderr": "",
+  "stdout_sha256": "0cf34dc5240dea64bc8320bc80970a3b611d65bd202a44b9f927cfd1b8b62f3f",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

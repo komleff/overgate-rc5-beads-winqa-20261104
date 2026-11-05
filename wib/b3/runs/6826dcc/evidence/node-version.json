@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "node",
+    "--version"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "v24.11.0\r\n",
+  "stderr": "",
+  "stdout_sha256": "3d4954efa086ac6a45b73bcc4ed05c015d2098567e2c0b1848c2a82a3fb24282",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

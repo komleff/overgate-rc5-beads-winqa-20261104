@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "origin",
+    "HEAD:refs/heads/main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\cases\\Проект's (QA) space\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.231,
+  "stdout": "",
+  "stderr": "To D:/CodexArtifacts/overgate-rc5-wib-b3-6826dcc-winqa-20261105/cases/Проект's (QA) space/real.git\n   cd3dac9..fdae411  HEAD -> main\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "45121cd0605da5dc7a6738c13daa3f7406fa603d18a26ce09278c58f9abb3d17"
+}

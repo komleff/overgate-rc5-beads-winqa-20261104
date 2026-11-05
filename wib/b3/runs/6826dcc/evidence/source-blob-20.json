@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "6826dccad5691cb41c3d749e25de5a41d13a299c:scripts/tests/pre-bash-dispatch.test.py"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.023,
+  "stdout": "a8a36c307dd228b4a560fb5df3cae769f6c36556\n",
+  "stderr": "",
+  "stdout_sha256": "36db68fe7eee5f2dc5dcdf141410d52edab678e1d9b903005ebd29bece423880",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

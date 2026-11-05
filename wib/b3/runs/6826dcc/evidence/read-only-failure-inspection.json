@@ -1,0 +1,16 @@
+{
+  "primary": {
+    "managed_files": [],
+    "DB_present": true
+  },
+  "publisher": {
+    "managed_files": [
+      "preservation/preservation.json"
+    ],
+    "DB_present": false
+  },
+  "peer": {
+    "managed_files": [],
+    "DB_present": true
+  }
+}

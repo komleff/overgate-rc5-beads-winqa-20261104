@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "HEAD^{tree}"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.025,
+  "stdout": "54b843d2ff2e6455f7df04148dcb1d960cd05375\n",
+  "stderr": "",
+  "stdout_sha256": "e53e402521a8e503a321c3c8a1f2de1db097b957168acf122c6d5b3a2a83becf",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

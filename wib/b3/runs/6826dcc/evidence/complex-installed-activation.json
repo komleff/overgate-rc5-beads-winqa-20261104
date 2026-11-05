@@ -1,0 +1,29 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-activate.sh",
+    "--publisher-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-6826dcc-winqa-20261105/cases/Проект's (QA) space/publisher",
+    "--peer-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-6826dcc-winqa-20261105/cases/Проект's (QA) space/peer",
+    "--bd-bin",
+    "D:/CodexArtifacts/overgate-rc4-winqa-20261103/tools/bd.exe",
+    "--prefix",
+    "wibqa",
+    "--actor",
+    "agent-17bc6383-7706-46a0-af80-61c42735588a",
+    "--title",
+    "Windows B3 complex-path synthetic actual task",
+    "--work-dir",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-6826dcc-winqa-20261105/activation-work/complex"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\cases\\Проект's (QA) space\\primary",
+  "env_overrides": {},
+  "exit_code": 1,
+  "expected": null,
+  "seconds": 9.889,
+  "stdout": "",
+  "stderr": "STOP: trusted managed apply failed (exit 1); queue/base/actor retained: {\"actor\": \"agent-17bc6383-7706-46a0-af80-61c42735588a\", \"base\": \"0000000000000000000000000000000000000000\", \"queue\": \"D:\\\\CodexArtifacts\\\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\\\activation-work\\\\complex\\\\raw-intents.jsonl\", \"queue_sha256\": \"24098b839c9bc0335ff4435f21eeae137fad9588ce7e559e3838fc1b842ba0a0\"}\r\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "6e988343e69e8ec27b16b26eb75aaa2a79ccae0d6b8673d6683de858abfb55d3"
+}

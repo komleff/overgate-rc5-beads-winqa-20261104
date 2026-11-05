@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "6826dccad5691cb41c3d749e25de5a41d13a299c:docs/plans/2026-11-05-v4.0.0-rc.5-install-activation.md"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "5dedca627bf31916b871d85e88c4906551aaf576\n",
+  "stderr": "",
+  "stdout_sha256": "81514030f6cbe3b0a2b573e5f76f442062098cf1e7f3dacccd5e9124a7a0237c",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

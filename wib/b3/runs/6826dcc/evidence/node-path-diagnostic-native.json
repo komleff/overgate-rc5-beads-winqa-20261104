@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "-c",
+    "node \"$1\"",
+    "qa-diagnostic",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-6826dcc-winqa-20261105/read-only-probe/Проект's (QA) space/probe.mjs"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.068,
+  "stdout": "{\"diagnosticOnly\":true,\"candidateImported\":false}\n",
+  "stderr": "",
+  "stdout_sha256": "8c63911c47ef889981f69b539b157f33c2236e2e6ee28e38937b21db22897575",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

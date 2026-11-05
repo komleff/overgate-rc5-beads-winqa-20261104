@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "6826dccad5691cb41c3d749e25de5a41d13a299c:scripts/tests/portability-names.test.py"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.023,
+  "stdout": "61751e3ec42d537c3af51f3be3175cb831ca52a2\n",
+  "stderr": "",
+  "stdout_sha256": "c9bf8e693e9e9a1246d6399318aeec39926bd97506391311fa591bd117a0b121",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--version"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.134,
+  "stdout": "bd version 1.2.2 (6c124203e)\n",
+  "stderr": "",
+  "stdout_sha256": "76f0de98304054bc1926a183db05ee91154390f6673c555d4266e30edb1fe549",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

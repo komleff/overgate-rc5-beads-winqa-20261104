@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "push",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\cases\\Проект's (QA) space\\attacker.git",
+    "HEAD:refs/heads/main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\cases\\Проект's (QA) space\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.245,
+  "stdout": "",
+  "stderr": "To D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\cases\\Проект's (QA) space\\attacker.git\n   cd3dac9..fdae411  HEAD -> main\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "d019390c30d24f95500bd93279a04054f5f78c6ccc9dcbe85d4f8f46c4d1216b"
+}

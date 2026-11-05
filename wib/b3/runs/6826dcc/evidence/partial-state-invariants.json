@@ -1,0 +1,12 @@
+{
+  "source": "6826dccad5691cb41c3d749e25de5a41d13a299c",
+  "real_attacker_remote_all_bytes_unchanged": true,
+  "all_HEAD_index_install_state_unchanged": true,
+  "journal_stage": "setup",
+  "raw_queue_sha256": "24098b839c9bc0335ff4435f21eeae137fad9588ce7e559e3838fc1b842ba0a0",
+  "actor": "agent-17bc6383-7706-46a0-af80-61c42735588a",
+  "binary_sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de",
+  "primary_peer_DB_present": true,
+  "publisher_DB_absent": true,
+  "first_push_occurred": false
+}

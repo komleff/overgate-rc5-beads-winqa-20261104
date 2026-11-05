@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "remote",
+    "get-url",
+    "origin"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-recovery-prep-winqa-20261105\\cases\\after-peer-init\\primary",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.021,
+  "stdout": "D:/CodexArtifacts/overgate-rc5-wib-b3-recovery-prep-winqa-20261105/cases/after-peer-init/real.git\n",
+  "stderr": "",
+  "stdout_sha256": "c920d3ac8e1d53eb35ffdc8c4bc8608b39d88aed3ef03e560c91c95b030f4cbc",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

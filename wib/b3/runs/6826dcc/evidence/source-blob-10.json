@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "6826dccad5691cb41c3d749e25de5a41d13a299c:docs/architecture/ADR-INDEX.md"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-6826dcc-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "928f351ed7188f9127027462ef0e38b4f8570a4d\n",
+  "stderr": "",
+  "stdout_sha256": "9c565fb1489bed2d6e6eb909dcb82dea6a8f70406ea5474b1d22830b1bef73e2",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,10 @@
+{
+  "method": "independent inert Node module under separate owned diagnostic path; no candidate module imported, no source activation/bootstrap/transaction replay",
+  "msys_operand": "/d/CodexArtifacts/overgate-rc5-wib-b3-6826dcc-winqa-20261105/read-only-probe/Проект's (QA) space/probe.mjs",
+  "native_operand": "D:/CodexArtifacts/overgate-rc5-wib-b3-6826dcc-winqa-20261105/read-only-probe/Проект's (QA) space/probe.mjs",
+  "msys_exit": 1,
+  "native_exit": 0,
+  "probe_sha256": "5baef762fc9a62b783d53a6fc72aed09776e707308a140aba0aa0632d372a600",
+  "failed_fixture_all_bytes_unchanged": true,
+  "conclusion": "inert absolute MSYS Node operand fails but actual native operand succeeds"
+}

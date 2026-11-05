@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "--path-format=absolute",
+    "--git-common-dir"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\old-writer-b",
+  "exit_code": 0,
+  "seconds": 0.021,
+  "stdout": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/old-writer-b/.git\n",
+  "stderr": "",
+  "stdout_sha256": "2c2a2fe6620b2d7e51d7f867ace1fcae457127eaa4c7fa1205418f41b99e7e76",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--no-hardlinks",
+    "-c",
+    "core.autocrlf=false",
+    "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/real.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\old-writer-b"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105",
+  "exit_code": 0,
+  "seconds": 0.116,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\old-writer-b'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "f78d2fdbe519459bc2f7f0616b3ee8c6e8bc20c4def9978eed53d56831c505e1"
+}

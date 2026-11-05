@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--bare",
+    "--branch",
+    "qa/preparation",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-winqa-20261105\\evidence\\legacy-baseline.bundle",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\real.git"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105",
+  "exit_code": 0,
+  "seconds": 0.08,
+  "stdout": "",
+  "stderr": "Cloning into bare repository 'D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\real.git'...\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "a740dacd748a507f8972e798d674302a928f084dd2b353d8c2c8d839192e1a48"
+}

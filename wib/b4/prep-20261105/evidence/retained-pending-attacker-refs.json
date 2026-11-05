@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "git",
+    "for-each-ref",
+    "--format=%(refname) %(objectname)"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\attacker.git",
+  "exit_code": 0,
+  "seconds": 0.022,
+  "stdout": "refs/heads/main 9fc388d80ededf26710876478142391885e0e956\n",
+  "stderr": "",
+  "stdout_sha256": "ca8d516e44bdff945dcc89bc7e2c9a253c9fdebd2a8520b00e0c6d0c6e4619e6",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

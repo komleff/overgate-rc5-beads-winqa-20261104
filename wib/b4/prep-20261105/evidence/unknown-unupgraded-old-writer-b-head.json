@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "HEAD"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\old-writer-b",
+  "exit_code": 0,
+  "seconds": 0.021,
+  "stdout": "9fc388d80ededf26710876478142391885e0e956\n",
+  "stderr": "",
+  "stdout_sha256": "77fab66bfef9e593de23e3d4bd444a4fb6945008beae74a3df6894af7575ed7f",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

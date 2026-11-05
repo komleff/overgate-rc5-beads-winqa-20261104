@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--no-hardlinks",
+    "-c",
+    "core.autocrlf=false",
+    "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/real.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\old-writer-a"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105",
+  "exit_code": 0,
+  "seconds": 0.123,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\old-writer-a'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "bf9043a855a85bf9133cb024a6449627d481f5b19795384f85b3c1314555f97b"
+}

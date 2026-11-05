@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "--path-format=absolute",
+    "--git-dir"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\publisher",
+  "exit_code": 0,
+  "stdout": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/publisher/.git\n",
+  "stderr": ""
+}

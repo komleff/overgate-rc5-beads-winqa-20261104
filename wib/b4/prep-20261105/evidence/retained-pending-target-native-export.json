@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "D:\\CodexArtifacts\\overgate-rc4-winqa-20261103\\tools\\bd.exe",
+    "--readonly",
+    "--sandbox",
+    "export",
+    "--all",
+    "--output",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\evidence\\retained-pending-target-native-export.jsonl"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\target",
+  "exit_code": 0,
+  "seconds": 0.314,
+  "stdout": "",
+  "stderr": "Exported 2 issues to D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\evidence\\retained-pending-target-native-export.jsonl\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "12012d6b598d749ca1f34e30fadffd4f14efc10b72e3298e553be41edeac2a9f"
+}

@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "aa42f389fa93eea88583d74010579ecc920528c0^{tree}"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\real.git",
+  "exit_code": 0,
+  "seconds": 0.022,
+  "stdout": "0421414e3571fce9b898277d82afd2c073cde700\n",
+  "stderr": "",
+  "stdout_sha256": "0751bc3cfd8ba9af22d27617911cfd416190bafd805d29cd8d563dc546719c08",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

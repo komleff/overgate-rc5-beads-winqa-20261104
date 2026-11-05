@@ -1,0 +1,18 @@
+{
+  "argv": [
+    "git",
+    "worktree",
+    "add",
+    "-b",
+    "qa/b4-linked",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\old-writer-a-linked",
+    "main"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\old-writer-a",
+  "exit_code": 0,
+  "seconds": 0.099,
+  "stdout": "HEAD is now at 9fc388d fixture: released rc4.1 legacy payload\n",
+  "stderr": "Preparing worktree (new branch 'qa/b4-linked')\n",
+  "stdout_sha256": "560bd31f4f8a3b76482d063baeac39c7123c1d7b8d86fa458daf481357be39bb",
+  "stderr_sha256": "d0fb892a3d5cd971b47565073a77751a0d6c9143f7647a84ac1847519520fb8f"
+}

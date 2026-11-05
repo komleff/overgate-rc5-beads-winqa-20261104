@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "git",
+    "for-each-ref",
+    "--format=%(refname) %(objectname)"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\real.git",
+  "exit_code": 0,
+  "seconds": 0.022,
+  "stdout": "refs/heads/beads-backup 92f7e8e577920c6ce5868ac3bea4d9821b99676d\nrefs/heads/main 9fc388d80ededf26710876478142391885e0e956\nrefs/heads/qa/preparation 9fc388d80ededf26710876478142391885e0e956\n",
+  "stderr": "",
+  "stdout_sha256": "fab1d56d8aaae31cde0fa0b3be93dec6fd01d124db5660bf1fb8de659031f090",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

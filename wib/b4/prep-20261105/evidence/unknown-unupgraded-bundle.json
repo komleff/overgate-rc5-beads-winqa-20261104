@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "git",
+    "bundle",
+    "create",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\evidence\\unknown-unupgraded-legacy.bundle",
+    "refs/heads/main",
+    "refs/heads/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\real.git",
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": ""
+}

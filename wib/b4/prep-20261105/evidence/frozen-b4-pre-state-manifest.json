@@ -1,0 +1,1633 @@
+{
+  "files": {
+    "clean-populated/target/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/.local_version": {
+      "sha256": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "bytes": 6,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/last-touched": {
+      "sha256": "d39827e3787e0385980d446f6b9d6c4c91dbf8be56a22db160b5f2dec339b048",
+      "bytes": 11,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/backup/backup_state.json": {
+      "sha256": "673600bdad8d870825e8a04696d1c5d182b64e9c1a1bc36827be04bc4b12412e",
+      "bytes": 107,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/backup/fjpmm4876e8sraua7s8k56ga06m2ghjt.darc": {
+      "sha256": "b5638ed59341a5b13a88edb5b1208156341e13455424d41bacf546e41b9a84d4",
+      "bytes": 12737,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/backup/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/backup/manifest": {
+      "sha256": "e989779ffc14592d9e02d2f73456dc1de5715616ae4fb4b95e22d37ff2066243",
+      "bytes": 182,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/backup/q2na632iuvgt5bsctrlgqgmbgdg8gco9.darc": {
+      "sha256": "a3d1400ca24b48a2f86957e816b73db55998c96909003ff174747b8b388cb7bd",
+      "bytes": 72055,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/embeddeddolt/.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/embeddeddolt/wib_qa/.dolt/config.json": {
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/embeddeddolt/wib_qa/.dolt/repo_state.json": {
+      "sha256": "81de3410d6c5c0ffa190f7baa5c0a696822fc0098c4b668feffa6016483588b5",
+      "bytes": 373,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/embeddeddolt/wib_qa/.dolt/noms/journal.idx": {
+      "sha256": "dea3e8afced5cb997dac37bcaac4c310f62c155cb509dae834d215967841f220",
+      "bytes": 58406,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/embeddeddolt/wib_qa/.dolt/noms/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/embeddeddolt/wib_qa/.dolt/noms/manifest": {
+      "sha256": "fb1bdc60fa4b259837d0aa615d4048652e0b240173c2773098750917352bbe13",
+      "bytes": 147,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/embeddeddolt/wib_qa/.dolt/noms/vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": {
+      "sha256": "360068df862295a93bfc3af2e8b598e946ffb065691dd778adb159c9716c960a",
+      "bytes": 1300424,
+      "mode": 438
+    },
+    "clean-populated/target/.beads/embeddeddolt/wib_qa/.dolt/temptf/dolt_embedded_metrics": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/target/.git/config": {
+      "sha256": "0c88eae7cb907ba654a8995b7ee98b0ab5c91e6face2184e711c5891ce48bdac",
+      "bytes": 436,
+      "mode": 438
+    },
+    "clean-populated/target/.git/index": {
+      "sha256": "a3f90b9a3b1f16cb3f4a5c5c674804d85df1b579596df792a892b7e54d415a38",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "clean-populated/target/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "clean-populated/target/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "clean-populated/target/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/.local_version": {
+      "sha256": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "bytes": 6,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/last-touched": {
+      "sha256": "d39827e3787e0385980d446f6b9d6c4c91dbf8be56a22db160b5f2dec339b048",
+      "bytes": 11,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/backup/backup_state.json": {
+      "sha256": "27baacec72be73d23a78ef91d1c3b2baa524e0560d000bebc3e4c3ec6cf82115",
+      "bytes": 107,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/backup/ctdtkmdc2b3bb7ibiqr1dogf9tcm3c4j.darc": {
+      "sha256": "93f1d6914251e35cc8992374c1a2708e133a50b3cc42215ed8331492b88d03a8",
+      "bytes": 12737,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/backup/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/backup/manifest": {
+      "sha256": "cdb81d6184b7b9c4d4c113a3cd3b6d0e670b29792579ba684bfd6f196a6450e2",
+      "bytes": 182,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/backup/q2na632iuvgt5bsctrlgqgmbgdg8gco9.darc": {
+      "sha256": "a3d1400ca24b48a2f86957e816b73db55998c96909003ff174747b8b388cb7bd",
+      "bytes": 72055,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/embeddeddolt/.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/config.json": {
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/repo_state.json": {
+      "sha256": "55df7b03c6148d035436289e1afd4a519fe2afbfcc4256e4315d6a5f2d373604",
+      "bytes": 379,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/journal.idx": {
+      "sha256": "dea3e8afced5cb997dac37bcaac4c310f62c155cb509dae834d215967841f220",
+      "bytes": 58406,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/manifest": {
+      "sha256": "fb1bdc60fa4b259837d0aa615d4048652e0b240173c2773098750917352bbe13",
+      "bytes": 147,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": {
+      "sha256": "360068df862295a93bfc3af2e8b598e946ffb065691dd778adb159c9716c960a",
+      "bytes": 1300424,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/temptf/dolt_embedded_metrics": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.git/config": {
+      "sha256": "d9996e02916c07bdd074ead6af11b8664de5ce47a09b823d0d46680770314ccc",
+      "bytes": 448,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.git/index": {
+      "sha256": "fa72d339701682e1ef600187705d15b72f05bd368cca0bb617ec1ec843de81ee",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.git/hooks/pre-push": {
+      "sha256": "fca3a12075647256a65f2d8e34ce6d76249a75704f7ba895c5a67369d9af9b1a",
+      "bytes": 84,
+      "mode": 438
+    },
+    "clean-populated/old-writer-a/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/.local_version": {
+      "sha256": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "bytes": 6,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/last-touched": {
+      "sha256": "d39827e3787e0385980d446f6b9d6c4c91dbf8be56a22db160b5f2dec339b048",
+      "bytes": 11,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/backup/6t0tou4cd3ko0vh79aka4laap8d5p0ap.darc": {
+      "sha256": "93a4cf7dc68358d5398f3316ba6b89e27a1b77650b1eb399ec7eabf89ee74006",
+      "bytes": 12737,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/backup/backup_state.json": {
+      "sha256": "1d59269d5b7dee8f189b97d22a00c03ca40bbead31e49b2451cb0fe18cff37b3",
+      "bytes": 107,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/backup/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/backup/manifest": {
+      "sha256": "67621f7225fc72bffbc7be262c4d97441fb31b05d1fd6d90d72b091525f67501",
+      "bytes": 182,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/backup/q2na632iuvgt5bsctrlgqgmbgdg8gco9.darc": {
+      "sha256": "a3d1400ca24b48a2f86957e816b73db55998c96909003ff174747b8b388cb7bd",
+      "bytes": 72055,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/embeddeddolt/.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/config.json": {
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/repo_state.json": {
+      "sha256": "dc8ce1d11458678d72d3dbb081d2a6368a5b557b60735f2dd1cfd7d2dd293181",
+      "bytes": 379,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/journal.idx": {
+      "sha256": "bbf42b3a32113622ff563a1862b3b5fe07d75a8a2b54242132c01e839b0755e7",
+      "bytes": 58406,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/manifest": {
+      "sha256": "15f47d140a3f468edb72cce51956ed785f62df60995302d3a3f36cf2c70067a2",
+      "bytes": 147,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": {
+      "sha256": "3ebd6a76158344651e9d8bbff91d73e5a18987b42415a92da5fb5c31364a6892",
+      "bytes": 1300424,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/temptf/dolt_embedded_metrics": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.git/config": {
+      "sha256": "fd035350cd05fb3e67e1c4898b4dcebbcf32c37ab2b27e9c69d17c33cc1b2c93",
+      "bytes": 448,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.git/index": {
+      "sha256": "b767dd63ca28a339143f34d575fc6bab6008f55ff03d5d472c35523f3b4fa9c6",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.git/hooks/pre-push": {
+      "sha256": "7058a3b6dc8c80449791b6e20ddeab850fe90268bf44ec1979edd4d8972343c6",
+      "bytes": 84,
+      "mode": 438
+    },
+    "clean-populated/old-writer-b/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "clean-populated/publisher/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "clean-populated/publisher/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "clean-populated/publisher/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/publisher/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "clean-populated/publisher/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "clean-populated/publisher/.git/config": {
+      "sha256": "3226a77d1123802de9e15062c1f9e68116334477aa59aadcc8053783a8867526",
+      "bytes": 442,
+      "mode": 438
+    },
+    "clean-populated/publisher/.git/index": {
+      "sha256": "9ba7d598673e01997437df2b438b426ad65d507a6fe906923f19e003625533d7",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "clean-populated/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "clean-populated/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "clean-populated/publisher/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "clean-populated/peer/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "clean-populated/peer/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "clean-populated/peer/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/peer/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "clean-populated/peer/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "clean-populated/peer/.git/config": {
+      "sha256": "99fa5515c377e5a55b64ebd1b70ff8e05da6be2e522d16bbe1e05325c8df3426",
+      "bytes": 432,
+      "mode": 438
+    },
+    "clean-populated/peer/.git/index": {
+      "sha256": "78edd3d43cfb6c54953e6d5f2b5bb874f1b5187562a6d585448669a709a7ac90",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "clean-populated/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "clean-populated/peer/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "clean-populated/peer/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "clean-populated/linked/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "clean-populated/linked/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "clean-populated/linked/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "clean-populated/linked/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "clean-populated/linked/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "clean-populated/linked/.git": {
+      "sha256": "f4af44ca555e28fcf8277b0c90dc7d5c4f34b87063b8cfe9e5e1743d89fbbcd2",
+      "bytes": 136,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/.local_version": {
+      "sha256": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "bytes": 6,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/last-touched": {
+      "sha256": "d39827e3787e0385980d446f6b9d6c4c91dbf8be56a22db160b5f2dec339b048",
+      "bytes": 11,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/backup/backup_state.json": {
+      "sha256": "1e4beacc2df65a1ceacffc095847009458ec1c846c46b6b43f3358fefb33696e",
+      "bytes": 107,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/backup/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/backup/manifest": {
+      "sha256": "aed24e7791d8ce0cf7ac0502818310290264b20ad1550850c08f67741801f522",
+      "bytes": 182,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/backup/ot532nb26gaot9bemls6i9h8r49sf5u4.darc": {
+      "sha256": "8c4015f4acf08b8492151c11c71fb9e0083b05f7ecbdaea0ae706b995e4279cc",
+      "bytes": 12737,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/backup/q2na632iuvgt5bsctrlgqgmbgdg8gco9.darc": {
+      "sha256": "a3d1400ca24b48a2f86957e816b73db55998c96909003ff174747b8b388cb7bd",
+      "bytes": 72055,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/embeddeddolt/.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/embeddeddolt/wib_qa/.dolt/config.json": {
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/embeddeddolt/wib_qa/.dolt/repo_state.json": {
+      "sha256": "249b80c4c18537c1c086e7d242067f4ba03e73f9e39e4bdebaed50d0e4694d29",
+      "bytes": 374,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/embeddeddolt/wib_qa/.dolt/noms/journal.idx": {
+      "sha256": "1c389d1994bc90d50ee59e6a160236a51e9990a06b38d735237d1de375627c6a",
+      "bytes": 58406,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/embeddeddolt/wib_qa/.dolt/noms/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/embeddeddolt/wib_qa/.dolt/noms/manifest": {
+      "sha256": "06ead9455e94ff1c175042c4e378b66997d9f67169a0dce001d79d6a2d11acd2",
+      "bytes": 147,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/embeddeddolt/wib_qa/.dolt/noms/vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": {
+      "sha256": "e597c91c226274020bd4be147f3309cf20c573c38859e5a9dafd3c52bc9cbdb7",
+      "bytes": 1300424,
+      "mode": 438
+    },
+    "retained-pending/target/.beads/embeddeddolt/wib_qa/.dolt/temptf/dolt_embedded_metrics": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/target/.bd-intents/b4-retained.raw.jsonl": {
+      "sha256": "991836bcea17bfb657850f504f03b24e73499a9d9a241e62e2b4c0560c876795",
+      "bytes": 125,
+      "mode": 438
+    },
+    "retained-pending/target/.git/config": {
+      "sha256": "a2fe43a43cccaa4083f5a2ca92e55adf9af573bae06e596d3bfda991423da533",
+      "bytes": 437,
+      "mode": 438
+    },
+    "retained-pending/target/.git/index": {
+      "sha256": "ccd33369fa8d60b57567d8731a7ec3d57792b5b637dc4f00199df8204c2bb073",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "retained-pending/target/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "retained-pending/target/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "retained-pending/target/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/.local_version": {
+      "sha256": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "bytes": 6,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/last-touched": {
+      "sha256": "d39827e3787e0385980d446f6b9d6c4c91dbf8be56a22db160b5f2dec339b048",
+      "bytes": 11,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/backup/4o24so1e5huimkhc1tg9ck8iq48ru0f2.darc": {
+      "sha256": "524b084122d9c215a0f2b1fb8d66888becd5ed6f6a3763b21ddc2a29433cc727",
+      "bytes": 12737,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/backup/backup_state.json": {
+      "sha256": "d000bbc1a7356c4349c87ceb52a1c438696fc44bbc71f25d8ad9dcfc29e9696e",
+      "bytes": 107,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/backup/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/backup/manifest": {
+      "sha256": "69ee54f3bca216b35e52f4a4687de10e2661872ca24b358a41e6e32f485efd3a",
+      "bytes": 182,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/backup/q2na632iuvgt5bsctrlgqgmbgdg8gco9.darc": {
+      "sha256": "a3d1400ca24b48a2f86957e816b73db55998c96909003ff174747b8b388cb7bd",
+      "bytes": 72055,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/embeddeddolt/.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/config.json": {
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/repo_state.json": {
+      "sha256": "414b4f4dfea1ff3484e2ec2a934f4b55c877e7b094f62cb84e2c083cf657f1bc",
+      "bytes": 380,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/journal.idx": {
+      "sha256": "20b0e21ef9fd05e8058cb7f8deddf9594c4bc2c93ce409a2c69d2a659df67c27",
+      "bytes": 58406,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/manifest": {
+      "sha256": "8856598c64b8032cc820b87a57c8f6a8e502533a91f6a9fbac5e825e390fb812",
+      "bytes": 147,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": {
+      "sha256": "aa66993f2dc11af620dd247d14a732862a63178d293b47735820a9a239fe9438",
+      "bytes": 1300424,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/temptf/dolt_embedded_metrics": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.git/config": {
+      "sha256": "0ec84cf5a7570adf1196df496ead5f400e2352858b270cbc53a2e46f7fe7f820",
+      "bytes": 449,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.git/index": {
+      "sha256": "5541f58a72a30e7dd1c46e16490cc886a500e08f8c5df86d932a32fcd456b0b5",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.git/hooks/pre-push": {
+      "sha256": "fca3a12075647256a65f2d8e34ce6d76249a75704f7ba895c5a67369d9af9b1a",
+      "bytes": 84,
+      "mode": 438
+    },
+    "retained-pending/old-writer-a/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/.local_version": {
+      "sha256": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "bytes": 6,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/last-touched": {
+      "sha256": "d39827e3787e0385980d446f6b9d6c4c91dbf8be56a22db160b5f2dec339b048",
+      "bytes": 11,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/backup/backup_state.json": {
+      "sha256": "f4fa0e4c62077888f1ff87f594c9e9a24ebdecda3a971b44d01185051d6a334a",
+      "bytes": 107,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/backup/l912pv2hbbuet68r0akmi304qkb8uhsf.darc": {
+      "sha256": "16f26a939da41cacf07f03cfe660669ea70d868c60176cd58d26a6f891f45a66",
+      "bytes": 12737,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/backup/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/backup/manifest": {
+      "sha256": "27d2cc0de8ef8e055160c13ee8e6a62f164403e84c8fa8f2a20ac43257af854d",
+      "bytes": 182,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/backup/q2na632iuvgt5bsctrlgqgmbgdg8gco9.darc": {
+      "sha256": "a3d1400ca24b48a2f86957e816b73db55998c96909003ff174747b8b388cb7bd",
+      "bytes": 72055,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/embeddeddolt/.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/config.json": {
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/repo_state.json": {
+      "sha256": "04f6beaa29e003e854f413a7d44a025c6a3c0a527ae2882a3ad9723aa4781e49",
+      "bytes": 380,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/journal.idx": {
+      "sha256": "20b0e21ef9fd05e8058cb7f8deddf9594c4bc2c93ce409a2c69d2a659df67c27",
+      "bytes": 58406,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/manifest": {
+      "sha256": "8856598c64b8032cc820b87a57c8f6a8e502533a91f6a9fbac5e825e390fb812",
+      "bytes": 147,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": {
+      "sha256": "aa66993f2dc11af620dd247d14a732862a63178d293b47735820a9a239fe9438",
+      "bytes": 1300424,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/temptf/dolt_embedded_metrics": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.git/config": {
+      "sha256": "276d671b8a2813b43bdf821231330f39f5745bc6e3e0664db03334f975e54b21",
+      "bytes": 449,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.git/index": {
+      "sha256": "9810d7ef6ee2f195a2a4610deaded5a3db2c898f8c76ba151bc6e08fe562f7cf",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.git/hooks/pre-push": {
+      "sha256": "7058a3b6dc8c80449791b6e20ddeab850fe90268bf44ec1979edd4d8972343c6",
+      "bytes": 84,
+      "mode": 438
+    },
+    "retained-pending/old-writer-b/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "retained-pending/publisher/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "retained-pending/publisher/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "retained-pending/publisher/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/publisher/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "retained-pending/publisher/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "retained-pending/publisher/.git/config": {
+      "sha256": "37a6c5b190e241d23291f3b0bdeb5bb7fa6d19a6aa781ed3f2ea4a459e67599c",
+      "bytes": 443,
+      "mode": 438
+    },
+    "retained-pending/publisher/.git/index": {
+      "sha256": "c55391e77f2dd3b8b39311e76c6065c0a17913ff80286d37152ecdc718aa0547",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "retained-pending/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "retained-pending/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "retained-pending/publisher/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "retained-pending/peer/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "retained-pending/peer/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "retained-pending/peer/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "retained-pending/peer/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "retained-pending/peer/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "retained-pending/peer/.git/config": {
+      "sha256": "b72690c5ad50af024c39a5501684bd66f78a322b477bd84af92776ab941c988d",
+      "bytes": 433,
+      "mode": 438
+    },
+    "retained-pending/peer/.git/index": {
+      "sha256": "2283a5f58a0c6dea2e43f277bc89be6f8f7debdd113687aecf0e3cc78135b278",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "retained-pending/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "retained-pending/peer/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "retained-pending/peer/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/.local_version": {
+      "sha256": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "bytes": 6,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/last-touched": {
+      "sha256": "d39827e3787e0385980d446f6b9d6c4c91dbf8be56a22db160b5f2dec339b048",
+      "bytes": 11,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/backup/6jq8m3a376ckm274acfmj2o1087ocrh1.darc": {
+      "sha256": "f93eb2664e7b514c9437a27a684c345d3c2ae21fcbec66967e71fc0718333c07",
+      "bytes": 12735,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/backup/backup_state.json": {
+      "sha256": "ae66702bf402629bec7f3c997ff747d9c8c6be33530c113b34521a6e7789f0c0",
+      "bytes": 106,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/backup/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/backup/manifest": {
+      "sha256": "c15db0898024b5168fa5c2ec565dc523bc9687855b2ee74a0eaad5b7b30bcd68",
+      "bytes": 182,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/backup/q2na632iuvgt5bsctrlgqgmbgdg8gco9.darc": {
+      "sha256": "a3d1400ca24b48a2f86957e816b73db55998c96909003ff174747b8b388cb7bd",
+      "bytes": 72055,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/embeddeddolt/.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/embeddeddolt/wib_qa/.dolt/config.json": {
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/embeddeddolt/wib_qa/.dolt/repo_state.json": {
+      "sha256": "365beddd3ceb156f644531eeeb7d4177ef74425c190137184f504709603ac3a2",
+      "bytes": 376,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/embeddeddolt/wib_qa/.dolt/noms/journal.idx": {
+      "sha256": "a5b3ff567db0cb73944c4583e3cb4f9c9fef4ab758324d39dd0d276e72bc6a0c",
+      "bytes": 58406,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/embeddeddolt/wib_qa/.dolt/noms/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/embeddeddolt/wib_qa/.dolt/noms/manifest": {
+      "sha256": "fd9e76c668fbd1b1c17fbd8eb1e95772fc1b5174a7deae43d4befec505bde50f",
+      "bytes": 147,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/embeddeddolt/wib_qa/.dolt/noms/vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": {
+      "sha256": "7c0d377940605ab18284ea97e2ed661139736b2ce5779aaf07799e373ad91981",
+      "bytes": 1300422,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.beads/embeddeddolt/wib_qa/.dolt/temptf/dolt_embedded_metrics": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.git/config": {
+      "sha256": "88f91ea764d9a81c4081fad549d1687ce1ce3e226e732709cddb3a2bda6e42df",
+      "bytes": 439,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.git/index": {
+      "sha256": "687f439bae6c9804e46b0730ab8ebde6e80aa94f9dc383fa571b6cf3b468c020",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "unknown-unupgraded/target/.git/bd-receipts/opaque-unknown.json": {
+      "sha256": "930bf689726828c14f03316ad4daf4ecc5ba8b17989b956ca9e4ef8f9d5431ed",
+      "bytes": 113,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/.local_version": {
+      "sha256": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "bytes": 6,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/last-touched": {
+      "sha256": "d39827e3787e0385980d446f6b9d6c4c91dbf8be56a22db160b5f2dec339b048",
+      "bytes": 11,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/backup/backup_state.json": {
+      "sha256": "c8f7287391c2feca26b1e2309e3d324994d42f4c633681881e2f84bc16e09519",
+      "bytes": 107,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/backup/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/backup/manifest": {
+      "sha256": "586ef10fe43ef58ced8e6b8e4664c1c563ae4182805df76f4a67e470897fed11",
+      "bytes": 182,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/backup/q2na632iuvgt5bsctrlgqgmbgdg8gco9.darc": {
+      "sha256": "a3d1400ca24b48a2f86957e816b73db55998c96909003ff174747b8b388cb7bd",
+      "bytes": 72055,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/backup/tihdnpfa2qij5she6ab89rofiu6n7cg0.darc": {
+      "sha256": "727ab85a48dbea09763bd707ec19dff6cf7b05b2ca6f00194e0e8ee90ed4c7c7",
+      "bytes": 12737,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/embeddeddolt/.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/config.json": {
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/repo_state.json": {
+      "sha256": "2960170283a8204da5ce38aeb6146f5713b7ac1abac3a897e3d5da1edb593ea3",
+      "bytes": 382,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/journal.idx": {
+      "sha256": "b6b65507879cbba13c52daf2882b81d2dd00e8ff697ac08a8298fdb719c52695",
+      "bytes": 58406,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/manifest": {
+      "sha256": "d482021568cb5ef15e76aca273af441cd8a006d3fc83b1ac7f2c88f0ba7257bd",
+      "bytes": 147,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/noms/vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": {
+      "sha256": "a08221e8352641419966afc5d7f636219f60078190e909b673f4fd27b575f0a0",
+      "bytes": 1300424,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.beads/embeddeddolt/wib_qa/.dolt/temptf/dolt_embedded_metrics": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.git/config": {
+      "sha256": "253190c2183a0159c4a06cb962465c56be74eb88691be70c0791bbef9e44a008",
+      "bytes": 451,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.git/index": {
+      "sha256": "f444afed382074f19d2a6b2154b280e5289bbb0f65118265b4b3e9baf9f5071d",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.git/hooks/pre-push": {
+      "sha256": "fca3a12075647256a65f2d8e34ce6d76249a75704f7ba895c5a67369d9af9b1a",
+      "bytes": 84,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-a/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/.local_version": {
+      "sha256": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "bytes": 6,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/last-touched": {
+      "sha256": "d39827e3787e0385980d446f6b9d6c4c91dbf8be56a22db160b5f2dec339b048",
+      "bytes": 11,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/backup/5tavlrcn4g4d3dpsdhaqaj0nhd9q7unv.darc": {
+      "sha256": "2c0581dba86afa72007d0231542bd080320e4e206867fb775e54099fb2d1d1cb",
+      "bytes": 12737,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/backup/backup_state.json": {
+      "sha256": "8d3cf6624bdab0c6c2cd8de70d37e1c960228b6380154c4bfb47703ccf7dfee3",
+      "bytes": 107,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/backup/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/backup/manifest": {
+      "sha256": "aa92a71f06751ec7569c7a8176f0b28062cc871885dc6d6888b54c096163b55f",
+      "bytes": 182,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/backup/q2na632iuvgt5bsctrlgqgmbgdg8gco9.darc": {
+      "sha256": "a3d1400ca24b48a2f86957e816b73db55998c96909003ff174747b8b388cb7bd",
+      "bytes": 72055,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/embeddeddolt/.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/config.json": {
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/repo_state.json": {
+      "sha256": "41ff208ebaab4072a084fca80cc64a5d57dd0b2ceb0462c92f79cf37cc946cbd",
+      "bytes": 382,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/journal.idx": {
+      "sha256": "99c4e69861cf72891d25832abcc7ecdeba4a1f31e444db74fd93bee70f36446f",
+      "bytes": 58406,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/manifest": {
+      "sha256": "d17071b809b744ded62273697d730d300cae6c43a90646c416c13f080eb0c524",
+      "bytes": 147,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/noms/vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": {
+      "sha256": "a4b555893b5f0ee970f1003529c0c053ef4cae0ffed90e8ca484b589d14938ac",
+      "bytes": 1300424,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.beads/embeddeddolt/wib_qa/.dolt/temptf/dolt_embedded_metrics": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.git/config": {
+      "sha256": "b15d41b5f961aceaf1b7d37e637433ed8cb1808642e81819cbfefdba74d0ffeb",
+      "bytes": 451,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.git/index": {
+      "sha256": "db3e38f0272a8c59df9b3af804049013bdf380900c3bd7268ccfbecc2e01cc82",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.git/hooks/pre-push": {
+      "sha256": "7058a3b6dc8c80449791b6e20ddeab850fe90268bf44ec1979edd4d8972343c6",
+      "bytes": 84,
+      "mode": 438
+    },
+    "unknown-unupgraded/old-writer-b/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "unknown-unupgraded/publisher/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "unknown-unupgraded/publisher/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "unknown-unupgraded/publisher/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/publisher/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "unknown-unupgraded/publisher/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "unknown-unupgraded/publisher/.git/config": {
+      "sha256": "3ed37a31e12693fb36a69c43055f32ad6ffca3ed5cf3c2c18c90be0cf5845c40",
+      "bytes": 445,
+      "mode": 438
+    },
+    "unknown-unupgraded/publisher/.git/index": {
+      "sha256": "c9ba7c1c7be7d5eb08e7c09ad05a9d066c608e944fdd8069b299384dc264fa8d",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "unknown-unupgraded/publisher/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "unknown-unupgraded/publisher/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "unknown-unupgraded/publisher/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "unknown-unupgraded/peer/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "unknown-unupgraded/peer/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "unknown-unupgraded/peer/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/peer/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "unknown-unupgraded/peer/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "unknown-unupgraded/peer/.git/config": {
+      "sha256": "6b00da3f0bae7c2168127bea75d7f8d4d63ba3d9114bb256172ef6ce167977b3",
+      "bytes": 435,
+      "mode": 438
+    },
+    "unknown-unupgraded/peer/.git/index": {
+      "sha256": "bc1f852c5737609370bc570999a914aa6d8fde9c4965342884e63a4a0167a7c1",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "unknown-unupgraded/peer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "unknown-unupgraded/peer/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "unknown-unupgraded/peer/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/.gitignore": {
+      "sha256": "f7602e4a43fb73574acc38aa0475d03d7383956983183b87f431865663676dc1",
+      "bytes": 1758,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/.local_version": {
+      "sha256": "c62a5cc61ac4525935753f5ec284c0a052a4b1da4b3a3580dce2b7d77a2154ae",
+      "bytes": 6,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/config.yaml": {
+      "sha256": "129012112e8fe2489a4e904b8617c20482fa1736135d5266a86d81c121a9a80c",
+      "bytes": 2622,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/interactions.jsonl": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/last-touched": {
+      "sha256": "d39827e3787e0385980d446f6b9d6c4c91dbf8be56a22db160b5f2dec339b048",
+      "bytes": 11,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/metadata.json": {
+      "sha256": "6733a70ba38c0d49c6d566eeccf83588bb621e323de7f0a3f116f8481112c82b",
+      "bytes": 157,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/README.md": {
+      "sha256": "cae1648db67c27f1d86f92ed110119445356e23bb18a5df57e73a7f476619267",
+      "bytes": 2283,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/backup/4teecoquusmv6k88kgiqat9jto3cevv6.darc": {
+      "sha256": "20eb1d5c98914ab62e9589c22f5be468ce9eef051fa039b0ecfecf4ba2006d38",
+      "bytes": 12737,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/backup/backup_state.json": {
+      "sha256": "9761734320a17bcafe146c2b9a59637bbc39ab596827b1f20a071c796b60ebd7",
+      "bytes": 107,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/backup/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/backup/manifest": {
+      "sha256": "2f9504f3305b4e16aca67f98b3f4afe8ae26275969749f36d723eaf8e54221d0",
+      "bytes": 182,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/backup/q2na632iuvgt5bsctrlgqgmbgdg8gco9.darc": {
+      "sha256": "a3d1400ca24b48a2f86957e816b73db55998c96909003ff174747b8b388cb7bd",
+      "bytes": 72055,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/embeddeddolt/.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/embeddeddolt/wib_qa/.dolt/config.json": {
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/embeddeddolt/wib_qa/.dolt/repo_state.json": {
+      "sha256": "5f5cc4d76110d6c566b42484b86e3f5bd3cec3451bea75f69dc7e482553647e0",
+      "bytes": 391,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/embeddeddolt/wib_qa/.dolt/noms/journal.idx": {
+      "sha256": "f474f02f49f3550120a61d50339d940b5b7baf226dac2ff41cabf3628bda5da3",
+      "bytes": 58406,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/embeddeddolt/wib_qa/.dolt/noms/LOCK": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/embeddeddolt/wib_qa/.dolt/noms/manifest": {
+      "sha256": "0b36b559f3dfd95cf4e4dd8e90de1a0af46ad87d38491f046acefff21033a6ea",
+      "bytes": 147,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/embeddeddolt/wib_qa/.dolt/noms/vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv": {
+      "sha256": "80cebab7b758636739b26b317bc882853c1ca856167b22ded2710032bb5566ef",
+      "bytes": 1300424,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.beads/embeddeddolt/wib_qa/.dolt/temptf/dolt_embedded_metrics": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.git/config": {
+      "sha256": "80aac392e5b18524e18d0e5470330de7f9cce5712665a702117f8203aec92a7d",
+      "bytes": 469,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.git/index": {
+      "sha256": "0ed83a244871cf76dc8a70caaf93073b202a738b680e81abf7bf38b9e252df6d",
+      "bytes": 9248,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.git/HEAD": {
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "bytes": 21,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "bytes": 240,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.git/hooks/pre-push": {
+      "sha256": "fb2af6a6aa7a511c43f78fb048e16f72e78b87130edbfa70e676eee89d7a38fa",
+      "bytes": 93,
+      "mode": 438
+    },
+    "unknown-unupgraded/unupgraded-old-writer/.overgate/install-state.json": {
+      "sha256": "da7b00d912a3aab4d535f67618265dddaf27ed348b5dd5701c97c57c406f7169",
+      "bytes": 11785,
+      "mode": 438
+    }
+  },
+  "zip_sha256": "4b5ce49e9d55eb37e0341020b879f3abe6e28e64925847c950d16344ace51216",
+  "zip_bytes": 3409850,
+  "every_byte_verified": true,
+  "candidate": "NOT RUN"
+}

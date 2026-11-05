@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "ls-remote",
+    "--heads",
+    "origin",
+    "refs/heads/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\old-writer-b",
+  "exit_code": 0,
+  "seconds": 0.049,
+  "stdout": "92f7e8e577920c6ce5868ac3bea4d9821b99676d\trefs/heads/beads-backup\n",
+  "stderr": "",
+  "stdout_sha256": "a6d97f80f2ba525110fc3fa47f18f3f22d32cf50a5fc1ad9fc7552eedaeb48ca",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

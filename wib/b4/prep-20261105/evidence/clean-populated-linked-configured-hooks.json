@@ -1,0 +1,13 @@
+{
+  "argv": [
+    "git",
+    "config",
+    "--local",
+    "--get",
+    "core.hooksPath"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\old-writer-a-linked",
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": ""
+}

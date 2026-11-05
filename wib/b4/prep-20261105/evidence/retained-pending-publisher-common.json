@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "--path-format=absolute",
+    "--git-common-dir"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\publisher",
+  "exit_code": 0,
+  "seconds": 0.023,
+  "stdout": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/publisher/.git\n",
+  "stderr": "",
+  "stdout_sha256": "1a0c8ae84e050ddb8cf2ec0aefb6dff386abe683cfdab68174aa6d0965ef687e",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "git",
+    "bundle",
+    "verify",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\evidence\\retained-pending-legacy.bundle"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\real.git",
+  "exit_code": 0,
+  "stdout": "The bundle contains these 2 refs:\n9fc388d80ededf26710876478142391885e0e956 refs/heads/main\n85379ac17cb38766034d966abe51da5e75638fba refs/heads/beads-backup\nThe bundle records a complete history.\nThe bundle uses this hash algorithm: sha1\n",
+  "stderr": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/evidence/retained-pending-legacy.bundle is okay\n"
+}

@@ -1,0 +1,189 @@
+{
+  "clean-populated/target": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/target/.git/hooks/pre-push",
+    "exists": false,
+    "sha256": null,
+    "mode": null,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/target/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\target\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": true
+  },
+  "clean-populated/old-writer-a": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/old-writer-a/.git/hooks/pre-push",
+    "exists": true,
+    "sha256": "fca3a12075647256a65f2d8e34ce6d76249a75704f7ba895c5a67369d9af9b1a",
+    "mode": 438,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/old-writer-a/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\old-writer-a\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": true
+  },
+  "clean-populated/old-writer-b": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/old-writer-b/.git/hooks/pre-push",
+    "exists": true,
+    "sha256": "7058a3b6dc8c80449791b6e20ddeab850fe90268bf44ec1979edd4d8972343c6",
+    "mode": 438,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/old-writer-b/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\old-writer-b\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": true
+  },
+  "clean-populated/publisher": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/publisher/.git/hooks/pre-push",
+    "exists": false,
+    "sha256": null,
+    "mode": null,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/publisher/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\publisher\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": false
+  },
+  "clean-populated/peer": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/peer/.git/hooks/pre-push",
+    "exists": false,
+    "sha256": null,
+    "mode": null,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/peer/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\peer\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": false
+  },
+  "clean-populated/linked": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/old-writer-a/.git/hooks/pre-push",
+    "exists": true,
+    "sha256": "fca3a12075647256a65f2d8e34ce6d76249a75704f7ba895c5a67369d9af9b1a",
+    "mode": 438,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/clean-populated/old-writer-a/.git/worktrees/old-writer-a-linked",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\old-writer-a\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": false
+  },
+  "retained-pending/target": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/target/.git/hooks/pre-push",
+    "exists": false,
+    "sha256": null,
+    "mode": null,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/target/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\target\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": true
+  },
+  "retained-pending/old-writer-a": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/old-writer-a/.git/hooks/pre-push",
+    "exists": true,
+    "sha256": "fca3a12075647256a65f2d8e34ce6d76249a75704f7ba895c5a67369d9af9b1a",
+    "mode": 438,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/old-writer-a/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\old-writer-a\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": true
+  },
+  "retained-pending/old-writer-b": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/old-writer-b/.git/hooks/pre-push",
+    "exists": true,
+    "sha256": "7058a3b6dc8c80449791b6e20ddeab850fe90268bf44ec1979edd4d8972343c6",
+    "mode": 438,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/old-writer-b/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\old-writer-b\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": true
+  },
+  "retained-pending/publisher": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/publisher/.git/hooks/pre-push",
+    "exists": false,
+    "sha256": null,
+    "mode": null,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/publisher/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\publisher\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": false
+  },
+  "retained-pending/peer": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/peer/.git/hooks/pre-push",
+    "exists": false,
+    "sha256": null,
+    "mode": null,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/retained-pending/peer/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\peer\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": false
+  },
+  "unknown-unupgraded/target": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/target/.git/hooks/pre-push",
+    "exists": false,
+    "sha256": null,
+    "mode": null,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/target/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\target\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": true
+  },
+  "unknown-unupgraded/old-writer-a": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/old-writer-a/.git/hooks/pre-push",
+    "exists": true,
+    "sha256": "fca3a12075647256a65f2d8e34ce6d76249a75704f7ba895c5a67369d9af9b1a",
+    "mode": 438,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/old-writer-a/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\old-writer-a\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": true
+  },
+  "unknown-unupgraded/old-writer-b": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/old-writer-b/.git/hooks/pre-push",
+    "exists": true,
+    "sha256": "7058a3b6dc8c80449791b6e20ddeab850fe90268bf44ec1979edd4d8972343c6",
+    "mode": 438,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/old-writer-b/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\old-writer-b\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": true
+  },
+  "unknown-unupgraded/publisher": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/publisher/.git/hooks/pre-push",
+    "exists": false,
+    "sha256": null,
+    "mode": null,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/publisher/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\publisher\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": false
+  },
+  "unknown-unupgraded/peer": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/peer/.git/hooks/pre-push",
+    "exists": false,
+    "sha256": null,
+    "mode": null,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/peer/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\peer\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": false
+  },
+  "unknown-unupgraded/unupgraded-old-writer": {
+    "configured_hooksPath": null,
+    "effective_pre_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/unupgraded-old-writer/.git/hooks/pre-push",
+    "exists": true,
+    "sha256": "fb2af6a6aa7a511c43f78fb048e16f72e78b87130edbfa70e676eee89d7a38fa",
+    "mode": 438,
+    "git_dir": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/unupgraded-old-writer/.git",
+    "git_common_dir": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\unupgraded-old-writer\\.git",
+    "common_fence_marker_absent": true,
+    "native_bd_used": true
+  }
+}

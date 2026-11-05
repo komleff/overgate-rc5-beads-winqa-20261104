@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "git",
+    "status",
+    "--porcelain=v1",
+    "-z"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\target",
+  "exit_code": 0,
+  "seconds": 0.039,
+  "stdout": "?? .bd-intents/\u0000",
+  "stderr": "",
+  "stdout_sha256": "2189d3265ba1ffe51036a4668d01eb2287164d42a8cb7f4ae6c0c62f65d74da4",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

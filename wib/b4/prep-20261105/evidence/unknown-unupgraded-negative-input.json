@@ -1,0 +1,7 @@
+{
+  "opaque_receipt": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\target\\.git\\bd-receipts\\opaque-unknown.json",
+  "receipt_sha256": "930bf689726828c14f03316ad4daf4ecc5ba8b17989b956ca9e4ef8f9d5431ed",
+  "unupgraded_old_writer": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\unupgraded-old-writer",
+  "candidate_upgraded": false,
+  "expected": "stop unknown receipt/unupgraded enumerated writer before switch; exact candidate API not selected"
+}

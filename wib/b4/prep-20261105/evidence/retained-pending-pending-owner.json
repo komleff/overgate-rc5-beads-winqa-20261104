@@ -1,0 +1,8 @@
+{
+  "path": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\retained-pending\\target\\.bd-intents\\b4-retained.raw.jsonl",
+  "sha256": "991836bcea17bfb657850f504f03b24e73499a9d9a241e62e2b4c0560c876795",
+  "owner": "agent-51b42476-dd76-4f85-94a8-5dd27d3742e1",
+  "status": "unprepared raw intent; ownership metadata is external test input; reviewed adoption still required",
+  "candidate_prepared": false,
+  "replayed": false
+}

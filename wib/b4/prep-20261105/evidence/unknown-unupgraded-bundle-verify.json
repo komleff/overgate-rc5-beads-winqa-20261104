@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "git",
+    "bundle",
+    "verify",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\evidence\\unknown-unupgraded-legacy.bundle"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\real.git",
+  "exit_code": 0,
+  "stdout": "The bundle contains these 2 refs:\n9fc388d80ededf26710876478142391885e0e956 refs/heads/main\n61afeb6156b641dd3bb6225ea72d902319cf5331 refs/heads/beads-backup\nThe bundle records a complete history.\nThe bundle uses this hash algorithm: sha1\n",
+  "stderr": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/evidence/unknown-unupgraded-legacy.bundle is okay\n"
+}

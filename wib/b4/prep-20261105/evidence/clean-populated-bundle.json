@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "git",
+    "bundle",
+    "create",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\evidence\\clean-populated-legacy.bundle",
+    "refs/heads/main",
+    "refs/heads/beads-backup"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\clean-populated\\real.git",
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": ""
+}

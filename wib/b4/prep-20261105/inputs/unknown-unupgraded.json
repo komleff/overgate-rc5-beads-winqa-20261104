@@ -1,0 +1,26 @@
+{
+  "case": "unknown-unupgraded",
+  "baseline_only": true,
+  "runtime_source_sha": null,
+  "real_R": "61afeb6156b641dd3bb6225ea72d902319cf5331",
+  "attacker_R": null,
+  "known_legacy_capable_store_roots": [
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\target",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\old-writer-a",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\old-writer-b"
+  ],
+  "authorized_old_writer_clones": [
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\old-writer-a",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b4-prep-winqa-20261105\\cases\\unknown-unupgraded\\old-writer-b"
+  ],
+  "target_store_in_inventory": true,
+  "positive_enumeration_must_cover_target_store_as_well": true,
+  "push_divergence_negative": {
+    "fetch": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/real.git",
+    "future_push": "D:/CodexArtifacts/overgate-rc5-wib-b4-prep-winqa-20261105/cases/unknown-unupgraded/attacker.git",
+    "status": "prepared locator only, not configured"
+  },
+  "linked_marker_only_negative": null,
+  "hook_modes": "NTFS does not provide POSIX executable-bit disable semantics; byte/mode/read-only inventory captured",
+  "unknown_negative": true
+}

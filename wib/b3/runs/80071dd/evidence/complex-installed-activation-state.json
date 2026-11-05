@@ -1,0 +1,36 @@
+{
+  "source": "80071dd6edad740645d8388e3e5f589ad299458e",
+  "target": "ac03a2a32bd6a739864f9a750efdd7c743879584",
+  "literal_root": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\cases\\Проект's (QA) space",
+  "invocation": [
+    "bash",
+    "scripts/bd-activate.sh",
+    "--publisher-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-80071dd-winqa-20261105/cases/Проект's (QA) space/publisher",
+    "--peer-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-80071dd-winqa-20261105/cases/Проект's (QA) space/peer",
+    "--bd-bin",
+    "D:/CodexArtifacts/overgate-rc4-winqa-20261103/tools/bd.exe",
+    "--prefix",
+    "wibqa",
+    "--actor",
+    "agent-bda878c2-ad17-40ae-a339-2594a4f7965f",
+    "--title",
+    "Windows B3 complex-path synthetic actual task",
+    "--work-dir",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-80071dd-winqa-20261105/activation-work/complex"
+  ],
+  "exit_code": 2,
+  "refs": {
+    "real": "refs/heads/main ac03a2a32bd6a739864f9a750efdd7c743879584\n",
+    "attacker": "refs/heads/main ac03a2a32bd6a739864f9a750efdd7c743879584\n",
+    "peer": "refs/heads/main ac03a2a32bd6a739864f9a750efdd7c743879584\nrefs/remotes/origin/HEAD ac03a2a32bd6a739864f9a750efdd7c743879584\nrefs/remotes/origin/main ac03a2a32bd6a739864f9a750efdd7c743879584\n"
+  },
+  "work_files": {},
+  "local_DB_present": {
+    "primary": false,
+    "publisher": false,
+    "peer": false
+  },
+  "before_after_equal": true
+}

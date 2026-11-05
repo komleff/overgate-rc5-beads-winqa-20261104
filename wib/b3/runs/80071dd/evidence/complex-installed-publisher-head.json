@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "HEAD"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\cases\\Проект's (QA) space\\publisher",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.02,
+  "stdout": "ac03a2a32bd6a739864f9a750efdd7c743879584\n",
+  "stderr": "",
+  "stdout_sha256": "7749e4de314930b3d4ed11d893a87c93b0bc00a8829bed906147fa86c8d457e3",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

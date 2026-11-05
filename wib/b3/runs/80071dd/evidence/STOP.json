@@ -1,0 +1,5 @@
+{
+  "source": "80071dd6edad740645d8388e3e5f589ad299458e",
+  "error": "first actual product FAIL: complex-installed activation RC2 C:\\Python314\\python.exe: can't open file \"D:\\\\d\\\\CodexArtifacts\\\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\\\cases\\\\������'s (QA) space\\\\primary\\\\scripts\\\\bd-activate.py\": [Errno 2] No such file or directory\r\n",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\common.py\", line 33, in guard\n    try:main()\n        ~~~~^^\n  File \"D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\complex_first.py\", line 12, in main\n    raise AssertionError('first actual product FAIL: '+n+' activation RC'+str(q.returncode)+' '+q.stderr.decode('utf-8','replace'))\nAssertionError: first actual product FAIL: complex-installed activation RC2 C:\\Python314\\python.exe: can't open file \"D:\\\\d\\\\CodexArtifacts\\\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\\\cases\\\\������'s (QA) space\\\\primary\\\\scripts\\\\bd-activate.py\": [Errno 2] No such file or directory\r\n\n"
+}

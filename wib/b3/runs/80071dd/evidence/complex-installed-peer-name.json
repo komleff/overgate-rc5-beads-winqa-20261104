@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "git",
+    "config",
+    "user.name",
+    "Windows B3 QA peer"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\cases\\Проект's (QA) space\\peer",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "",
+  "stderr": "",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,20 @@
+{
+  "argv": [
+    "git",
+    "clone",
+    "--no-hardlinks",
+    "-c",
+    "core.autocrlf=false",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-80071dd-winqa-20261105/cases/Проект's (QA) space/real.git",
+    "D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\cases\\Проект's (QA) space\\primary"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.089,
+  "stdout": "",
+  "stderr": "Cloning into 'D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\cases\\Проект's (QA) space\\primary'...\ndone.\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "c844c499ab2b68fe7b85d5f06c414da009a5c524d7fa195f8387310fc0ce6cd6"
+}

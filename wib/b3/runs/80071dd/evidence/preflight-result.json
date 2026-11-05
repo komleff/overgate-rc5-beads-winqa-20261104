@@ -1,0 +1,9 @@
+{
+  "source": "80071dd6edad740645d8388e3e5f589ad299458e",
+  "fingerprint": "6bacf87521b7d3ee33c944b12ce13cbac8a702158261043b240b2714c4924d0d",
+  "frozen_slots_verified": 7,
+  "standalone_clones_verified": 21,
+  "drift": false,
+  "task_refs_local_DB_queue_control": "absent",
+  "native_bd_sha256": "b1f3609fea1d9f0f19b2ed49098b3628acfa6ca115aa28b01a1ee178c3a214de"
+}

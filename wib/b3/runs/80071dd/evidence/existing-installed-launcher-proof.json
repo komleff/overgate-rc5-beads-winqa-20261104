@@ -1,0 +1,22 @@
+{
+  "source": "80071dd6edad740645d8388e3e5f589ad299458e",
+  "actual_primary": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\cases\\Проект's (QA) space\\primary",
+  "files": {
+    "scripts/bd-activate.sh": {
+      "installed_exists": true,
+      "installed_sha256": "7637945b43e57fe99f5c7967bb9b83c2353b2c40009b549e2fa1478be50ec654",
+      "source_sha256": "7637945b43e57fe99f5c7967bb9b83c2353b2c40009b549e2fa1478be50ec654"
+    },
+    "scripts/bd-activate.py": {
+      "installed_exists": true,
+      "installed_sha256": "9d1f1d7afe95ed8b94621ea52458ecdbb6a130efa506e26a97abdc39d15e9ad8",
+      "source_sha256": "9d1f1d7afe95ed8b94621ea52458ecdbb6a130efa506e26a97abdc39d15e9ad8"
+    },
+    ".claude/tools/run-python.sh": {
+      "installed_exists": true,
+      "installed_sha256": "9c66b06e59f15a990ae3f5e39f98867ad0877c5a60be0f099bac6c2a19a50f74",
+      "source_sha256": "9c66b06e59f15a990ae3f5e39f98867ad0877c5a60be0f099bac6c2a19a50f74"
+    }
+  },
+  "inference": "bd-activate shell supplies -I -B before absolute MSYS script path; run-python normalizes only argument1, which is -I; raw native RC2 shows D:/d path, although actual file exists. No replay or source modification."
+}

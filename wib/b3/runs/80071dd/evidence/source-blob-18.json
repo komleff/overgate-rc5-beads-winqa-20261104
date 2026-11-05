@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "80071dd6edad740645d8388e3e5f589ad299458e:scripts/tests/install-distribution.test.py"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.022,
+  "stdout": "b917a156317a51775a7a29547ea467c146df829f\n",
+  "stderr": "",
+  "stdout_sha256": "3fd298588c3500ee6da2c0be292d2f9dac51ac6141259824c6851ee889cf5197",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

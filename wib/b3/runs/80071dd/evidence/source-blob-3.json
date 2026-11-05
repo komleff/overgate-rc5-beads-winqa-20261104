@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "git",
+    "rev-parse",
+    "80071dd6edad740645d8388e3e5f589ad299458e:.agents/distribution-manifest.json"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\source",
+  "env_overrides": {},
+  "exit_code": 0,
+  "expected": 0,
+  "seconds": 0.023,
+  "stdout": "2653fa2c4bf87f55f5ef4213f5719c7b7fed31fe\n",
+  "stderr": "",
+  "stdout_sha256": "b676e5dfd4a30bd7644990e3edb888e8898e2c01133ebcdcd195044ea8706bc4",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

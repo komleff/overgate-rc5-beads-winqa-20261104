@@ -1,0 +1,29 @@
+{
+  "argv": [
+    "C:/Program Files/Git/bin/bash.exe",
+    "scripts/bd-activate.sh",
+    "--publisher-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-80071dd-winqa-20261105/cases/Проект's (QA) space/publisher",
+    "--peer-root",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-80071dd-winqa-20261105/cases/Проект's (QA) space/peer",
+    "--bd-bin",
+    "D:/CodexArtifacts/overgate-rc4-winqa-20261103/tools/bd.exe",
+    "--prefix",
+    "wibqa",
+    "--actor",
+    "agent-bda878c2-ad17-40ae-a339-2594a4f7965f",
+    "--title",
+    "Windows B3 complex-path synthetic actual task",
+    "--work-dir",
+    "D:/CodexArtifacts/overgate-rc5-wib-b3-80071dd-winqa-20261105/activation-work/complex"
+  ],
+  "cwd": "D:\\CodexArtifacts\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\cases\\Проект's (QA) space\\primary",
+  "env_overrides": {},
+  "exit_code": 2,
+  "expected": null,
+  "seconds": 0.166,
+  "stdout": "",
+  "stderr": "C:\\Python314\\python.exe: can't open file \"D:\\\\d\\\\CodexArtifacts\\\\overgate-rc5-wib-b3-80071dd-winqa-20261105\\\\cases\\\\Проект's (QA) space\\\\primary\\\\scripts\\\\bd-activate.py\": [Errno 2] No such file or directory\r\n",
+  "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stderr_sha256": "9282fff085998c459d59a3874a5d1aaa878accc6fa6d0c56e55472dfad483742"
+}
